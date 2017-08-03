@@ -23114,106 +23114,6 @@ NV,Pershing,President,,,None of these candidates,56
 NV,Storey,President,,,None of these candidates,75
 NV,Washoe,President,,,None of these candidates,7069
 NV,White Pine,President,,,None of these candidates,138
-NH,Belknap,President,,R,Donald J. Trump,19315
-NH,Carroll,President,,R,Donald J. Trump,14635
-NH,Cheshire,President,,R,Donald J. Trump,16876
-NH,Coos,President,,R,Donald J. Trump,7952
-NH,Grafton,President,,R,Donald J. Trump,19010
-NH,Hillsborough,President,,R,Donald J. Trump,100013
-NH,Merrimack,President,,R,Donald J. Trump,37674
-NH,Rockingham ,President,,R,Donald J. Trump,90447
-NH,Strafford,President,,R,Donald J. Trump,29072
-NH,Sullivan,President,,R,Donald J. Trump,10796
-NH,Belknap,President,,D,Hillary Clinton,13517
-NH,Carroll,President,,D,Hillary Clinton,12987
-NH,Cheshire,President,,D,Hillary Clinton,22064
-NH,Coos,President,,D,Hillary Clinton,6563
-NH,Grafton,President,,D,Hillary Clinton,28510
-NH,Hillsborough,President,,D,Hillary Clinton,99589
-NH,Merrimack,President,,D,Hillary Clinton,40198
-NH,Rockingham ,President,,D,Hillary Clinton,79994
-NH,Strafford,President,,D,Hillary Clinton,34894
-NH,Sullivan,President,,D,Hillary Clinton,10210
-NH,Belknap,President,,G,Jill Stein,296
-NH,Carroll,President,,G,Jill Stein,275
-NH,Cheshire,President,,G,Jill Stein,484
-NH,Coos,President,,G,Jill Stein,170
-NH,Grafton,President,,G,Jill Stein,578
-NH,Hillsborough,President,,G,Jill Stein,1752
-NH,Merrimack,President,,G,Jill Stein,753
-NH,Rockingham ,President,,G,Jill Stein,1256
-NH,Strafford,President,,G,Jill Stein,694
-NH,Sullivan,President,,G,Jill Stein,238
-NH,Belknap,President,,ADP,Rocky De La Fuente,35
-NH,Carroll,President,,ADP,Rocky De La Fuente,20
-NH,Cheshire,President,,ADP,Rocky De La Fuente,41
-NH,Coos,President,,ADP,Rocky De La Fuente,23
-NH,Grafton,President,,ADP,Rocky De La Fuente,50
-NH,Hillsborough,President,,ADP,Rocky De La Fuente,222
-NH,Merrimack,President,,ADP,Rocky De La Fuente,61
-NH,Rockingham ,President,,ADP,Rocky De La Fuente,136
-NH,Strafford,President,,ADP,Rocky De La Fuente,62
-NH,Sullivan,President,,ADP,Rocky De La Fuente,28
-NH,Belknap,President,,LIB,Gary Johnson,1395
-NH,Carroll,President,,LIB,Gary Johnson,1185
-NH,Cheshire,President,,LIB,Gary Johnson,1656
-NH,Coos,President,,LIB,Gary Johnson,576
-NH,Grafton,President,,LIB,Gary Johnson,1967
-NH,Hillsborough,President,,LIB,Gary Johnson,9170
-NH,Merrimack,President,,LIB,Gary Johnson,3378
-NH,Rockingham ,President,,LIB,Gary Johnson,7335
-NH,Strafford,President,,LIB,Gary Johnson,3258
-NH,Sullivan,President,,LIB,Gary Johnson,857
-NH,Belknap,President,,,John Kasich,46
-NH,Carroll,President,,,John Kasich,65
-NH,Cheshire,President,,,John Kasich,63
-NH,Coos,President,,,John Kasich,26
-NH,Grafton,President,,,John Kasich,97
-NH,Hillsborough,President,,,John Kasich,389
-NH,Merrimack,President,,,John Kasich,224
-NH,Rockingham ,President,,,John Kasich,274
-NH,Strafford,President,,,John Kasich,90
-NH,Sullivan,President,,,John Kasich,91
-NH,Belknap,President,,,Evan McMullin,36
-NH,Carroll,President,,,Evan McMullin,34
-NH,Cheshire,President,,,Evan McMullin,64
-NH,Coos,President,,,Evan McMullin,9
-NH,Grafton,President,,,Evan McMullin,95
-NH,Hillsborough,President,,,Evan McMullin,361
-NH,Merrimack,President,,,Evan McMullin,140
-NH,Rockingham ,President,,,Evan McMullin,152
-NH,Strafford,President,,,Evan McMullin,126
-NH,Sullivan,President,,,Evan McMullin,47
-NH,Belknap,President,,,Bernie Sanders,201
-NH,Carroll,President,,,Bernie Sanders,164
-NH,Cheshire,President,,,Bernie Sanders,392
-NH,Coos,President,,,Bernie Sanders,208
-NH,Grafton,President,,,Bernie Sanders,511
-NH,Hillsborough,President,,,Bernie Sanders,1093
-NH,Merrimack,President,,,Bernie Sanders,593
-NH,Rockingham ,President,,,Bernie Sanders,603
-NH,Strafford,President,,,Bernie Sanders,421
-NH,Sullivan,President,,,Bernie Sanders,307
-NH,Belknap,President,,,Mike Pence,44
-NH,Carroll,President,,,Mike Pence,46
-NH,Cheshire,President,,,Mike Pence,38
-NH,Coos,President,,,Mike Pence,7
-NH,Grafton,President,,,Mike Pence,58
-NH,Hillsborough,President,,,Mike Pence,291
-NH,Merrimack,President,,,Mike Pence,150
-NH,Rockingham ,President,,,Mike Pence,208
-NH,Strafford,President,,,Mike Pence,72
-NH,Sullivan,President,,,Mike Pence,23
-NH,Belknap,President,,,Scattered,160
-NH,Carroll,President,,,Scattered,205
-NH,Cheshire,President,,,Scattered,217
-NH,Coos,President,,,Scattered,93
-NH,Grafton,President,,,Scattered,315
-NH,Hillsborough,President,,,Scattered,1277
-NH,Merrimack,President,,,Scattered,477
-NH,Rockingham ,President,,,Scattered,1029
-NH,Strafford,President,,,Scattered,311
-NH,Sullivan,President,,,Scattered,86
 NC,ALAMANCE,President,,REP,Donald J. Trump,38815
 NC,ALEXANDER,President,,REP,Donald J. Trump,13893
 NC,ALLEGHANY,President,,REP,Donald J. Trump,3814
@@ -41767,3 +41667,1983 @@ SD,Walworth,President,,,Total,2477
 SD,Yankton,President,,,Total,9616
 SD,Ziebach,President,,,Total,766
 SD,TOTAL,President,,,Total,370047
+NH,Albany,President,,R,Donald J. Trump,182
+NH,Bartlett,President,,R,Donald J. Trump,730
+NH,Brookfield,President,,R,Donald J. Trump,262
+NH,Chatham,President,,R,Donald J. Trump,103
+NH,Conway,President,,R,Donald J. Trump,2204
+NH,Eaton,President,,R,Donald J. Trump,109
+NH,Effingham,President,,R,Donald J. Trump,481
+NH,Freedom,President,,R,Donald J. Trump,476
+NH,Hale's Location,President,,R,Donald J. Trump,97
+NH,Hart's Location,President,,R,Donald J. Trump,14
+NH,Jackson,President,,R,Donald J. Trump,212
+NH,Madison,President,,R,Donald J. Trump,654
+NH,Moultonborough,President,,R,Donald J. Trump,1888
+NH,Ossipee,President,,R,Donald J. Trump,1294
+NH,Sandwich,President,,R,Donald J. Trump,360
+NH,Tamworth,President,,R,Donald J. Trump,761
+NH,Tuftonboro,President,,R,Donald J. Trump,891
+NH,Wakefield,President,,R,Donald J. Trump,1741
+NH,Wolfeboro,President,,R,Donald J. Trump,2176
+NH,Carroll County,President,,R,Donald J. Trump,14635
+NH,Alstead,President,,R,Donald J. Trump,444
+NH,Chesterfield,President,,R,Donald J. Trump,910
+NH,Dublin,President,,R,Donald J. Trump,370
+NH,Fitzwilliam,President,,R,Donald J. Trump,623
+NH,Gilsum,President,,R,Donald J. Trump,231
+NH,Harrisville,President,,R,Donald J. Trump,202
+NH,Hinsdale,President,,R,Donald J. Trump,733
+NH,Jaffrey,President,,R,Donald J. Trump,1284
+NH,Keene Ward 1,President,,R,Donald J. Trump,640
+NH,Keene Ward 2,President,,R,Donald J. Trump,692
+NH,Keene Ward 3,President,,R,Donald J. Trump,736
+NH,Keene Ward 4,President,,R,Donald J. Trump,791
+NH,Keene Ward 5,President,,R,Donald J. Trump,972
+NH,Marlborough,President,,R,Donald J. Trump,408
+NH,Marlow,President,,R,Donald J. Trump,200
+NH,Nelson,President,,R,Donald J. Trump,138
+NH,Richmond,President,,R,Donald J. Trump,357
+NH,Rindge,President,,R,Donald J. Trump,1961
+NH,Roxbury,President,,R,Donald J. Trump,58
+NH,Stoddard,President,,R,Donald J. Trump,378
+NH,Sullivan,President,,R,Donald J. Trump,172
+NH,Surry,President,,R,Donald J. Trump,244
+NH,Swanzey,President,,R,Donald J. Trump,1828
+NH,Troy,President,,R,Donald J. Trump,509
+NH,Walpole,President,,R,Donald J. Trump,755
+NH,Westmoreland,President,,R,Donald J. Trump,411
+NH,Winchester,President,,R,Donald J. Trump,829
+NH,Cheshire County,President,,R,Donald J. Trump,16876
+NH,At. & Gil. Academy Grant,President,,R,Donald J. Trump,
+NH,Bean's Grant,President,,R,Donald J. Trump,
+NH,Bean's Purchase,President,,R,Donald J. Trump,
+NH,Berlin,President,,R,Donald J. Trump,1766
+NH,Cambridge,President,,R,Donald J. Trump,1
+NH,Carroll,President,,R,Donald J. Trump,245
+NH,Chandler's Purchase,President,,R,Donald J. Trump,
+NH,Clarksville,President,,R,Donald J. Trump,95
+NH,Colebrook,President,,R,Donald J. Trump,593
+NH,Columbia,President,,R,Donald J. Trump,219
+NH,Crawford's Purchase,President,,R,Donald J. Trump,
+NH,Cutt's Grant,President,,R,Donald J. Trump,
+NH,Dalton,President,,R,Donald J. Trump,280
+NH,Dix's Grant,President,,R,Donald J. Trump,
+NH,Dixville,President,,R,Donald J. Trump,2
+NH,Dummer,President,,R,Donald J. Trump,99
+NH,Errol,President,,R,Donald J. Trump,135
+NH,Erving's Location,President,,R,Donald J. Trump,
+NH,Gorham,President,,R,Donald J. Trump,693
+NH,Green's Grant,President,,R,Donald J. Trump,
+NH,Hadley's Purchase,President,,R,Donald J. Trump,
+NH,Jefferson,President,,R,Donald J. Trump,357
+NH,Kilkenny,President,,R,Donald J. Trump,
+NH,Lancaster,President,,R,Donald J. Trump,841
+NH,Low & Burbank's Grant,President,,R,Donald J. Trump,
+NH,Martin's Location,President,,R,Donald J. Trump,
+NH,Milan,President,,R,Donald J. Trump,414
+NH,Millsfield,President,,R,Donald J. Trump,16
+NH,Northumberland,President,,R,Donald J. Trump,539
+NH,Odell,President,,R,Donald J. Trump,
+NH,Pinkham's Grant,President,,R,Donald J. Trump,
+NH,Pittsburg,President,,R,Donald J. Trump,343
+NH,Randolph,President,,R,Donald J. Trump,79
+NH,Sargent's Purchase,President,,R,Donald J. Trump,
+NH,Second College Grant,President,,R,Donald J. Trump,
+NH,Shelburne,President,,R,Donald J. Trump,116
+NH,Stark,President,,R,Donald J. Trump,186
+NH,Stewartstown,President,,R,Donald J. Trump,231
+NH,Stratford,President,,R,Donald J. Trump,126
+NH,Success,President,,R,Donald J. Trump,
+NH,Thompson & Meserve's Pur.,President,,R,Donald J. Trump,
+NH,Wentworth's Location,President,,R,Donald J. Trump,13
+NH,Whitefield,President,,R,Donald J. Trump,563
+NH,Coos County,President,,R,Donald J. Trump,7952
+NH,Alexandria,President,,R,Donald J. Trump,546
+NH,Ashland,President,,R,Donald J. Trump,520
+NH,Bath,President,,R,Donald J. Trump,292
+NH,Benton,President,,R,Donald J. Trump,105
+NH,Bethlehem,President,,R,Donald J. Trump,573
+NH,Bridgewater,President,,R,Donald J. Trump,423
+NH,Bristol,President,,R,Donald J. Trump,900
+NH,Campton,President,,R,Donald J. Trump,870
+NH,Canaan,President,,R,Donald J. Trump,850
+NH,Dorchester,President,,R,Donald J. Trump,136
+NH,Easton,President,,R,Donald J. Trump,65
+NH,Ellsworth,President,,R,Donald J. Trump,24
+NH,Enfield,President,,R,Donald J. Trump,931
+NH,Franconia,President,,R,Donald J. Trump,233
+NH,Grafton,President,,R,Donald J. Trump,397
+NH,Groton,President,,R,Donald J. Trump,196
+NH,Hanover,President,,R,Donald J. Trump,926
+NH,Haverhill,President,,R,Donald J. Trump,1186
+NH,Hebron,President,,R,Donald J. Trump,238
+NH,Holderness,President,,R,Donald J. Trump,546
+NH,Landaff,President,,R,Donald J. Trump,127
+NH,Lebanon Ward 1,President,,R,Donald J. Trump,578
+NH,Lebanon Ward 2,President,,R,Donald J. Trump,606
+NH,Lebanon Ward 3,President,,R,Donald J. Trump,657
+NH,Lincoln,President,,R,Donald J. Trump,367
+NH,Lisbon,President,,R,Donald J. Trump,395
+NH,Littleton,President,,R,Donald J. Trump,1436
+NH,Livermore,President,,R,Donald J. Trump,
+NH,Lyman,President,,R,Donald J. Trump,169
+NH,Lyme,President,,R,Donald J. Trump,232
+NH,Monroe,President,,R,Donald J. Trump,291
+NH,Orange,President,,R,Donald J. Trump,85
+NH,Orford,President,,R,Donald J. Trump,256
+NH,Piermont,President,,R,Donald J. Trump,175
+NH,Plymouth,President,,R,Donald J. Trump,1394
+NH,Rumney,President,,R,Donald J. Trump,457
+NH,Sugar Hill,President,,R,Donald J. Trump,159
+NH,Thornton,President,,R,Donald J. Trump,651
+NH,Warren,President,,R,Donald J. Trump,261
+NH,Waterville Valley,President,,R,Donald J. Trump,99
+NH,Wentworth  ,President,,R,Donald J. Trump,323
+NH,Woodstock,President,,R,Donald J. Trump,335
+NH,Grafton County,President,,R,Donald J. Trump,19010
+NH,Amherst,President,,R,Donald J. Trump,3271
+NH,Antrim,President,,R,Donald J. Trump,748
+NH,Bedford,President,,R,Donald J. Trump,6816
+NH,Bennington,President,,R,Donald J. Trump,422
+NH,Brookline,President,,R,Donald J. Trump,1501
+NH,Deering,President,,R,Donald J. Trump,586
+NH,Francestown,President,,R,Donald J. Trump,444
+NH,Goffstown,President,,R,Donald J. Trump,5009
+NH,Greenfield,President,,R,Donald J. Trump,414
+NH,Greenville,President,,R,Donald J. Trump,493
+NH,Hancock,President,,R,Donald J. Trump,433
+NH,Hillsborough  ,President,,R,Donald J. Trump,1588
+NH,Hollis,President,,R,Donald J. Trump,2310
+NH,Hudson,President,,R,Donald J. Trump,7220
+NH,Litchfield,President,,R,Donald J. Trump,2720
+NH,Lyndeborough,President,,R,Donald J. Trump,503
+NH,Manchester Ward 1,President,,R,Donald J. Trump,2231
+NH,Manchester Ward 2,President,,R,Donald J. Trump,1976
+NH,Manchester Ward 3,President,,R,Donald J. Trump,983
+NH,Manchester Ward 4,President,,R,Donald J. Trump,1372
+NH,Manchester Ward 5*,President,,R,Donald J. Trump,1078
+NH,Manchester Ward 6,President,,R,Donald J. Trump,2493
+NH,Manchester Ward 7,President,,R,Donald J. Trump,1700
+NH,Manchester Ward 8,President,,R,Donald J. Trump,2633
+NH,Manchester Ward 9,President,,R,Donald J. Trump,1956
+NH,Manchester Ward 10,President,,R,Donald J. Trump,1844
+NH,Manchester Ward 11*,President,,R,Donald J. Trump,1378
+NH,Manchester Ward 12,President,,R,Donald J. Trump,1910
+NH,Mason,President,,R,Donald J. Trump,477
+NH,Merrimack,President,,R,Donald J. Trump,7397
+NH,Milford,President,,R,Donald J. Trump,3850
+NH,Mont Vernon,President,,R,Donald J. Trump,686
+NH,Nashua Ward 1 ,President,,R,Donald J. Trump,2487
+NH,Nashua Ward 2,President,,R,Donald J. Trump,1977
+NH,Nashua Ward 3,President,,R,Donald J. Trump,1769
+NH,Nashua Ward 4,President,,R,Donald J. Trump,1117
+NH,Nashua Ward 5,President,,R,Donald J. Trump,2573
+NH,Nashua Ward 6,President,,R,Donald J. Trump,1701
+NH,Nashua Ward 7,President,,R,Donald J. Trump,1692
+NH,Nashua Ward 8,President,,R,Donald J. Trump,2002
+NH,Nashua Ward 9,President,,R,Donald J. Trump,2158
+NH,New Boston,President,,R,Donald J. Trump,1792
+NH,New Ipswich,President,,R,Donald J. Trump,1894
+NH,Pelham,President,,R,Donald J. Trump,4624
+NH,Peterborough,President,,R,Donald J. Trump,1179
+NH,Sharon,President,,R,Donald J. Trump,94
+NH,Temple,President,,R,Donald J. Trump,400
+NH,Weare,President,,R,Donald J. Trump,2957
+NH,Wilton,President,,R,Donald J. Trump,1061
+NH,Windsor,President,,R,Donald J. Trump,94
+NH,Hillsborough County,President,,R,Donald J. Trump,100013
+NH,Allenstown,President,,R,Donald J. Trump,1203
+NH,Andover,President,,R,Donald J. Trump,673
+NH,Boscawen,President,,R,Donald J. Trump,929
+NH,Bow,President,,R,Donald J. Trump,2119
+NH,Bradford,President,,R,Donald J. Trump,485
+NH,Canterbury,President,,R,Donald J. Trump,671
+NH,Chichester,President,,R,Donald J. Trump,851
+NH,Concord Ward 1 ,President,,R,Donald J. Trump,939
+NH,Concord Ward 2,President,,R,Donald J. Trump,897
+NH,Concord Ward 3,President,,R,Donald J. Trump,538
+NH,Concord Ward 4,President,,R,Donald J. Trump,610
+NH,Concord Ward 5,President,,R,Donald J. Trump,674
+NH,Concord Ward 6,President,,R,Donald J. Trump,624
+NH,Concord Ward 7,President,,R,Donald J. Trump,801
+NH,Concord Ward 8,President,,R,Donald J. Trump,888
+NH,Concord Ward 9,President,,R,Donald J. Trump,721
+NH,Concord Ward 10,President,,R,Donald J. Trump,1120
+NH,Danbury,President,,R,Donald J. Trump,386
+NH,Dunbarton,President,,R,Donald J. Trump,1026
+NH,Epsom,President,,R,Donald J. Trump,1546
+NH,Franklin Ward 1,President,,R,Donald J. Trump,780
+NH,Franklin Ward 2,President,,R,Donald J. Trump,512
+NH,Franklin Ward 3,President,,R,Donald J. Trump,757
+NH,Henniker,President,,R,Donald J. Trump,1060
+NH,Hill,President,,R,Donald J. Trump,341
+NH,Hooksett,President,,R,Donald J. Trump,4225
+NH,Hopkinton,President,,R,Donald J. Trump,1427
+NH,Loudon,President,,R,Donald J. Trump,1950
+NH,New London,President,,R,Donald J. Trump,1101
+NH,Newbury,President,,R,Donald J. Trump,662
+NH,Northfield,President,,R,Donald J. Trump,1330
+NH,Pembroke,President,,R,Donald J. Trump,1919
+NH,Pittsfield,President,,R,Donald J. Trump,1125
+NH,Salisbury,President,,R,Donald J. Trump,490
+NH,Sutton,President,,R,Donald J. Trump,560
+NH,Warner,President,,R,Donald J. Trump,790
+NH,Webster,President,,R,Donald J. Trump,602
+NH,Wilmot,President,,R,Donald J. Trump,342
+NH,Merrimack County,President,,R,Donald J. Trump,37674
+NH,Atkinson,President,,R,Donald J. Trump,2595
+NH,Auburn,President,,R,Donald J. Trump,2031
+NH,Brentwood,President,,R,Donald J. Trump,1267
+NH,Candia,President,,R,Donald J. Trump,1553
+NH,Chester,President,,R,Donald J. Trump,1727
+NH,Danville,President,,R,Donald J. Trump,1580
+NH,Deerfield,President,,R,Donald J. Trump,1607
+NH,Derry,President,,R,Donald J. Trump,9237
+NH,East Kingston,President,,R,Donald J. Trump,830
+NH,Epping,President,,R,Donald J. Trump,2117
+NH,Exeter,President,,R,Donald J. Trump,3286
+NH,Fremont,President,,R,Donald J. Trump,1591
+NH,Greenland,President,,R,Donald J. Trump,1074
+NH,Hampstead,President,,R,Donald J. Trump,3186
+NH,Hampton  ,President,,R,Donald J. Trump,4802
+NH,Hampton Falls,President,,R,Donald J. Trump,822
+NH,Kensington,President,,R,Donald J. Trump,668
+NH,Kingston,President,,R,Donald J. Trump,2081
+NH,Londonderry,President,,R,Donald J. Trump,7338
+NH,New Castle,President,,R,Donald J. Trump,279
+NH,Newfields,President,,R,Donald J. Trump,474
+NH,Newington,President,,R,Donald J. Trump,292
+NH,Newmarket,President,,R,Donald J. Trump,1836
+NH,Newton,President,,R,Donald J. Trump,1593
+NH,North Hampton,President,,R,Donald J. Trump,1448
+NH,Northwood,President,,R,Donald J. Trump,1385
+NH,Nottingham,President,,R,Donald J. Trump,1511
+NH,Plaistow,President,,R,Donald J. Trump,2531
+NH,Portsmouth Ward 1,President,,R,Donald J. Trump,789
+NH,Portsmouth Ward 2,President,,R,Donald J. Trump,678
+NH,Portsmouth Ward 3,President,,R,Donald J. Trump,779
+NH,Portsmouth Ward 4,President,,R,Donald J. Trump,812
+NH,Portsmouth Ward 5,President,,R,Donald J. Trump,574
+NH,Raymond,President,,R,Donald J. Trump,3151
+NH,Rye,President,,R,Donald J. Trump,1579
+NH,Salem,President,,R,Donald J. Trump,9312
+NH,Sandown,President,,R,Donald J. Trump,2144
+NH,Seabrook,President,,R,Donald J. Trump,2743
+NH,South Hampton,President,,R,Donald J. Trump,315
+NH,Stratham,President,,R,Donald J. Trump,2005
+NH,Windham,President,,R,Donald J. Trump,4825
+NH,Rockingham County,President,,R,Donald J. Trump,90447
+NH,Barrington,President,,R,Donald J. Trump,2469
+NH,Dover Ward 1,President,,R,Donald J. Trump,733
+NH,Dover Ward 2,President,,R,Donald J. Trump,856
+NH,Dover Ward 3,President,,R,Donald J. Trump,1298
+NH,Dover Ward 4,President,,R,Donald J. Trump,1152
+NH,Dover Ward 5,President,,R,Donald J. Trump,951
+NH,Dover Ward 6,President,,R,Donald J. Trump,1025
+NH,Durham,President,,R,Donald J. Trump,2450
+NH,Farmington,President,,R,Donald J. Trump,1785
+NH,Lee,President,,R,Donald J. Trump,824
+NH,Madbury,President,,R,Donald J. Trump,422
+NH,Middleton,President,,R,Donald J. Trump,602
+NH,Milton,President,,R,Donald J. Trump,1339
+NH,New Durham,President,,R,Donald J. Trump,981
+NH,Rochester Ward 1,President,,R,Donald J. Trump,1407
+NH,Rochester Ward 2,President,,R,Donald J. Trump,1425
+NH,Rochester Ward 3,President,,R,Donald J. Trump,1370
+NH,Rochester Ward 4,President,,R,Donald J. Trump,1190
+NH,Rochester Ward 5,President,,R,Donald J. Trump,1388
+NH,Rochester Ward 6,President,,R,Donald J. Trump,1009
+NH,Rollinsford,President,,R,Donald J. Trump,711
+NH,Somersworth Ward 1,President,,R,Donald J. Trump,624
+NH,Somersworth Ward 2,President,,R,Donald J. Trump,488
+NH,Somersworth Ward 3,President,,R,Donald J. Trump,513
+NH,Somersworth Ward 4,President,,R,Donald J. Trump,437
+NH,Somersworth Ward 5,President,,R,Donald J. Trump,327
+NH,Strafford   ,President,,R,Donald J. Trump,1296
+NH,Strafford County,President,,R,Donald J. Trump,29072
+NH,Acworth,President,,R,Donald J. Trump,240
+NH,Charlestown,President,,R,Donald J. Trump,1159
+NH,Claremont Ward 1,President,,R,Donald J. Trump,715
+NH,Claremont Ward 2,President,,R,Donald J. Trump,1039
+NH,Claremont Ward 3,President,,R,Donald J. Trump,926
+NH,Cornish,President,,R,Donald J. Trump,400
+NH,Croydon,President,,R,Donald J. Trump,271
+NH,Goshen,President,,R,Donald J. Trump,260
+NH,Grantham,President,,R,Donald J. Trump,699
+NH,Langdon,President,,R,Donald J. Trump,197
+NH,Lempster,President,,R,Donald J. Trump,428
+NH,Newport ,President,,R,Donald J. Trump,1665
+NH,Plainfield,President,,R,Donald J. Trump,458
+NH,Springfield,President,,R,Donald J. Trump,422
+NH,Sunapee,President,,R,Donald J. Trump,1044
+NH,Unity,President,,R,Donald J. Trump,473
+NH,Washington,President,,R,Donald J. Trump,400
+NH,Sullivan County,President,,R,Donald J. Trump,10796
+NH,Alton,President,,R,Donald J. Trump,2201
+NH,Barnstead,President,,R,Donald J. Trump,1520
+NH,Belmont,President,,R,Donald J. Trump,2192
+NH,Center Harbor,President,,R,Donald J. Trump,357
+NH,Gilford,President,,R,Donald J. Trump,2504
+NH,Gilmanton,President,,R,Donald J. Trump,1333
+NH,Laconia Ward 1,President,,R,Donald J. Trump,868
+NH,Laconia Ward 2,President,,R,Donald J. Trump,612
+NH,Laconia Ward 3,President,,R,Donald J. Trump,604
+NH,Laconia Ward 4,President,,R,Donald J. Trump,632
+NH,Laconia Ward 5,President,,R,Donald J. Trump,561
+NH,Laconia Ward 6,President,,R,Donald J. Trump,1026
+NH,Meredith,President,,R,Donald J. Trump,2160
+NH,New Hampton,President,,R,Donald J. Trump,737
+NH,Sanbornton,President,,R,Donald J. Trump,1035
+NH,Tilton,President,,R,Donald J. Trump,973
+NH,Belknap County,President,,R,Donald J. Trump,19315
+NH,Albany,President,,D,Hillary Clinton,195
+NH,Bartlett,President,,D,Hillary Clinton,1094
+NH,Brookfield,President,,D,Hillary Clinton,156
+NH,Chatham,President,,D,Hillary Clinton,79
+NH,Conway,President,,D,Hillary Clinton,2717
+NH,Eaton,President,,D,Hillary Clinton,157
+NH,Effingham,President,,D,Hillary Clinton,317
+NH,Freedom,President,,D,Hillary Clinton,425
+NH,Hale's Location,President,,D,Hillary Clinton,26
+NH,Hart's Location,President,,D,Hillary Clinton,17
+NH,Jackson,President,,D,Hillary Clinton,430
+NH,Madison,President,,D,Hillary Clinton,721
+NH,Moultonborough,President,,D,Hillary Clinton,1148
+NH,Ossipee,President,,D,Hillary Clinton,770
+NH,Sandwich,President,,D,Hillary Clinton,578
+NH,Tamworth,President,,D,Hillary Clinton,739
+NH,Tuftonboro,President,,D,Hillary Clinton,674
+NH,Wakefield,President,,D,Hillary Clinton,873
+NH,Wolfeboro,President,,D,Hillary Clinton,1871
+NH,Carroll County,President,,D,Hillary Clinton,12987
+NH,Alstead,President,,D,Hillary Clinton,522
+NH,Chesterfield,President,,D,Hillary Clinton,1166
+NH,Dublin,President,,D,Hillary Clinton,598
+NH,Fitzwilliam,President,,D,Hillary Clinton,577
+NH,Gilsum,President,,D,Hillary Clinton,197
+NH,Harrisville,President,,D,Hillary Clinton,446
+NH,Hinsdale,President,,D,Hillary Clinton,917
+NH,Jaffrey,President,,D,Hillary Clinton,1311
+NH,Keene Ward 1,President,,D,Hillary Clinton,1462
+NH,Keene Ward 2,President,,D,Hillary Clinton,1648
+NH,Keene Ward 3,President,,D,Hillary Clinton,1424
+NH,Keene Ward 4,President,,D,Hillary Clinton,1581
+NH,Keene Ward 5,President,,D,Hillary Clinton,1817
+NH,Marlborough,President,,D,Hillary Clinton,711
+NH,Marlow,President,,D,Hillary Clinton,219
+NH,Nelson,President,,D,Hillary Clinton,259
+NH,Richmond,President,,D,Hillary Clinton,269
+NH,Rindge,President,,D,Hillary Clinton,1292
+NH,Roxbury,President,,D,Hillary Clinton,72
+NH,Stoddard,President,,D,Hillary Clinton,350
+NH,Sullivan,President,,D,Hillary Clinton,196
+NH,Surry,President,,D,Hillary Clinton,237
+NH,Swanzey,President,,D,Hillary Clinton,1807
+NH,Troy,President,,D,Hillary Clinton,422
+NH,Walpole,President,,D,Hillary Clinton,1169
+NH,Westmoreland,President,,D,Hillary Clinton,555
+NH,Winchester,President,,D,Hillary Clinton,840
+NH,Cheshire County,President,,D,Hillary Clinton,22064
+NH,At. & Gil. Academy Grant,President,,D,Hillary Clinton,
+NH,Bean's Grant,President,,D,Hillary Clinton,
+NH,Bean's Purchase,President,,D,Hillary Clinton,
+NH,Berlin,President,,D,Hillary Clinton,1954
+NH,Cambridge,President,,D,Hillary Clinton,1
+NH,Carroll,President,,D,Hillary Clinton,213
+NH,Chandler's Purchase,President,,D,Hillary Clinton,
+NH,Clarksville,President,,D,Hillary Clinton,68
+NH,Colebrook,President,,D,Hillary Clinton,359
+NH,Columbia,President,,D,Hillary Clinton,109
+NH,Crawford's Purchase,President,,D,Hillary Clinton,
+NH,Cutt's Grant,President,,D,Hillary Clinton,
+NH,Dalton,President,,D,Hillary Clinton,192
+NH,Dix's Grant,President,,D,Hillary Clinton,
+NH,Dixville,President,,D,Hillary Clinton,4
+NH,Dummer,President,,D,Hillary Clinton,65
+NH,Errol,President,,D,Hillary Clinton,54
+NH,Erving's Location,President,,D,Hillary Clinton,
+NH,Gorham,President,,D,Hillary Clinton,770
+NH,Green's Grant,President,,D,Hillary Clinton,1
+NH,Hadley's Purchase,President,,D,Hillary Clinton,
+NH,Jefferson,President,,D,Hillary Clinton,216
+NH,Kilkenny,President,,D,Hillary Clinton,
+NH,Lancaster,President,,D,Hillary Clinton,657
+NH,Low & Burbank's Grant,President,,D,Hillary Clinton,
+NH,Martin's Location,President,,D,Hillary Clinton,
+NH,Milan,President,,D,Hillary Clinton,298
+NH,Millsfield,President,,D,Hillary Clinton,4
+NH,Northumberland,President,,D,Hillary Clinton,387
+NH,Odell,President,,D,Hillary Clinton,
+NH,Pinkham's Grant,President,,D,Hillary Clinton,3
+NH,Pittsburg,President,,D,Hillary Clinton,121
+NH,Randolph,President,,D,Hillary Clinton,160
+NH,Sargent's Purchase,President,,D,Hillary Clinton,
+NH,Second College Grant,President,,D,Hillary Clinton,
+NH,Shelburne,President,,D,Hillary Clinton,125
+NH,Stark,President,,D,Hillary Clinton,98
+NH,Stewartstown,President,,D,Hillary Clinton,95
+NH,Stratford,President,,D,Hillary Clinton,132
+NH,Success,President,,D,Hillary Clinton,
+NH,Thompson & Meserve's Pur.,President,,D,Hillary Clinton,
+NH,Wentworth's Location,President,,D,Hillary Clinton,5
+NH,Whitefield,President,,D,Hillary Clinton,472
+NH,Coos County,President,,D,Hillary Clinton,6563
+NH,Alexandria,President,,D,Hillary Clinton,343
+NH,Ashland,President,,D,Hillary Clinton,504
+NH,Bath,President,,D,Hillary Clinton,211
+NH,Benton,President,,D,Hillary Clinton,72
+NH,Bethlehem,President,,D,Hillary Clinton,796
+NH,Bridgewater,President,,D,Hillary Clinton,267
+NH,Bristol,President,,D,Hillary Clinton,626
+NH,Campton,President,,D,Hillary Clinton,890
+NH,Canaan,President,,D,Hillary Clinton,938
+NH,Dorchester,President,,D,Hillary Clinton,51
+NH,Easton,President,,D,Hillary Clinton,118
+NH,Ellsworth,President,,D,Hillary Clinton,26
+NH,Enfield,President,,D,Hillary Clinton,1445
+NH,Franconia,President,,D,Hillary Clinton,483
+NH,Grafton,President,,D,Hillary Clinton,267
+NH,Groton,President,,D,Hillary Clinton,112
+NH,Hanover,President,,D,Hillary Clinton,6561
+NH,Haverhill,President,,D,Hillary Clinton,785
+NH,Hebron,President,,D,Hillary Clinton,175
+NH,Holderness,President,,D,Hillary Clinton,704
+NH,Landaff,President,,D,Hillary Clinton,105
+NH,Lebanon Ward 1,President,,D,Hillary Clinton,1670
+NH,Lebanon Ward 2,President,,D,Hillary Clinton,1542
+NH,Lebanon Ward 3,President,,D,Hillary Clinton,1686
+NH,Lincoln,President,,D,Hillary Clinton,408
+NH,Lisbon,President,,D,Hillary Clinton,262
+NH,Littleton,President,,D,Hillary Clinton,1241
+NH,Livermore,President,,D,Hillary Clinton,
+NH,Lyman,President,,D,Hillary Clinton,126
+NH,Lyme,President,,D,Hillary Clinton,890
+NH,Monroe,President,,D,Hillary Clinton,173
+NH,Orange,President,,D,Hillary Clinton,73
+NH,Orford,President,,D,Hillary Clinton,417
+NH,Piermont,President,,D,Hillary Clinton,179
+NH,Plymouth,President,,D,Hillary Clinton,2143
+NH,Rumney,President,,D,Hillary Clinton,365
+NH,Sugar Hill,President,,D,Hillary Clinton,237
+NH,Thornton,President,,D,Hillary Clinton,736
+NH,Warren,President,,D,Hillary Clinton,180
+NH,Waterville Valley,President,,D,Hillary Clinton,150
+NH,Wentworth  ,President,,D,Hillary Clinton,175
+NH,Woodstock,President,,D,Hillary Clinton,378
+NH,Grafton County,President,,D,Hillary Clinton,28510
+NH,Amherst,President,,D,Hillary Clinton,3777
+NH,Antrim,President,,D,Hillary Clinton,668
+NH,Bedford,President,,D,Hillary Clinton,5851
+NH,Bennington,President,,D,Hillary Clinton,327
+NH,Brookline,President,,D,Hillary Clinton,1417
+NH,Deering,President,,D,Hillary Clinton,383
+NH,Francestown,President,,D,Hillary Clinton,471
+NH,Goffstown,President,,D,Hillary Clinton,4146
+NH,Greenfield,President,,D,Hillary Clinton,433
+NH,Greenville,President,,D,Hillary Clinton,379
+NH,Hancock,President,,D,Hillary Clinton,713
+NH,Hillsborough  ,President,,D,Hillary Clinton,1198
+NH,Hollis,President,,D,Hillary Clinton,2529
+NH,Hudson,President,,D,Hillary Clinton,5306
+NH,Litchfield,President,,D,Hillary Clinton,1923
+NH,Lyndeborough,President,,D,Hillary Clinton,470
+NH,Manchester Ward 1,President,,D,Hillary Clinton,2988
+NH,Manchester Ward 2,President,,D,Hillary Clinton,2461
+NH,Manchester Ward 3,President,,D,Hillary Clinton,1834
+NH,Manchester Ward 4,President,,D,Hillary Clinton,1875
+NH,Manchester Ward 5*,President,,D,Hillary Clinton,1571
+NH,Manchester Ward 6,President,,D,Hillary Clinton,2220
+NH,Manchester Ward 7,President,,D,Hillary Clinton,1962
+NH,Manchester Ward 8,President,,D,Hillary Clinton,2144
+NH,Manchester Ward 9,President,,D,Hillary Clinton,2052
+NH,Manchester Ward 10,President,,D,Hillary Clinton,1990
+NH,Manchester Ward 11*,President,,D,Hillary Clinton,1695
+NH,Manchester Ward 12,President,,D,Hillary Clinton,2149
+NH,Mason,President,,D,Hillary Clinton,306
+NH,Merrimack,President,,D,Hillary Clinton,6405
+NH,Milford,President,,D,Hillary Clinton,3816
+NH,Mont Vernon,President,,D,Hillary Clinton,757
+NH,Nashua Ward 1 ,President,,D,Hillary Clinton,2946
+NH,Nashua Ward 2,President,,D,Hillary Clinton,2483
+NH,Nashua Ward 3,President,,D,Hillary Clinton,2482
+NH,Nashua Ward 4,President,,D,Hillary Clinton,2077
+NH,Nashua Ward 5,President,,D,Hillary Clinton,2752
+NH,Nashua Ward 6,President,,D,Hillary Clinton,2307
+NH,Nashua Ward 7,President,,D,Hillary Clinton,2171
+NH,Nashua Ward 8,President,,D,Hillary Clinton,2688
+NH,Nashua Ward 9,President,,D,Hillary Clinton,2784
+NH,New Boston,President,,D,Hillary Clinton,1381
+NH,New Ipswich,President,,D,Hillary Clinton,769
+NH,Pelham,President,,D,Hillary Clinton,2719
+NH,Peterborough,President,,D,Hillary Clinton,2487
+NH,Sharon,President,,D,Hillary Clinton,132
+NH,Temple,President,,D,Hillary Clinton,405
+NH,Weare,President,,D,Hillary Clinton,1734
+NH,Wilton,President,,D,Hillary Clinton,1028
+NH,Windsor,President,,D,Hillary Clinton,28
+NH,Hillsborough County,President,,D,Hillary Clinton,99589
+NH,Allenstown,President,,D,Hillary Clinton,874
+NH,Andover,President,,D,Hillary Clinton,703
+NH,Boscawen,President,,D,Hillary Clinton,833
+NH,Bow,President,,D,Hillary Clinton,2570
+NH,Bradford,President,,D,Hillary Clinton,442
+NH,Canterbury,President,,D,Hillary Clinton,815
+NH,Chichester,President,,D,Hillary Clinton,646
+NH,Concord Ward 1 ,President,,D,Hillary Clinton,1266
+NH,Concord Ward 2,President,,D,Hillary Clinton,1084
+NH,Concord Ward 3,President,,D,Hillary Clinton,923
+NH,Concord Ward 4,President,,D,Hillary Clinton,1334
+NH,Concord Ward 5,President,,D,Hillary Clinton,1789
+NH,Concord Ward 6,President,,D,Hillary Clinton,1137
+NH,Concord Ward 7,President,,D,Hillary Clinton,1675
+NH,Concord Ward 8,President,,D,Hillary Clinton,1069
+NH,Concord Ward 9,President,,D,Hillary Clinton,1136
+NH,Concord Ward 10,President,,D,Hillary Clinton,1571
+NH,Danbury,President,,D,Hillary Clinton,247
+NH,Dunbarton,President,,D,Hillary Clinton,681
+NH,Epsom,President,,D,Hillary Clinton,919
+NH,Franklin Ward 1,President,,D,Hillary Clinton,479
+NH,Franklin Ward 2,President,,D,Hillary Clinton,391
+NH,Franklin Ward 3,President,,D,Hillary Clinton,617
+NH,Henniker,President,,D,Hillary Clinton,1429
+NH,Hill,President,,D,Hillary Clinton,176
+NH,Hooksett,President,,D,Hillary Clinton,3436
+NH,Hopkinton,President,,D,Hillary Clinton,2240
+NH,Loudon,President,,D,Hillary Clinton,1136
+NH,New London,President,,D,Hillary Clinton,1807
+NH,Newbury,President,,D,Hillary Clinton,621
+NH,Northfield,President,,D,Hillary Clinton,884
+NH,Pembroke,President,,D,Hillary Clinton,1810
+NH,Pittsfield,President,,D,Hillary Clinton,691
+NH,Salisbury,President,,D,Hillary Clinton,288
+NH,Sutton,President,,D,Hillary Clinton,607
+NH,Warner,President,,D,Hillary Clinton,874
+NH,Webster,President,,D,Hillary Clinton,499
+NH,Wilmot,President,,D,Hillary Clinton,499
+NH,Merrimack County,President,,D,Hillary Clinton,40198
+NH,Atkinson,President,,D,Hillary Clinton,1671
+NH,Auburn,President,,D,Hillary Clinton,1307
+NH,Brentwood,President,,D,Hillary Clinton,1145
+NH,Candia,President,,D,Hillary Clinton,855
+NH,Chester,President,,D,Hillary Clinton,1092
+NH,Danville,President,,D,Hillary Clinton,860
+NH,Deerfield,President,,D,Hillary Clinton,1091
+NH,Derry,President,,D,Hillary Clinton,6825
+NH,East Kingston,President,,D,Hillary Clinton,608
+NH,Epping,President,,D,Hillary Clinton,1625
+NH,Exeter,President,,D,Hillary Clinton,5514
+NH,Fremont,President,,D,Hillary Clinton,965
+NH,Greenland,President,,D,Hillary Clinton,1396
+NH,Hampstead,President,,D,Hillary Clinton,1966
+NH,Hampton  ,President,,D,Hillary Clinton,4953
+NH,Hampton Falls,President,,D,Hillary Clinton,672
+NH,Kensington,President,,D,Hillary Clinton,642
+NH,Kingston,President,,D,Hillary Clinton,1422
+NH,Londonderry,President,,D,Hillary Clinton,5968
+NH,New Castle,President,,D,Hillary Clinton,481
+NH,Newfields,President,,D,Hillary Clinton,603
+NH,Newington,President,,D,Hillary Clinton,271
+NH,Newmarket,President,,D,Hillary Clinton,3157
+NH,Newton,President,,D,Hillary Clinton,991
+NH,North Hampton,President,,D,Hillary Clinton,1562
+NH,Northwood,President,,D,Hillary Clinton,1056
+NH,Nottingham,President,,D,Hillary Clinton,1365
+NH,Plaistow,President,,D,Hillary Clinton,1672
+NH,Portsmouth Ward 1,President,,D,Hillary Clinton,1839
+NH,Portsmouth Ward 2,President,,D,Hillary Clinton,2296
+NH,Portsmouth Ward 3,President,,D,Hillary Clinton,1528
+NH,Portsmouth Ward 4,President,,D,Hillary Clinton,1374
+NH,Portsmouth Ward 5,President,,D,Hillary Clinton,1874
+NH,Raymond,President,,D,Hillary Clinton,1921
+NH,Rye,President,,D,Hillary Clinton,2211
+NH,Salem,President,,D,Hillary Clinton,6068
+NH,Sandown,President,,D,Hillary Clinton,1207
+NH,Seabrook,President,,D,Hillary Clinton,1595
+NH,South Hampton,President,,D,Hillary Clinton,246
+NH,Stratham,President,,D,Hillary Clinton,2593
+NH,Windham,President,,D,Hillary Clinton,3507
+NH,Rockingham County,President,,D,Hillary Clinton,79994
+NH,Barrington,President,,D,Hillary Clinton,2375
+NH,Dover Ward 1,President,,D,Hillary Clinton,1863
+NH,Dover Ward 2,President,,D,Hillary Clinton,1903
+NH,Dover Ward 3,President,,D,Hillary Clinton,1960
+NH,Dover Ward 4,President,,D,Hillary Clinton,1763
+NH,Dover Ward 5,President,,D,Hillary Clinton,1381
+NH,Dover Ward 6,President,,D,Hillary Clinton,1248
+NH,Durham,President,,D,Hillary Clinton,6501
+NH,Farmington,President,,D,Hillary Clinton,1127
+NH,Lee,President,,D,Hillary Clinton,1630
+NH,Madbury,President,,D,Hillary Clinton,632
+NH,Middleton,President,,D,Hillary Clinton,289
+NH,Milton,President,,D,Hillary Clinton,847
+NH,New Durham,President,,D,Hillary Clinton,578
+NH,Rochester Ward 1,President,,D,Hillary Clinton,1071
+NH,Rochester Ward 2,President,,D,Hillary Clinton,1150
+NH,Rochester Ward 3,President,,D,Hillary Clinton,1017
+NH,Rochester Ward 4,President,,D,Hillary Clinton,1048
+NH,Rochester Ward 5,President,,D,Hillary Clinton,1034
+NH,Rochester Ward 6,President,,D,Hillary Clinton,947
+NH,Rollinsford,President,,D,Hillary Clinton,769
+NH,Somersworth Ward 1,President,,D,Hillary Clinton,683
+NH,Somersworth Ward 2,President,,D,Hillary Clinton,523
+NH,Somersworth Ward 3,President,,D,Hillary Clinton,500
+NH,Somersworth Ward 4,President,,D,Hillary Clinton,533
+NH,Somersworth Ward 5,President,,D,Hillary Clinton,404
+NH,Strafford   ,President,,D,Hillary Clinton,1118
+NH,Strafford County,President,,D,Hillary Clinton,34894
+NH,Acworth,President,,D,Hillary Clinton,274
+NH,Charlestown,President,,D,Hillary Clinton,1041
+NH,Claremont Ward 1,President,,D,Hillary Clinton,716
+NH,Claremont Ward 2,President,,D,Hillary Clinton,974
+NH,Claremont Ward 3,President,,D,Hillary Clinton,839
+NH,Cornish,President,,D,Hillary Clinton,570
+NH,Croydon,President,,D,Hillary Clinton,126
+NH,Goshen,President,,D,Hillary Clinton,153
+NH,Grantham,President,,D,Hillary Clinton,1265
+NH,Langdon,President,,D,Hillary Clinton,184
+NH,Lempster,President,,D,Hillary Clinton,226
+NH,Newport ,President,,D,Hillary Clinton,1085
+NH,Plainfield,President,,D,Hillary Clinton,957
+NH,Springfield,President,,D,Hillary Clinton,344
+NH,Sunapee,President,,D,Hillary Clinton,928
+NH,Unity,President,,D,Hillary Clinton,281
+NH,Washington,President,,D,Hillary Clinton,247
+NH,Sullivan County,President,,D,Hillary Clinton,10210
+NH,Alton,President,,D,Hillary Clinton,1152
+NH,Barnstead,President,,D,Hillary Clinton,924
+NH,Belmont,President,,D,Hillary Clinton,1272
+NH,Center Harbor,President,,D,Hillary Clinton,324
+NH,Gilford,President,,D,Hillary Clinton,1973
+NH,Gilmanton,President,,D,Hillary Clinton,788
+NH,Laconia Ward 1,President,,D,Hillary Clinton,621
+NH,Laconia Ward 2,President,,D,Hillary Clinton,469
+NH,Laconia Ward 3,President,,D,Hillary Clinton,637
+NH,Laconia Ward 4,President,,D,Hillary Clinton,490
+NH,Laconia Ward 5,President,,D,Hillary Clinton,416
+NH,Laconia Ward 6,President,,D,Hillary Clinton,670
+NH,Meredith,President,,D,Hillary Clinton,1709
+NH,New Hampton,President,,D,Hillary Clinton,544
+NH,Sanbornton,President,,D,Hillary Clinton,748
+NH,Tilton,President,,D,Hillary Clinton,780
+NH,Belknap County,President,,D,Hillary Clinton,13517
+NH,Albany,President,,G,Jill Stein,7
+NH,Bartlett,President,,G,Jill Stein,21
+NH,Brookfield,President,,G,Jill Stein,3
+NH,Chatham,President,,G,Jill Stein,3
+NH,Conway,President,,G,Jill Stein,57
+NH,Eaton,President,,G,Jill Stein,2
+NH,Effingham,President,,G,Jill Stein,6
+NH,Freedom,President,,G,Jill Stein,14
+NH,Hale's Location,President,,G,Jill Stein,
+NH,Hart's Location,President,,G,Jill Stein,
+NH,Jackson,President,,G,Jill Stein,5
+NH,Madison,President,,G,Jill Stein,13
+NH,Moultonborough,President,,G,Jill Stein,16
+NH,Ossipee,President,,G,Jill Stein,18
+NH,Sandwich,President,,G,Jill Stein,13
+NH,Tamworth,President,,G,Jill Stein,24
+NH,Tuftonboro,President,,G,Jill Stein,17
+NH,Wakefield,President,,G,Jill Stein,20
+NH,Wolfeboro,President,,G,Jill Stein,36
+NH,Carroll County,President,,G,Jill Stein,275
+NH,Alstead,President,,G,Jill Stein,20
+NH,Chesterfield,President,,G,Jill Stein,11
+NH,Dublin,President,,G,Jill Stein,6
+NH,Fitzwilliam,President,,G,Jill Stein,
+NH,Gilsum,President,,G,Jill Stein,9
+NH,Harrisville,President,,G,Jill Stein,7
+NH,Hinsdale,President,,G,Jill Stein,21
+NH,Jaffrey,President,,G,Jill Stein,39
+NH,Keene Ward 1,President,,G,Jill Stein,46
+NH,Keene Ward 2,President,,G,Jill Stein,40
+NH,Keene Ward 3,President,,G,Jill Stein,32
+NH,Keene Ward 4,President,,G,Jill Stein,42
+NH,Keene Ward 5,President,,G,Jill Stein,38
+NH,Marlborough,President,,G,Jill Stein,10
+NH,Marlow,President,,G,Jill Stein,2
+NH,Nelson,President,,G,Jill Stein,9
+NH,Richmond,President,,G,Jill Stein,5
+NH,Rindge,President,,G,Jill Stein,24
+NH,Roxbury,President,,G,Jill Stein,3
+NH,Stoddard,President,,G,Jill Stein,8
+NH,Sullivan,President,,G,Jill Stein,3
+NH,Surry,President,,G,Jill Stein,4
+NH,Swanzey,President,,G,Jill Stein,34
+NH,Troy,President,,G,Jill Stein,8
+NH,Walpole,President,,G,Jill Stein,27
+NH,Westmoreland,President,,G,Jill Stein,11
+NH,Winchester,President,,G,Jill Stein,25
+NH,Cheshire County,President,,G,Jill Stein,484
+NH,At. & Gil. Academy Grant,President,,G,Jill Stein,
+NH,Bean's Grant,President,,G,Jill Stein,
+NH,Bean's Purchase,President,,G,Jill Stein,
+NH,Berlin,President,,G,Jill Stein,34
+NH,Cambridge,President,,G,Jill Stein,
+NH,Carroll,President,,G,Jill Stein,6
+NH,Chandler's Purchase,President,,G,Jill Stein,
+NH,Clarksville,President,,G,Jill Stein,4
+NH,Colebrook,President,,G,Jill Stein,13
+NH,Columbia,President,,G,Jill Stein,2
+NH,Crawford's Purchase,President,,G,Jill Stein,
+NH,Cutt's Grant,President,,G,Jill Stein,
+NH,Dalton,President,,G,Jill Stein,5
+NH,Dix's Grant,President,,G,Jill Stein,
+NH,Dixville,President,,G,Jill Stein,
+NH,Dummer,President,,G,Jill Stein,2
+NH,Errol,President,,G,Jill Stein,
+NH,Erving's Location,President,,G,Jill Stein,
+NH,Gorham,President,,G,Jill Stein,11
+NH,Green's Grant,President,,G,Jill Stein,
+NH,Hadley's Purchase,President,,G,Jill Stein,
+NH,Jefferson,President,,G,Jill Stein,5
+NH,Kilkenny,President,,G,Jill Stein,
+NH,Lancaster,President,,G,Jill Stein,23
+NH,Low & Burbank's Grant,President,,G,Jill Stein,
+NH,Martin's Location,President,,G,Jill Stein,
+NH,Milan,President,,G,Jill Stein,8
+NH,Millsfield,President,,G,Jill Stein,
+NH,Northumberland,President,,G,Jill Stein,18
+NH,Odell,President,,G,Jill Stein,
+NH,Pinkham's Grant,President,,G,Jill Stein,
+NH,Pittsburg,President,,G,Jill Stein,3
+NH,Randolph,President,,G,Jill Stein,2
+NH,Sargent's Purchase,President,,G,Jill Stein,
+NH,Second College Grant,President,,G,Jill Stein,
+NH,Shelburne,President,,G,Jill Stein,
+NH,Stark,President,,G,Jill Stein,3
+NH,Stewartstown,President,,G,Jill Stein,4
+NH,Stratford,President,,G,Jill Stein,3
+NH,Success,President,,G,Jill Stein,
+NH,Thompson & Meserve's Pur.,President,,G,Jill Stein,
+NH,Wentworth's Location,President,,G,Jill Stein,
+NH,Whitefield,President,,G,Jill Stein,24
+NH,Coos County,President,,G,Jill Stein,170
+NH,Alexandria,President,,G,Jill Stein,10
+NH,Ashland,President,,G,Jill Stein,11
+NH,Bath,President,,G,Jill Stein,5
+NH,Benton,President,,G,Jill Stein,5
+NH,Bethlehem,President,,G,Jill Stein,24
+NH,Bridgewater,President,,G,Jill Stein,4
+NH,Bristol,President,,G,Jill Stein,21
+NH,Campton,President,,G,Jill Stein,20
+NH,Canaan,President,,G,Jill Stein,26
+NH,Dorchester,President,,G,Jill Stein,12
+NH,Easton,President,,G,Jill Stein,3
+NH,Ellsworth,President,,G,Jill Stein,2
+NH,Enfield,President,,G,Jill Stein,25
+NH,Franconia,President,,G,Jill Stein,9
+NH,Grafton,President,,G,Jill Stein,8
+NH,Groton,President,,G,Jill Stein,2
+NH,Hanover,President,,G,Jill Stein,50
+NH,Haverhill,President,,G,Jill Stein,21
+NH,Hebron,President,,G,Jill Stein,2
+NH,Holderness,President,,G,Jill Stein,9
+NH,Landaff,President,,G,Jill Stein,1
+NH,Lebanon Ward 1,President,,G,Jill Stein,27
+NH,Lebanon Ward 2,President,,G,Jill Stein,40
+NH,Lebanon Ward 3,President,,G,Jill Stein,39
+NH,Lincoln,President,,G,Jill Stein,13
+NH,Lisbon,President,,G,Jill Stein,6
+NH,Littleton,President,,G,Jill Stein,36
+NH,Livermore,President,,G,Jill Stein,
+NH,Lyman,President,,G,Jill Stein,4
+NH,Lyme,President,,G,Jill Stein,11
+NH,Monroe,President,,G,Jill Stein,5
+NH,Orange,President,,G,Jill Stein,2
+NH,Orford,President,,G,Jill Stein,14
+NH,Piermont,President,,G,Jill Stein,3
+NH,Plymouth,President,,G,Jill Stein,58
+NH,Rumney,President,,G,Jill Stein,12
+NH,Sugar Hill,President,,G,Jill Stein,10
+NH,Thornton,President,,G,Jill Stein,14
+NH,Warren,President,,G,Jill Stein,5
+NH,Waterville Valley,President,,G,Jill Stein,1
+NH,Wentworth  ,President,,G,Jill Stein,5
+NH,Woodstock,President,,G,Jill Stein,3
+NH,Grafton County,President,,G,Jill Stein,578
+NH,Amherst,President,,G,Jill Stein,47
+NH,Antrim,President,,G,Jill Stein,13
+NH,Bedford,President,,G,Jill Stein,58
+NH,Bennington,President,,G,Jill Stein,8
+NH,Brookline,President,,G,Jill Stein,32
+NH,Deering,President,,G,Jill Stein,10
+NH,Francestown,President,,G,Jill Stein,20
+NH,Goffstown,President,,G,Jill Stein,57
+NH,Greenfield,President,,G,Jill Stein,13
+NH,Greenville,President,,G,Jill Stein,11
+NH,Hancock,President,,G,Jill Stein,6
+NH,Hillsborough  ,President,,G,Jill Stein,25
+NH,Hollis,President,,G,Jill Stein,47
+NH,Hudson,President,,G,Jill Stein,96
+NH,Litchfield,President,,G,Jill Stein,36
+NH,Lyndeborough,President,,G,Jill Stein,14
+NH,Manchester Ward 1,President,,G,Jill Stein,39
+NH,Manchester Ward 2,President,,G,Jill Stein,46
+NH,Manchester Ward 3,President,,G,Jill Stein,33
+NH,Manchester Ward 4,President,,G,Jill Stein,47
+NH,Manchester Ward 5*,President,,G,Jill Stein,38
+NH,Manchester Ward 6,President,,G,Jill Stein,32
+NH,Manchester Ward 7,President,,G,Jill Stein,39
+NH,Manchester Ward 8,President,,G,Jill Stein,35
+NH,Manchester Ward 9,President,,G,Jill Stein,32
+NH,Manchester Ward 10,President,,G,Jill Stein,28
+NH,Manchester Ward 11*,President,,G,Jill Stein,40
+NH,Manchester Ward 12,President,,G,Jill Stein,45
+NH,Mason,President,,G,Jill Stein,6
+NH,Merrimack,President,,G,Jill Stein,103
+NH,Milford,President,,G,Jill Stein,73
+NH,Mont Vernon,President,,G,Jill Stein,12
+NH,Nashua Ward 1 ,President,,G,Jill Stein,47
+NH,Nashua Ward 2,President,,G,Jill Stein,33
+NH,Nashua Ward 3,President,,G,Jill Stein,41
+NH,Nashua Ward 4,President,,G,Jill Stein,30
+NH,Nashua Ward 5,President,,G,Jill Stein,49
+NH,Nashua Ward 6,President,,G,Jill Stein,40
+NH,Nashua Ward 7,President,,G,Jill Stein,31
+NH,Nashua Ward 8,President,,G,Jill Stein,41
+NH,Nashua Ward 9,President,,G,Jill Stein,38
+NH,New Boston,President,,G,Jill Stein,23
+NH,New Ipswich,President,,G,Jill Stein,14
+NH,Pelham,President,,G,Jill Stein,52
+NH,Peterborough,President,,G,Jill Stein,55
+NH,Sharon,President,,G,Jill Stein,4
+NH,Temple,President,,G,Jill Stein,16
+NH,Weare,President,,G,Jill Stein,62
+NH,Wilton,President,,G,Jill Stein,34
+NH,Windsor,President,,G,Jill Stein,1
+NH,Hillsborough County,President,,G,Jill Stein,1752
+NH,Allenstown,President,,G,Jill Stein,17
+NH,Andover,President,,G,Jill Stein,7
+NH,Boscawen,President,,G,Jill Stein,16
+NH,Bow,President,,G,Jill Stein,28
+NH,Bradford,President,,G,Jill Stein,15
+NH,Canterbury,President,,G,Jill Stein,20
+NH,Chichester,President,,G,Jill Stein,7
+NH,Concord Ward 1 ,President,,G,Jill Stein,37
+NH,Concord Ward 2,President,,G,Jill Stein,24
+NH,Concord Ward 3,President,,G,Jill Stein,14
+NH,Concord Ward 4,President,,G,Jill Stein,28
+NH,Concord Ward 5,President,,G,Jill Stein,22
+NH,Concord Ward 6,President,,G,Jill Stein,32
+NH,Concord Ward 7,President,,G,Jill Stein,37
+NH,Concord Ward 8,President,,G,Jill Stein,18
+NH,Concord Ward 9,President,,G,Jill Stein,15
+NH,Concord Ward 10,President,,G,Jill Stein,17
+NH,Danbury,President,,G,Jill Stein,16
+NH,Dunbarton,President,,G,Jill Stein,9
+NH,Epsom,President,,G,Jill Stein,21
+NH,Franklin Ward 1,President,,G,Jill Stein,8
+NH,Franklin Ward 2,President,,G,Jill Stein,17
+NH,Franklin Ward 3,President,,G,Jill Stein,15
+NH,Henniker,President,,G,Jill Stein,38
+NH,Hill,President,,G,Jill Stein,5
+NH,Hooksett,President,,G,Jill Stein,53
+NH,Hopkinton,President,,G,Jill Stein,38
+NH,Loudon,President,,G,Jill Stein,12
+NH,New London,President,,G,Jill Stein,24
+NH,Newbury,President,,G,Jill Stein,5
+NH,Northfield,President,,G,Jill Stein,29
+NH,Pembroke,President,,G,Jill Stein,33
+NH,Pittsfield,President,,G,Jill Stein,19
+NH,Salisbury,President,,G,Jill Stein,9
+NH,Sutton,President,,G,Jill Stein,13
+NH,Warner,President,,G,Jill Stein,31
+NH,Webster,President,,G,Jill Stein,3
+NH,Wilmot,President,,G,Jill Stein,1
+NH,Merrimack County,President,,G,Jill Stein,753
+NH,Atkinson,President,,G,Jill Stein,31
+NH,Auburn,President,,G,Jill Stein,22
+NH,Brentwood,President,,G,Jill Stein,19
+NH,Candia,President,,G,Jill Stein,15
+NH,Chester,President,,G,Jill Stein,13
+NH,Danville,President,,G,Jill Stein,20
+NH,Deerfield,President,,G,Jill Stein,14
+NH,Derry,President,,G,Jill Stein,123
+NH,East Kingston,President,,G,Jill Stein,9
+NH,Epping,President,,G,Jill Stein,35
+NH,Exeter,President,,G,Jill Stein,72
+NH,Fremont,President,,G,Jill Stein,14
+NH,Greenland,President,,G,Jill Stein,13
+NH,Hampstead,President,,G,Jill Stein,42
+NH,Hampton  ,President,,G,Jill Stein,68
+NH,Hampton Falls,President,,G,Jill Stein,9
+NH,Kensington,President,,G,Jill Stein,11
+NH,Kingston,President,,G,Jill Stein,31
+NH,Londonderry,President,,G,Jill Stein,81
+NH,New Castle,President,,G,Jill Stein,6
+NH,Newfields,President,,G,Jill Stein,11
+NH,Newington,President,,G,Jill Stein,4
+NH,Newmarket,President,,G,Jill Stein,70
+NH,Newton,President,,G,Jill Stein,15
+NH,North Hampton,President,,G,Jill Stein,23
+NH,Northwood,President,,G,Jill Stein,12
+NH,Nottingham,President,,G,Jill Stein,30
+NH,Plaistow,President,,G,Jill Stein,39
+NH,Portsmouth Ward 1,President,,G,Jill Stein,28
+NH,Portsmouth Ward 2,President,,G,Jill Stein,31
+NH,Portsmouth Ward 3,President,,G,Jill Stein,11
+NH,Portsmouth Ward 4,President,,G,Jill Stein,23
+NH,Portsmouth Ward 5,President,,G,Jill Stein,19
+NH,Raymond,President,,G,Jill Stein,49
+NH,Rye,President,,G,Jill Stein,24
+NH,Salem,President,,G,Jill Stein,92
+NH,Sandown,President,,G,Jill Stein,23
+NH,Seabrook,President,,G,Jill Stein,19
+NH,South Hampton,President,,G,Jill Stein,3
+NH,Stratham,President,,G,Jill Stein,36
+NH,Windham,President,,G,Jill Stein,46
+NH,Rockingham County,President,,G,Jill Stein,1256
+NH,Barrington,President,,G,Jill Stein,65
+NH,Dover Ward 1,President,,G,Jill Stein,49
+NH,Dover Ward 2,President,,G,Jill Stein,43
+NH,Dover Ward 3,President,,G,Jill Stein,29
+NH,Dover Ward 4,President,,G,Jill Stein,22
+NH,Dover Ward 5,President,,G,Jill Stein,29
+NH,Dover Ward 6,President,,G,Jill Stein,11
+NH,Durham,President,,G,Jill Stein,119
+NH,Farmington,President,,G,Jill Stein,30
+NH,Lee,President,,G,Jill Stein,33
+NH,Madbury,President,,G,Jill Stein,10
+NH,Middleton,President,,G,Jill Stein,5
+NH,Milton,President,,G,Jill Stein,20
+NH,New Durham,President,,G,Jill Stein,13
+NH,Rochester Ward 1,President,,G,Jill Stein,21
+NH,Rochester Ward 2,President,,G,Jill Stein,15
+NH,Rochester Ward 3,President,,G,Jill Stein,27
+NH,Rochester Ward 4,President,,G,Jill Stein,25
+NH,Rochester Ward 5,President,,G,Jill Stein,13
+NH,Rochester Ward 6,President,,G,Jill Stein,25
+NH,Rollinsford,President,,G,Jill Stein,18
+NH,Somersworth Ward 1,President,,G,Jill Stein,11
+NH,Somersworth Ward 2,President,,G,Jill Stein,16
+NH,Somersworth Ward 3,President,,G,Jill Stein,7
+NH,Somersworth Ward 4,President,,G,Jill Stein,10
+NH,Somersworth Ward 5,President,,G,Jill Stein,15
+NH,Strafford   ,President,,G,Jill Stein,13
+NH,Strafford County,President,,G,Jill Stein,694
+NH,Acworth,President,,G,Jill Stein,17
+NH,Charlestown,President,,G,Jill Stein,20
+NH,Claremont Ward 1,President,,G,Jill Stein,23
+NH,Claremont Ward 2,President,,G,Jill Stein,28
+NH,Claremont Ward 3,President,,G,Jill Stein,14
+NH,Cornish,President,,G,Jill Stein,7
+NH,Croydon,President,,G,Jill Stein,4
+NH,Goshen,President,,G,Jill Stein,8
+NH,Grantham,President,,G,Jill Stein,16
+NH,Langdon,President,,G,Jill Stein,1
+NH,Lempster,President,,G,Jill Stein,10
+NH,Newport ,President,,G,Jill Stein,25
+NH,Plainfield,President,,G,Jill Stein,12
+NH,Springfield,President,,G,Jill Stein,7
+NH,Sunapee,President,,G,Jill Stein,23
+NH,Unity,President,,G,Jill Stein,13
+NH,Washington,President,,G,Jill Stein,10
+NH,Sullivan County,President,,G,Jill Stein,238
+NH,Alton,President,,G,Jill Stein,24
+NH,Barnstead,President,,G,Jill Stein,20
+NH,Belmont,President,,G,Jill Stein,28
+NH,Center Harbor,President,,G,Jill Stein,8
+NH,Gilford,President,,G,Jill Stein,31
+NH,Gilmanton,President,,G,Jill Stein,21
+NH,Laconia Ward 1,President,,G,Jill Stein,9
+NH,Laconia Ward 2,President,,G,Jill Stein,7
+NH,Laconia Ward 3,President,,G,Jill Stein,12
+NH,Laconia Ward 4,President,,G,Jill Stein,19
+NH,Laconia Ward 5,President,,G,Jill Stein,11
+NH,Laconia Ward 6,President,,G,Jill Stein,14
+NH,Meredith,President,,G,Jill Stein,29
+NH,New Hampton,President,,G,Jill Stein,10
+NH,Sanbornton,President,,G,Jill Stein,34
+NH,Tilton,President,,G,Jill Stein,19
+NH,Belknap County,President,,G,Jill Stein,296
+NH,Albany,President,,AD,Rocky De La Fuente,2
+NH,Bartlett,President,,AD,Rocky De La Fuente,
+NH,Brookfield,President,,AD,Rocky De La Fuente,1
+NH,Chatham,President,,AD,Rocky De La Fuente,
+NH,Conway,President,,AD,Rocky De La Fuente,2
+NH,Eaton,President,,AD,Rocky De La Fuente,
+NH,Effingham,President,,AD,Rocky De La Fuente,
+NH,Freedom,President,,AD,Rocky De La Fuente,1
+NH,Hale's Location,President,,AD,Rocky De La Fuente,
+NH,Hart's Location,President,,AD,Rocky De La Fuente,
+NH,Jackson,President,,AD,Rocky De La Fuente,
+NH,Madison,President,,AD,Rocky De La Fuente,5
+NH,Moultonborough,President,,AD,Rocky De La Fuente,
+NH,Ossipee,President,,AD,Rocky De La Fuente,2
+NH,Sandwich,President,,AD,Rocky De La Fuente,1
+NH,Tamworth,President,,AD,Rocky De La Fuente,2
+NH,Tuftonboro,President,,AD,Rocky De La Fuente,
+NH,Wakefield,President,,AD,Rocky De La Fuente,
+NH,Wolfeboro,President,,AD,Rocky De La Fuente,4
+NH,Carroll County,President,,AD,Rocky De La Fuente,20
+NH,Alstead,President,,AD,Rocky De La Fuente,1
+NH,Chesterfield,President,,AD,Rocky De La Fuente,3
+NH,Dublin,President,,AD,Rocky De La Fuente,2
+NH,Fitzwilliam,President,,AD,Rocky De La Fuente,
+NH,Gilsum,President,,AD,Rocky De La Fuente,
+NH,Harrisville,President,,AD,Rocky De La Fuente,1
+NH,Hinsdale,President,,AD,Rocky De La Fuente,4
+NH,Jaffrey,President,,AD,Rocky De La Fuente,5
+NH,Keene Ward 1,President,,AD,Rocky De La Fuente,3
+NH,Keene Ward 2,President,,AD,Rocky De La Fuente,4
+NH,Keene Ward 3,President,,AD,Rocky De La Fuente,1
+NH,Keene Ward 4,President,,AD,Rocky De La Fuente,
+NH,Keene Ward 5,President,,AD,Rocky De La Fuente,2
+NH,Marlborough,President,,AD,Rocky De La Fuente,2
+NH,Marlow,President,,AD,Rocky De La Fuente,1
+NH,Nelson,President,,AD,Rocky De La Fuente,
+NH,Richmond,President,,AD,Rocky De La Fuente,
+NH,Rindge,President,,AD,Rocky De La Fuente,4
+NH,Roxbury,President,,AD,Rocky De La Fuente,
+NH,Stoddard,President,,AD,Rocky De La Fuente,1
+NH,Sullivan,President,,AD,Rocky De La Fuente,
+NH,Surry,President,,AD,Rocky De La Fuente,
+NH,Swanzey,President,,AD,Rocky De La Fuente,3
+NH,Troy,President,,AD,Rocky De La Fuente,
+NH,Walpole,President,,AD,Rocky De La Fuente,3
+NH,Westmoreland,President,,AD,Rocky De La Fuente,1
+NH,Winchester,President,,AD,Rocky De La Fuente,
+NH,Cheshire County,President,,AD,Rocky De La Fuente,41
+NH,At. & Gil. Academy Grant,President,,AD,Rocky De La Fuente,
+NH,Bean's Grant,President,,AD,Rocky De La Fuente,
+NH,Bean's Purchase,President,,AD,Rocky De La Fuente,
+NH,Berlin,President,,AD,Rocky De La Fuente,7
+NH,Cambridge,President,,AD,Rocky De La Fuente,
+NH,Carroll,President,,AD,Rocky De La Fuente,
+NH,Chandler's Purchase,President,,AD,Rocky De La Fuente,
+NH,Clarksville,President,,AD,Rocky De La Fuente,
+NH,Colebrook,President,,AD,Rocky De La Fuente,3
+NH,Columbia,President,,AD,Rocky De La Fuente,
+NH,Crawford's Purchase,President,,AD,Rocky De La Fuente,
+NH,Cutt's Grant,President,,AD,Rocky De La Fuente,
+NH,Dalton,President,,AD,Rocky De La Fuente,
+NH,Dix's Grant,President,,AD,Rocky De La Fuente,
+NH,Dixville,President,,AD,Rocky De La Fuente,
+NH,Dummer,President,,AD,Rocky De La Fuente,
+NH,Errol,President,,AD,Rocky De La Fuente,
+NH,Erving's Location,President,,AD,Rocky De La Fuente,
+NH,Gorham,President,,AD,Rocky De La Fuente,1
+NH,Green's Grant,President,,AD,Rocky De La Fuente,
+NH,Hadley's Purchase,President,,AD,Rocky De La Fuente,
+NH,Jefferson,President,,AD,Rocky De La Fuente,
+NH,Kilkenny,President,,AD,Rocky De La Fuente,
+NH,Lancaster,President,,AD,Rocky De La Fuente,4
+NH,Low & Burbank's Grant,President,,AD,Rocky De La Fuente,
+NH,Martin's Location,President,,AD,Rocky De La Fuente,
+NH,Milan,President,,AD,Rocky De La Fuente,
+NH,Millsfield,President,,AD,Rocky De La Fuente,
+NH,Northumberland,President,,AD,Rocky De La Fuente,4
+NH,Odell,President,,AD,Rocky De La Fuente,
+NH,Pinkham's Grant,President,,AD,Rocky De La Fuente,
+NH,Pittsburg,President,,AD,Rocky De La Fuente,
+NH,Randolph,President,,AD,Rocky De La Fuente,1
+NH,Sargent's Purchase,President,,AD,Rocky De La Fuente,
+NH,Second College Grant,President,,AD,Rocky De La Fuente,
+NH,Shelburne,President,,AD,Rocky De La Fuente,
+NH,Stark,President,,AD,Rocky De La Fuente,
+NH,Stewartstown,President,,AD,Rocky De La Fuente,1
+NH,Stratford,President,,AD,Rocky De La Fuente,
+NH,Success,President,,AD,Rocky De La Fuente,
+NH,Thompson & Meserve's Pur.,President,,AD,Rocky De La Fuente,
+NH,Wentworth's Location,President,,AD,Rocky De La Fuente,
+NH,Whitefield,President,,AD,Rocky De La Fuente,2
+NH,Coos County,President,,AD,Rocky De La Fuente,23
+NH,Alexandria,President,,AD,Rocky De La Fuente,
+NH,Ashland,President,,AD,Rocky De La Fuente,1
+NH,Bath,President,,AD,Rocky De La Fuente,
+NH,Benton,President,,AD,Rocky De La Fuente,
+NH,Bethlehem,President,,AD,Rocky De La Fuente,
+NH,Bridgewater,President,,AD,Rocky De La Fuente,
+NH,Bristol,President,,AD,Rocky De La Fuente,4
+NH,Campton,President,,AD,Rocky De La Fuente,3
+NH,Canaan,President,,AD,Rocky De La Fuente,2
+NH,Dorchester,President,,AD,Rocky De La Fuente,
+NH,Easton,President,,AD,Rocky De La Fuente,
+NH,Ellsworth,President,,AD,Rocky De La Fuente,
+NH,Enfield,President,,AD,Rocky De La Fuente,1
+NH,Franconia,President,,AD,Rocky De La Fuente,
+NH,Grafton,President,,AD,Rocky De La Fuente,1
+NH,Groton,President,,AD,Rocky De La Fuente,
+NH,Hanover,President,,AD,Rocky De La Fuente,1
+NH,Haverhill,President,,AD,Rocky De La Fuente,4
+NH,Hebron,President,,AD,Rocky De La Fuente,
+NH,Holderness,President,,AD,Rocky De La Fuente,4
+NH,Landaff,President,,AD,Rocky De La Fuente,5
+NH,Lebanon Ward 1,President,,AD,Rocky De La Fuente,3
+NH,Lebanon Ward 2,President,,AD,Rocky De La Fuente,2
+NH,Lebanon Ward 3,President,,AD,Rocky De La Fuente,3
+NH,Lincoln,President,,AD,Rocky De La Fuente,2
+NH,Lisbon,President,,AD,Rocky De La Fuente,1
+NH,Littleton,President,,AD,Rocky De La Fuente,
+NH,Livermore,President,,AD,Rocky De La Fuente,
+NH,Lyman,President,,AD,Rocky De La Fuente,
+NH,Lyme,President,,AD,Rocky De La Fuente,1
+NH,Monroe,President,,AD,Rocky De La Fuente,
+NH,Orange,President,,AD,Rocky De La Fuente,
+NH,Orford,President,,AD,Rocky De La Fuente,2
+NH,Piermont,President,,AD,Rocky De La Fuente,
+NH,Plymouth,President,,AD,Rocky De La Fuente,8
+NH,Rumney,President,,AD,Rocky De La Fuente,1
+NH,Sugar Hill,President,,AD,Rocky De La Fuente,
+NH,Thornton,President,,AD,Rocky De La Fuente,
+NH,Warren,President,,AD,Rocky De La Fuente,
+NH,Waterville Valley,President,,AD,Rocky De La Fuente,1
+NH,Wentworth  ,President,,AD,Rocky De La Fuente,
+NH,Woodstock,President,,AD,Rocky De La Fuente,
+NH,Grafton County,President,,AD,Rocky De La Fuente,50
+NH,Amherst,President,,AD,Rocky De La Fuente,4
+NH,Antrim,President,,AD,Rocky De La Fuente,12
+NH,Bedford,President,,AD,Rocky De La Fuente,6
+NH,Bennington,President,,AD,Rocky De La Fuente,2
+NH,Brookline,President,,AD,Rocky De La Fuente,3
+NH,Deering,President,,AD,Rocky De La Fuente,1
+NH,Francestown,President,,AD,Rocky De La Fuente,
+NH,Goffstown,President,,AD,Rocky De La Fuente,7
+NH,Greenfield,President,,AD,Rocky De La Fuente,
+NH,Greenville,President,,AD,Rocky De La Fuente,9
+NH,Hancock,President,,AD,Rocky De La Fuente,5
+NH,Hillsborough  ,President,,AD,Rocky De La Fuente,2
+NH,Hollis,President,,AD,Rocky De La Fuente,1
+NH,Hudson,President,,AD,Rocky De La Fuente,16
+NH,Litchfield,President,,AD,Rocky De La Fuente,4
+NH,Lyndeborough,President,,AD,Rocky De La Fuente,9
+NH,Manchester Ward 1,President,,AD,Rocky De La Fuente,4
+NH,Manchester Ward 2,President,,AD,Rocky De La Fuente,1
+NH,Manchester Ward 3,President,,AD,Rocky De La Fuente,4
+NH,Manchester Ward 4,President,,AD,Rocky De La Fuente,1
+NH,Manchester Ward 5*,President,,AD,Rocky De La Fuente,4
+NH,Manchester Ward 6,President,,AD,Rocky De La Fuente,8
+NH,Manchester Ward 7,President,,AD,Rocky De La Fuente,7
+NH,Manchester Ward 8,President,,AD,Rocky De La Fuente,8
+NH,Manchester Ward 9,President,,AD,Rocky De La Fuente,5
+NH,Manchester Ward 10,President,,AD,Rocky De La Fuente,1
+NH,Manchester Ward 11*,President,,AD,Rocky De La Fuente,8
+NH,Manchester Ward 12,President,,AD,Rocky De La Fuente,5
+NH,Mason,President,,AD,Rocky De La Fuente,1
+NH,Merrimack,President,,AD,Rocky De La Fuente,14
+NH,Milford,President,,AD,Rocky De La Fuente,5
+NH,Mont Vernon,President,,AD,Rocky De La Fuente,
+NH,Nashua Ward 1 ,President,,AD,Rocky De La Fuente,6
+NH,Nashua Ward 2,President,,AD,Rocky De La Fuente,3
+NH,Nashua Ward 3,President,,AD,Rocky De La Fuente,3
+NH,Nashua Ward 4,President,,AD,Rocky De La Fuente,4
+NH,Nashua Ward 5,President,,AD,Rocky De La Fuente,3
+NH,Nashua Ward 6,President,,AD,Rocky De La Fuente,5
+NH,Nashua Ward 7,President,,AD,Rocky De La Fuente,4
+NH,Nashua Ward 8,President,,AD,Rocky De La Fuente,3
+NH,Nashua Ward 9,President,,AD,Rocky De La Fuente,6
+NH,New Boston,President,,AD,Rocky De La Fuente,3
+NH,New Ipswich,President,,AD,Rocky De La Fuente,3
+NH,Pelham,President,,AD,Rocky De La Fuente,4
+NH,Peterborough,President,,AD,Rocky De La Fuente,1
+NH,Sharon,President,,AD,Rocky De La Fuente,
+NH,Temple,President,,AD,Rocky De La Fuente,8
+NH,Weare,President,,AD,Rocky De La Fuente,8
+NH,Wilton,President,,AD,Rocky De La Fuente,1
+NH,Windsor,President,,AD,Rocky De La Fuente,
+NH,Hillsborough County,President,,AD,Rocky De La Fuente,222
+NH,Allenstown,President,,AD,Rocky De La Fuente,
+NH,Andover,President,,AD,Rocky De La Fuente,2
+NH,Boscawen,President,,AD,Rocky De La Fuente,
+NH,Bow,President,,AD,Rocky De La Fuente,2
+NH,Bradford,President,,AD,Rocky De La Fuente,
+NH,Canterbury,President,,AD,Rocky De La Fuente,1
+NH,Chichester,President,,AD,Rocky De La Fuente,
+NH,Concord Ward 1 ,President,,AD,Rocky De La Fuente,4
+NH,Concord Ward 2,President,,AD,Rocky De La Fuente,2
+NH,Concord Ward 3,President,,AD,Rocky De La Fuente,5
+NH,Concord Ward 4,President,,AD,Rocky De La Fuente,2
+NH,Concord Ward 5,President,,AD,Rocky De La Fuente,
+NH,Concord Ward 6,President,,AD,Rocky De La Fuente,3
+NH,Concord Ward 7,President,,AD,Rocky De La Fuente,1
+NH,Concord Ward 8,President,,AD,Rocky De La Fuente,
+NH,Concord Ward 9,President,,AD,Rocky De La Fuente,3
+NH,Concord Ward 10,President,,AD,Rocky De La Fuente,2
+NH,Danbury,President,,AD,Rocky De La Fuente,
+NH,Dunbarton,President,,AD,Rocky De La Fuente,2
+NH,Epsom,President,,AD,Rocky De La Fuente,2
+NH,Franklin Ward 1,President,,AD,Rocky De La Fuente,
+NH,Franklin Ward 2,President,,AD,Rocky De La Fuente,1
+NH,Franklin Ward 3,President,,AD,Rocky De La Fuente,2
+NH,Henniker,President,,AD,Rocky De La Fuente,2
+NH,Hill,President,,AD,Rocky De La Fuente,
+NH,Hooksett,President,,AD,Rocky De La Fuente,4
+NH,Hopkinton,President,,AD,Rocky De La Fuente,2
+NH,Loudon,President,,AD,Rocky De La Fuente,3
+NH,New London,President,,AD,Rocky De La Fuente,
+NH,Newbury,President,,AD,Rocky De La Fuente,
+NH,Northfield,President,,AD,Rocky De La Fuente,4
+NH,Pembroke,President,,AD,Rocky De La Fuente,5
+NH,Pittsfield,President,,AD,Rocky De La Fuente,1
+NH,Salisbury,President,,AD,Rocky De La Fuente,
+NH,Sutton,President,,AD,Rocky De La Fuente,2
+NH,Warner,President,,AD,Rocky De La Fuente,1
+NH,Webster,President,,AD,Rocky De La Fuente,2
+NH,Wilmot,President,,AD,Rocky De La Fuente,1
+NH,Merrimack County,President,,AD,Rocky De La Fuente,61
+NH,Atkinson,President,,AD,Rocky De La Fuente,4
+NH,Auburn,President,,AD,Rocky De La Fuente,3
+NH,Brentwood,President,,AD,Rocky De La Fuente,3
+NH,Candia,President,,AD,Rocky De La Fuente,
+NH,Chester,President,,AD,Rocky De La Fuente,1
+NH,Danville,President,,AD,Rocky De La Fuente,3
+NH,Deerfield,President,,AD,Rocky De La Fuente,3
+NH,Derry,President,,AD,Rocky De La Fuente,13
+NH,East Kingston,President,,AD,Rocky De La Fuente,2
+NH,Epping,President,,AD,Rocky De La Fuente,3
+NH,Exeter,President,,AD,Rocky De La Fuente,3
+NH,Fremont,President,,AD,Rocky De La Fuente,2
+NH,Greenland,President,,AD,Rocky De La Fuente,3
+NH,Hampstead,President,,AD,Rocky De La Fuente,3
+NH,Hampton  ,President,,AD,Rocky De La Fuente,5
+NH,Hampton Falls,President,,AD,Rocky De La Fuente,
+NH,Kensington,President,,AD,Rocky De La Fuente,
+NH,Kingston,President,,AD,Rocky De La Fuente,1
+NH,Londonderry,President,,AD,Rocky De La Fuente,15
+NH,New Castle,President,,AD,Rocky De La Fuente,
+NH,Newfields,President,,AD,Rocky De La Fuente,
+NH,Newington,President,,AD,Rocky De La Fuente,
+NH,Newmarket,President,,AD,Rocky De La Fuente,10
+NH,Newton,President,,AD,Rocky De La Fuente,4
+NH,North Hampton,President,,AD,Rocky De La Fuente,
+NH,Northwood,President,,AD,Rocky De La Fuente,1
+NH,Nottingham,President,,AD,Rocky De La Fuente,2
+NH,Plaistow,President,,AD,Rocky De La Fuente,3
+NH,Portsmouth Ward 1,President,,AD,Rocky De La Fuente,2
+NH,Portsmouth Ward 2,President,,AD,Rocky De La Fuente,1
+NH,Portsmouth Ward 3,President,,AD,Rocky De La Fuente,
+NH,Portsmouth Ward 4,President,,AD,Rocky De La Fuente,4
+NH,Portsmouth Ward 5,President,,AD,Rocky De La Fuente,
+NH,Raymond,President,,AD,Rocky De La Fuente,3
+NH,Rye,President,,AD,Rocky De La Fuente,1
+NH,Salem,President,,AD,Rocky De La Fuente,11
+NH,Sandown,President,,AD,Rocky De La Fuente,5
+NH,Seabrook,President,,AD,Rocky De La Fuente,5
+NH,South Hampton,President,,AD,Rocky De La Fuente,2
+NH,Stratham,President,,AD,Rocky De La Fuente,5
+NH,Windham,President,,AD,Rocky De La Fuente,10
+NH,Rockingham County,President,,AD,Rocky De La Fuente,136
+NH,Barrington,President,,AD,Rocky De La Fuente,4
+NH,Dover Ward 1,President,,AD,Rocky De La Fuente,5
+NH,Dover Ward 2,President,,AD,Rocky De La Fuente,1
+NH,Dover Ward 3,President,,AD,Rocky De La Fuente,6
+NH,Dover Ward 4,President,,AD,Rocky De La Fuente,2
+NH,Dover Ward 5,President,,AD,Rocky De La Fuente,2
+NH,Dover Ward 6,President,,AD,Rocky De La Fuente,5
+NH,Durham,President,,AD,Rocky De La Fuente,5
+NH,Farmington,President,,AD,Rocky De La Fuente,4
+NH,Lee,President,,AD,Rocky De La Fuente,5
+NH,Madbury,President,,AD,Rocky De La Fuente,
+NH,Middleton,President,,AD,Rocky De La Fuente,2
+NH,Milton,President,,AD,Rocky De La Fuente,1
+NH,New Durham,President,,AD,Rocky De La Fuente,2
+NH,Rochester Ward 1,President,,AD,Rocky De La Fuente,2
+NH,Rochester Ward 2,President,,AD,Rocky De La Fuente,1
+NH,Rochester Ward 3,President,,AD,Rocky De La Fuente,1
+NH,Rochester Ward 4,President,,AD,Rocky De La Fuente,5
+NH,Rochester Ward 5,President,,AD,Rocky De La Fuente,2
+NH,Rochester Ward 6,President,,AD,Rocky De La Fuente,
+NH,Rollinsford,President,,AD,Rocky De La Fuente,1
+NH,Somersworth Ward 1,President,,AD,Rocky De La Fuente,3
+NH,Somersworth Ward 2,President,,AD,Rocky De La Fuente,
+NH,Somersworth Ward 3,President,,AD,Rocky De La Fuente,
+NH,Somersworth Ward 4,President,,AD,Rocky De La Fuente,1
+NH,Somersworth Ward 5,President,,AD,Rocky De La Fuente,1
+NH,Strafford   ,President,,AD,Rocky De La Fuente,1
+NH,Strafford County,President,,AD,Rocky De La Fuente,62
+NH,Acworth,President,,AD,Rocky De La Fuente,11
+NH,Charlestown,President,,AD,Rocky De La Fuente,5
+NH,Claremont Ward 1,President,,AD,Rocky De La Fuente,2
+NH,Claremont Ward 2,President,,AD,Rocky De La Fuente,
+NH,Claremont Ward 3,President,,AD,Rocky De La Fuente,
+NH,Cornish,President,,AD,Rocky De La Fuente,
+NH,Croydon,President,,AD,Rocky De La Fuente,
+NH,Goshen,President,,AD,Rocky De La Fuente,1
+NH,Grantham,President,,AD,Rocky De La Fuente,2
+NH,Langdon,President,,AD,Rocky De La Fuente,
+NH,Lempster,President,,AD,Rocky De La Fuente,
+NH,Newport ,President,,AD,Rocky De La Fuente,4
+NH,Plainfield,President,,AD,Rocky De La Fuente,
+NH,Springfield,President,,AD,Rocky De La Fuente,
+NH,Sunapee,President,,AD,Rocky De La Fuente,2
+NH,Unity,President,,AD,Rocky De La Fuente,1
+NH,Washington,President,,AD,Rocky De La Fuente,
+NH,Sullivan County,President,,AD,Rocky De La Fuente,28
+NH,Alton,President,,AD,Rocky De La Fuente,2
+NH,Barnstead,President,,AD,Rocky De La Fuente,
+NH,Belmont,President,,AD,Rocky De La Fuente,7
+NH,Center Harbor,President,,AD,Rocky De La Fuente,1
+NH,Gilford,President,,AD,Rocky De La Fuente,1
+NH,Gilmanton,President,,AD,Rocky De La Fuente,1
+NH,Laconia Ward 1,President,,AD,Rocky De La Fuente,
+NH,Laconia Ward 2,President,,AD,Rocky De La Fuente,3
+NH,Laconia Ward 3,President,,AD,Rocky De La Fuente,
+NH,Laconia Ward 4,President,,AD,Rocky De La Fuente,3
+NH,Laconia Ward 5,President,,AD,Rocky De La Fuente,2
+NH,Laconia Ward 6,President,,AD,Rocky De La Fuente,6
+NH,Meredith,President,,AD,Rocky De La Fuente,5
+NH,New Hampton,President,,AD,Rocky De La Fuente,
+NH,Sanbornton,President,,AD,Rocky De La Fuente,2
+NH,Tilton,President,,AD,Rocky De La Fuente,2
+NH,Belknap County,President,,AD,Rocky De La Fuente,35
+NH,Albany,President,,LIB,Gary Johnson,13
+NH,Bartlett,President,,LIB,Gary Johnson,84
+NH,Brookfield,President,,LIB,Gary Johnson,25
+NH,Chatham,President,,LIB,Gary Johnson,19
+NH,Conway,President,,LIB,Gary Johnson,209
+NH,Eaton,President,,LIB,Gary Johnson,14
+NH,Effingham,President,,LIB,Gary Johnson,38
+NH,Freedom,President,,LIB,Gary Johnson,36
+NH,Hale's Location,President,,LIB,Gary Johnson,
+NH,Hart's Location,President,,LIB,Gary Johnson,3
+NH,Jackson,President,,LIB,Gary Johnson,28
+NH,Madison,President,,LIB,Gary Johnson,70
+NH,Moultonborough,President,,LIB,Gary Johnson,126
+NH,Ossipee,President,,LIB,Gary Johnson,94
+NH,Sandwich,President,,LIB,Gary Johnson,34
+NH,Tamworth,President,,LIB,Gary Johnson,69
+NH,Tuftonboro,President,,LIB,Gary Johnson,55
+NH,Wakefield,President,,LIB,Gary Johnson,111
+NH,Wolfeboro,President,,LIB,Gary Johnson,157
+NH,Carroll County,President,,LIB,Gary Johnson,1185
+NH,Alstead,President,,LIB,Gary Johnson,37
+NH,Chesterfield,President,,LIB,Gary Johnson,71
+NH,Dublin,President,,LIB,Gary Johnson,40
+NH,Fitzwilliam,President,,LIB,Gary Johnson,52
+NH,Gilsum,President,,LIB,Gary Johnson,13
+NH,Harrisville,President,,LIB,Gary Johnson,21
+NH,Hinsdale,President,,LIB,Gary Johnson,47
+NH,Jaffrey,President,,LIB,Gary Johnson,150
+NH,Keene Ward 1,President,,LIB,Gary Johnson,97
+NH,Keene Ward 2,President,,LIB,Gary Johnson,86
+NH,Keene Ward 3,President,,LIB,Gary Johnson,84
+NH,Keene Ward 4,President,,LIB,Gary Johnson,87
+NH,Keene Ward 5,President,,LIB,Gary Johnson,107
+NH,Marlborough,President,,LIB,Gary Johnson,34
+NH,Marlow,President,,LIB,Gary Johnson,19
+NH,Nelson,President,,LIB,Gary Johnson,17
+NH,Richmond,President,,LIB,Gary Johnson,34
+NH,Rindge,President,,LIB,Gary Johnson,163
+NH,Roxbury,President,,LIB,Gary Johnson,6
+NH,Stoddard,President,,LIB,Gary Johnson,28
+NH,Sullivan,President,,LIB,Gary Johnson,25
+NH,Surry,President,,LIB,Gary Johnson,14
+NH,Swanzey,President,,LIB,Gary Johnson,144
+NH,Troy,President,,LIB,Gary Johnson,60
+NH,Walpole,President,,LIB,Gary Johnson,104
+NH,Westmoreland,President,,LIB,Gary Johnson,41
+NH,Winchester,President,,LIB,Gary Johnson,75
+NH,Cheshire County,President,,LIB,Gary Johnson,1656
+NH,At. & Gil. Academy Grant,President,,LIB,Gary Johnson,
+NH,Bean's Grant,President,,LIB,Gary Johnson,
+NH,Bean's Purchase,President,,LIB,Gary Johnson,
+NH,Berlin,President,,LIB,Gary Johnson,156
+NH,Cambridge,President,,LIB,Gary Johnson,
+NH,Carroll,President,,LIB,Gary Johnson,9
+NH,Chandler's Purchase,President,,LIB,Gary Johnson,
+NH,Clarksville,President,,LIB,Gary Johnson,5
+NH,Colebrook,President,,LIB,Gary Johnson,51
+NH,Columbia,President,,LIB,Gary Johnson,13
+NH,Crawford's Purchase,President,,LIB,Gary Johnson,
+NH,Cutt's Grant,President,,LIB,Gary Johnson,
+NH,Dalton,President,,LIB,Gary Johnson,18
+NH,Dix's Grant,President,,LIB,Gary Johnson,
+NH,Dixville,President,,LIB,Gary Johnson,1
+NH,Dummer,President,,LIB,Gary Johnson,6
+NH,Errol,President,,LIB,Gary Johnson,6
+NH,Erving's Location,President,,LIB,Gary Johnson,
+NH,Gorham,President,,LIB,Gary Johnson,58
+NH,Green's Grant,President,,LIB,Gary Johnson,
+NH,Hadley's Purchase,President,,LIB,Gary Johnson,
+NH,Jefferson,President,,LIB,Gary Johnson,24
+NH,Kilkenny,President,,LIB,Gary Johnson,
+NH,Lancaster,President,,LIB,Gary Johnson,58
+NH,Low & Burbank's Grant,President,,LIB,Gary Johnson,
+NH,Martin's Location,President,,LIB,Gary Johnson,
+NH,Milan,President,,LIB,Gary Johnson,24
+NH,Millsfield,President,,LIB,Gary Johnson,
+NH,Northumberland,President,,LIB,Gary Johnson,42
+NH,Odell,President,,LIB,Gary Johnson,
+NH,Pinkham's Grant,President,,LIB,Gary Johnson,
+NH,Pittsburg,President,,LIB,Gary Johnson,5
+NH,Randolph,President,,LIB,Gary Johnson,7
+NH,Sargent's Purchase,President,,LIB,Gary Johnson,
+NH,Second College Grant,President,,LIB,Gary Johnson,
+NH,Shelburne,President,,LIB,Gary Johnson,10
+NH,Stark,President,,LIB,Gary Johnson,6
+NH,Stewartstown,President,,LIB,Gary Johnson,19
+NH,Stratford,President,,LIB,Gary Johnson,5
+NH,Success,President,,LIB,Gary Johnson,
+NH,Thompson & Meserve's Pur.,President,,LIB,Gary Johnson,
+NH,Wentworth's Location,President,,LIB,Gary Johnson,
+NH,Whitefield,President,,LIB,Gary Johnson,53
+NH,Coos County,President,,LIB,Gary Johnson,576
+NH,Alexandria,President,,LIB,Gary Johnson,42
+NH,Ashland,President,,LIB,Gary Johnson,47
+NH,Bath,President,,LIB,Gary Johnson,27
+NH,Benton,President,,LIB,Gary Johnson,6
+NH,Bethlehem,President,,LIB,Gary Johnson,48
+NH,Bridgewater,President,,LIB,Gary Johnson,24
+NH,Bristol,President,,LIB,Gary Johnson,74
+NH,Campton,President,,LIB,Gary Johnson,88
+NH,Canaan,President,,LIB,Gary Johnson,65
+NH,Dorchester,President,,LIB,Gary Johnson,15
+NH,Easton,President,,LIB,Gary Johnson,7
+NH,Ellsworth,President,,LIB,Gary Johnson,5
+NH,Enfield,President,,LIB,Gary Johnson,119
+NH,Franconia,President,,LIB,Gary Johnson,18
+NH,Grafton,President,,LIB,Gary Johnson,33
+NH,Groton,President,,LIB,Gary Johnson,13
+NH,Hanover,President,,LIB,Gary Johnson,189
+NH,Haverhill,President,,LIB,Gary Johnson,106
+NH,Hebron,President,,LIB,Gary Johnson,13
+NH,Holderness,President,,LIB,Gary Johnson,43
+NH,Landaff,President,,LIB,Gary Johnson,9
+NH,Lebanon Ward 1,President,,LIB,Gary Johnson,71
+NH,Lebanon Ward 2,President,,LIB,Gary Johnson,74
+NH,Lebanon Ward 3,President,,LIB,Gary Johnson,94
+NH,Lincoln,President,,LIB,Gary Johnson,45
+NH,Lisbon,President,,LIB,Gary Johnson,35
+NH,Littleton,President,,LIB,Gary Johnson,120
+NH,Livermore,President,,LIB,Gary Johnson,
+NH,Lyman,President,,LIB,Gary Johnson,14
+NH,Lyme,President,,LIB,Gary Johnson,32
+NH,Monroe,President,,LIB,Gary Johnson,20
+NH,Orange,President,,LIB,Gary Johnson,6
+NH,Orford,President,,LIB,Gary Johnson,30
+NH,Piermont,President,,LIB,Gary Johnson,24
+NH,Plymouth,President,,LIB,Gary Johnson,191
+NH,Rumney,President,,LIB,Gary Johnson,36
+NH,Sugar Hill,President,,LIB,Gary Johnson,15
+NH,Thornton,President,,LIB,Gary Johnson,88
+NH,Warren,President,,LIB,Gary Johnson,14
+NH,Waterville Valley,President,,LIB,Gary Johnson,8
+NH,Wentworth  ,President,,LIB,Gary Johnson,16
+NH,Woodstock,President,,LIB,Gary Johnson,43
+NH,Grafton County,President,,LIB,Gary Johnson,1967
+NH,Amherst,President,,LIB,Gary Johnson,252
+NH,Antrim,President,,LIB,Gary Johnson,71
+NH,Bedford,President,,LIB,Gary Johnson,536
+NH,Bennington,President,,LIB,Gary Johnson,41
+NH,Brookline,President,,LIB,Gary Johnson,170
+NH,Deering,President,,LIB,Gary Johnson,55
+NH,Francestown,President,,LIB,Gary Johnson,28
+NH,Goffstown,President,,LIB,Gary Johnson,412
+NH,Greenfield,President,,LIB,Gary Johnson,52
+NH,Greenville,President,,LIB,Gary Johnson,46
+NH,Hancock,President,,LIB,Gary Johnson,39
+NH,Hillsborough  ,President,,LIB,Gary Johnson,153
+NH,Hollis,President,,LIB,Gary Johnson,251
+NH,Hudson,President,,LIB,Gary Johnson,545
+NH,Litchfield,President,,LIB,Gary Johnson,227
+NH,Lyndeborough,President,,LIB,Gary Johnson,64
+NH,Manchester Ward 1,President,,LIB,Gary Johnson,215
+NH,Manchester Ward 2,President,,LIB,Gary Johnson,212
+NH,Manchester Ward 3,President,,LIB,Gary Johnson,130
+NH,Manchester Ward 4,President,,LIB,Gary Johnson,170
+NH,Manchester Ward 5*,President,,LIB,Gary Johnson,142
+NH,Manchester Ward 6,President,,LIB,Gary Johnson,193
+NH,Manchester Ward 7,President,,LIB,Gary Johnson,148
+NH,Manchester Ward 8,President,,LIB,Gary Johnson,180
+NH,Manchester Ward 9,President,,LIB,Gary Johnson,163
+NH,Manchester Ward 10,President,,LIB,Gary Johnson,188
+NH,Manchester Ward 11*,President,,LIB,Gary Johnson,163
+NH,Manchester Ward 12,President,,LIB,Gary Johnson,177
+NH,Mason,President,,LIB,Gary Johnson,65
+NH,Merrimack,President,,LIB,Gary Johnson,734
+NH,Milford,President,,LIB,Gary Johnson,398
+NH,Mont Vernon,President,,LIB,Gary Johnson,71
+NH,Nashua Ward 1 ,President,,LIB,Gary Johnson,232
+NH,Nashua Ward 2,President,,LIB,Gary Johnson,200
+NH,Nashua Ward 3,President,,LIB,Gary Johnson,201
+NH,Nashua Ward 4,President,,LIB,Gary Johnson,135
+NH,Nashua Ward 5,President,,LIB,Gary Johnson,239
+NH,Nashua Ward 6,President,,LIB,Gary Johnson,149
+NH,Nashua Ward 7,President,,LIB,Gary Johnson,163
+NH,Nashua Ward 8,President,,LIB,Gary Johnson,219
+NH,Nashua Ward 9,President,,LIB,Gary Johnson,184
+NH,New Boston,President,,LIB,Gary Johnson,161
+NH,New Ipswich,President,,LIB,Gary Johnson,138
+NH,Pelham,President,,LIB,Gary Johnson,254
+NH,Peterborough,President,,LIB,Gary Johnson,170
+NH,Sharon,President,,LIB,Gary Johnson,11
+NH,Temple,President,,LIB,Gary Johnson,32
+NH,Weare,President,,LIB,Gary Johnson,281
+NH,Wilton,President,,LIB,Gary Johnson,108
+NH,Windsor,President,,LIB,Gary Johnson,2
+NH,Hillsborough County,President,,LIB,Gary Johnson,9170
+NH,Allenstown,President,,LIB,Gary Johnson,97
+NH,Andover,President,,LIB,Gary Johnson,49
+NH,Boscawen,President,,LIB,Gary Johnson,83
+NH,Bow,President,,LIB,Gary Johnson,218
+NH,Bradford,President,,LIB,Gary Johnson,41
+NH,Canterbury,President,,LIB,Gary Johnson,58
+NH,Chichester,President,,LIB,Gary Johnson,75
+NH,Concord Ward 1 ,President,,LIB,Gary Johnson,114
+NH,Concord Ward 2,President,,LIB,Gary Johnson,90
+NH,Concord Ward 3,President,,LIB,Gary Johnson,73
+NH,Concord Ward 4,President,,LIB,Gary Johnson,83
+NH,Concord Ward 5,President,,LIB,Gary Johnson,75
+NH,Concord Ward 6,President,,LIB,Gary Johnson,99
+NH,Concord Ward 7,President,,LIB,Gary Johnson,82
+NH,Concord Ward 8,President,,LIB,Gary Johnson,71
+NH,Concord Ward 9,President,,LIB,Gary Johnson,58
+NH,Concord Ward 10,President,,LIB,Gary Johnson,110
+NH,Danbury,President,,LIB,Gary Johnson,30
+NH,Dunbarton,President,,LIB,Gary Johnson,69
+NH,Epsom,President,,LIB,Gary Johnson,127
+NH,Franklin Ward 1,President,,LIB,Gary Johnson,61
+NH,Franklin Ward 2,President,,LIB,Gary Johnson,60
+NH,Franklin Ward 3,President,,LIB,Gary Johnson,49
+NH,Henniker,President,,LIB,Gary Johnson,134
+NH,Hill,President,,LIB,Gary Johnson,17
+NH,Hooksett,President,,LIB,Gary Johnson,292
+NH,Hopkinton,President,,LIB,Gary Johnson,138
+NH,Loudon,President,,LIB,Gary Johnson,146
+NH,New London,President,,LIB,Gary Johnson,95
+NH,Newbury,President,,LIB,Gary Johnson,61
+NH,Northfield,President,,LIB,Gary Johnson,105
+NH,Pembroke,President,,LIB,Gary Johnson,179
+NH,Pittsfield,President,,LIB,Gary Johnson,99
+NH,Salisbury,President,,LIB,Gary Johnson,25
+NH,Sutton,President,,LIB,Gary Johnson,52
+NH,Warner,President,,LIB,Gary Johnson,83
+NH,Webster,President,,LIB,Gary Johnson,40
+NH,Wilmot,President,,LIB,Gary Johnson,40
+NH,Merrimack County,President,,LIB,Gary Johnson,3378
+NH,Atkinson,President,,LIB,Gary Johnson,159
+NH,Auburn,President,,LIB,Gary Johnson,145
+NH,Brentwood,President,,LIB,Gary Johnson,121
+NH,Candia,President,,LIB,Gary Johnson,131
+NH,Chester,President,,LIB,Gary Johnson,125
+NH,Danville,President,,LIB,Gary Johnson,102
+NH,Deerfield,President,,LIB,Gary Johnson,138
+NH,Derry,President,,LIB,Gary Johnson,715
+NH,East Kingston,President,,LIB,Gary Johnson,88
+NH,Epping,President,,LIB,Gary Johnson,179
+NH,Exeter,President,,LIB,Gary Johnson,373
+NH,Fremont,President,,LIB,Gary Johnson,137
+NH,Greenland,President,,LIB,Gary Johnson,101
+NH,Hampstead,President,,LIB,Gary Johnson,191
+NH,Hampton  ,President,,LIB,Gary Johnson,333
+NH,Hampton Falls,President,,LIB,Gary Johnson,63
+NH,Kensington,President,,LIB,Gary Johnson,61
+NH,Kingston,President,,LIB,Gary Johnson,154
+NH,Londonderry,President,,LIB,Gary Johnson,647
+NH,New Castle,President,,LIB,Gary Johnson,31
+NH,Newfields,President,,LIB,Gary Johnson,45
+NH,Newington,President,,LIB,Gary Johnson,23
+NH,Newmarket,President,,LIB,Gary Johnson,291
+NH,Newton,President,,LIB,Gary Johnson,114
+NH,North Hampton,President,,LIB,Gary Johnson,104
+NH,Northwood,President,,LIB,Gary Johnson,127
+NH,Nottingham,President,,LIB,Gary Johnson,165
+NH,Plaistow,President,,LIB,Gary Johnson,154
+NH,Portsmouth Ward 1,President,,LIB,Gary Johnson,115
+NH,Portsmouth Ward 2,President,,LIB,Gary Johnson,113
+NH,Portsmouth Ward 3,President,,LIB,Gary Johnson,87
+NH,Portsmouth Ward 4,President,,LIB,Gary Johnson,78
+NH,Portsmouth Ward 5,President,,LIB,Gary Johnson,114
+NH,Raymond,President,,LIB,Gary Johnson,224
+NH,Rye,President,,LIB,Gary Johnson,165
+NH,Salem,President,,LIB,Gary Johnson,503
+NH,Sandown,President,,LIB,Gary Johnson,178
+NH,Seabrook,President,,LIB,Gary Johnson,132
+NH,South Hampton,President,,LIB,Gary Johnson,19
+NH,Stratham,President,,LIB,Gary Johnson,218
+NH,Windham,President,,LIB,Gary Johnson,372
+NH,Rockingham County,President,,LIB,Gary Johnson,7335
+NH,Barrington,President,,LIB,Gary Johnson,309
+NH,Dover Ward 1,President,,LIB,Gary Johnson,139
+NH,Dover Ward 2,President,,LIB,Gary Johnson,144
+NH,Dover Ward 3,President,,LIB,Gary Johnson,139
+NH,Dover Ward 4,President,,LIB,Gary Johnson,153
+NH,Dover Ward 5,President,,LIB,Gary Johnson,139
+NH,Dover Ward 6,President,,LIB,Gary Johnson,100
+NH,Durham,President,,LIB,Gary Johnson,455
+NH,Farmington,President,,LIB,Gary Johnson,154
+NH,Lee,President,,LIB,Gary Johnson,124
+NH,Madbury,President,,LIB,Gary Johnson,67
+NH,Middleton,President,,LIB,Gary Johnson,24
+NH,Milton,President,,LIB,Gary Johnson,94
+NH,New Durham,President,,LIB,Gary Johnson,69
+NH,Rochester Ward 1,President,,LIB,Gary Johnson,134
+NH,Rochester Ward 2,President,,LIB,Gary Johnson,147
+NH,Rochester Ward 3,President,,LIB,Gary Johnson,131
+NH,Rochester Ward 4,President,,LIB,Gary Johnson,103
+NH,Rochester Ward 5,President,,LIB,Gary Johnson,117
+NH,Rochester Ward 6,President,,LIB,Gary Johnson,110
+NH,Rollinsford,President,,LIB,Gary Johnson,83
+NH,Somersworth Ward 1,President,,LIB,Gary Johnson,67
+NH,Somersworth Ward 2,President,,LIB,Gary Johnson,34
+NH,Somersworth Ward 3,President,,LIB,Gary Johnson,45
+NH,Somersworth Ward 4,President,,LIB,Gary Johnson,38
+NH,Somersworth Ward 5,President,,LIB,Gary Johnson,32
+NH,Strafford   ,President,,LIB,Gary Johnson,107
+NH,Strafford County,President,,LIB,Gary Johnson,3258
+NH,Acworth,President,,LIB,Gary Johnson,10
+NH,Charlestown,President,,LIB,Gary Johnson,92
+NH,Claremont Ward 1,President,,LIB,Gary Johnson,81
+NH,Claremont Ward 2,President,,LIB,Gary Johnson,91
+NH,Claremont Ward 3,President,,LIB,Gary Johnson,64
+NH,Cornish,President,,LIB,Gary Johnson,35
+NH,Croydon,President,,LIB,Gary Johnson,19
+NH,Goshen,President,,LIB,Gary Johnson,16
+NH,Grantham,President,,LIB,Gary Johnson,54
+NH,Langdon,President,,LIB,Gary Johnson,8
+NH,Lempster,President,,LIB,Gary Johnson,16
+NH,Newport ,President,,LIB,Gary Johnson,125
+NH,Plainfield,President,,LIB,Gary Johnson,61
+NH,Springfield,President,,LIB,Gary Johnson,44
+NH,Sunapee,President,,LIB,Gary Johnson,83
+NH,Unity,President,,LIB,Gary Johnson,29
+NH,Washington,President,,LIB,Gary Johnson,29
+NH,Sullivan County,President,,LIB,Gary Johnson,857
+NH,Alton,President,,LIB,Gary Johnson,115
+NH,Barnstead,President,,LIB,Gary Johnson,125
+NH,Belmont,President,,LIB,Gary Johnson,158
+NH,Center Harbor,President,,LIB,Gary Johnson,23
+NH,Gilford,President,,LIB,Gary Johnson,159
+NH,Gilmanton,President,,LIB,Gary Johnson,108
+NH,Laconia Ward 1,President,,LIB,Gary Johnson,68
+NH,Laconia Ward 2,President,,LIB,Gary Johnson,46
+NH,Laconia Ward 3,President,,LIB,Gary Johnson,49
+NH,Laconia Ward 4,President,,LIB,Gary Johnson,53
+NH,Laconia Ward 5,President,,LIB,Gary Johnson,44
+NH,Laconia Ward 6,President,,LIB,Gary Johnson,71
+NH,Meredith,President,,LIB,Gary Johnson,156
+NH,New Hampton,President,,LIB,Gary Johnson,69
+NH,Sanbornton,President,,LIB,Gary Johnson,76
+NH,Tilton,President,,LIB,Gary Johnson,75
+NH,Belknap County,President,,LIB,Gary Johnson,1395
+NH,Albany,President,,,Write-ins,11
+NH,Bartlett,President,,,Write-ins,22
+NH,Brookfield,President,,,Write-ins,0
+NH,Chatham,President,,,Write-ins,2
+NH,Conway,President,,,Write-ins,79
+NH,Eaton,President,,,Write-ins,9
+NH,Effingham,President,,,Write-ins,17
+NH,Freedom,President,,,Write-ins,6
+NH,Hale's Location,President,,,Write-ins,0
+NH,Hart's Location,President,,,Write-ins,4
+NH,Jackson,President,,,Write-ins,14
+NH,Madison,President,,,Write-ins,18
+NH,Moultonborough,President,,,Write-ins,62
+NH,Ossipee,President,,,Write-ins,29
+NH,Sandwich,President,,,Write-ins,30
+NH,Tamworth,President,,,Write-ins,35
+NH,Tuftonboro,President,,,Write-ins,42
+NH,Wakefield,President,,,Write-ins,44
+NH,Wolfeboro,President,,,Write-ins,90
+NH,Carroll County,President,,,Write-ins,514
+NH,Alstead,President,,,Write-ins,25
+NH,Chesterfield,President,,,Write-ins,46
+NH,Dublin,President,,,Write-ins,25
+NH,Fitzwilliam,President,,,Write-ins,16
+NH,Gilsum,President,,,Write-ins,8
+NH,Harrisville,President,,,Write-ins,15
+NH,Hinsdale,President,,,Write-ins,52
+NH,Jaffrey,President,,,Write-ins,46
+NH,Keene Ward 1,President,,,Write-ins,31
+NH,Keene Ward 2,President,,,Write-ins,54
+NH,Keene Ward 3,President,,,Write-ins,27
+NH,Keene Ward 4,President,,,Write-ins,60
+NH,Keene Ward 5,President,,,Write-ins,69
+NH,Marlborough,President,,,Write-ins,27
+NH,Marlow,President,,,Write-ins,20
+NH,Nelson,President,,,Write-ins,5
+NH,Richmond,President,,,Write-ins,11
+NH,Rindge,President,,,Write-ins,33
+NH,Roxbury,President,,,Write-ins,2
+NH,Stoddard,President,,,Write-ins,7
+NH,Sullivan,President,,,Write-ins,12
+NH,Surry,President,,,Write-ins,13
+NH,Swanzey,President,,,Write-ins,50
+NH,Troy,President,,,Write-ins,18
+NH,Walpole,President,,,Write-ins,60
+NH,Westmoreland,President,,,Write-ins,16
+NH,Winchester,President,,,Write-ins,26
+NH,Cheshire County,President,,,Write-ins,774
+NH,At. & Gil. Academy Grant,President,,,Write-ins,0
+NH,Bean's Grant,President,,,Write-ins,0
+NH,Bean's Purchase,President,,,Write-ins,0
+NH,Berlin,President,,,Write-ins,57
+NH,Cambridge,President,,,Write-ins,0
+NH,Carroll,President,,,Write-ins,11
+NH,Chandler's Purchase,President,,,Write-ins,0
+NH,Clarksville,President,,,Write-ins,8
+NH,Colebrook,President,,,Write-ins,34
+NH,Columbia,President,,,Write-ins,5
+NH,Crawford's Purchase,President,,,Write-ins,0
+NH,Cutt's Grant,President,,,Write-ins,0
+NH,Dalton,President,,,Write-ins,15
+NH,Dix's Grant,President,,,Write-ins,0
+NH,Dixville,President,,,Write-ins,1
+NH,Dummer,President,,,Write-ins,7
+NH,Errol,President,,,Write-ins,3
+NH,Erving's Location,President,,,Write-ins,0
+NH,Gorham,President,,,Write-ins,15
+NH,Green's Grant,President,,,Write-ins,0
+NH,Hadley's Purchase,President,,,Write-ins,0
+NH,Jefferson,President,,,Write-ins,17
+NH,Kilkenny,President,,,Write-ins,0
+NH,Lancaster,President,,,Write-ins,53
+NH,Low & Burbank's Grant,President,,,Write-ins,0
+NH,Martin's Location,President,,,Write-ins,0
+NH,Milan,President,,,Write-ins,12
+NH,Millsfield,President,,,Write-ins,1
+NH,Northumberland,President,,,Write-ins,26
+NH,Odell,President,,,Write-ins,0
+NH,Pinkham's Grant,President,,,Write-ins,0
+NH,Pittsburg,President,,,Write-ins,5
+NH,Randolph,President,,,Write-ins,10
+NH,Sargent's Purchase,President,,,Write-ins,0
+NH,Second College Grant,President,,,Write-ins,0
+NH,Shelburne,President,,,Write-ins,4
+NH,Stark,President,,,Write-ins,6
+NH,Stewartstown,President,,,Write-ins,4
+NH,Stratford,President,,,Write-ins,10
+NH,Success,President,,,Write-ins,0
+NH,Thompson & Meserve's Pur.,President,,,Write-ins,0
+NH,Wentworth's Location,President,,,Write-ins,0
+NH,Whitefield,President,,,Write-ins,39
+NH,Coos County,President,,,Write-ins,343
+NH,Alexandria,President,,,Write-ins,31
+NH,Ashland,President,,,Write-ins,30
+NH,Bath,President,,,Write-ins,17
+NH,Benton,President,,,Write-ins,2
+NH,Bethlehem,President,,,Write-ins,2
+NH,Bridgewater,President,,,Write-ins,4
+NH,Bristol,President,,,Write-ins,41
+NH,Campton,President,,,Write-ins,40
+NH,Canaan,President,,,Write-ins,14
+NH,Dorchester,President,,,Write-ins,4
+NH,Easton,President,,,Write-ins,5
+NH,Ellsworth,President,,,Write-ins,0
+NH,Enfield,President,,,Write-ins,73
+NH,Franconia,President,,,Write-ins,15
+NH,Grafton,President,,,Write-ins,18
+NH,Groton,President,,,Write-ins,8
+NH,Hanover,President,,,Write-ins,122
+NH,Haverhill,President,,,Write-ins,63
+NH,Hebron,President,,,Write-ins,12
+NH,Holderness,President,,,Write-ins,24
+NH,Landaff,President,,,Write-ins,6
+NH,Lebanon Ward 1,President,,,Write-ins,77
+NH,Lebanon Ward 2,President,,,Write-ins,51
+NH,Lebanon Ward 3,President,,,Write-ins,53
+NH,Lincoln,President,,,Write-ins,18
+NH,Lisbon,President,,,Write-ins,30
+NH,Littleton,President,,,Write-ins,97
+NH,Livermore,President,,,Write-ins,0
+NH,Lyman,President,,,Write-ins,14
+NH,Lyme,President,,,Write-ins,22
+NH,Monroe,President,,,Write-ins,9
+NH,Orange,President,,,Write-ins,7
+NH,Orford,President,,,Write-ins,25
+NH,Piermont,President,,,Write-ins,14
+NH,Plymouth,President,,,Write-ins,28
+NH,Rumney,President,,,Write-ins,9
+NH,Sugar Hill,President,,,Write-ins,8
+NH,Thornton,President,,,Write-ins,27
+NH,Warren,President,,,Write-ins,12
+NH,Waterville Valley,President,,,Write-ins,6
+NH,Wentworth  ,President,,,Write-ins,13
+NH,Woodstock,President,,,Write-ins,25
+NH,Grafton County,President,,,Write-ins,1076
+NH,Amherst,President,,,Write-ins,0
+NH,Antrim,President,,,Write-ins,17
+NH,Bedford,President,,,Write-ins,303
+NH,Bennington,President,,,Write-ins,20
+NH,Brookline,President,,,Write-ins,58
+NH,Deering,President,,,Write-ins,26
+NH,Francestown,President,,,Write-ins,13
+NH,Goffstown,President,,,Write-ins,203
+NH,Greenfield,President,,,Write-ins,19
+NH,Greenville,President,,,Write-ins,29
+NH,Hancock,President,,,Write-ins,25
+NH,Hillsborough  ,President,,,Write-ins,52
+NH,Hollis,President,,,Write-ins,90
+NH,Hudson,President,,,Write-ins,174
+NH,Litchfield,President,,,Write-ins,0
+NH,Lyndeborough,President,,,Write-ins,20
+NH,Manchester Ward 1,President,,,Write-ins,105
+NH,Manchester Ward 2,President,,,Write-ins,101
+NH,Manchester Ward 3,President,,,Write-ins,72
+NH,Manchester Ward 4,President,,,Write-ins,75
+NH,Manchester Ward 5*,President,,,Write-ins,44
+NH,Manchester Ward 6,President,,,Write-ins,83
+NH,Manchester Ward 7,President,,,Write-ins,78
+NH,Manchester Ward 8,President,,,Write-ins,58
+NH,Manchester Ward 9,President,,,Write-ins,51
+NH,Manchester Ward 10,President,,,Write-ins,78
+NH,Manchester Ward 11*,President,,,Write-ins,52
+NH,Manchester Ward 12,President,,,Write-ins,50
+NH,Mason,President,,,Write-ins,17
+NH,Merrimack,President,,,Write-ins,270
+NH,Milford,President,,,Write-ins,138
+NH,Mont Vernon,President,,,Write-ins,41
+NH,Nashua Ward 1 ,President,,,Write-ins,92
+NH,Nashua Ward 2,President,,,Write-ins,105
+NH,Nashua Ward 3,President,,,Write-ins,81
+NH,Nashua Ward 4,President,,,Write-ins,47
+NH,Nashua Ward 5,President,,,Write-ins,101
+NH,Nashua Ward 6,President,,,Write-ins,80
+NH,Nashua Ward 7,President,,,Write-ins,63
+NH,Nashua Ward 8,President,,,Write-ins,103
+NH,Nashua Ward 9,President,,,Write-ins,78
+NH,New Boston,President,,,Write-ins,34
+NH,New Ipswich,President,,,Write-ins,30
+NH,Pelham,President,,,Write-ins,61
+NH,Peterborough,President,,,Write-ins,38
+NH,Sharon,President,,,Write-ins,6
+NH,Temple,President,,,Write-ins,12
+NH,Weare,President,,,Write-ins,71
+NH,Wilton,President,,,Write-ins,47
+NH,Windsor,President,,,Write-ins,0
+NH,Hillsborough County,President,,,Write-ins,3411
+NH,Allenstown,President,,,Write-ins,30
+NH,Andover,President,,,Write-ins,5
+NH,Boscawen,President,,,Write-ins,39
+NH,Bow,President,,,Write-ins,139
+NH,Bradford,President,,,Write-ins,15
+NH,Canterbury,President,,,Write-ins,34
+NH,Chichester,President,,,Write-ins,14
+NH,Concord Ward 1 ,President,,,Write-ins,54
+NH,Concord Ward 2,President,,,Write-ins,55
+NH,Concord Ward 3,President,,,Write-ins,41
+NH,Concord Ward 4,President,,,Write-ins,42
+NH,Concord Ward 5,President,,,Write-ins,60
+NH,Concord Ward 6,President,,,Write-ins,46
+NH,Concord Ward 7,President,,,Write-ins,65
+NH,Concord Ward 8,President,,,Write-ins,0
+NH,Concord Ward 9,President,,,Write-ins,23
+NH,Concord Ward 10,President,,,Write-ins,47
+NH,Danbury,President,,,Write-ins,21
+NH,Dunbarton,President,,,Write-ins,41
+NH,Epsom,President,,,Write-ins,31
+NH,Franklin Ward 1,President,,,Write-ins,26
+NH,Franklin Ward 2,President,,,Write-ins,26
+NH,Franklin Ward 3,President,,,Write-ins,41
+NH,Henniker,President,,,Write-ins,60
+NH,Hill,President,,,Write-ins,13
+NH,Hooksett,President,,,Write-ins,162
+NH,Hopkinton,President,,,Write-ins,59
+NH,Loudon,President,,,Write-ins,58
+NH,New London,President,,,Write-ins,51
+NH,Newbury,President,,,Write-ins,17
+NH,Northfield,President,,,Write-ins,52
+NH,Pembroke,President,,,Write-ins,77
+NH,Pittsfield,President,,,Write-ins,40
+NH,Salisbury,President,,,Write-ins,16
+NH,Sutton,President,,,Write-ins,0
+NH,Warner,President,,,Write-ins,35
+NH,Webster,President,,,Write-ins,25
+NH,Wilmot,President,,,Write-ins,24
+NH,Merrimack County,President,,,Write-ins,1584
+NH,Atkinson,President,,,Write-ins,62
+NH,Auburn,President,,,Write-ins,80
+NH,Brentwood,President,,,Write-ins,30
+NH,Candia,President,,,Write-ins,46
+NH,Chester,President,,,Write-ins,0
+NH,Danville,President,,,Write-ins,29
+NH,Deerfield,President,,,Write-ins,24
+NH,Derry,President,,,Write-ins,0
+NH,East Kingston,President,,,Write-ins,23
+NH,Epping,President,,,Write-ins,46
+NH,Exeter,President,,,Write-ins,178
+NH,Fremont,President,,,Write-ins,45
+NH,Greenland,President,,,Write-ins,46
+NH,Hampstead,President,,,Write-ins,66
+NH,Hampton  ,President,,,Write-ins,149
+NH,Hampton Falls,President,,,Write-ins,34
+NH,Kensington,President,,,Write-ins,26
+NH,Kingston,President,,,Write-ins,11
+NH,Londonderry,President,,,Write-ins,188
+NH,New Castle,President,,,Write-ins,10
+NH,Newfields,President,,,Write-ins,27
+NH,Newington,President,,,Write-ins,13
+NH,Newmarket,President,,,Write-ins,100
+NH,Newton,President,,,Write-ins,32
+NH,North Hampton,President,,,Write-ins,45
+NH,Northwood,President,,,Write-ins,46
+NH,Nottingham,President,,,Write-ins,42
+NH,Plaistow,President,,,Write-ins,29
+NH,Portsmouth Ward 1,President,,,Write-ins,45
+NH,Portsmouth Ward 2,President,,,Write-ins,38
+NH,Portsmouth Ward 3,President,,,Write-ins,44
+NH,Portsmouth Ward 4,President,,,Write-ins,52
+NH,Portsmouth Ward 5,President,,,Write-ins,38
+NH,Raymond,President,,,Write-ins,30
+NH,Rye,President,,,Write-ins,80
+NH,Salem,President,,,Write-ins,236
+NH,Sandown,President,,,Write-ins,15
+NH,Seabrook,President,,,Write-ins,41
+NH,South Hampton,President,,,Write-ins,6
+NH,Stratham,President,,,Write-ins,84
+NH,Windham,President,,,Write-ins,130
+NH,Rockingham County,President,,,Write-ins,2266
+NH,Barrington,President,,,Write-ins,46
+NH,Dover Ward 1,President,,,Write-ins,50
+NH,Dover Ward 2,President,,,Write-ins,0
+NH,Dover Ward 3,President,,,Write-ins,45
+NH,Dover Ward 4,President,,,Write-ins,56
+NH,Dover Ward 5,President,,,Write-ins,54
+NH,Dover Ward 6,President,,,Write-ins,39
+NH,Durham,President,,,Write-ins,101
+NH,Farmington,President,,,Write-ins,47
+NH,Lee,President,,,Write-ins,53
+NH,Madbury,President,,,Write-ins,19
+NH,Middleton,President,,,Write-ins,15
+NH,Milton,President,,,Write-ins,49
+NH,New Durham,President,,,Write-ins,30
+NH,Rochester Ward 1,President,,,Write-ins,49
+NH,Rochester Ward 2,President,,,Write-ins,33
+NH,Rochester Ward 3,President,,,Write-ins,42
+NH,Rochester Ward 4,President,,,Write-ins,47
+NH,Rochester Ward 5,President,,,Write-ins,44
+NH,Rochester Ward 6,President,,,Write-ins,40
+NH,Rollinsford,President,,,Write-ins,26
+NH,Somersworth Ward 1,President,,,Write-ins,21
+NH,Somersworth Ward 2,President,,,Write-ins,27
+NH,Somersworth Ward 3,President,,,Write-ins,12
+NH,Somersworth Ward 4,President,,,Write-ins,1
+NH,Somersworth Ward 5,President,,,Write-ins,23
+NH,Strafford   ,President,,,Write-ins,51
+NH,Strafford County,President,,,Write-ins,1020
+NH,Acworth,President,,,Write-ins,15
+NH,Charlestown,President,,,Write-ins,69
+NH,Claremont Ward 1,President,,,Write-ins,45
+NH,Claremont Ward 2,President,,,Write-ins,40
+NH,Claremont Ward 3,President,,,Write-ins,40
+NH,Cornish,President,,,Write-ins,58
+NH,Croydon,President,,,Write-ins,13
+NH,Goshen,President,,,Write-ins,14
+NH,Grantham,President,,,Write-ins,60
+NH,Langdon,President,,,Write-ins,4
+NH,Lempster,President,,,Write-ins,5
+NH,Newport ,President,,,Write-ins,70
+NH,Plainfield,President,,,Write-ins,29
+NH,Springfield,President,,,Write-ins,12
+NH,Sunapee,President,,,Write-ins,45
+NH,Unity,President,,,Write-ins,16
+NH,Washington,President,,,Write-ins,19
+NH,Sullivan County,President,,,Write-ins,554
+NH,Alton,President,,,Write-ins,49
+NH,Barnstead,President,,,Write-ins,23
+NH,Belmont,President,,,Write-ins,48
+NH,Center Harbor,President,,,Write-ins,13
+NH,Gilford,President,,,Write-ins,79
+NH,Gilmanton,President,,,Write-ins,32
+NH,Laconia Ward 1,President,,,Write-ins,26
+NH,Laconia Ward 2,President,,,Write-ins,10
+NH,Laconia Ward 3,President,,,Write-ins,17
+NH,Laconia Ward 4,President,,,Write-ins,15
+NH,Laconia Ward 5,President,,,Write-ins,23
+NH,Laconia Ward 6,President,,,Write-ins,20
+NH,Meredith,President,,,Write-ins,58
+NH,New Hampton,President,,,Write-ins,21
+NH,Sanbornton,President,,,Write-ins,25
+NH,Tilton,President,,,Write-ins,28
+NH,Belknap County,President,,,Write-ins,487
