@@ -1,6 +1,6 @@
 # openelections-data-us
 
-This repository contains pre-processed election results for president from all states. Caveats and notes on specific types of files are below.
+This repository contains pre-processed election results for president from all states, so far for the 2016 general election only. Caveats and notes on specific types of files are below.
 
 ### County-level files
 
