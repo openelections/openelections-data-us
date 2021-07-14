@@ -5611,7 +5611,7 @@ CROSS LAKE TWP (T17 R5),Governor,,IND,Eliot Cutler,8,ME
 CRYSTAL,Governor,,IND,Eliot Cutler,10,ME
 CYR PLT,Governor,,IND,Eliot Cutler,4,ME
 DYER BROOK,Governor,,IND,Eliot Cutler,13,ME
-E TWP                                                                                                                                                 ,Governor,,IND,Eliot Cutler,7,ME
+E TWP,Governor,,IND,Eliot Cutler,7,ME
 EAGLE LAKE,Governor,,IND,Eliot Cutler,30,ME
 EASTON,Governor,,IND,Eliot Cutler,63,ME
 FORT FAIRFIELD,Governor,,IND,Eliot Cutler,144,ME
@@ -5638,7 +5638,7 @@ MAPLETON,Governor,,IND,Eliot Cutler,91,ME
 MARS HILL,Governor,,IND,Eliot Cutler,61,ME
 MASARDIS,Governor,,IND,Eliot Cutler,10,ME
 MERRILL,Governor,,IND,Eliot Cutler,10,ME
-MOLUNKUS TWP                                                                                                                                          ,Governor,,IND,Eliot Cutler,1,ME
+MOLUNKUS TWP,Governor,,IND,Eliot Cutler,1,ME
 MONTICELLO,Governor,,IND,Eliot Cutler,30,ME
 MORO PLT,Governor,,IND,Eliot Cutler,2,ME
 NEW CANADA,Governor,,IND,Eliot Cutler,10,ME
@@ -5657,11 +5657,11 @@ SAINT JOHN PLT,Governor,,IND,Eliot Cutler,11,ME
 SHERMAN,Governor,,IND,Eliot Cutler,30,ME
 SMYRNA,Governor,,IND,Eliot Cutler,10,ME
 STOCKHOLM,Governor,,IND,Eliot Cutler,20,ME
-T11 R4 WELS                                                                                                                                           ,Governor,,IND,Eliot Cutler,3,ME
-T12 R13/T9 R8 WELS TWP                                                                                                                                ,Governor,,IND,Eliot Cutler,0,ME
-T15 R6 WELS                                                                                                                                           ,Governor,,IND,Eliot Cutler,0,ME
-T4 R3 TWP                                                                                                                                             ,Governor,,IND,Eliot Cutler,0,ME
-TD R2 WELS                                                                                                                                            ,Governor,,IND,Eliot Cutler,0,ME
+T11 R4 WELS,Governor,,IND,Eliot Cutler,3,ME
+T12 R13/T9 R8 WELS TWP,Governor,,IND,Eliot Cutler,0,ME
+T15 R6 WELS,Governor,,IND,Eliot Cutler,0,ME
+T4 R3 TWP,Governor,,IND,Eliot Cutler,0,ME
+TD R2 WELS,Governor,,IND,Eliot Cutler,0,ME
 VAN BUREN,Governor,,IND,Eliot Cutler,78,ME
 WADE,Governor,,IND,Eliot Cutler,17,ME
 WALLAGRASS,Governor,,IND,Eliot Cutler,23,ME
@@ -5707,13 +5707,13 @@ COPLIN PLT,Governor,,IND,Eliot Cutler,7,ME
 DALLAS PLT,Governor,,IND,Eliot Cutler,20,ME
 EUSTIS,Governor,,IND,Eliot Cutler,33,ME
 FARMINGTON,Governor,,IND,Eliot Cutler,274,ME
-FREEMAN TWP/SALEM TWP                                                                                                                                 ,Governor,,IND,Eliot Cutler,3,ME
+FREEMAN TWP/SALEM TWP,Governor,,IND,Eliot Cutler,3,ME
 INDUSTRY,Governor,,IND,Eliot Cutler,28,ME
 JAY,Governor,,IND,Eliot Cutler,189,ME
 KINGFIELD,Governor,,IND,Eliot Cutler,81,ME
 NEW SHARON,Governor,,IND,Eliot Cutler,60,ME
 NEW VINEYARD,Governor,,IND,Eliot Cutler,27,ME
-PERKINS TWP/WASHINGTON TWP                                                                                                                            ,Governor,,IND,Eliot Cutler,0,ME
+PERKINS TWP/WASHINGTON TWP,Governor,,IND,Eliot Cutler,0,ME
 PHILLIPS,Governor,,IND,Eliot Cutler,54,ME
 RANGELEY,Governor,,IND,Eliot Cutler,57,ME
 RANGELEY PLT,Governor,,IND,Eliot Cutler,7,ME
@@ -5722,7 +5722,7 @@ STRONG,Governor,,IND,Eliot Cutler,50,ME
 TEMPLE,Governor,,IND,Eliot Cutler,18,ME
 WELD,Governor,,IND,Eliot Cutler,22,ME
 WILTON,Governor,,IND,Eliot Cutler,166,ME
-WYMAN TWP                                                                                                                                             ,Governor,,IND,Eliot Cutler,3,ME
+WYMAN TWP,Governor,,IND,Eliot Cutler,3,ME
 AMHERST,Governor,,IND,Eliot Cutler,6,ME
 AURORA,Governor,,IND,Eliot Cutler,3,ME
 BAR HARBOR,Governor,,IND,Eliot Cutler,240,ME
@@ -5755,10 +5755,10 @@ STONINGTON,Governor,,IND,Eliot Cutler,69,ME
 SULLIVAN,Governor,,IND,Eliot Cutler,59,ME
 SURRY,Governor,,IND,Eliot Cutler,63,ME
 SWANS ISLAND,Governor,,IND,Eliot Cutler,8,ME
-T3 ND                                                                                                                                                 ,Governor,,IND,Eliot Cutler,0,ME
-T10 SD                                                                                                                                                ,Governor,,IND,Eliot Cutler,0,ME
-T22 MD                                                                                                                                                ,Governor,,IND,Eliot Cutler,0,ME
-T7 SD                                                                                                                                                 ,Governor,,IND,Eliot Cutler,1,ME
+T3 ND,Governor,,IND,Eliot Cutler,0,ME
+T10 SD,Governor,,IND,Eliot Cutler,0,ME
+T22 MD,Governor,,IND,Eliot Cutler,0,ME
+T7 SD,Governor,,IND,Eliot Cutler,1,ME
 TREMONT,Governor,,IND,Eliot Cutler,51,ME
 TRENTON,Governor,,IND,Eliot Cutler,71,ME
 VERONA ISLAND,Governor,,IND,Eliot Cutler,13,ME
@@ -5830,7 +5830,7 @@ WALDOBORO,Governor,,IND,Eliot Cutler,167,ME
 WESTPORT ISLAND,Governor,,IND,Eliot Cutler,32,ME
 WHITEFIELD,Governor,,IND,Eliot Cutler,93,ME
 WISCASSET,Governor,,IND,Eliot Cutler,159,ME
-ADAMSTOWN TWP/LOWER CUPSUPTIC TWP                                                                                                                     ,Governor,,IND,Eliot Cutler,0,ME
+ADAMSTOWN TWP/LOWER CUPSUPTIC TWP,Governor,,IND,Eliot Cutler,0,ME
 ALBANY TWP,Governor,,IND,Eliot Cutler,23,ME
 ANDOVER,Governor,,IND,Eliot Cutler,49,ME
 BETHEL,Governor,,IND,Eliot Cutler,118,ME
@@ -5851,7 +5851,7 @@ LINCOLN PLT,Governor,,IND,Eliot Cutler,2,ME
 LOVELL,Governor,,IND,Eliot Cutler,49,ME
 MAGALLOWAY PLT,Governor,,IND,Eliot Cutler,1,ME
 MEXICO,Governor,,IND,Eliot Cutler,97,ME
-MILTON TWP                                                                                                                                            ,Governor,,IND,Eliot Cutler,5,ME
+MILTON TWP,Governor,,IND,Eliot Cutler,5,ME
 NEWRY,Governor,,IND,Eliot Cutler,23,ME
 NORWAY,Governor,,IND,Eliot Cutler,187,ME
 OTISFIELD,Governor,,IND,Eliot Cutler,76,ME
@@ -5870,7 +5870,7 @@ WATERFORD,Governor,,IND,Eliot Cutler,60,ME
 WEST PARIS,Governor,,IND,Eliot Cutler,63,ME
 WOODSTOCK,Governor,,IND,Eliot Cutler,56,ME
 ALTON,Governor,,IND,Eliot Cutler,29,ME
-ARGYLE TWP                                                                                                                                            ,Governor,,IND,Eliot Cutler,3,ME
+ARGYLE TWP,Governor,,IND,Eliot Cutler,3,ME
 BANGOR,Governor,,IND,Eliot Cutler,1036,ME
 BRADFORD,Governor,,IND,Eliot Cutler,34,ME
 BRADLEY,Governor,,IND,Eliot Cutler,53,ME
@@ -5894,13 +5894,13 @@ ETNA,Governor,,IND,Eliot Cutler,27,ME
 EXETER,Governor,,IND,Eliot Cutler,44,ME
 GARLAND,Governor,,IND,Eliot Cutler,42,ME
 GLENBURN,Governor,,IND,Eliot Cutler,135,ME
-GRAND FALLS TWP                                                                                                                                       ,Governor,,IND,Eliot Cutler,0,ME
+GRAND FALLS TWP,Governor,,IND,Eliot Cutler,0,ME
 GREENBUSH,Governor,,IND,Eliot Cutler,38,ME
-GREENFIELD TWP                                                                                                                                        ,Governor,,IND,Eliot Cutler,6,ME
-GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS                                                                                              ,Governor,,IND,Eliot Cutler,1,ME
+GREENFIELD TWP,Governor,,IND,Eliot Cutler,6,ME
+GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS,Governor,,IND,Eliot Cutler,1,ME
 HAMPDEN,Governor,,IND,Eliot Cutler,252,ME
 HERMON,Governor,,IND,Eliot Cutler,150,ME
-HERSEYTOWN TWP                                                                                                                                        ,Governor,,IND,Eliot Cutler,0,ME
+HERSEYTOWN TWP,Governor,,IND,Eliot Cutler,0,ME
 HOLDEN,Governor,,IND,Eliot Cutler,133,ME
 HOWLAND,Governor,,IND,Eliot Cutler,28,ME
 HUDSON,Governor,,IND,Eliot Cutler,40,ME
@@ -5912,7 +5912,7 @@ LEE,Governor,,IND,Eliot Cutler,18,ME
 LEVANT,Governor,,IND,Eliot Cutler,69,ME
 LINCOLN,Governor,,IND,Eliot Cutler,159,ME
 LOWELL,Governor,,IND,Eliot Cutler,15,ME
-MATTAMISCONTIS TWP                                                                                                                                    ,Governor,,IND,Eliot Cutler,0,ME
+MATTAMISCONTIS TWP,Governor,,IND,Eliot Cutler,0,ME
 MATTAWAMKEAG,Governor,,IND,Eliot Cutler,14,ME
 MAXFIELD,Governor,,IND,Eliot Cutler,2,ME
 MEDWAY,Governor,,IND,Eliot Cutler,30,ME
@@ -5927,26 +5927,26 @@ ORRINGTON,Governor,,IND,Eliot Cutler,153,ME
 PASSADUMKEAG,Governor,,IND,Eliot Cutler,11,ME
 PATTEN,Governor,,IND,Eliot Cutler,24,ME
 PENOBSCOT NATION VOTING DISTRICT,Governor,,IND,Eliot Cutler,11,ME
-PENOBSCOT TWPS                                                                                                                                        ,Governor,,IND,Eliot Cutler,7,ME
+PENOBSCOT TWPS,Governor,,IND,Eliot Cutler,7,ME
 PLYMOUTH,Governor,,IND,Eliot Cutler,30,ME
 PRENTISS TWP,Governor,,IND,Eliot Cutler,0,ME
 SEBOEIS PLT,Governor,,IND,Eliot Cutler,0,ME
 SPRINGFIELD,Governor,,IND,Eliot Cutler,10,ME
 STACYVILLE,Governor,,IND,Eliot Cutler,11,ME
 STETSON,Governor,,IND,Eliot Cutler,24,ME
-T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP                                                                                                          ,Governor,,IND,Eliot Cutler,0,ME
+T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP,Governor,,IND,Eliot Cutler,0,ME
 VEAZIE,Governor,,IND,Eliot Cutler,72,ME
 WEBSTER PLT,Governor,,IND,Eliot Cutler,0,ME
 WINN,Governor,,IND,Eliot Cutler,8,ME
 WOODVILLE,Governor,,IND,Eliot Cutler,3,ME
 ABBOT,Governor,,IND,Eliot Cutler,34,ME
 ATKINSON,Governor,,IND,Eliot Cutler,5,ME
-BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP                                                                                    ,Governor,,IND,Eliot Cutler,7,ME
+BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP,Governor,,IND,Eliot Cutler,7,ME
 BEAVER COVE,Governor,,IND,Eliot Cutler,4,ME
 BOWERBANK,Governor,,IND,Eliot Cutler,9,ME
 BROWNVILLE,Governor,,IND,Eliot Cutler,49,ME
 DOVER-FOXCROFT,Governor,,IND,Eliot Cutler,168,ME
-ELLIOTTSVILLE TWP                                                                                                                                     ,Governor,,IND,Eliot Cutler,0,ME
+ELLIOTTSVILLE TWP,Governor,,IND,Eliot Cutler,0,ME
 GREENVILLE,Governor,,IND,Eliot Cutler,91,ME
 GUILFORD,Governor,,IND,Eliot Cutler,56,ME
 KINGSBURY PLT,Governor,,IND,Eliot Cutler,4,ME
@@ -5954,13 +5954,13 @@ LAKE VIEW PLT,Governor,,IND,Eliot Cutler,0,ME
 MEDFORD,Governor,,IND,Eliot Cutler,7,ME
 MILO,Governor,,IND,Eliot Cutler,63,ME
 MONSON,Governor,,IND,Eliot Cutler,25,ME
-ORNEVILLE TWP                                                                                                                                         ,Governor,,IND,Eliot Cutler,0,ME
+ORNEVILLE TWP,Governor,,IND,Eliot Cutler,0,ME
 PARKMAN,Governor,,IND,Eliot Cutler,34,ME
 SANGERVILLE,Governor,,IND,Eliot Cutler,48,ME
 SEBEC,Governor,,IND,Eliot Cutler,11,ME
 SHIRLEY,Governor,,IND,Eliot Cutler,9,ME
-T1 R9 WELS                                                                                                                                            ,Governor,,IND,Eliot Cutler,1,ME
-T10 R15 WELS TWP                                                                                                                                      ,Governor,,IND,Eliot Cutler,0,ME
+T1 R9 WELS,Governor,,IND,Eliot Cutler,1,ME
+T10 R15 WELS TWP,Governor,,IND,Eliot Cutler,0,ME
 WELLINGTON,Governor,,IND,Eliot Cutler,4,ME
 WILLIMANTIC,Governor,,IND,Eliot Cutler,2,ME
 ARROWSIC,Governor,,IND,Eliot Cutler,17,ME
@@ -5980,7 +5980,7 @@ BRIGHTON PLT,Governor,,IND,Eliot Cutler,1,ME
 CAMBRIDGE,Governor,,IND,Eliot Cutler,7,ME
 CANAAN,Governor,,IND,Eliot Cutler,68,ME
 CARATUNK,Governor,,IND,Eliot Cutler,7,ME
-CONCORD TWP                                                                                                                                           ,Governor,,IND,Eliot Cutler,0,ME
+CONCORD TWP,Governor,,IND,Eliot Cutler,0,ME
 CORNVILLE,Governor,,IND,Eliot Cutler,33,ME
 DENNISTOWN PLT,Governor,,IND,Eliot Cutler,1,ME
 DETROIT,Governor,,IND,Eliot Cutler,29,ME
@@ -5990,7 +5990,7 @@ HARMONY,Governor,,IND,Eliot Cutler,29,ME
 HARTLAND,Governor,,IND,Eliot Cutler,56,ME
 HIGHLAND PLT,Governor,,IND,Eliot Cutler,3,ME
 JACKMAN,Governor,,IND,Eliot Cutler,30,ME
-LEXINGTON TWP/SPRING LAKE TWP                                                                                                                         ,Governor,,IND,Eliot Cutler,0,ME
+LEXINGTON TWP/SPRING LAKE TWP,Governor,,IND,Eliot Cutler,0,ME
 MADISON,Governor,,IND,Eliot Cutler,130,ME
 MERCER,Governor,,IND,Eliot Cutler,44,ME
 MOOSE RIVER,Governor,,IND,Eliot Cutler,3,ME
@@ -6041,9 +6041,9 @@ BAILEYVILLE,Governor,,IND,Eliot Cutler,55,ME
 BARING PLT,Governor,,IND,Eliot Cutler,4,ME
 BEALS,Governor,,IND,Eliot Cutler,16,ME
 BEDDINGTON,Governor,,IND,Eliot Cutler,3,ME
-BERRY TWP/CATHANCE TWP/MARION TWP                                                                                                                     ,Governor,,IND,Eliot Cutler,2,ME
+BERRY TWP/CATHANCE TWP/MARION TWP,Governor,,IND,Eliot Cutler,2,ME
 CALAIS,Governor,,IND,Eliot Cutler,96,ME
-CENTERVILLE TWP                                                                                                                                       ,Governor,,IND,Eliot Cutler,0,ME
+CENTERVILLE TWP,Governor,,IND,Eliot Cutler,0,ME
 CHARLOTTE,Governor,,IND,Eliot Cutler,10,ME
 CHERRYFIELD,Governor,,IND,Eliot Cutler,32,ME
 COLUMBIA,Governor,,IND,Eliot Cutler,8,ME
@@ -6140,7 +6140,7 @@ CROSS LAKE TWP (T17 R5),Governor,,REP,Paul LePage,49,ME
 CRYSTAL,Governor,,REP,Paul LePage,80,ME
 CYR PLT,Governor,,REP,Paul LePage,24,ME
 DYER BROOK,Governor,,REP,Paul LePage,66,ME
-E TWP                                                                                                                                                 ,Governor,,REP,Paul LePage,15,ME
+E TWP,Governor,,REP,Paul LePage,15,ME
 EAGLE LAKE,Governor,,REP,Paul LePage,159,ME
 EASTON,Governor,,REP,Paul LePage,300,ME
 FORT FAIRFIELD,Governor,,REP,Paul LePage,641,ME
@@ -6167,7 +6167,7 @@ MAPLETON,Governor,,REP,Paul LePage,527,ME
 MARS HILL,Governor,,REP,Paul LePage,409,ME
 MASARDIS,Governor,,REP,Paul LePage,54,ME
 MERRILL,Governor,,REP,Paul LePage,53,ME
-MOLUNKUS TWP                                                                                                                                          ,Governor,,REP,Paul LePage,16,ME
+MOLUNKUS TWP,Governor,,REP,Paul LePage,16,ME
 MONTICELLO,Governor,,REP,Paul LePage,180,ME
 MORO PLT,Governor,,REP,Paul LePage,17,ME
 NEW CANADA,Governor,,REP,Paul LePage,47,ME
@@ -6186,11 +6186,11 @@ SAINT JOHN PLT,Governor,,REP,Paul LePage,50,ME
 SHERMAN,Governor,,REP,Paul LePage,345,ME
 SMYRNA,Governor,,REP,Paul LePage,58,ME
 STOCKHOLM,Governor,,REP,Paul LePage,55,ME
-T11 R4 WELS                                                                                                                                           ,Governor,,REP,Paul LePage,10,ME
-T12 R13/T9 R8 WELS TWP                                                                                                                                ,Governor,,REP,Paul LePage,0,ME
-T15 R6 WELS                                                                                                                                           ,Governor,,REP,Paul LePage,5,ME
-T4 R3 TWP                                                                                                                                             ,Governor,,REP,Paul LePage,0,ME
-TD R2 WELS                                                                                                                                            ,Governor,,REP,Paul LePage,0,ME
+T11 R4 WELS,Governor,,REP,Paul LePage,10,ME
+T12 R13/T9 R8 WELS TWP,Governor,,REP,Paul LePage,0,ME
+T15 R6 WELS,Governor,,REP,Paul LePage,5,ME
+T4 R3 TWP,Governor,,REP,Paul LePage,0,ME
+TD R2 WELS,Governor,,REP,Paul LePage,0,ME
 VAN BUREN,Governor,,REP,Paul LePage,255,ME
 WADE,Governor,,REP,Paul LePage,61,ME
 WALLAGRASS,Governor,,REP,Paul LePage,97,ME
@@ -6236,13 +6236,13 @@ COPLIN PLT,Governor,,REP,Paul LePage,51,ME
 DALLAS PLT,Governor,,REP,Paul LePage,111,ME
 EUSTIS,Governor,,REP,Paul LePage,216,ME
 FARMINGTON,Governor,,REP,Paul LePage,1421,ME
-FREEMAN TWP/SALEM TWP                                                                                                                                 ,Governor,,REP,Paul LePage,63,ME
+FREEMAN TWP/SALEM TWP,Governor,,REP,Paul LePage,63,ME
 INDUSTRY,Governor,,REP,Paul LePage,223,ME
 JAY,Governor,,REP,Paul LePage,1110,ME
 KINGFIELD,Governor,,REP,Paul LePage,419,ME
 NEW SHARON,Governor,,REP,Paul LePage,471,ME
 NEW VINEYARD,Governor,,REP,Paul LePage,246,ME
-PERKINS TWP/WASHINGTON TWP                                                                                                                            ,Governor,,REP,Paul LePage,18,ME
+PERKINS TWP/WASHINGTON TWP,Governor,,REP,Paul LePage,18,ME
 PHILLIPS,Governor,,REP,Paul LePage,283,ME
 RANGELEY,Governor,,REP,Paul LePage,359,ME
 RANGELEY PLT,Governor,,REP,Paul LePage,94,ME
@@ -6251,7 +6251,7 @@ STRONG,Governor,,REP,Paul LePage,364,ME
 TEMPLE,Governor,,REP,Paul LePage,137,ME
 WELD,Governor,,REP,Paul LePage,152,ME
 WILTON,Governor,,REP,Paul LePage,982,ME
-WYMAN TWP                                                                                                                                             ,Governor,,REP,Paul LePage,21,ME
+WYMAN TWP,Governor,,REP,Paul LePage,21,ME
 AMHERST,Governor,,REP,Paul LePage,80,ME
 AURORA,Governor,,REP,Paul LePage,34,ME
 BAR HARBOR,Governor,,REP,Paul LePage,728,ME
@@ -6284,10 +6284,10 @@ STONINGTON,Governor,,REP,Paul LePage,185,ME
 SULLIVAN,Governor,,REP,Paul LePage,255,ME
 SURRY,Governor,,REP,Paul LePage,386,ME
 SWANS ISLAND,Governor,,REP,Paul LePage,128,ME
-T3 ND                                                                                                                                                 ,Governor,,REP,Paul LePage,4,ME
-T10 SD                                                                                                                                                ,Governor,,REP,Paul LePage,8,ME
-T22 MD                                                                                                                                                ,Governor,,REP,Paul LePage,4,ME
-T7 SD                                                                                                                                                 ,Governor,,REP,Paul LePage,1,ME
+T3 ND,Governor,,REP,Paul LePage,4,ME
+T10 SD,Governor,,REP,Paul LePage,8,ME
+T22 MD,Governor,,REP,Paul LePage,4,ME
+T7 SD,Governor,,REP,Paul LePage,1,ME
 TREMONT,Governor,,REP,Paul LePage,332,ME
 TRENTON,Governor,,REP,Paul LePage,368,ME
 VERONA ISLAND,Governor,,REP,Paul LePage,144,ME
@@ -6359,7 +6359,7 @@ WALDOBORO,Governor,,REP,Paul LePage,1163,ME
 WESTPORT ISLAND,Governor,,REP,Paul LePage,214,ME
 WHITEFIELD,Governor,,REP,Paul LePage,556,ME
 WISCASSET,Governor,,REP,Paul LePage,999,ME
-ADAMSTOWN TWP/LOWER CUPSUPTIC TWP                                                                                                                     ,Governor,,REP,Paul LePage,3,ME
+ADAMSTOWN TWP/LOWER CUPSUPTIC TWP,Governor,,REP,Paul LePage,3,ME
 ALBANY TWP,Governor,,REP,Paul LePage,111,ME
 ANDOVER,Governor,,REP,Paul LePage,259,ME
 BETHEL,Governor,,REP,Paul LePage,661,ME
@@ -6380,7 +6380,7 @@ LINCOLN PLT,Governor,,REP,Paul LePage,16,ME
 LOVELL,Governor,,REP,Paul LePage,326,ME
 MAGALLOWAY PLT,Governor,,REP,Paul LePage,15,ME
 MEXICO,Governor,,REP,Paul LePage,540,ME
-MILTON TWP                                                                                                                                            ,Governor,,REP,Paul LePage,50,ME
+MILTON TWP,Governor,,REP,Paul LePage,50,ME
 NEWRY,Governor,,REP,Paul LePage,126,ME
 NORWAY,Governor,,REP,Paul LePage,1179,ME
 OTISFIELD,Governor,,REP,Paul LePage,503,ME
@@ -6399,7 +6399,7 @@ WATERFORD,Governor,,REP,Paul LePage,464,ME
 WEST PARIS,Governor,,REP,Paul LePage,441,ME
 WOODSTOCK,Governor,,REP,Paul LePage,382,ME
 ALTON,Governor,,REP,Paul LePage,203,ME
-ARGYLE TWP                                                                                                                                            ,Governor,,REP,Paul LePage,47,ME
+ARGYLE TWP,Governor,,REP,Paul LePage,47,ME
 BANGOR,Governor,,REP,Paul LePage,4813,ME
 BRADFORD,Governor,,REP,Paul LePage,352,ME
 BRADLEY,Governor,,REP,Paul LePage,319,ME
@@ -6423,13 +6423,13 @@ ETNA,Governor,,REP,Paul LePage,345,ME
 EXETER,Governor,,REP,Paul LePage,270,ME
 GARLAND,Governor,,REP,Paul LePage,262,ME
 GLENBURN,Governor,,REP,Paul LePage,1221,ME
-GRAND FALLS TWP                                                                                                                                       ,Governor,,REP,Paul LePage,4,ME
+GRAND FALLS TWP,Governor,,REP,Paul LePage,4,ME
 GREENBUSH,Governor,,REP,Paul LePage,362,ME
-GREENFIELD TWP                                                                                                                                        ,Governor,,REP,Paul LePage,80,ME
-GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS                                                                                              ,Governor,,REP,Paul LePage,11,ME
+GREENFIELD TWP,Governor,,REP,Paul LePage,80,ME
+GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS,Governor,,REP,Paul LePage,11,ME
 HAMPDEN,Governor,,REP,Paul LePage,1772,ME
 HERMON,Governor,,REP,Paul LePage,1709,ME
-HERSEYTOWN TWP                                                                                                                                        ,Governor,,REP,Paul LePage,8,ME
+HERSEYTOWN TWP,Governor,,REP,Paul LePage,8,ME
 HOLDEN,Governor,,REP,Paul LePage,995,ME
 HOWLAND,Governor,,REP,Paul LePage,310,ME
 HUDSON,Governor,,REP,Paul LePage,390,ME
@@ -6441,7 +6441,7 @@ LEE,Governor,,REP,Paul LePage,271,ME
 LEVANT,Governor,,REP,Paul LePage,774,ME
 LINCOLN,Governor,,REP,Paul LePage,1211,ME
 LOWELL,Governor,,REP,Paul LePage,135,ME
-MATTAMISCONTIS TWP                                                                                                                                    ,Governor,,REP,Paul LePage,29,ME
+MATTAMISCONTIS TWP,Governor,,REP,Paul LePage,29,ME
 MATTAWAMKEAG,Governor,,REP,Paul LePage,154,ME
 MAXFIELD,Governor,,REP,Paul LePage,31,ME
 MEDWAY,Governor,,REP,Paul LePage,344,ME
@@ -6456,26 +6456,26 @@ ORRINGTON,Governor,,REP,Paul LePage,1101,ME
 PASSADUMKEAG,Governor,,REP,Paul LePage,122,ME
 PATTEN,Governor,,REP,Paul LePage,270,ME
 PENOBSCOT NATION VOTING DISTRICT,Governor,,REP,Paul LePage,32,ME
-PENOBSCOT TWPS                                                                                                                                        ,Governor,,REP,Paul LePage,59,ME
+PENOBSCOT TWPS,Governor,,REP,Paul LePage,59,ME
 PLYMOUTH,Governor,,REP,Paul LePage,404,ME
 PRENTISS TWP,Governor,,REP,Paul LePage,51,ME
 SEBOEIS PLT,Governor,,REP,Paul LePage,13,ME
 SPRINGFIELD,Governor,,REP,Paul LePage,96,ME
 STACYVILLE,Governor,,REP,Paul LePage,100,ME
 STETSON,Governor,,REP,Paul LePage,364,ME
-T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP                                                                                                          ,Governor,,REP,Paul LePage,5,ME
+T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP,Governor,,REP,Paul LePage,5,ME
 VEAZIE,Governor,,REP,Paul LePage,398,ME
 WEBSTER PLT,Governor,,REP,Paul LePage,7,ME
 WINN,Governor,,REP,Paul LePage,111,ME
 WOODVILLE,Governor,,REP,Paul LePage,65,ME
 ABBOT,Governor,,REP,Paul LePage,229,ME
 ATKINSON,Governor,,REP,Paul LePage,108,ME
-BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP                                                                                    ,Governor,,REP,Paul LePage,62,ME
+BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP,Governor,,REP,Paul LePage,62,ME
 BEAVER COVE,Governor,,REP,Paul LePage,56,ME
 BOWERBANK,Governor,,REP,Paul LePage,50,ME
 BROWNVILLE,Governor,,REP,Paul LePage,272,ME
 DOVER-FOXCROFT,Governor,,REP,Paul LePage,1031,ME
-ELLIOTTSVILLE TWP                                                                                                                                     ,Governor,,REP,Paul LePage,5,ME
+ELLIOTTSVILLE TWP,Governor,,REP,Paul LePage,5,ME
 GREENVILLE,Governor,,REP,Paul LePage,621,ME
 GUILFORD,Governor,,REP,Paul LePage,375,ME
 KINGSBURY PLT,Governor,,REP,Paul LePage,7,ME
@@ -6483,13 +6483,13 @@ LAKE VIEW PLT,Governor,,REP,Paul LePage,37,ME
 MEDFORD,Governor,,REP,Paul LePage,71,ME
 MILO,Governor,,REP,Paul LePage,534,ME
 MONSON,Governor,,REP,Paul LePage,227,ME
-ORNEVILLE TWP                                                                                                                                         ,Governor,,REP,Paul LePage,1,ME
+ORNEVILLE TWP,Governor,,REP,Paul LePage,1,ME
 PARKMAN,Governor,,REP,Paul LePage,266,ME
 SANGERVILLE,Governor,,REP,Paul LePage,352,ME
 SEBEC,Governor,,REP,Paul LePage,226,ME
 SHIRLEY,Governor,,REP,Paul LePage,87,ME
-T1 R9 WELS                                                                                                                                            ,Governor,,REP,Paul LePage,37,ME
-T10 R15 WELS TWP                                                                                                                                      ,Governor,,REP,Paul LePage,2,ME
+T1 R9 WELS,Governor,,REP,Paul LePage,37,ME
+T10 R15 WELS TWP,Governor,,REP,Paul LePage,2,ME
 WELLINGTON,Governor,,REP,Paul LePage,42,ME
 WILLIMANTIC,Governor,,REP,Paul LePage,38,ME
 ARROWSIC,Governor,,REP,Paul LePage,119,ME
@@ -6509,7 +6509,7 @@ BRIGHTON PLT,Governor,,REP,Paul LePage,29,ME
 CAMBRIDGE,Governor,,REP,Paul LePage,154,ME
 CANAAN,Governor,,REP,Paul LePage,486,ME
 CARATUNK,Governor,,REP,Paul LePage,30,ME
-CONCORD TWP                                                                                                                                           ,Governor,,REP,Paul LePage,0,ME
+CONCORD TWP,Governor,,REP,Paul LePage,0,ME
 CORNVILLE,Governor,,REP,Paul LePage,370,ME
 DENNISTOWN PLT,Governor,,REP,Paul LePage,18,ME
 DETROIT,Governor,,REP,Paul LePage,175,ME
@@ -6519,7 +6519,7 @@ HARMONY,Governor,,REP,Paul LePage,242,ME
 HARTLAND,Governor,,REP,Paul LePage,484,ME
 HIGHLAND PLT,Governor,,REP,Paul LePage,84,ME
 JACKMAN,Governor,,REP,Paul LePage,334,ME
-LEXINGTON TWP/SPRING LAKE TWP                                                                                                                         ,Governor,,REP,Paul LePage,4,ME
+LEXINGTON TWP/SPRING LAKE TWP,Governor,,REP,Paul LePage,4,ME
 MADISON,Governor,,REP,Paul LePage,986,ME
 MERCER,Governor,,REP,Paul LePage,178,ME
 MOOSE RIVER,Governor,,REP,Paul LePage,81,ME
@@ -6570,9 +6570,9 @@ BAILEYVILLE,Governor,,REP,Paul LePage,271,ME
 BARING PLT,Governor,,REP,Paul LePage,60,ME
 BEALS,Governor,,REP,Paul LePage,132,ME
 BEDDINGTON,Governor,,REP,Paul LePage,20,ME
-BERRY TWP/CATHANCE TWP/MARION TWP                                                                                                                     ,Governor,,REP,Paul LePage,14,ME
+BERRY TWP/CATHANCE TWP/MARION TWP,Governor,,REP,Paul LePage,14,ME
 CALAIS,Governor,,REP,Paul LePage,636,ME
-CENTERVILLE TWP                                                                                                                                       ,Governor,,REP,Paul LePage,14,ME
+CENTERVILLE TWP,Governor,,REP,Paul LePage,14,ME
 CHARLOTTE,Governor,,REP,Paul LePage,93,ME
 CHERRYFIELD,Governor,,REP,Paul LePage,323,ME
 COLUMBIA,Governor,,REP,Paul LePage,116,ME
@@ -6669,7 +6669,7 @@ CROSS LAKE TWP (T17 R5),Governor,,DEM,Michael H. Michaud,41,ME
 CRYSTAL,Governor,,DEM,Michael H. Michaud,38,ME
 CYR PLT,Governor,,DEM,Michael H. Michaud,17,ME
 DYER BROOK,Governor,,DEM,Michael H. Michaud,39,ME
-E TWP                                                                                                                                                 ,Governor,,DEM,Michael H. Michaud,5,ME
+E TWP,Governor,,DEM,Michael H. Michaud,5,ME
 EAGLE LAKE,Governor,,DEM,Michael H. Michaud,205,ME
 EASTON,Governor,,DEM,Michael H. Michaud,185,ME
 FORT FAIRFIELD,Governor,,DEM,Michael H. Michaud,579,ME
@@ -6696,7 +6696,7 @@ MAPLETON,Governor,,DEM,Michael H. Michaud,312,ME
 MARS HILL,Governor,,DEM,Michael H. Michaud,166,ME
 MASARDIS,Governor,,DEM,Michael H. Michaud,49,ME
 MERRILL,Governor,,DEM,Michael H. Michaud,48,ME
-MOLUNKUS TWP                                                                                                                                          ,Governor,,DEM,Michael H. Michaud,21,ME
+MOLUNKUS TWP,Governor,,DEM,Michael H. Michaud,21,ME
 MONTICELLO,Governor,,DEM,Michael H. Michaud,119,ME
 MORO PLT,Governor,,DEM,Michael H. Michaud,5,ME
 NEW CANADA,Governor,,DEM,Michael H. Michaud,58,ME
@@ -6715,11 +6715,11 @@ SAINT JOHN PLT,Governor,,DEM,Michael H. Michaud,64,ME
 SHERMAN,Governor,,DEM,Michael H. Michaud,173,ME
 SMYRNA,Governor,,DEM,Michael H. Michaud,41,ME
 STOCKHOLM,Governor,,DEM,Michael H. Michaud,61,ME
-T11 R4 WELS                                                                                                                                           ,Governor,,DEM,Michael H. Michaud,5,ME
-T12 R13/T9 R8 WELS TWP                                                                                                                                ,Governor,,DEM,Michael H. Michaud,2,ME
-T15 R6 WELS                                                                                                                                           ,Governor,,DEM,Michael H. Michaud,0,ME
-T4 R3 TWP                                                                                                                                             ,Governor,,DEM,Michael H. Michaud,1,ME
-TD R2 WELS                                                                                                                                            ,Governor,,DEM,Michael H. Michaud,3,ME
+T11 R4 WELS,Governor,,DEM,Michael H. Michaud,5,ME
+T12 R13/T9 R8 WELS TWP,Governor,,DEM,Michael H. Michaud,2,ME
+T15 R6 WELS,Governor,,DEM,Michael H. Michaud,0,ME
+T4 R3 TWP,Governor,,DEM,Michael H. Michaud,1,ME
+TD R2 WELS,Governor,,DEM,Michael H. Michaud,3,ME
 VAN BUREN,Governor,,DEM,Michael H. Michaud,441,ME
 WADE,Governor,,DEM,Michael H. Michaud,42,ME
 WALLAGRASS,Governor,,DEM,Michael H. Michaud,147,ME
@@ -6765,13 +6765,13 @@ COPLIN PLT,Governor,,DEM,Michael H. Michaud,27,ME
 DALLAS PLT,Governor,,DEM,Michael H. Michaud,68,ME
 EUSTIS,Governor,,DEM,Michael H. Michaud,86,ME
 FARMINGTON,Governor,,DEM,Michael H. Michaud,1449,ME
-FREEMAN TWP/SALEM TWP                                                                                                                                 ,Governor,,DEM,Michael H. Michaud,25,ME
+FREEMAN TWP/SALEM TWP,Governor,,DEM,Michael H. Michaud,25,ME
 INDUSTRY,Governor,,DEM,Michael H. Michaud,160,ME
 JAY,Governor,,DEM,Michael H. Michaud,944,ME
 KINGFIELD,Governor,,DEM,Michael H. Michaud,214,ME
 NEW SHARON,Governor,,DEM,Michael H. Michaud,267,ME
 NEW VINEYARD,Governor,,DEM,Michael H. Michaud,114,ME
-PERKINS TWP/WASHINGTON TWP                                                                                                                            ,Governor,,DEM,Michael H. Michaud,14,ME
+PERKINS TWP/WASHINGTON TWP,Governor,,DEM,Michael H. Michaud,14,ME
 PHILLIPS,Governor,,DEM,Michael H. Michaud,194,ME
 RANGELEY,Governor,,DEM,Michael H. Michaud,193,ME
 RANGELEY PLT,Governor,,DEM,Michael H. Michaud,42,ME
@@ -6780,7 +6780,7 @@ STRONG,Governor,,DEM,Michael H. Michaud,155,ME
 TEMPLE,Governor,,DEM,Michael H. Michaud,124,ME
 WELD,Governor,,DEM,Michael H. Michaud,90,ME
 WILTON,Governor,,DEM,Michael H. Michaud,693,ME
-WYMAN TWP                                                                                                                                             ,Governor,,DEM,Michael H. Michaud,12,ME
+WYMAN TWP,Governor,,DEM,Michael H. Michaud,12,ME
 AMHERST,Governor,,DEM,Michael H. Michaud,49,ME
 AURORA,Governor,,DEM,Michael H. Michaud,19,ME
 BAR HARBOR,Governor,,DEM,Michael H. Michaud,1617,ME
@@ -6813,10 +6813,10 @@ STONINGTON,Governor,,DEM,Michael H. Michaud,216,ME
 SULLIVAN,Governor,,DEM,Michael H. Michaud,216,ME
 SURRY,Governor,,DEM,Michael H. Michaud,392,ME
 SWANS ISLAND,Governor,,DEM,Michael H. Michaud,65,ME
-T3 ND                                                                                                                                                 ,Governor,,DEM,Michael H. Michaud,3,ME
-T10 SD                                                                                                                                                ,Governor,,DEM,Michael H. Michaud,4,ME
-T22 MD                                                                                                                                                ,Governor,,DEM,Michael H. Michaud,0,ME
-T7 SD                                                                                                                                                 ,Governor,,DEM,Michael H. Michaud,1,ME
+T3 ND,Governor,,DEM,Michael H. Michaud,3,ME
+T10 SD,Governor,,DEM,Michael H. Michaud,4,ME
+T22 MD,Governor,,DEM,Michael H. Michaud,0,ME
+T7 SD,Governor,,DEM,Michael H. Michaud,1,ME
 TREMONT,Governor,,DEM,Michael H. Michaud,369,ME
 TRENTON,Governor,,DEM,Michael H. Michaud,256,ME
 VERONA ISLAND,Governor,,DEM,Michael H. Michaud,103,ME
@@ -6888,7 +6888,7 @@ WALDOBORO,Governor,,DEM,Michael H. Michaud,856,ME
 WESTPORT ISLAND,Governor,,DEM,Michael H. Michaud,184,ME
 WHITEFIELD,Governor,,DEM,Michael H. Michaud,480,ME
 WISCASSET,Governor,,DEM,Michael H. Michaud,618,ME
-ADAMSTOWN TWP/LOWER CUPSUPTIC TWP                                                                                                                     ,Governor,,DEM,Michael H. Michaud,0,ME
+ADAMSTOWN TWP/LOWER CUPSUPTIC TWP,Governor,,DEM,Michael H. Michaud,0,ME
 ALBANY TWP,Governor,,DEM,Michael H. Michaud,105,ME
 ANDOVER,Governor,,DEM,Michael H. Michaud,147,ME
 BETHEL,Governor,,DEM,Michael H. Michaud,599,ME
@@ -6909,7 +6909,7 @@ LINCOLN PLT,Governor,,DEM,Michael H. Michaud,9,ME
 LOVELL,Governor,,DEM,Michael H. Michaud,222,ME
 MAGALLOWAY PLT,Governor,,DEM,Michael H. Michaud,1,ME
 MEXICO,Governor,,DEM,Michael H. Michaud,474,ME
-MILTON TWP                                                                                                                                            ,Governor,,DEM,Michael H. Michaud,15,ME
+MILTON TWP,Governor,,DEM,Michael H. Michaud,15,ME
 NEWRY,Governor,,DEM,Michael H. Michaud,86,ME
 NORWAY,Governor,,DEM,Michael H. Michaud,797,ME
 OTISFIELD,Governor,,DEM,Michael H. Michaud,333,ME
@@ -6928,7 +6928,7 @@ WATERFORD,Governor,,DEM,Michael H. Michaud,278,ME
 WEST PARIS,Governor,,DEM,Michael H. Michaud,290,ME
 WOODSTOCK,Governor,,DEM,Michael H. Michaud,215,ME
 ALTON,Governor,,DEM,Michael H. Michaud,140,ME
-ARGYLE TWP                                                                                                                                            ,Governor,,DEM,Michael H. Michaud,26,ME
+ARGYLE TWP,Governor,,DEM,Michael H. Michaud,26,ME
 BANGOR,Governor,,DEM,Michael H. Michaud,6022,ME
 BRADFORD,Governor,,DEM,Michael H. Michaud,158,ME
 BRADLEY,Governor,,DEM,Michael H. Michaud,288,ME
@@ -6952,13 +6952,13 @@ ETNA,Governor,,DEM,Michael H. Michaud,159,ME
 EXETER,Governor,,DEM,Michael H. Michaud,136,ME
 GARLAND,Governor,,DEM,Michael H. Michaud,161,ME
 GLENBURN,Governor,,DEM,Michael H. Michaud,687,ME
-GRAND FALLS TWP                                                                                                                                       ,Governor,,DEM,Michael H. Michaud,4,ME
+GRAND FALLS TWP,Governor,,DEM,Michael H. Michaud,4,ME
 GREENBUSH,Governor,,DEM,Michael H. Michaud,147,ME
-GREENFIELD TWP                                                                                                                                        ,Governor,,DEM,Michael H. Michaud,27,ME
-GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS                                                                                              ,Governor,,DEM,Michael H. Michaud,13,ME
+GREENFIELD TWP,Governor,,DEM,Michael H. Michaud,27,ME
+GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS,Governor,,DEM,Michael H. Michaud,13,ME
 HAMPDEN,Governor,,DEM,Michael H. Michaud,1335,ME
 HERMON,Governor,,DEM,Michael H. Michaud,835,ME
-HERSEYTOWN TWP                                                                                                                                        ,Governor,,DEM,Michael H. Michaud,2,ME
+HERSEYTOWN TWP,Governor,,DEM,Michael H. Michaud,2,ME
 HOLDEN,Governor,,DEM,Michael H. Michaud,572,ME
 HOWLAND,Governor,,DEM,Michael H. Michaud,223,ME
 HUDSON,Governor,,DEM,Michael H. Michaud,169,ME
@@ -6970,7 +6970,7 @@ LEE,Governor,,DEM,Michael H. Michaud,139,ME
 LEVANT,Governor,,DEM,Michael H. Michaud,337,ME
 LINCOLN,Governor,,DEM,Michael H. Michaud,677,ME
 LOWELL,Governor,,DEM,Michael H. Michaud,39,ME
-MATTAMISCONTIS TWP                                                                                                                                    ,Governor,,DEM,Michael H. Michaud,9,ME
+MATTAMISCONTIS TWP,Governor,,DEM,Michael H. Michaud,9,ME
 MATTAWAMKEAG,Governor,,DEM,Michael H. Michaud,140,ME
 MAXFIELD,Governor,,DEM,Michael H. Michaud,17,ME
 MEDWAY,Governor,,DEM,Michael H. Michaud,273,ME
@@ -6985,26 +6985,26 @@ ORRINGTON,Governor,,DEM,Michael H. Michaud,640,ME
 PASSADUMKEAG,Governor,,DEM,Michael H. Michaud,59,ME
 PATTEN,Governor,,DEM,Michael H. Michaud,170,ME
 PENOBSCOT NATION VOTING DISTRICT,Governor,,DEM,Michael H. Michaud,182,ME
-PENOBSCOT TWPS                                                                                                                                        ,Governor,,DEM,Michael H. Michaud,58,ME
+PENOBSCOT TWPS,Governor,,DEM,Michael H. Michaud,58,ME
 PLYMOUTH,Governor,,DEM,Michael H. Michaud,149,ME
 PRENTISS TWP,Governor,,DEM,Michael H. Michaud,15,ME
 SEBOEIS PLT,Governor,,DEM,Michael H. Michaud,13,ME
 SPRINGFIELD,Governor,,DEM,Michael H. Michaud,52,ME
 STACYVILLE,Governor,,DEM,Michael H. Michaud,65,ME
 STETSON,Governor,,DEM,Michael H. Michaud,160,ME
-T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP                                                                                                          ,Governor,,DEM,Michael H. Michaud,3,ME
+T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP,Governor,,DEM,Michael H. Michaud,3,ME
 VEAZIE,Governor,,DEM,Michael H. Michaud,424,ME
 WEBSTER PLT,Governor,,DEM,Michael H. Michaud,11,ME
 WINN,Governor,,DEM,Michael H. Michaud,38,ME
 WOODVILLE,Governor,,DEM,Michael H. Michaud,41,ME
 ABBOT,Governor,,DEM,Michael H. Michaud,82,ME
 ATKINSON,Governor,,DEM,Michael H. Michaud,55,ME
-BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP                                                                                    ,Governor,,DEM,Michael H. Michaud,23,ME
+BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP,Governor,,DEM,Michael H. Michaud,23,ME
 BEAVER COVE,Governor,,DEM,Michael H. Michaud,25,ME
 BOWERBANK,Governor,,DEM,Michael H. Michaud,15,ME
 BROWNVILLE,Governor,,DEM,Michael H. Michaud,207,ME
 DOVER-FOXCROFT,Governor,,DEM,Michael H. Michaud,706,ME
-ELLIOTTSVILLE TWP                                                                                                                                     ,Governor,,DEM,Michael H. Michaud,12,ME
+ELLIOTTSVILLE TWP,Governor,,DEM,Michael H. Michaud,12,ME
 GREENVILLE,Governor,,DEM,Michael H. Michaud,325,ME
 GUILFORD,Governor,,DEM,Michael H. Michaud,207,ME
 KINGSBURY PLT,Governor,,DEM,Michael H. Michaud,4,ME
@@ -7012,13 +7012,13 @@ LAKE VIEW PLT,Governor,,DEM,Michael H. Michaud,25,ME
 MEDFORD,Governor,,DEM,Michael H. Michaud,35,ME
 MILO,Governor,,DEM,Michael H. Michaud,382,ME
 MONSON,Governor,,DEM,Michael H. Michaud,135,ME
-ORNEVILLE TWP                                                                                                                                         ,Governor,,DEM,Michael H. Michaud,0,ME
+ORNEVILLE TWP,Governor,,DEM,Michael H. Michaud,0,ME
 PARKMAN,Governor,,DEM,Michael H. Michaud,125,ME
 SANGERVILLE,Governor,,DEM,Michael H. Michaud,204,ME
 SEBEC,Governor,,DEM,Michael H. Michaud,96,ME
 SHIRLEY,Governor,,DEM,Michael H. Michaud,34,ME
-T1 R9 WELS                                                                                                                                            ,Governor,,DEM,Michael H. Michaud,19,ME
-T10 R15 WELS TWP                                                                                                                                      ,Governor,,DEM,Michael H. Michaud,0,ME
+T1 R9 WELS,Governor,,DEM,Michael H. Michaud,19,ME
+T10 R15 WELS TWP,Governor,,DEM,Michael H. Michaud,0,ME
 WELLINGTON,Governor,,DEM,Michael H. Michaud,59,ME
 WILLIMANTIC,Governor,,DEM,Michael H. Michaud,35,ME
 ARROWSIC,Governor,,DEM,Michael H. Michaud,194,ME
@@ -7038,7 +7038,7 @@ BRIGHTON PLT,Governor,,DEM,Michael H. Michaud,7,ME
 CAMBRIDGE,Governor,,DEM,Michael H. Michaud,59,ME
 CANAAN,Governor,,DEM,Michael H. Michaud,373,ME
 CARATUNK,Governor,,DEM,Michael H. Michaud,9,ME
-CONCORD TWP                                                                                                                                           ,Governor,,DEM,Michael H. Michaud,0,ME
+CONCORD TWP,Governor,,DEM,Michael H. Michaud,0,ME
 CORNVILLE,Governor,,DEM,Michael H. Michaud,238,ME
 DENNISTOWN PLT,Governor,,DEM,Michael H. Michaud,5,ME
 DETROIT,Governor,,DEM,Michael H. Michaud,108,ME
@@ -7048,7 +7048,7 @@ HARMONY,Governor,,DEM,Michael H. Michaud,147,ME
 HARTLAND,Governor,,DEM,Michael H. Michaud,220,ME
 HIGHLAND PLT,Governor,,DEM,Michael H. Michaud,27,ME
 JACKMAN,Governor,,DEM,Michael H. Michaud,109,ME
-LEXINGTON TWP/SPRING LAKE TWP                                                                                                                         ,Governor,,DEM,Michael H. Michaud,2,ME
+LEXINGTON TWP/SPRING LAKE TWP,Governor,,DEM,Michael H. Michaud,2,ME
 MADISON,Governor,,DEM,Michael H. Michaud,820,ME
 MERCER,Governor,,DEM,Michael H. Michaud,140,ME
 MOOSE RIVER,Governor,,DEM,Michael H. Michaud,18,ME
@@ -7099,9 +7099,9 @@ BAILEYVILLE,Governor,,DEM,Michael H. Michaud,222,ME
 BARING PLT,Governor,,DEM,Michael H. Michaud,40,ME
 BEALS,Governor,,DEM,Michael H. Michaud,80,ME
 BEDDINGTON,Governor,,DEM,Michael H. Michaud,17,ME
-BERRY TWP/CATHANCE TWP/MARION TWP                                                                                                                     ,Governor,,DEM,Michael H. Michaud,11,ME
+BERRY TWP/CATHANCE TWP/MARION TWP,Governor,,DEM,Michael H. Michaud,11,ME
 CALAIS,Governor,,DEM,Michael H. Michaud,475,ME
-CENTERVILLE TWP                                                                                                                                       ,Governor,,DEM,Michael H. Michaud,4,ME
+CENTERVILLE TWP,Governor,,DEM,Michael H. Michaud,4,ME
 CHARLOTTE,Governor,,DEM,Michael H. Michaud,52,ME
 CHERRYFIELD,Governor,,DEM,Michael H. Michaud,204,ME
 COLUMBIA,Governor,,DEM,Michael H. Michaud,51,ME
@@ -7198,7 +7198,7 @@ CROSS LAKE TWP (T17 R5),Governor,,,Under Votes,0,ME
 CRYSTAL,Governor,,,Under Votes,0,ME
 CYR PLT,Governor,,,Under Votes,2,ME
 DYER BROOK,Governor,,,Under Votes,2,ME
-E TWP                                                                                                                                                 ,Governor,,,Under Votes,0,ME
+E TWP,Governor,,,Under Votes,0,ME
 EAGLE LAKE,Governor,,,Under Votes,12,ME
 EASTON,Governor,,,Under Votes,9,ME
 FORT FAIRFIELD,Governor,,,Under Votes,23,ME
@@ -7225,7 +7225,7 @@ MAPLETON,Governor,,,Under Votes,9,ME
 MARS HILL,Governor,,,Under Votes,11,ME
 MASARDIS,Governor,,,Under Votes,2,ME
 MERRILL,Governor,,,Under Votes,1,ME
-MOLUNKUS TWP                                                                                                                                          ,Governor,,,Under Votes,0,ME
+MOLUNKUS TWP,Governor,,,Under Votes,0,ME
 MONTICELLO,Governor,,,Under Votes,8,ME
 MORO PLT,Governor,,,Under Votes,0,ME
 NEW CANADA,Governor,,,Under Votes,3,ME
@@ -7244,11 +7244,11 @@ SAINT JOHN PLT,Governor,,,Under Votes,4,ME
 SHERMAN,Governor,,,Under Votes,6,ME
 SMYRNA,Governor,,,Under Votes,2,ME
 STOCKHOLM,Governor,,,Under Votes,2,ME
-T11 R4 WELS                                                                                                                                           ,Governor,,,Under Votes,1,ME
-T12 R13/T9 R8 WELS TWP                                                                                                                                ,Governor,,,Under Votes,0,ME
-T15 R6 WELS                                                                                                                                           ,Governor,,,Under Votes,0,ME
-T4 R3 TWP                                                                                                                                             ,Governor,,,Under Votes,0,ME
-TD R2 WELS                                                                                                                                            ,Governor,,,Under Votes,0,ME
+T11 R4 WELS,Governor,,,Under Votes,1,ME
+T12 R13/T9 R8 WELS TWP,Governor,,,Under Votes,0,ME
+T15 R6 WELS,Governor,,,Under Votes,0,ME
+T4 R3 TWP,Governor,,,Under Votes,0,ME
+TD R2 WELS,Governor,,,Under Votes,0,ME
 VAN BUREN,Governor,,,Under Votes,22,ME
 WADE,Governor,,,Under Votes,0,ME
 WALLAGRASS,Governor,,,Under Votes,3,ME
@@ -7294,13 +7294,13 @@ COPLIN PLT,Governor,,,Under Votes,0,ME
 DALLAS PLT,Governor,,,Under Votes,0,ME
 EUSTIS,Governor,,,Under Votes,5,ME
 FARMINGTON,Governor,,,Under Votes,33,ME
-FREEMAN TWP/SALEM TWP                                                                                                                                 ,Governor,,,Under Votes,1,ME
+FREEMAN TWP/SALEM TWP,Governor,,,Under Votes,1,ME
 INDUSTRY,Governor,,,Under Votes,4,ME
 JAY,Governor,,,Under Votes,16,ME
 KINGFIELD,Governor,,,Under Votes,7,ME
 NEW SHARON,Governor,,,Under Votes,5,ME
 NEW VINEYARD,Governor,,,Under Votes,1,ME
-PERKINS TWP/WASHINGTON TWP                                                                                                                            ,Governor,,,Under Votes,0,ME
+PERKINS TWP/WASHINGTON TWP,Governor,,,Under Votes,0,ME
 PHILLIPS,Governor,,,Under Votes,5,ME
 RANGELEY,Governor,,,Under Votes,4,ME
 RANGELEY PLT,Governor,,,Under Votes,1,ME
@@ -7309,7 +7309,7 @@ STRONG,Governor,,,Under Votes,5,ME
 TEMPLE,Governor,,,Under Votes,2,ME
 WELD,Governor,,,Under Votes,0,ME
 WILTON,Governor,,,Under Votes,10,ME
-WYMAN TWP                                                                                                                                             ,Governor,,,Under Votes,1,ME
+WYMAN TWP,Governor,,,Under Votes,1,ME
 AMHERST,Governor,,,Under Votes,4,ME
 AURORA,Governor,,,Under Votes,1,ME
 BAR HARBOR,Governor,,,Under Votes,32,ME
@@ -7342,10 +7342,10 @@ STONINGTON,Governor,,,Under Votes,8,ME
 SULLIVAN,Governor,,,Under Votes,3,ME
 SURRY,Governor,,,Under Votes,9,ME
 SWANS ISLAND,Governor,,,Under Votes,1,ME
-T3 ND                                                                                                                                                 ,Governor,,,Under Votes,0,ME
-T10 SD                                                                                                                                                ,Governor,,,Under Votes,0,ME
-T22 MD                                                                                                                                                ,Governor,,,Under Votes,0,ME
-T7 SD                                                                                                                                                 ,Governor,,,Under Votes,0,ME
+T3 ND,Governor,,,Under Votes,0,ME
+T10 SD,Governor,,,Under Votes,0,ME
+T22 MD,Governor,,,Under Votes,0,ME
+T7 SD,Governor,,,Under Votes,0,ME
 TREMONT,Governor,,,Under Votes,3,ME
 TRENTON,Governor,,,Under Votes,3,ME
 VERONA ISLAND,Governor,,,Under Votes,4,ME
@@ -7417,7 +7417,7 @@ WALDOBORO,Governor,,,Under Votes,18,ME
 WESTPORT ISLAND,Governor,,,Under Votes,2,ME
 WHITEFIELD,Governor,,,Under Votes,12,ME
 WISCASSET,Governor,,,Under Votes,11,ME
-ADAMSTOWN TWP/LOWER CUPSUPTIC TWP                                                                                                                     ,Governor,,,Under Votes,0,ME
+ADAMSTOWN TWP/LOWER CUPSUPTIC TWP,Governor,,,Under Votes,0,ME
 ALBANY TWP,Governor,,,Under Votes,5,ME
 ANDOVER,Governor,,,Under Votes,6,ME
 BETHEL,Governor,,,Under Votes,10,ME
@@ -7438,7 +7438,7 @@ LINCOLN PLT,Governor,,,Under Votes,0,ME
 LOVELL,Governor,,,Under Votes,3,ME
 MAGALLOWAY PLT,Governor,,,Under Votes,0,ME
 MEXICO,Governor,,,Under Votes,8,ME
-MILTON TWP                                                                                                                                            ,Governor,,,Under Votes,0,ME
+MILTON TWP,Governor,,,Under Votes,0,ME
 NEWRY,Governor,,,Under Votes,3,ME
 NORWAY,Governor,,,Under Votes,28,ME
 OTISFIELD,Governor,,,Under Votes,5,ME
@@ -7457,7 +7457,7 @@ WATERFORD,Governor,,,Under Votes,5,ME
 WEST PARIS,Governor,,,Under Votes,11,ME
 WOODSTOCK,Governor,,,Under Votes,9,ME
 ALTON,Governor,,,Under Votes,3,ME
-ARGYLE TWP                                                                                                                                            ,Governor,,,Under Votes,0,ME
+ARGYLE TWP,Governor,,,Under Votes,0,ME
 BANGOR,Governor,,,Under Votes,130,ME
 BRADFORD,Governor,,,Under Votes,4,ME
 BRADLEY,Governor,,,Under Votes,14,ME
@@ -7481,13 +7481,13 @@ ETNA,Governor,,,Under Votes,2,ME
 EXETER,Governor,,,Under Votes,4,ME
 GARLAND,Governor,,,Under Votes,6,ME
 GLENBURN,Governor,,,Under Votes,15,ME
-GRAND FALLS TWP                                                                                                                                       ,Governor,,,Under Votes,0,ME
+GRAND FALLS TWP,Governor,,,Under Votes,0,ME
 GREENBUSH,Governor,,,Under Votes,10,ME
-GREENFIELD TWP                                                                                                                                        ,Governor,,,Under Votes,2,ME
-GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS                                                                                              ,Governor,,,Under Votes,0,ME
+GREENFIELD TWP,Governor,,,Under Votes,2,ME
+GRINDSTONE TWP/HERSEYTOWN TWP/SOLDIERTOWN TWP T2 R7 WELS,Governor,,,Under Votes,0,ME
 HAMPDEN,Governor,,,Under Votes,21,ME
 HERMON,Governor,,,Under Votes,19,ME
-HERSEYTOWN TWP                                                                                                                                        ,Governor,,,Under Votes,1,ME
+HERSEYTOWN TWP,Governor,,,Under Votes,1,ME
 HOLDEN,Governor,,,Under Votes,12,ME
 HOWLAND,Governor,,,Under Votes,4,ME
 HUDSON,Governor,,,Under Votes,3,ME
@@ -7499,7 +7499,7 @@ LEE,Governor,,,Under Votes,5,ME
 LEVANT,Governor,,,Under Votes,10,ME
 LINCOLN,Governor,,,Under Votes,28,ME
 LOWELL,Governor,,,Under Votes,1,ME
-MATTAMISCONTIS TWP                                                                                                                                    ,Governor,,,Under Votes,0,ME
+MATTAMISCONTIS TWP,Governor,,,Under Votes,0,ME
 MATTAWAMKEAG,Governor,,,Under Votes,7,ME
 MAXFIELD,Governor,,,Under Votes,0,ME
 MEDWAY,Governor,,,Under Votes,3,ME
@@ -7514,26 +7514,26 @@ ORRINGTON,Governor,,,Under Votes,13,ME
 PASSADUMKEAG,Governor,,,Under Votes,1,ME
 PATTEN,Governor,,,Under Votes,7,ME
 PENOBSCOT NATION VOTING DISTRICT,Governor,,,Under Votes,2,ME
-PENOBSCOT TWPS                                                                                                                                        ,Governor,,,Under Votes,1,ME
+PENOBSCOT TWPS,Governor,,,Under Votes,1,ME
 PLYMOUTH,Governor,,,Under Votes,8,ME
 PRENTISS TWP,Governor,,,Under Votes,1,ME
 SEBOEIS PLT,Governor,,,Under Votes,0,ME
 SPRINGFIELD,Governor,,,Under Votes,2,ME
 STACYVILLE,Governor,,,Under Votes,2,ME
 STETSON,Governor,,,Under Votes,14,ME
-T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP                                                                                                          ,Governor,,,Under Votes,0,ME
+T5 R7 WELS TWP/T5 R8 WELS TWP/T6 R8 WELS TWP,Governor,,,Under Votes,0,ME
 VEAZIE,Governor,,,Under Votes,6,ME
 WEBSTER PLT,Governor,,,Under Votes,2,ME
 WINN,Governor,,,Under Votes,1,ME
 WOODVILLE,Governor,,,Under Votes,0,ME
 ABBOT,Governor,,,Under Votes,3,ME
 ATKINSON,Governor,,,Under Votes,4,ME
-BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP                                                                                    ,Governor,,,Under Votes,1,ME
+BARNARD TWP/EBEEMEE TWP (T5 R9 NWP)/T4 R9 NWP TWP/WILLIAMSBURG TWP,Governor,,,Under Votes,1,ME
 BEAVER COVE,Governor,,,Under Votes,1,ME
 BOWERBANK,Governor,,,Under Votes,0,ME
 BROWNVILLE,Governor,,,Under Votes,11,ME
 DOVER-FOXCROFT,Governor,,,Under Votes,24,ME
-ELLIOTTSVILLE TWP                                                                                                                                     ,Governor,,,Under Votes,0,ME
+ELLIOTTSVILLE TWP,Governor,,,Under Votes,0,ME
 GREENVILLE,Governor,,,Under Votes,11,ME
 GUILFORD,Governor,,,Under Votes,8,ME
 KINGSBURY PLT,Governor,,,Under Votes,0,ME
@@ -7541,13 +7541,13 @@ LAKE VIEW PLT,Governor,,,Under Votes,0,ME
 MEDFORD,Governor,,,Under Votes,1,ME
 MILO,Governor,,,Under Votes,7,ME
 MONSON,Governor,,,Under Votes,20,ME
-ORNEVILLE TWP                                                                                                                                         ,Governor,,,Under Votes,0,ME
+ORNEVILLE TWP,Governor,,,Under Votes,0,ME
 PARKMAN,Governor,,,Under Votes,3,ME
 SANGERVILLE,Governor,,,Under Votes,7,ME
 SEBEC,Governor,,,Under Votes,3,ME
 SHIRLEY,Governor,,,Under Votes,4,ME
-T1 R9 WELS                                                                                                                                            ,Governor,,,Under Votes,0,ME
-T10 R15 WELS TWP                                                                                                                                      ,Governor,,,Under Votes,0,ME
+T1 R9 WELS,Governor,,,Under Votes,0,ME
+T10 R15 WELS TWP,Governor,,,Under Votes,0,ME
 WELLINGTON,Governor,,,Under Votes,1,ME
 WILLIMANTIC,Governor,,,Under Votes,2,ME
 ARROWSIC,Governor,,,Under Votes,2,ME
@@ -7567,7 +7567,7 @@ BRIGHTON PLT,Governor,,,Under Votes,1,ME
 CAMBRIDGE,Governor,,,Under Votes,1,ME
 CANAAN,Governor,,,Under Votes,10,ME
 CARATUNK,Governor,,,Under Votes,0,ME
-CONCORD TWP                                                                                                                                           ,Governor,,,Under Votes,0,ME
+CONCORD TWP,Governor,,,Under Votes,0,ME
 CORNVILLE,Governor,,,Under Votes,4,ME
 DENNISTOWN PLT,Governor,,,Under Votes,0,ME
 DETROIT,Governor,,,Under Votes,5,ME
@@ -7577,7 +7577,7 @@ HARMONY,Governor,,,Under Votes,5,ME
 HARTLAND,Governor,,,Under Votes,8,ME
 HIGHLAND PLT,Governor,,,Under Votes,3,ME
 JACKMAN,Governor,,,Under Votes,9,ME
-LEXINGTON TWP/SPRING LAKE TWP                                                                                                                         ,Governor,,,Under Votes,0,ME
+LEXINGTON TWP/SPRING LAKE TWP,Governor,,,Under Votes,0,ME
 MADISON,Governor,,,Under Votes,20,ME
 MERCER,Governor,,,Under Votes,4,ME
 MOOSE RIVER,Governor,,,Under Votes,1,ME
@@ -7628,9 +7628,9 @@ BAILEYVILLE,Governor,,,Under Votes,6,ME
 BARING PLT,Governor,,,Under Votes,0,ME
 BEALS,Governor,,,Under Votes,6,ME
 BEDDINGTON,Governor,,,Under Votes,0,ME
-BERRY TWP/CATHANCE TWP/MARION TWP                                                                                                                     ,Governor,,,Under Votes,0,ME
+BERRY TWP/CATHANCE TWP/MARION TWP,Governor,,,Under Votes,0,ME
 CALAIS,Governor,,,Under Votes,14,ME
-CENTERVILLE TWP                                                                                                                                       ,Governor,,,Under Votes,0,ME
+CENTERVILLE TWP,Governor,,,Under Votes,0,ME
 CHARLOTTE,Governor,,,Under Votes,1,ME
 CHERRYFIELD,Governor,,,Under Votes,6,ME
 COLUMBIA,Governor,,,Under Votes,1,ME
@@ -7698,150 +7698,150 @@ SOUTH BERWICK,Governor,,,Under Votes,21,ME
 WATERBORO,Governor,,,Under Votes,37,ME
 WELLS,Governor,,,Under Votes,36,ME
 YORK,Governor,,,Under Votes,78,ME
-ADAMS ,Governor,,DEM,Mary Burke,3762,WI
-ASHLAND ,Governor,,DEM,Mary Burke,4150,WI
-BARRON ,Governor,,DEM,Mary Burke,6832,WI
-BAYFIELD ,Governor,,DEM,Mary Burke,4888,WI
-BROWN ,Governor,,DEM,Mary Burke,40751,WI
-BUFFALO ,Governor,,DEM,Mary Burke,2267,WI
-BURNETT ,Governor,,DEM,Mary Burke,2615,WI
-CALUMET ,Governor,,DEM,Mary Burke,7285,WI
-CHIPPEWA ,Governor,,DEM,Mary Burke,10402,WI
-CLARK ,Governor,,DEM,Mary Burke,3848,WI
-COLUMBIA ,Governor,,DEM,Mary Burke,12527,WI
-CRAWFORD ,Governor,,DEM,Mary Burke,3225,WI
-DANE ,Governor,,DEM,Mary Burke,175937,WI
-DODGE ,Governor,,DEM,Mary Burke,12732,WI
-DOOR ,Governor,,DEM,Mary Burke,6842,WI
-DOUGLAS ,Governor,,DEM,Mary Burke,9590,WI
-DUNN ,Governor,,DEM,Mary Burke,7066,WI
-EAU CLAIRE ,Governor,,DEM,Mary Burke,21239,WI
-FLORENCE ,Governor,,DEM,Mary Burke,629,WI
-FOND DU LAC ,Governor,,DEM,Mary Burke,15014,WI
-FOREST ,Governor,,DEM,Mary Burke,1511,WI
-GRANT ,Governor,,DEM,Mary Burke,8704,WI
-GREEN ,Governor,,DEM,Mary Burke,7948,WI
-GREEN LAKE ,Governor,,DEM,Mary Burke,2464,WI
-IOWA ,Governor,,DEM,Mary Burke,5937,WI
-IRON ,Governor,,DEM,Mary Burke,1085,WI
-JACKSON ,Governor,,DEM,Mary Burke,3631,WI
-JEFFERSON ,Governor,,DEM,Mary Burke,13876,WI
-JUNEAU ,Governor,,DEM,Mary Burke,4080,WI
-KENOSHA ,Governor,,DEM,Mary Burke,27367,WI
-KEWAUNEE ,Governor,,DEM,Mary Burke,3379,WI
-LA CROSSE ,Governor,,DEM,Mary Burke,25429,WI
-LAFAYETTE ,Governor,,DEM,Mary Burke,2982,WI
-LANGLADE ,Governor,,DEM,Mary Burke,2921,WI
-LINCOLN ,Governor,,DEM,Mary Burke,5104,WI
-MANITOWOC ,Governor,,DEM,Mary Burke,12563,WI
-MARATHON ,Governor,,DEM,Mary Burke,21305,WI
-MARINETTE ,Governor,,DEM,Mary Burke,6023,WI
-MARQUETTE ,Governor,,DEM,Mary Burke,2629,WI
-MENOMINEE ,Governor,,DEM,Mary Burke,753,WI
-MILWAUKEE ,Governor,,DEM,Mary Burke,231316,WI
-MONROE ,Governor,,DEM,Mary Burke,6399,WI
-OCONTO ,Governor,,DEM,Mary Burke,5657,WI
-ONEIDA ,Governor,,DEM,Mary Burke,7190,WI
-OUTAGAMIE ,Governor,,DEM,Mary Burke,29503,WI
-OZAUKEE ,Governor,,DEM,Mary Burke,13696,WI
-PEPIN ,Governor,,DEM,Mary Burke,1333,WI
-PIERCE ,Governor,,DEM,Mary Burke,6666,WI
-POLK ,Governor,,DEM,Mary Burke,6516,WI
-PORTAGE ,Governor,,DEM,Mary Burke,15283,WI
-PRICE ,Governor,,DEM,Mary Burke,2700,WI
-RACINE ,Governor,,DEM,Mary Burke,35769,WI
-RICHLAND ,Governor,,DEM,Mary Burke,3315,WI
-ROCK ,Governor,,DEM,Mary Burke,32523,WI
-RUSK ,Governor,,DEM,Mary Burke,2286,WI
-SAUK ,Governor,,DEM,Mary Burke,13041,WI
-SAWYER ,Governor,,DEM,Mary Burke,3029,WI
-SHAWANO ,Governor,,DEM,Mary Burke,5730,WI
-SHEBOYGAN ,Governor,,DEM,Mary Burke,17955,WI
-ST. CROIX ,Governor,,DEM,Mary Burke,13231,WI
-TAYLOR ,Governor,,DEM,Mary Burke,2248,WI
-TREMPEALEAU ,Governor,,DEM,Mary Burke,4974,WI
-VERNON ,Governor,,DEM,Mary Burke,5932,WI
-VILAS ,Governor,,DEM,Mary Burke,4240,WI
-WALWORTH ,Governor,,DEM,Mary Burke,13809,WI
-WASHBURN ,Governor,,DEM,Mary Burke,3074,WI
-WASHINGTON ,Governor,,DEM,Mary Burke,15507,WI
-WAUKESHA ,Governor,,DEM,Mary Burke,54500,WI
-WAUPACA ,Governor,,DEM,Mary Burke,7471,WI
-WAUSHARA ,Governor,,DEM,Mary Burke,3609,WI
-WINNEBAGO ,Governor,,DEM,Mary Burke,30258,WI
-WOOD ,Governor,,DEM,Mary Burke,12861,WI
-ADAMS ,Governor,,REP,Scott Walker,4297,WI
-ASHLAND ,Governor,,REP,Scott Walker,2333,WI
-BARRON ,Governor,,REP,Scott Walker,9696,WI
-BAYFIELD ,Governor,,REP,Scott Walker,3075,WI
-BROWN ,Governor,,REP,Scott Walker,58408,WI
-BUFFALO ,Governor,,REP,Scott Walker,3169,WI
-BURNETT ,Governor,,REP,Scott Walker,3868,WI
-CALUMET ,Governor,,REP,Scott Walker,14086,WI
-CHIPPEWA ,Governor,,REP,Scott Walker,13765,WI
-CLARK ,Governor,,REP,Scott Walker,7409,WI
-COLUMBIA ,Governor,,REP,Scott Walker,11837,WI
-CRAWFORD ,Governor,,REP,Scott Walker,2974,WI
-DANE ,Governor,,REP,Scott Walker,73676,WI
-DODGE ,Governor,,REP,Scott Walker,23715,WI
-DOOR ,Governor,,REP,Scott Walker,8160,WI
-DOUGLAS ,Governor,,REP,Scott Walker,6001,WI
-DUNN ,Governor,,REP,Scott Walker,8229,WI
-EAU CLAIRE ,Governor,,REP,Scott Walker,20304,WI
-FLORENCE ,Governor,,REP,Scott Walker,1349,WI
-FOND DU LAC ,Governor,,REP,Scott Walker,27485,WI
-FOREST ,Governor,,REP,Scott Walker,2032,WI
-GRANT ,Governor,,REP,Scott Walker,9149,WI
-GREEN ,Governor,,REP,Scott Walker,7193,WI
-GREEN LAKE ,Governor,,REP,Scott Walker,5336,WI
-IOWA ,Governor,,REP,Scott Walker,4480,WI
-IRON ,Governor,,REP,Scott Walker,1755,WI
-JACKSON ,Governor,,REP,Scott Walker,3812,WI
-JEFFERSON ,Governor,,REP,Scott Walker,21443,WI
-JUNEAU ,Governor,,REP,Scott Walker,4817,WI
-KENOSHA ,Governor,,REP,Scott Walker,28398,WI
-KEWAUNEE ,Governor,,REP,Scott Walker,5676,WI
-LA CROSSE ,Governor,,REP,Scott Walker,22321,WI
-LAFAYETTE ,Governor,,REP,Scott Walker,3191,WI
-LANGLADE ,Governor,,REP,Scott Walker,5476,WI
-LINCOLN ,Governor,,REP,Scott Walker,6866,WI
-MANITOWOC ,Governor,,REP,Scott Walker,21044,WI
-MARATHON ,Governor,,REP,Scott Walker,34583,WI
-MARINETTE ,Governor,,REP,Scott Walker,9610,WI
-MARQUETTE ,Governor,,REP,Scott Walker,3611,WI
-MENOMINEE ,Governor,,REP,Scott Walker,215,WI
-MILWAUKEE ,Governor,,REP,Scott Walker,132706,WI
-MONROE ,Governor,,REP,Scott Walker,8446,WI
-OCONTO ,Governor,,REP,Scott Walker,10300,WI
-ONEIDA ,Governor,,REP,Scott Walker,9852,WI
-OUTAGAMIE ,Governor,,REP,Scott Walker,44543,WI
-OZAUKEE ,Governor,,REP,Scott Walker,32696,WI
-PEPIN ,Governor,,REP,Scott Walker,1791,WI
-PIERCE ,Governor,,REP,Scott Walker,7760,WI
-POLK ,Governor,,REP,Scott Walker,9345,WI
-PORTAGE ,Governor,,REP,Scott Walker,14650,WI
-PRICE ,Governor,,REP,Scott Walker,3725,WI
-RACINE ,Governor,,REP,Scott Walker,42944,WI
-RICHLAND ,Governor,,REP,Scott Walker,3435,WI
-ROCK ,Governor,,REP,Scott Walker,24993,WI
-RUSK ,Governor,,REP,Scott Walker,3502,WI
-SAUK ,Governor,,REP,Scott Walker,12222,WI
-SAWYER ,Governor,,REP,Scott Walker,3721,WI
-SHAWANO ,Governor,,REP,Scott Walker,10937,WI
-SHEBOYGAN ,Governor,,REP,Scott Walker,31728,WI
-ST. CROIX ,Governor,,REP,Scott Walker,20066,WI
-TAYLOR ,Governor,,REP,Scott Walker,5406,WI
-TREMPEALEAU ,Governor,,REP,Scott Walker,5617,WI
-VERNON ,Governor,,REP,Scott Walker,5687,WI
-VILAS ,Governor,,REP,Scott Walker,6942,WI
-WALWORTH ,Governor,,REP,Scott Walker,25415,WI
-WASHBURN ,Governor,,REP,Scott Walker,3945,WI
-WASHINGTON ,Governor,,REP,Scott Walker,50278,WI
-WAUKESHA ,Governor,,REP,Scott Walker,147266,WI
-WAUPACA ,Governor,,REP,Scott Walker,13130,WI
-WAUSHARA ,Governor,,REP,Scott Walker,6100,WI
-WINNEBAGO ,Governor,,REP,Scott Walker,37894,WI
-WOOD ,Governor,,REP,Scott Walker,17820,WI
+ADAMS,Governor,,DEM,Mary Burke,3762,WI
+ASHLAND,Governor,,DEM,Mary Burke,4150,WI
+BARRON,Governor,,DEM,Mary Burke,6832,WI
+BAYFIELD,Governor,,DEM,Mary Burke,4888,WI
+BROWN,Governor,,DEM,Mary Burke,40751,WI
+BUFFALO,Governor,,DEM,Mary Burke,2267,WI
+BURNETT,Governor,,DEM,Mary Burke,2615,WI
+CALUMET,Governor,,DEM,Mary Burke,7285,WI
+CHIPPEWA,Governor,,DEM,Mary Burke,10402,WI
+CLARK,Governor,,DEM,Mary Burke,3848,WI
+COLUMBIA,Governor,,DEM,Mary Burke,12527,WI
+CRAWFORD,Governor,,DEM,Mary Burke,3225,WI
+DANE,Governor,,DEM,Mary Burke,175937,WI
+DODGE,Governor,,DEM,Mary Burke,12732,WI
+DOOR,Governor,,DEM,Mary Burke,6842,WI
+DOUGLAS,Governor,,DEM,Mary Burke,9590,WI
+DUNN,Governor,,DEM,Mary Burke,7066,WI
+EAU CLAIRE,Governor,,DEM,Mary Burke,21239,WI
+FLORENCE,Governor,,DEM,Mary Burke,629,WI
+FOND DU LAC,Governor,,DEM,Mary Burke,15014,WI
+FOREST,Governor,,DEM,Mary Burke,1511,WI
+GRANT,Governor,,DEM,Mary Burke,8704,WI
+GREEN,Governor,,DEM,Mary Burke,7948,WI
+GREEN LAKE,Governor,,DEM,Mary Burke,2464,WI
+IOWA,Governor,,DEM,Mary Burke,5937,WI
+IRON,Governor,,DEM,Mary Burke,1085,WI
+JACKSON,Governor,,DEM,Mary Burke,3631,WI
+JEFFERSON,Governor,,DEM,Mary Burke,13876,WI
+JUNEAU,Governor,,DEM,Mary Burke,4080,WI
+KENOSHA,Governor,,DEM,Mary Burke,27367,WI
+KEWAUNEE,Governor,,DEM,Mary Burke,3379,WI
+LA CROSSE,Governor,,DEM,Mary Burke,25429,WI
+LAFAYETTE,Governor,,DEM,Mary Burke,2982,WI
+LANGLADE,Governor,,DEM,Mary Burke,2921,WI
+LINCOLN,Governor,,DEM,Mary Burke,5104,WI
+MANITOWOC,Governor,,DEM,Mary Burke,12563,WI
+MARATHON,Governor,,DEM,Mary Burke,21305,WI
+MARINETTE,Governor,,DEM,Mary Burke,6023,WI
+MARQUETTE,Governor,,DEM,Mary Burke,2629,WI
+MENOMINEE,Governor,,DEM,Mary Burke,753,WI
+MILWAUKEE,Governor,,DEM,Mary Burke,231316,WI
+MONROE,Governor,,DEM,Mary Burke,6399,WI
+OCONTO,Governor,,DEM,Mary Burke,5657,WI
+ONEIDA,Governor,,DEM,Mary Burke,7190,WI
+OUTAGAMIE,Governor,,DEM,Mary Burke,29503,WI
+OZAUKEE,Governor,,DEM,Mary Burke,13696,WI
+PEPIN,Governor,,DEM,Mary Burke,1333,WI
+PIERCE,Governor,,DEM,Mary Burke,6666,WI
+POLK,Governor,,DEM,Mary Burke,6516,WI
+PORTAGE,Governor,,DEM,Mary Burke,15283,WI
+PRICE,Governor,,DEM,Mary Burke,2700,WI
+RACINE,Governor,,DEM,Mary Burke,35769,WI
+RICHLAND,Governor,,DEM,Mary Burke,3315,WI
+ROCK,Governor,,DEM,Mary Burke,32523,WI
+RUSK,Governor,,DEM,Mary Burke,2286,WI
+SAUK,Governor,,DEM,Mary Burke,13041,WI
+SAWYER,Governor,,DEM,Mary Burke,3029,WI
+SHAWANO,Governor,,DEM,Mary Burke,5730,WI
+SHEBOYGAN,Governor,,DEM,Mary Burke,17955,WI
+ST. CROIX,Governor,,DEM,Mary Burke,13231,WI
+TAYLOR,Governor,,DEM,Mary Burke,2248,WI
+TREMPEALEAU,Governor,,DEM,Mary Burke,4974,WI
+VERNON,Governor,,DEM,Mary Burke,5932,WI
+VILAS,Governor,,DEM,Mary Burke,4240,WI
+WALWORTH,Governor,,DEM,Mary Burke,13809,WI
+WASHBURN,Governor,,DEM,Mary Burke,3074,WI
+WASHINGTON,Governor,,DEM,Mary Burke,15507,WI
+WAUKESHA,Governor,,DEM,Mary Burke,54500,WI
+WAUPACA,Governor,,DEM,Mary Burke,7471,WI
+WAUSHARA,Governor,,DEM,Mary Burke,3609,WI
+WINNEBAGO,Governor,,DEM,Mary Burke,30258,WI
+WOOD,Governor,,DEM,Mary Burke,12861,WI
+ADAMS,Governor,,REP,Scott Walker,4297,WI
+ASHLAND,Governor,,REP,Scott Walker,2333,WI
+BARRON,Governor,,REP,Scott Walker,9696,WI
+BAYFIELD,Governor,,REP,Scott Walker,3075,WI
+BROWN,Governor,,REP,Scott Walker,58408,WI
+BUFFALO,Governor,,REP,Scott Walker,3169,WI
+BURNETT,Governor,,REP,Scott Walker,3868,WI
+CALUMET,Governor,,REP,Scott Walker,14086,WI
+CHIPPEWA,Governor,,REP,Scott Walker,13765,WI
+CLARK,Governor,,REP,Scott Walker,7409,WI
+COLUMBIA,Governor,,REP,Scott Walker,11837,WI
+CRAWFORD,Governor,,REP,Scott Walker,2974,WI
+DANE,Governor,,REP,Scott Walker,73676,WI
+DODGE,Governor,,REP,Scott Walker,23715,WI
+DOOR,Governor,,REP,Scott Walker,8160,WI
+DOUGLAS,Governor,,REP,Scott Walker,6001,WI
+DUNN,Governor,,REP,Scott Walker,8229,WI
+EAU CLAIRE,Governor,,REP,Scott Walker,20304,WI
+FLORENCE,Governor,,REP,Scott Walker,1349,WI
+FOND DU LAC,Governor,,REP,Scott Walker,27485,WI
+FOREST,Governor,,REP,Scott Walker,2032,WI
+GRANT,Governor,,REP,Scott Walker,9149,WI
+GREEN,Governor,,REP,Scott Walker,7193,WI
+GREEN LAKE,Governor,,REP,Scott Walker,5336,WI
+IOWA,Governor,,REP,Scott Walker,4480,WI
+IRON,Governor,,REP,Scott Walker,1755,WI
+JACKSON,Governor,,REP,Scott Walker,3812,WI
+JEFFERSON,Governor,,REP,Scott Walker,21443,WI
+JUNEAU,Governor,,REP,Scott Walker,4817,WI
+KENOSHA,Governor,,REP,Scott Walker,28398,WI
+KEWAUNEE,Governor,,REP,Scott Walker,5676,WI
+LA CROSSE,Governor,,REP,Scott Walker,22321,WI
+LAFAYETTE,Governor,,REP,Scott Walker,3191,WI
+LANGLADE,Governor,,REP,Scott Walker,5476,WI
+LINCOLN,Governor,,REP,Scott Walker,6866,WI
+MANITOWOC,Governor,,REP,Scott Walker,21044,WI
+MARATHON,Governor,,REP,Scott Walker,34583,WI
+MARINETTE,Governor,,REP,Scott Walker,9610,WI
+MARQUETTE,Governor,,REP,Scott Walker,3611,WI
+MENOMINEE,Governor,,REP,Scott Walker,215,WI
+MILWAUKEE,Governor,,REP,Scott Walker,132706,WI
+MONROE,Governor,,REP,Scott Walker,8446,WI
+OCONTO,Governor,,REP,Scott Walker,10300,WI
+ONEIDA,Governor,,REP,Scott Walker,9852,WI
+OUTAGAMIE,Governor,,REP,Scott Walker,44543,WI
+OZAUKEE,Governor,,REP,Scott Walker,32696,WI
+PEPIN,Governor,,REP,Scott Walker,1791,WI
+PIERCE,Governor,,REP,Scott Walker,7760,WI
+POLK,Governor,,REP,Scott Walker,9345,WI
+PORTAGE,Governor,,REP,Scott Walker,14650,WI
+PRICE,Governor,,REP,Scott Walker,3725,WI
+RACINE,Governor,,REP,Scott Walker,42944,WI
+RICHLAND,Governor,,REP,Scott Walker,3435,WI
+ROCK,Governor,,REP,Scott Walker,24993,WI
+RUSK,Governor,,REP,Scott Walker,3502,WI
+SAUK,Governor,,REP,Scott Walker,12222,WI
+SAWYER,Governor,,REP,Scott Walker,3721,WI
+SHAWANO,Governor,,REP,Scott Walker,10937,WI
+SHEBOYGAN,Governor,,REP,Scott Walker,31728,WI
+ST. CROIX,Governor,,REP,Scott Walker,20066,WI
+TAYLOR,Governor,,REP,Scott Walker,5406,WI
+TREMPEALEAU,Governor,,REP,Scott Walker,5617,WI
+VERNON,Governor,,REP,Scott Walker,5687,WI
+VILAS,Governor,,REP,Scott Walker,6942,WI
+WALWORTH,Governor,,REP,Scott Walker,25415,WI
+WASHBURN,Governor,,REP,Scott Walker,3945,WI
+WASHINGTON,Governor,,REP,Scott Walker,50278,WI
+WAUKESHA,Governor,,REP,Scott Walker,147266,WI
+WAUPACA,Governor,,REP,Scott Walker,13130,WI
+WAUSHARA,Governor,,REP,Scott Walker,6100,WI
+WINNEBAGO,Governor,,REP,Scott Walker,37894,WI
+WOOD,Governor,,REP,Scott Walker,17820,WI
 Allegany,Governor,,DEM,Anthony Brown Jr.,4629,MD
 Anne Arundel,Governor,,DEM,Anthony Brown Jr.,58001,MD
 Baltimore City,Governor,,DEM,Anthony Brown Jr.,106213,MD
