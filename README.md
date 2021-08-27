@@ -1,4 +1,7 @@
-# openelections-data-us [![Build Status](https://github.com/openelections/openelections-data-us/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-us/actions)
+[![Build Status](https://github.com/openelections/openelections-data-us/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-us/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-us/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-us/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+# openelections-data-us
 
 This repository contains pre-processed election results for president from all states, so far for the 2016 general election only. Caveats and notes on specific types of files are below.
 
