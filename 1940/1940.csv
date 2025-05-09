@@ -1,0 +1,775 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+Alabama,1940,House,1,Frank W. Boykin,Democratic,25993
+Alabama,1940,House,2,George Grant,Democratic,33433
+Alabama,1940,House,3,Henry B. Steagall,Democratic,22906
+Alabama,1940,House,3,Thomas G. McNaron,Republican,81
+Alabama,1940,House,4,Sam Hobbs,Democratic,24870
+Alabama,1940,House,4,Thomas G. McNaron,Republican,3428
+Alabama,1940,House,5,Joe Starnes,Democratic,31966
+Alabama,1940,House,5,George Bogus,Write-in,1
+Alabama,1940,House,6,Pete Jarman,Democratic,18881
+Alabama,1940,House,7,Carter Manasco,Democratic,27096
+Alabama,1940,House,7,A. W. Hargett,Republican,11308
+Alabama,1940,House,8,John J. Sparkman,Democratic,29020
+Alabama,1940,House,9,Luther Patrick,Democratic,39060
+Alabama,1940,House,9,W. A. Denson,Independent,312
+Alabama,1940,Presidential,,Democratic,Democratic,250726
+Alabama,1940,Presidential,,Republican,Republican,42184
+Alabama,1940,Presidential,,Prohibition,Prohibition,700
+Alabama,1940,Presidential,,Communist,Communist,509
+Alabama,1940,Presidential,,Socialist,Socialist,100
+Alaska,1932,Delegate,,Anthony J. Dimond,Democrat,11241
+Alaska,1932,Delegate,,Cash Cole,Republican,3320
+Arizona,1940,House,,John R. Murdock,Democratic,99424
+Arizona,1940,House,,R. T. Palmer,Republican,40360
+Arizona,1940,Presidential,,Democratic,Democratic,95267
+Arizona,1940,Presidential,,Republican,Republican,54030
+Arizona,1940,Presidential,,Prohibition,Prohibition,742
+Arizona,1940,Senate,,Ernest W. McFarland,Democratic,101495
+Arizona,1940,Senate,,Irving A. Jennings,Republican,39657
+Arizona,1940,Senate,,A. Walter Gehres,Prohibition,579
+Arkansas,1932,House,1,E. C. Gathings,Democratic,33127
+Arkansas,1932,House,2,Wilbur D. Mills,Democratic,26105
+Arkansas,1932,House,3,Clyde T. Ellis,Democratic,21060
+Arkansas,1932,House,3,Claude M. Williams,Republican,8566
+Arkansas,1932,House,4,Fadjo Cravens,Democratic,28999
+Arkansas,1932,House,5,David T. Terry,Democratic,36067
+Arkansas,1932,House,6,W. F. Norrell,Democratic,27972
+Arkansas,1932,House,7,Oren Harris,Democratic,26994
+Arkansas,1932,Presidential,,Democratic,Democratic,158622
+Arkansas,1932,Presidential,,Republican,Republican,42121
+California,1912,Presidential,,Progressive,,16506
+California,1912,Presidential,,Other,,262
+California,1932,House,1,Clarence R. Lea,Democratic-Republican,103547
+California,1932,House,1,Albert J. Lima,Communist,5647
+California,1932,House,1,Ernest S. Mitchell,Write-in,1828
+California,1932,House,2,Harry L. Englebright,Republican-Democratic-Progressive,71033
+California,1932,House,3,Frank H. Buck,Democratic-Republican,135461
+California,1932,House,3,C. H. Farman,Prohibition,10539
+California,1932,House,3,Charles Gricus,Communist,2751
+California,1932,House,4,Thomas F. Ford,Republican,75369
+California,1932,House,4,Franck C. Havender,Democratic-Progressive,61341
+California,1932,House,4,Archie Brown,Communist,1322
+California,1932,House,5,Richard J. Welch,Republican-Democrat,119122
+California,1932,House,5,Walter R. Lambert,Communist,5232
+California,1932,House,6,Albert E. Carter,Republican-Democratic-Progressive,131584
+California,1932,House,6,Clarence Paton,Communist,5426
+California,1932,House,7,John H. Tolan,Democratic,72838
+California,1932,House,7,Ralph R. Eltse,Republican,56808
+California,1932,House,7,Alfred N. Johnson,Communist,1707
+California,1932,Presidential,,Democratic,Democratic,1877618
+California,1932,Presidential,,Republican,Republican,1351419
+California,1932,Presidential,,Progressive,,16506
+California,1932,Presidential,,Communist,,13586
+California,1932,Presidential,,Prohibition,,9400
+California,1932,Presidential,,Scattering,,262
+California,1932,Senate,,Hiram W. Johnson,Republican-Democratic-Progressive,2238899
+California,1932,Senate,,Tall Porter,Prohibition,306044
+California,1932,Senate,,Anita Whitney,Communist,97478
+California,1932,Senate,,John Anson Ford,Write-in,7115
+California,1932,Senate,,Scattering,,4029
+Connecticut,1912,Presidential,,Socialist Labor,,971
+Georgia,1912,Presidential,,Independent Democratic,Democratic,22428
+Georgia,1936,House,1,Hugh Peterson,Democrat,28601
+Georgia,1936,House,1,H. W. Sheppard,Independent,111
+Georgia,1936,House,1,Thomas H. Granfield,Republican,46
+Georgia,1936,House,1,E. E. Cox,Democrat,19443
+Georgia,1936,House,2,William Campbell,Independent,636
+Georgia,1936,House,2,Campbell,Democrat,2
+Georgia,1936,House,3,Stephen Pace,Democrat,22882
+Georgia,1936,House,4,Albert Sidney Camp,Democrat,25609
+Georgia,1936,House,4,Robert Ramspeck,Democrat,41674
+Georgia,1936,House,5,Henry A. Alexander,Republican,47
+Georgia,1936,House,5,Robert Ramspeck,Independent,4
+Georgia,1936,House,6,Carl Vinson,Democrat,21966
+Georgia,1936,House,6,Mrs. J. Ben Warren,Republican,21
+Georgia,1936,House,6,Malcolm C. Tarver,Democrat,32280
+Georgia,1936,House,7,Lewis H. Crawford,Republican,5062
+Georgia,1936,House,8,John S. Gibson,Democrat,23633
+Georgia,1936,House,8,John S. Gibson,Republican,821
+Georgia,1936,House,8,R. Frank Whelchel,Democrat,25461
+Georgia,1936,House,9,William C. Horton,Republican,4025
+Georgia,1936,House,9,William C. Horton,Independent,626
+Georgia,1936,House,9,W. H. Slack Jr.,Independent,52
+Georgia,1936,House,9,Paul Brown,Democrat,18291
+Georgia,1936,House,10,D. Talmage Bowers,Independent Democrat,119
+Georgia,1936,House,10,D. Talmage Bowers,Independent,119
+Georgia,1936,House,10,G. P. King,Independent,1
+Hawaii,1932,Delegate,,Samuel Wilder King,Republican,54466
+Idaho,1936,House,1,Compton I. White,Democrat,62107
+Idaho,1936,House,1,Edward Gaffney,Republican,37999
+Idaho,1936,House,2,Henry Dworshak,Republican,69804
+Idaho,1936,House,2,Ira H. Masters,Democrat,61726
+Idaho,1936,President,,,Democratic,127842
+Idaho,1936,President,,,Republican,106553
+Idaho,1936,President,,,Socialist,497
+Idaho,1936,President,,,Communist,276
+Idaho,1936,Senate,,John Thomas,Republican,124535
+Idaho,1936,Senate,,Glen Taylor,Democrat,110614
+Illinois,1912,Presidential,,Other,,657
+Illinois,1932,House,21,Evan Howell,Republican,67896
+Illinois,1932,House,21,Frank W. Fries,Democrat,63740
+Illinois,1932,House,22,Edwin M. Schaefer,Democrat,98162
+Illinois,1932,House,22,Calvin D. Johnson,Republican,84381
+Illinois,1932,House,23,Lawrence F. Arnold,Democrat,64072
+Illinois,1932,House,23,Ben O. Summer,Republican,61521
+Illinois,1932,House,24,James V. Heidinger,Republican,49731
+Illinois,1932,House,24,Claude V. Parsons,Democrat,43050
+Illinois,1932,House,25,C. W. (Runt) Bishop,Republican,69165
+Illinois,1932,House,25,Kent E. Keller,Democrat,67891
+Illinois,1932,House,,William G. Stratton,Republican,2050493
+Illinois,1932,House,,Stephen A. Day,Republican,2020006
+Illinois,1932,House,,Thomas V. Smith,Democrat,1968143
+Illinois,1932,House,,Walter J. Orlikoski,Democrat,1913950
+Illinois,1932,House,,Harry Fleischman,,7377
+Illinois,1932,House,,Lee S. Gregory,,7191
+Illinois,1932,House,,Willis Ray Wilson,,6786
+Illinois,1932,House,,Leon Duell Vincent,,6621
+Illinois,1936,President,,,Democratic,2149934
+Illinois,1936,President,,,Republican,2047240
+Illinois,1936,President,,,Socialist,10914
+Illinois,1936,President,,,Prohibition,9190
+Illinois,1936,President,,,Scattering,657
+Illinois,1942,House,1,Arthur W. Mitchell,Democrat,34641
+Illinois,1942,House,1,William E. King,Republican,30098
+Illinois,1942,House,2,Raymond S. McKeough,Democrat,155098
+Illinois,1942,House,2,P. H. Moynihan,Republican,146927
+Illinois,1942,House,2,Edward A. Kelly,Democrat,148382
+Illinois,1942,House,3,Waldemar J. Roehler,Republican,141768
+Illinois,1942,House,4,Harry P. Beam,Democrat,74977
+Illinois,1942,House,4,Henry F. Schmudde,Republican,21858
+Illinois,1942,House,5,Adolph J. Sabath,Democrat,35637
+Illinois,1942,House,5,Martin Jykema,Republican,14540
+Illinois,1942,House,6,A. F. Maciejewski,Democrat,187393
+Illinois,1942,House,6,Joseph Wagner,Republican,146253
+Illinois,1942,House,7,Leonard W. Schuetz,Democrat,229161
+Illinois,1942,House,7,James G. Moreland,Republican,229793
+Illinois,1942,House,8,Leo Kocialkowski,Democrat,40074
+Illinois,1942,House,8,Anthony V. Champagne,Republican,11252
+Illinois,1942,House,9,Charles S. Dewey,Republican,56806
+Illinois,1942,House,9,Homer McPuffrey,Democrat,49816
+Illinois,1942,House,10,George A. Paddock,Republican,199418
+Illinois,1942,House,10,John Haderlein,Democrat,125827
+Illinois,1942,House,11,Chauncey W. Reed,Republican,128645
+Illinois,1942,House,11,Edgar O. Eakin,Democrat,70581
+Illinois,1942,House,12,Noah M. Mason,Republican,90744
+Illinois,1942,House,12,August C. Engli,Democrat,53945
+Illinois,1942,House,13,Leo E. Allen,Republican,65698
+Illinois,1942,House,13,John B. Hayes,Democrat,31502
+Illinois,1942,House,14,Anton J. Johnson,Republican,60909
+Illinois,1942,House,14,Forest Dizotell,Democrat,55451
+Illinois,1942,House,15,Robert B. Chiperfield,Republican,65639
+Illinois,1942,House,15,Russell M. Gunn,Democrat,50820
+Illinois,1942,House,16,Everett M. Dirksen,Republican,76780
+Illinois,1942,House,16,M. R. Clark,Democrat,57567
+Illinois,1942,House,17,Leslie C. Arends,Republican,56712
+Illinois,1942,House,17,J. Joseph Pitts,Democrat,36102
+Illinois,1942,House,18,Jessie Sumner,Republican,64409
+Illinois,1942,House,18,James A. Meeks,Democrat,56744
+Illinois,1942,House,19,William H. Wheat,Republican,75933
+Illinois,1942,House,19,Alfred D. Hinton,Democrat,74691
+Illinois,1942,House,20,James M. Barnes,Democrat,44824
+Illinois,1942,House,20,Hardin E. Hanks,Republican,41806
+Illinois,1942,Senate,,C. Wayland Brooks,Republican,2045924
+Illinois,1942,Senate,,James M. Slattery,Democrat,2025007
+Illinois,1942,Senate,,Enoch A. Holtwick,,8525
+Illinois,1942,Senate,,Clarence H. Mayer,,6517
+Indiana,1912,Presidential,,Other,,706
+Indiana,1932,House,1,William T. Schulte,Democrat,71606
+Indiana,1932,House,1,Elliot Belshaw,Republican,45947
+Indiana,1932,House,2,Charles A. Halleck,Republican,87652
+Indiana,1932,House,2,James O. Cox,Democrat,63290
+Indiana,1932,House,3,Robert A. Grant,Republican,73914
+Indiana,1932,House,3,George Smith,Democrat,50258
+Indiana,1932,House,4,George W. Gillie,Republican,80258
+Indiana,1932,House,4,Frank E. Corbett,Democrat,58157
+Indiana,1932,House,5,Forest A. Harness,Republican,78691
+Indiana,1932,House,5,George W. Wolf,Democrat,65200
+Indiana,1932,House,6,Noble J. Johnson,Republican,80595
+Indiana,1932,House,6,Lenhardt E. Bauer,Democrat,73499
+Indiana,1932,House,7,Gerald W. Landis,Republican,81632
+Indiana,1932,House,7,Charles H. Bedwell,Democrat,74746
+Indiana,1932,President,,,,899466
+Indiana,1932,President,,,,874063
+Indiana,1932,President,,,,6437
+Indiana,1932,President,,,,2075
+Indiana,1932,President,,,,706
+Indiana,1932,Senate,,Raymond E. Willis,Republican,888070
+Indiana,1932,Senate,,Sherman Minton,Democrat,864803
+Indiana,1932,Senate,,Carl W. Thompson,Prohibition,5621
+Indiana,1932,Senate,,John H. Kingsbury,Socialist,1751
+Iowa,1912,Presidential,,Socialist Labor,,452
+Louisiana,1912,Presidential,,Independent,,108
+Maryland,1912,Presidential,,Labor Party,,61
+Maryland,1932,House,1,David J. Ward,Democrat,36057
+Maryland,1932,House,1,Robert F. Duer,Republican,30810
+Maryland,1932,House,1,Thomas F. Johnson,,0
+Maryland,1932,House,2,William P. Cole Jr,Democrat,118495
+Maryland,1932,House,2,Theodore F. Brown,Republican,59223
+Maryland,1932,House,3,Thomas D'Alesandro Jr,Democrat,38540
+Maryland,1932,House,3,John A. Janetzke,Republican,24153
+Maryland,1932,House,4,John A. Meyer,Democrat,50199
+Maryland,1932,House,4,Daniel J. Ellison,Republican,38444
+Maryland,1932,House,5,Lansdale G. Sasscer,Democrat,58418
+Maryland,1932,House,5,John N. Torvestad,Republican,23857
+Maryland,1932,House,6,William D. Byron,Democrat,60057
+Maryland,1932,House,6,Walter P. Johnson,Republican,52258
+Maryland,1932,House,6,Charles F. Stewart,,1
+Massachusetts,1912,Presidential,,Socialist Labor,,1492
+Massachusetts,1932,House,1,Allen T. Treadway,Republican,72750
+Massachusetts,1932,House,1,Clifford J. Akey,Democrat,54634
+Massachusetts,1932,House,2,Charles M. Clason,Republican,76373
+Massachusetts,1932,House,2,Patrick A. Doyle,Democrat,54428
+Massachusetts,1932,House,3,Joseph E. Casey,Democrat,72839
+Massachusetts,1932,House,3,Edward T. Simoneau,Republican,60676
+Massachusetts,1932,House,4,Pehr G. Holmes,Republican,70542
+Massachusetts,1932,House,4,Frank J. McGrail,Democrat,60988
+Massachusetts,1932,House,4,Helen P. Nylen,Prohibition,1130
+Massachusetts,1932,House,5,Edith Nourse Rogers,Republican,120435
+Massachusetts,1932,House,5,Francis J. Roane,Democrat,37593
+Massachusetts,1932,House,6,George J. Bates,Republican,88834
+Massachusetts,1932,House,6,James D. Burns,Democrat,85214
+Massachusetts,1932,House,7,William Henry Haskell,Republican,52701
+Massachusetts,1932,House,7,Lawrence J. Connery,Democrat,89966
+Massachusetts,1932,House,7,Thaxter Eaton,Prohibition,2194
+Massachusetts,1932,President,,,,1076522
+Massachusetts,1932,President,,,,939700
+Massachusetts,1932,President,,,,4091
+Massachusetts,1932,President,,,,3806
+Massachusetts,1932,President,,,,1492
+Massachusetts,1932,President,,,,1370
+Massachusetts,1932,President,,,,12
+Massachusetts,1932,Senate,,David I. Walsh,Democrat,1088838
+Massachusetts,1932,Senate,,Henry Parkman Jr,Republican,838122
+Massachusetts,1932,Senate,,George L. Thompson,Prohibition,9632
+Massachusetts,1932,Senate,,Philip Frankfeld,Communist,3467
+Massachusetts,1932,Senate,,George Lyman Paine,Socialist,6876
+Massachusetts,1932,Senate,,Horace I. Hillis,Socialist-Labor,4133
+Michigan,1912,Presidential,,Socialist Labor,,2512
+Michigan,1932,Representative,4,Clare E. Hoffman,Republican,65666
+Michigan,1932,Representative,4,Harvey Hope Jarvis,Democrat,40443
+Michigan,1932,Representative,4,Sarah Bishop,Prohibition,232
+Michigan,1932,Representative,5,Bartel J. Jonkman,Republican,65240
+Michigan,1932,Representative,5,Garrett Heyns,Democrat,56172
+Michigan,1932,Representative,6,William W. Blackney,Republican,77340
+Michigan,1932,Representative,6,Charles R. Adair,Democrat,73629
+Michigan,1932,Representative,6,Harry F. Griffin,Socialist,335
+Michigan,1932,Representative,6,Royal S. Woodhead,Prohibition,105
+Michigan,1932,Representative,7,Jesse P. Wolcott,Republican,73926
+Michigan,1932,Representative,7,Albert A. Wagner,Democrat,39416
+Michigan,1932,Representative,7,Edward W. Wildt,Prohibition,56
+Michigan,1932,Representative,8,Fred L. Crawford,Republican,68295
+Michigan,1932,Representative,8,Louis C. Schwager,Democrat,43297
+Michigan,1932,Representative,8,Holgar Larson,Prohibition,22
+Michigan,1932,Representative,9,Albert J. Engel,Republican,52343
+Michigan,1932,Representative,9,Noel P. Fox,Democrat,39667
+Michigan,1932,Representative,9,William H. Boileau,Prohibition,64
+Michigan,1932,Representative,10,Roy O. Woodruff,Republican,52685
+Michigan,1932,Representative,10,William J. Kelly,Democrat,32280
+Michigan,1932,Representative,10,F. A. Hatcher,Socialist,42
+Michigan,1932,Representative,10,Gustav W. Mains,Prohibition,17
+Michigan,1932,Representative,11,Fred Bradley,Republican,48087
+Michigan,1932,Representative,11,Wendell L. Lund,Democrat,45826
+Michigan,1932,Representative,11,Raymond Anderson,Communist,83
+Michigan,1932,Representative,11,S. Basil Dickinson,Prohibition,49
+Michigan,1932,Representative,12,Frank E. Hook,Democrat,47429
+Michigan,1932,Representative,12,John B. Bennett,Republican,44733
+Michigan,1932,Representative,12,Arvid N. Phillips,Communist,329
+Michigan,1932,Representative,13,George D. O'Brien,Democrat,66965
+Michigan,1932,Representative,13,Clarence J. McLeod,Republican,59115
+Michigan,1932,Representative,13,William Jenkins,Socialist,350
+Michigan,1932,Representative,13,Hugo Beiswenger,Communist,294
+Michigan,1932,Representative,14,Louis C. Rabaut,Democrat,80463
+Michigan,1932,Representative,14,George B. Schaefer,Republican,55910
+Michigan,1932,Representative,15,John D. Dingell,Democrat,85239
+Michigan,1932,Representative,15,Archie C. Fraser,Republican,52131
+Michigan,1932,Representative,15,Woodrow Ingram,Socialist,352
+Michigan,1932,Representative,16,John Lesinski,Democrat,73956
+Michigan,1932,Representative,16,Robert Ford,Republican,51276
+Michigan,1932,Representative,16,Mint Nauta,Socialist,320
+Michigan,1932,Representative,16,Nat Wald,Communist,195
+Michigan,1932,Representative,17,George A. Dondero,Republican,82809
+Michigan,1932,Representative,17,Draper Allen,Democrat,68195
+Michigan,1932,Representative,17,W. A. Allmendinger,Socialist,306
+Minnesota,1932,President,,Democratic,Democratic,644196
+Minnesota,1932,President,,Republican,Republican,596274
+Minnesota,1932,President,,Socialist,Socialist,5454
+Minnesota,1932,President,,Communist,Communist,2711
+Minnesota,1932,President,,Industrial,Industrial,2553
+Minnesota,1938,House,1,August H. Andresen,Republican,88814
+Minnesota,1938,House,1,Francis L. Murphy,Democrat,27479
+Minnesota,1938,House,1,Endre B. Anderson,Farmer-Labor,20700
+Minnesota,1938,House,2,Joseph P. O'Hara,Republican,66610
+Minnesota,1938,House,2,Elmer J. Ryan,Democrat,57675
+Minnesota,1938,House,2,C.E. McNaught,Farmer-Labor,11534
+Minnesota,1938,House,3,Richard P. O'Brien,Republican,63854
+Minnesota,1938,House,3,Henry G. Teigan,Farmer-Labor,50222
+Minnesota,1938,House,3,Martin A. Hogan,Democrat,28321
+Minnesota,1938,House,3,John G. Alexander,,4488
+Minnesota,1938,House,4,Melvin J. Maas,Republican,68525
+Minnesota,1938,House,4,George L. Siegel,Farmer-Labor,32898
+Minnesota,1938,House,4,Willard J. Moran,Democrat,15050
+Minnesota,1938,House,4,Oscar Youngdahl,Republican,79491
+Minnesota,1938,House,5,Dewey Johnson,Farmer-Labor,52289
+Minnesota,1938,House,5,LaMoine Montgomery Dowling,Democrat,20720
+Minnesota,1938,House,6,Harold Knutson,Republican,84023
+Minnesota,1938,House,6,E. Thomas O'Brien,Democrat,52504
+Minnesota,1938,House,6,H. Carl Andersen,Republican,65958
+Minnesota,1938,House,7,Harold L. Peterson,Farmer-Labor,42356
+Minnesota,1938,House,7,J. L. O'Connor,Democrat,21796
+Minnesota,1938,House,8,William A. Pittenger,Republican,74521
+Minnesota,1938,House,8,John T. Bernard,Farmer-Labor,39252
+Minnesota,1938,House,8,M. W. Blatnik,Democrat,23845
+Minnesota,1938,House,9,Richard Thompson Buckler,Farmer-Labor,48999
+Minnesota,1938,House,9,Colvin G. Butler,Republican,48324
+Minnesota,1938,House,9,Frank H. Timm,Democrat,15507
+Minnesota,1938,Senate,,Henrik Shipstead,Republican,641049
+Minnesota,1938,Senate,,Elmer A. Benson,Farmer-Labor,310875
+Minnesota,1938,Senate,,John E. Regan,Democrat,248658
+Minnesota,1938,Senate,,Grace Holmes Carlson,,8761
+Minnesota,1938,Senate,,Carl Winter,,256
+Mississippi,1912,Presidential,,Independent Republican,Republican,4550
+Mississippi,1938,House,1,John E. Rankin,Democrat,19330
+Mississippi,1938,House,2,Wall Doxey,Democrat,16939
+Mississippi,1938,House,3,William M. Whittington,Democrat,13864
+Mississippi,1938,House,4,A. L. Ford,Democrat,15329
+Mississippi,1938,House,5,Ross A. Collins,Democrat,24079
+Mississippi,1938,House,6,William M. Colmer,Democrat,26879
+Mississippi,1938,House,7,Dan R. McGehee,Democrat,29799
+Mississippi,1938,President,,Democratic,,168267
+Mississippi,1938,President,,Independent Republican,,2850
+Mississippi,1938,President,,Republican,,2814
+Mississippi,1938,President,,Socialist,,192
+Mississippi,1938,Senate,,Theodore G. Bilbo,Democrat,143431
+Missouri,1912,Presidential,,Socialist Labor,,209
+Missouri,1932,House,1,Milton A. Romjue,Democratic,62461
+Missouri,1932,House,1,Henry S. Beardsley,Republican,61123
+Missouri,1932,House,2,William L. Nelson,Democratic,77922
+Missouri,1932,House,2,Roy O. Miller,Republican,66794
+Missouri,1932,House,2,Fred Umstead,Socialist Labor,7
+Missouri,1932,House,3,Richard M. Duncan,Democrat,77424
+Missouri,1932,House,3,Fred Maughmer,Republican,67757
+Missouri,1932,House,4,C. Jasper Bell,Democrat,72331
+Missouri,1932,House,4,John W. Mitchell,Republican,48181
+Missouri,1932,House,4,William Hanks,Socialist Labor,12
+Missouri,1932,House,5,Joseph B. Shannon,Democrat,63202
+Missouri,1932,House,5,Forest W. Hanna,Republican,53390
+Missouri,1932,House,5,Karl Oberhen,Socialist Labor,19
+Missouri,1932,House,6,Phil A. Bennett,Republican,78740
+Missouri,1932,House,6,Reuben T. Wood,Democrat,67902
+Missouri,1932,House,7,Dewey Short,Republican,86547
+Missouri,1932,House,7,Vernon Sigars,Democrat,59344
+Missouri,1932,House,8,Clyde Williams,Democrat,64263
+Missouri,1932,House,8,Peter M. Hanna,Republican,61567
+Missouri,1932,House,8,William Doren,Socialist Labor,3
+Missouri,1932,House,9,Clarence Cannon,Democrat,99294
+Missouri,1932,House,9,F. R. Meyer,Republican,48704
+Missouri,1932,House,10,Orville Zimmerman,Democrat,69859
+Missouri,1932,House,10,C. E. Davenport,Republican,51755
+Missouri,1932,House,11,John E. Sullivan,Democrat,85722
+Missouri,1932,House,11,Charles J. Riley,Republican,68088
+Missouri,1932,House,11,James Wagner,Socialist Labor,22
+Missouri,1932,House,12,C. Arthur Anderson,Democrat,127005
+Missouri,1932,House,12,Peter Tendler,Socialist Labor,108007
+Missouri,1932,House,13,John J. Cochran,Democrat,82417
+Missouri,1932,House,13,W. S. Sanford,Republican,45262
+Missouri,1932,House,13,Norman Koehendorfer,Socialist Labor,17
+Missouri,1932,Presidential,,Democratic,Democratic,958476
+Missouri,1932,Presidential,,Republican,Republican,871009
+Missouri,1932,Presidential,,Socialist,Socialist,2226
+Missouri,1932,Presidential,,Prohibition,Prohibition,1800
+Missouri,1932,Presidential,,Socialist Labor,Socialist Labor,209
+Missouri,1932,Senate,,Harry S. Truman,Democratic,930775
+Missouri,1932,Senate,,Manvel H. Davis,Republican,886376
+Missouri,1932,Senate,,W. F. Rinck,Socialist,1669
+Missouri,1932,Senate,,Theodore Baeff,Socialist Labor,196
+Montana,1932,Presidential,,Democratic,Democratic,145698
+Montana,1932,Presidential,,Republican,Republican,99579
+Montana,1932,Presidential,,Socialist,Socialist,1443
+Montana,1932,Presidential,,Prohibition,Prohibition,664
+Montana,1932,Presidential,,Communist,Communist,489
+Montana,1940,House,1,Jeannette Rankin,Republican,56616
+Montana,1940,House,1,Jerry J. O'Connell,Democratic,47352
+Montana,1940,House,1,James F. O'Connor,Democratic,83101
+Montana,1940,House,2,Melvin N. Hoiness,Republican,49740
+Montana,1940,House,2,Laverne Hamilton,Socialist,1196
+Montana,1940,Senate,,Burton K. Wheeler,Democratic,176753
+Montana,1940,Senate,,E. K. Cheadle,Republican,63941
+NEW HAMPSHIRE,1932,HOUSE,1,Arthur B. Jenks,Republican,57982
+NEW HAMPSHIRE,1932,HOUSE,1,Alphonse Roy,Democratic,55434
+NEW HAMPSHIRE,1932,HOUSE,2,Foster Stearns,Republican,55530
+NEW HAMPSHIRE,1932,HOUSE,2,Daniel J. Moriarty,Democratic,49290
+NEW HAMPSHIRE,1932,PRESIDENTIAL,,Democratic,Democratic,125202
+NEW HAMPSHIRE,1932,PRESIDENTIAL,,Republican,Republican,110127
+NEW JERSEY,1932,HOUSE,1,Charles A. Wolverton,Republican,97547
+NEW JERSEY,1932,HOUSE,1,Harry Roye,Democratic,77931
+NEW JERSEY,1932,HOUSE,1,Andrew S. Hall,Socialist,257
+NEW JERSEY,1932,HOUSE,1,Esther H. Elfreth,Prohibition,110
+NEW JERSEY,1932,HOUSE,1,John F. Norman,Communist,67
+NEW JERSEY,1932,HOUSE,2,Elmer H. Wene,Democratic,60392
+NEW JERSEY,1932,HOUSE,2,Jeffrey Sears,Republican,55382
+NEW JERSEY,1932,HOUSE,2,Joseph R. Sharp,Prohibition,48
+NEW JERSEY,1932,HOUSE,3,William H. Sutphin,Democratic,76035
+NEW JERSEY,1932,HOUSE,3,Joseph C. Irwin,Republican,70890
+NEW JERSEY,1932,HOUSE,3,Horace T. Brown,Prohibition,29
+NEW JERSEY,1932,HOUSE,4,D. Lane Powers,Republican,69834
+NEW JERSEY,1932,HOUSE,4,Thomas S. Dignan,Democratic,54909
+NEW JERSEY,1932,HOUSE,4,William C. Kaufman,Socialist,66
+NEW JERSEY,1932,HOUSE,4,Otis Napoleon,Independent Progressive,32
+NEW JERSEY,1932,HOUSE,4,Wilbur Jones,Prohibition,29
+NEW JERSEY,1932,HOUSE,5,Charles A. Eaton,Republican,82840
+NEW JERSEY,1932,HOUSE,5,Charles R. M. Tuttle,Democratic,65200
+NEW JERSEY,1932,HOUSE,5,Emily R. G. Klein,Prohibition,42
+NEW JERSEY,1932,PRESIDENTIAL,,Democratic,Democratic,1016808
+NEW JERSEY,1932,PRESIDENTIAL,,Republican,Republican,945475
+NEW JERSEY,1932,PRESIDENTIAL,,Communist,Communist,6508
+NEW JERSEY,1932,PRESIDENTIAL,,Socialist,Socialist,2433
+NEW JERSEY,1932,PRESIDENTIAL,,Prohibition,Prohibition,873
+NEW JERSEY,1932,PRESIDENTIAL,,Socialist-Labor,Socialist-Labor,455
+NEW JERSEY,1932,SENATE,,W. Warren Barbour,Republican,1029331
+NEW JERSEY,1932,SENATE,,James H. R. Cromwell,Democratic,823393
+NEW JERSEY,1932,SENATE,,McAlister Coleman,Socialist,8836
+NEW JERSEY,1932,SENATE,,James A. Tumulty Jr.,Constitutional Independent,2784
+NEW JERSEY,1932,SENATE,,Mary Ellen Dooner,Communist,1519
+NEW JERSEY,1932,SENATE,,Edson R. Leach,Prohibition,645
+NEW JERSEY,1932,SENATE,,Harry Santhouse,Socialist-Labor,464
+NEW JERSEY,1932,SENATE,,George Breitman,Socialist Workers,303
+Nebraska,1940,House,1,Oren S. Copeland,Republican,64431
+Nebraska,1940,House,1,Henry C. Luckey,Democratic,51524
+Nebraska,1940,House,2,Charles F. McLaughlin,Democratic,68760
+Nebraska,1940,House,2,Theodore W. Metcalfe,Republican,52669
+Nebraska,1940,House,3,Karl Stefan,Republican,90561
+Nebraska,1940,House,3,Victor J. McGonigle,Democratic,19253
+Nebraska,1940,House,3,Paul Burke,,3461
+Nebraska,1940,House,4,Carl T. Curtis,Republican,66965
+Nebraska,1940,House,4,R. O. Canaday,Democratic,29311
+Nebraska,1940,House,5,Charles G. Binderup,,19807
+Nebraska,1940,House,5,Harry B. Coffee,Democratic,63025
+Nebraska,1940,House,5,Bert Howard,Republican,45548
+Nebraska,1940,Presidential,,,Republican,352201
+Nebraska,1940,Presidential,,,Democratic,263677
+Nebraska,1940,Senate,,Hugh A. Butler,Republican,340250
+Nebraska,1940,Senate,,R. L. Cochran,Democratic,247659
+Nebraska,1940,Senate,,Albert F. Ruthven,,8982
+Nevada,1940,House,,James G. Scrugham,Democratic,32714
+Nevada,1940,House,,Ralph W. Lattin,Republican,18032
+Nevada,1940,Presidential,,,Democratic,31945
+Nevada,1940,Presidential,,,Republican,21229
+Nevada,1940,Senate,,Key Pittman,Democratic,31351
+Nevada,1940,Senate,,Samuel Platt,Republican,20488
+New Jersey,1912,Presidential,,Socialist Labor,,455
+New Mexico,1934,House,,Clinton P. Anderson,Democrat,106972
+New Mexico,1934,House,,Herman R. Crile,Republican,75085
+New Mexico,1934,Senate,,Dennis Chavez,Democrat,103194
+New Mexico,1934,Senate,,Albert K. Mitchell,Republican,81257
+New York,1932,House,41,Alfred J. Beiter,Democrat,57204
+New York,1932,House,41,Alfred J. Beiter,American Labor,5639
+New York,1932,House,41,J. Francis Harter,Republican,57335
+New York,1932,House,42,Pius L. Schwert,Democrat,58356
+New York,1932,House,42,Pius L. Schwert,American Labor,5894
+New York,1932,House,42,Edward F. Moss,Republican,44866
+New York,1932,House,42,Mattie Green,Communist,227
+New York,1932,House,42,Daniel A. Reed,Republican,67520
+New York,1932,House,43,Milton A. Bissell,Democrat,39295
+New York,1932,House,43,Milton A. Bissell,American Labor,1773
+New York,1932,House,24,James M. Fitzpatrick,Democrat,161577
+New York,1932,House,24,Ralph W. Gwinn,Republican,136835
+New York,1932,House,24,George Thomas,American Labor,35233
+New York,1932,House,24,Antonio Lamarca,Communist,5350
+New York,1932,House,25,Ralph A. Gamble,Republican,125412
+New York,1932,House,25,Homer A. Stebbins,Democrat,64889
+New York,1932,House,25,George O. Pershing,American Labor,8742
+New York,1932,House,25,Hamilton Fish,Republican,83715
+New York,1932,House,26,Hardy Steeholm,Democrat,99739
+New York,1932,House,26,Con Miller,American Labor,4071
+New York,1932,House,27,Lewis H. Rockefeller,Republican,65618
+New York,1932,House,27,George J. Burari,Democrat,47610
+New York,1932,House,27,William T. Byrne,Democrat,89592
+New York,1932,House,28,William V. A. Waterman,Republican,59344
+New York,1932,House,28,Jack Davis,American Labor,6134
+New York,1932,House,28,E. Harold Cluett,Republican,82328
+New York,1932,House,29,Salvatore J. Leombruno,Democrat,43888
+New York,1932,House,29,Coleman B. Cheney,American Labor,3308
+New York,1932,House,29,Frank Crowther,Republican,66159
+New York,1932,House,30,Bertie G. McMillin,Democrat,51270
+New York,1932,House,30,John McMahon,American Labor,3254
+New York,1932,House,30,Clarence E. Kilburn,Republican,58727
+New York,1932,House,31,Horatio W. Thomas,Democrat,35307
+New York,1932,House,31,Francis D. Culkin,Republican,71782
+New York,1932,House,32,Frank M. McCormack,Democrat,30105
+New York,1932,House,32,Clarence Stuber,American Labor,2483
+New York,1932,House,32,Fred J. Douglas,Republican,72412
+New York,1932,House,33,Samuel B. Niles,Democrat,52469
+New York,1932,House,33,Edward G. Cluney,American Labor,3405
+New York,1932,House,33,Edwin A. Hall,Republican,93990
+New York,1932,House,34,Donald W. Kramer,Democrat,41027
+New York,1932,House,34,William Livings,American Labor,2583
+New York,1932,House,34,Clarence E. Hancock,Republican,67683
+New York,1932,House,35,Flora D. Johnson,Democrat,66730
+New York,1932,House,35,Walter Saule,American Labor,4508
+New York,1932,House,35,John Taber,Republican,64507
+New York,1932,House,36,John W. Wadsworth,Democrat,40929
+New York,1932,House,36,Walter Walerczyk,American Labor,2814
+New York,1932,House,36,W. Sterling Cole,Republican,76630
+New York,1932,House,37,David Moses,Democrat,38878
+New York,1932,House,37,E. Cyrus Rigby,American Labor,2558
+New York,1932,House,37,Joseph J. O'Brien,Republican,82866
+New York,1932,House,38,George B. Kelly,Democrat,86197
+New York,1932,House,39,James W. Wadsworth,Republican,73316
+New York,1932,House,39,J. Frederick Cowan,Democrat,48133
+New York,1932,House,40,Walter G. Andrews,Republican,119972
+New York,1932,House,40,Robert A. Hoffman,Democrat,76468
+New York,1934,House,1,Leonard W. Hall,Republican,276873
+New York,1934,House,1,Frederick S. Taral,Democrat,141774
+New York,1934,House,1,Sidney Feinberg,American Labor,10379
+New York,1934,House,2,William F. Barry,Democrat,216309
+New York,1934,House,2,Thomas J. Staples,Republican,170004
+New York,1934,House,2,Matthew Napear,American Labor,20827
+New York,1934,House,2,Paul Crosbie,Communist,2370
+New York,1934,House,3,Joseph L. Pfeifer,Democrat,37939
+New York,1934,House,3,Samuel Rosenthal,Republican,17839
+New York,1934,House,4,Thomas H. Cullen,Democrat,36905
+New York,1934,House,4,Alfred A. LaBosco,Republican,25397
+New York,1934,House,4,Michael Ciaritano,American Labor,3636
+New York,1934,House,5,James J. Heffernan,Democrat,54723
+New York,1934,House,5,Marcellus H. Evans,Republican,21428
+New York,1934,House,6,Andrew L. Somers,Democrat,130391
+New York,1934,House,6,Alfred E. Buck,Republican,58507
+New York,1934,House,6,Irving B. Abrams,American Labor,31945
+New York,1934,House,6,Thomas P. Dwyer,Communist,5287
+New York,1934,House,7,John J. Delaney,Democrat,42945
+New York,1934,House,7,Julius Reinlieb,Republican,18765
+New York,1934,Senate,,James M. Mead,Democrat,2893407
+New York,1934,Senate,,Bruce Barton,Republican,2808352
+North Carolina,1932,House,1,Herbert C. Bonner,Democrat,36722
+North Carolina,1932,House,1,John A. Wilkinson,Republican,2851
+North Carolina,1932,House,2,John H. Kerr,Democrat,41217
+North Carolina,1932,House,3,Graham A. Barden,Democrat,33769
+North Carolina,1932,House,3,Julian T. Gaskill,Republican,11248
+North Carolina,1932,House,4,Harold D. Cooley,Democrat,37610
+North Carolina,1932,House,4,Ezra Parker,Republican,14028
+North Carolina,1932,House,5,Alonzo D. Folger,Democrat,53778
+North Carolina,1932,House,5,Ottis James Reynolds,Republican,15872
+North Carolina,1932,House,6,Carl T. Durham,Democrat,55549
+North Carolina,1932,House,6,Gilliam Grissom,Republican,15259
+North Carolina,1932,House,7,J. Bayard Clark,Democrat,41663
+North Carolina,1932,House,7,Fred R. Keith,Republican,7195
+North Carolina,1932,House,8,William O. Burgin,Democrat,57879
+North Carolina,1932,House,8,J. D. Harding,Republican,28232
+North Carolina,1932,House,9,Robert L. Doughton,Democrat,60875
+North Carolina,1932,House,9,Monroe Adams,Republican,28287
+North Carolina,1932,House,10,Alfred L. Bulwinkle,Democrat,87156
+North Carolina,1932,House,10,Ernest M. Morgan,Republican,27736
+North Carolina,1932,House,11,Zebulon Weaver,Democrat,75763
+North Carolina,1932,House,11,Robert Frank Jarrett,Republican,34104
+North Carolina,1932,Presidential,,,,609015
+North Carolina,1932,Presidential,,,,213633
+North Dakota,1912,Presidential,,Alfred Knutson,,545
+North Dakota,1932,House,,Usher L. Burdick,Republican,148227
+North Dakota,1932,House,,Charles R. Robertson,Republican,111125
+North Dakota,1932,House,,R. J. Downey,Democratic,63662
+North Dakota,1932,House,,Adolph Michelson,Democratic,63032
+North Dakota,1932,House,,Thomas Hall,Individual,23920
+North Dakota,1932,House,,John Omland,Individual,20845
+North Dakota,1932,Presidential,,Republican,Republican,154590
+North Dakota,1932,Presidential,,Democratic,Democratic,124036
+North Dakota,1932,Presidential,,Socialist,Socialist,1279
+North Dakota,1932,Presidential,,Independent,Alfred Knutson,545
+North Dakota,1932,Presidential,,Prohibition,Prohibition,325
+North Dakota,1932,Senate,,William Langer,Republican,100647
+North Dakota,1932,Senate,,William Lemke,Individual,92593
+North Dakota,1932,Senate,,Charles J. Vogel,Democratic,69847
+North Dakota,1932,Senate,,Jasper Haaland,Individual,1014
+Ohio,1932,House,1,Charles H. Elston,Republican,81622
+Ohio,1932,House,1,Joseph A. Dixon,Democratic,61382
+Ohio,1932,House,2,William E. Hess,Republican,77769
+Ohio,1932,House,2,James E. O'Connell,Democratic,60410
+Ohio,1932,House,3,Greg Holbrock,Democratic,103291
+Ohio,1932,House,3,Harry N. Routzohn,Republican,93062
+Ohio,1932,House,4,Robert F. Jones,Republican,65234
+Ohio,1932,House,4,Clarence C. Miller,Democratic,47765
+Ohio,1932,House,5,Cliff Clevenger,Republican,48040
+Ohio,1932,House,5,C. H. Armbruster,Democratic,31063
+Ohio,1932,House,6,James G. Polk,Democratic,52769
+Ohio,1932,House,6,Chester P. Fitch,Republican,48257
+Ohio,1932,House,7,Clarence J. Brown,Republican,83415
+Ohio,1932,House,7,J. Fuller Tramp,Democratic,59067
+Ohio,1932,House,8,Frederick C. Smith,Republican,49218
+Ohio,1932,House,8,Kenneth M. Petri,Democratic,44605
+Ohio,1932,House,9,John F. Hunter,Democratic,86956
+Ohio,1932,House,9,Wilbur M. White,Republican,71927
+Ohio,1932,Presidential,,Democratic,Democratic,1733139
+Ohio,1932,Presidential,,Republican,Republican,1586773
+Ohio,1932,Senate,,Harold H. Burton,Republican,1602498
+Ohio,1932,Senate,,John McSweeney,Democratic,1457394
+Oregon,1912,Presidential,,Socialist Labor,,2487
+Oregon,1912,Presidential,,Other,,40
+Pennsylvania,1912,Presidential,,Independent Government,,1518
+Pennsylvania,1912,Presidential,,Other,,827
+Pennsylvania,1924,House,27,Harry Tibbott,Republican,75243
+Pennsylvania,1924,House,27,Joseph Gray,Democrat,69796
+Pennsylvania,1924,House,27,James O. Archer,Prohibition,772
+Pennsylvania,1924,House,27,Augustine B. Kelley,Democrat,58772
+Pennsylvania,1924,House,28,James M. Underwood,Republican,44528
+Pennsylvania,1924,House,28,A. F. Daughenbaugh,Progressive Labor,2175
+Pennsylvania,1924,House,28,S. W. Bierer,Prohibition,523
+Pennsylvania,1924,House,28,Robert L. Rodgers,Republican,50137
+Pennsylvania,1924,House,29,James F. Lavery,Democrat,41924
+Pennsylvania,1924,House,29,Ira M. Romey,Prohibition,370
+Pennsylvania,1924,House,29,Thomas E. Scanlon,Democrat,62450
+Pennsylvania,1924,House,30,Robert J. Corbett,Republican,62097
+Pennsylvania,1924,House,30,Samuel A. Weiss,Democrat,76819
+Pennsylvania,1924,House,30,John McDowell,Republican,59960
+Pennsylvania,1924,House,31,M. J. Dible,Prohibition,376
+Pennsylvania,1924,House,31,George Bush,Progressive Labor,339
+Pennsylvania,1924,House,31,Ben Findley,Communist,385
+Pennsylvania,1924,House,31,Herman F. Eberharter,Democrat,62121
+Pennsylvania,1924,House,32,Samuel M. Jackson,Republican,28196
+Pennsylvania,1924,House,32,H. Joseph Filner,Communist,216
+Pennsylvania,1924,House,32,Joseph A. McArdle,Democrat,70824
+Pennsylvania,1924,House,33,James I. Marsh,Republican,57737
+Pennsylvania,1924,House,33,Charles A. Brown,Prohibition,100
+Pennsylvania,1924,House,34,James A. Wright,Democrat,75004
+Pennsylvania,1924,House,34,Robert B. McKinley,Republican,64336
+Pennsylvania,1934,House,1,Leon Sacks,Democrat,64590
+Pennsylvania,1934,House,1,Emanuel W. Beloff,Republican,39770
+Pennsylvania,1934,House,1,Frank Mozer,Communist,228
+Pennsylvania,1934,House,1,George Silver,Socialist,194
+Pennsylvania,1934,House,2,James P. McGranery,Democrat,62844
+Pennsylvania,1934,House,2,Augustus Trask Ashton,Republican,39489
+Pennsylvania,1934,House,2,Ella Bloor Omholt,Communist,405
+Pennsylvania,1934,House,2,Hyman Siegel,Socialist,187
+Pennsylvania,1934,House,2,H. E. Belknap,No Wage Tax,146
+Pennsylvania,1934,House,2,B. McCabe Johnson,Prohibition,70
+Pennsylvania,1934,House,3,Michael J. Bradley,Democrat,77436
+Pennsylvania,1934,House,3,Frank J. Kownacki,Republican,44757
+Pennsylvania,1934,House,3,Joseph Backer,Socialist,241
+Pennsylvania,1934,House,3,Thomas Nabried,Communist,202
+Pennsylvania,1934,House,4,John Edward Sheridan,Democrat,74458
+Pennsylvania,1934,House,4,Benjamin M. Golder,Republican,42573
+Pennsylvania,1934,House,4,Norris G. Wood,Communist,396
+Pennsylvania,1934,House,4,William H. Martin,Socialist,347
+Pennsylvania,1934,House,4,Harry L. Neal,State Rights,270
+Pennsylvania,1934,House,4,John Cunningham,The American Way,65
+Pennsylvania,1934,House,5,Francis R. Smith,Democrat,76724
+Pennsylvania,1934,House,5,Fred C. Gartner,Republican,60169
+Pennsylvania,1934,House,5,Bernard Samoff,Socialist,382
+Pennsylvania,1934,House,5,Harry Casey,Communist,177
+Pennsylvania,1934,House,5,Oscar W. Wall,Prohibition,105
+Pennsylvania,1934,House,6,Francis J. Myers,Democrat,82550
+Pennsylvania,1934,House,6,Frank F. Truscott,Republican,51313
+Pennsylvania,1934,House,6,Harold B. Hatfield,No Wage Tax,718
+Pennsylvania,1934,House,6,Joseph Dougher,Communist,315
+Pennsylvania,1934,House,6,Edward Gallob,Socialist,195
+Pennsylvania,1934,House,7,Hugh D. Scott Jr,Republican,79416
+Pennsylvania,1934,House,7,Gilbert Cassidy,Democrat,76054
+Pennsylvania,1934,House,7,William O'Reilly,Socialist,411
+Pennsylvania,1934,House,8,James Wolfenden,Republican,79601
+Pennsylvania,1934,House,8,E. Adele Scott Saul,Democrat,58389
+Pennsylvania,1934,House,8,Charles Palmer,Prohibition,229
+Pennsylvania,1934,House,9,Charles L. Gerlach,Republican,55919
+Pennsylvania,1934,House,9,Henry J. Scheirer,Democrat,50632
+Pennsylvania,1934,House,9,Byron Mayberry,Prohibition,173
+Pennsylvania,1934,Representative,10,J. Roland Kinzer,Republican,72843
+Pennsylvania,1934,Representative,10,George M. May,Democrat,59333
+Pennsylvania,1934,Representative,10,John Granville Eddy,Communist,198
+Pennsylvania,1934,Representative,11,Patrick J. Boland,Democrat,65368
+Pennsylvania,1934,Representative,11,Joseph F. Gunster,Republican,58831
+Pennsylvania,1934,Representative,12,J. Harold Flannery,Democrat,101854
+Pennsylvania,1934,Representative,12,H. Henry Pool,Republican,74305
+Pennsylvania,1934,Representative,13,Ivor D. Fenton,Republican,70647
+Pennsylvania,1934,Representative,13,James H. Gildea,Democrat,68591
+Pennsylvania,1934,Representative,13,Robert J. Lesser,Independent,8147
+Pennsylvania,1934,Representative,13,Guy L. Moser,Democrat,8146
+Pennsylvania,1934,Representative,13,John C. Evans,Republican,31839
+Pennsylvania,1934,Representative,13,Raymond S. Hofses,Socialist,4980
+Pennsylvania,1934,Representative,14,Harry A. Oboldi,Independent,699
+Pennsylvania,1934,Representative,14,William D. Stottlemeyer,Prohibition,183
+Pennsylvania,1934,Representative,14,Ben Rubin,Communist,98
+Pennsylvania,1934,Representative,15,Albert G. Rutherford,Republican,54981
+Pennsylvania,1934,Representative,15,F. R. Clark,Democrat,35496
+Pennsylvania,1934,Representative,15,Fred P. Millington,Prohibition,408
+Pennsylvania,1934,Representative,16,Robert F. Rich,Republican,61167
+Pennsylvania,1934,Representative,16,Hugh Gilmore,Democrat,39988
+Pennsylvania,1934,Representative,17,J. William Ditter,Republican,75006
+Pennsylvania,1934,Representative,17,Victor Epstein,Democrat,45616
+Pennsylvania,1934,Representative,18,Richard M. Simpson,Republican,46596
+Pennsylvania,1934,Representative,18,John M. Keichline,Democrat,34328
+Pennsylvania,1934,Representative,19,John C. Kunkel,Republican,71420
+Pennsylvania,1934,Representative,19,John A. Smith,Democrat,62298
+Pennsylvania,1934,Representative,20,Benjamin Jarrett,Republican,64188
+Pennsylvania,1934,Representative,20,John R. Boland Jr.,Democrat,44914
+Pennsylvania,1934,Representative,20,Robert G. Burnham,Prohibition,1096
+Pennsylvania,1934,Representative,21,Francis E. Walter,Democrat,52530
+Pennsylvania,1934,Representative,21,T. Fred Woodley,Republican,40863
+Pennsylvania,1934,Representative,21,Walter M. Trumbull,Communist,125
+Pennsylvania,1934,Representative,22,Harry L. Haines,Democrat,60848
+Pennsylvania,1934,Representative,22,Chester H. Cross,Republican,49332
+Pennsylvania,1934,Representative,22,Raymond N. Fehl,Prohibition,600
+Pennsylvania,1934,Representative,23,James E. Van Zandt,Republican,57027
+Pennsylvania,1934,Representative,23,William M. Aukerman,Democrat,44263
+Pennsylvania,1934,Representative,24,J. Buell Snyder,Democrat,54631
+Pennsylvania,1934,Representative,24,J. Clark Tilghman,Republican,41641
+Pennsylvania,1934,Representative,24,Minnie B. Shaulis,Prohibition,202
+Pennsylvania,1934,Representative,25,Charles I. Faddis,Democrat,58442
+Pennsylvania,1934,Representative,25,Lucius McK. Crumrine,Republican,37357
+Pennsylvania,1934,Representative,26,Louis E. Graham,Republican,64969
+Pennsylvania,1934,Representative,26,Peter F. Reising,Democrat,62273
+Pennsylvania,1934,Senate,,Joseph F. Guffey,Democrat,2069980
+Pennsylvania,1934,Senate,,Jay Cooke,Republican,1893104
+Pennsylvania,1934,Senate,,David H. H. Felix,Socialist,15449
+Pennsylvania,1934,Senate,,H. B. Mansell,Prohibition,11113
+Pennsylvania,1934,Senate,,Carl Reeve,Communist,4761
+Pennsylvania,1934,Senate,,Frank Knotek,Independent Government,2503
+Puerto Rico,1932,Resident Commissioner,,Bolivar Pagan,Coalitionist,222381
+Puerto Rico,1932,Resident Commissioner,,Antonio Pernos Isern,Popular,214842
+Puerto Rico,1932,Resident Commissioner,,Miguel A. Garcia Mendez,Unificacion,151521
+Rhode Island,1924,House,1,Aime J. Forand,Democrat,87327
+Rhode Island,1924,House,1,Charles F. Risk,Republican,64517
+Rhode Island,1924,House,2,John E. Fogarty,Democrat,87253
+Rhode Island,1924,House,2,Harry Sandager,Republican,74926
+Rhode Island,1924,President,,,,181122
+Rhode Island,1924,President,,,,138214
+Rhode Island,1924,President,,,,239
+Rhode Island,1924,President,,,,74
+Rhode Island,1924,Senate,,Peter G. Gerry,Democrat,173927
+Rhode Island,1924,Senate,,James O. McManus,Republican,141401
+South Carolina,1912,Presidential,,Jeffersonian Democratic,Democratic,2496
+South Carolina,1912,Presidential,,Republican (Tolbert Faction),Republican,137
+South Carolina,1924,President,,,,95470
+South Carolina,1924,President,,,,2496
+South Carolina,1924,President,,,,1727
+South Carolina,1924,President,,,,137
+UTAH,1940,House,1,Walter K. Granger,Democratic,62654
+UTAH,1940,House,1,LeRoy B. Young,Republican,47021
+UTAH,1940,House,2,J. W. Robinson,Democratic,86874
+UTAH,1940,House,2,A. Sherman Christenson,Republican,50332
+UTAH,1940,Presidential,,Democratic,Democratic,154277
+UTAH,1940,Presidential,,Republican,Republican,93151
+UTAH,1940,Presidential,,Socialist,Socialist,198
+UTAH,1940,Presidential,,Communist,Communist,191
+UTAH,1940,Senate,,Abe Murdock,Democratic,155499
+UTAH,1940,Senate,,Philo T. Farnsworth Jr.,Republican,91931
+VERMONT,1940,House,,Charles A. Plumley,Republican,89637
+VERMONT,1940,House,,Michael J. Rock,Democratic,50304
+VERMONT,1940,House,,Scattering,Independent,36
+VERMONT,1940,Presidential,,Republican,Republican,78371
+VERMONT,1940,Presidential,,Democratic,Democratic,64209
+VERMONT,1940,Presidential,,Communist,Communist,41
+VERMONT,1940,Presidential,,Scattering,Independent,11
+VERMONT,1940,Senate,,George D. Aiken,Republican,87150
+VERMONT,1940,Senate,,Herbert B. Comings,Democratic,54263
+VERMONT,1940,Senate,,Scattering,Independent,78
+VERMONT,1940,Senate,,Warren R. Austin,Republican,93283
+VERMONT,1940,Senate,,Ona S. Searles,Democratic,47101
+VERMONT,1940,Senate,,Scattering,Independent,4
+VIRGINIA,1940,Presidential,,Democratic,Democratic,235961
+VIRGINIA,1940,Presidential,,Republican,Republican,109363
+VIRGINIA,1940,Presidential,,Prohibition,Prohibition,882
+VIRGINIA,1940,Presidential,,Socialist,Socialist,282
+VIRGINIA,1940,Presidential,,Communist,Communist,71
+VIRGINIA,1940,Presidential,,Socialist-Labor,Socialist-Labor,48
+Vermont,1912,Presidential,,Other,,11
+Virginia,1912,Presidential,,Socialist Labor,,48
+Washington,1912,Presidential,,Socialist Labor,,667
+Wisconsin,1912,Presidential,,Socialist Labor,,1882

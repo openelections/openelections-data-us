@@ -1,0 +1,1415 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+34th,1855-57,42,15,5,83,108
+35th,1857-59,39,20,5,131,92
+36th,1859-61,38,26,2,101,113
+37th,1861-63,11,31,7,42,106
+38th,1863-65,12,36,0,80,103
+39th,1865-67,10,42,0,46,145
+40th,1867-69,11,42,0,49,143
+41st,1869-71,11,61,2,73,170
+42nd,1871-73,17,57,0,104,136
+43rd,1873-75,19,54,1,88,203
+44th,1875-77,29,46,1,181,107
+45th,1877-79,36,39,1,150,137
+46th,1879-81,43,33,0,150,128
+47th,1881-83,37,37,2,130,151
+48th,1883-85,36,40,0,200,119
+49th,1885-87,34,41,1,182,140
+50th,1887-89,37,39,0,170,151
+51st,1889-91,37,47,0,156,173
+52nd,1891-93,39,47,2,231,88
+53rd,1893-95,44,38,3,220,126
+54th,1895-97,39,44,6,104,246
+55th,1897-99,34,46,10,124,206
+56th,1899-1901,26,53,7,163,185
+57th,1901-03,29,56,3,153,198
+58th,1903-05,32,58,0,178,207
+59th,1905-07,32,58,0,136,250
+60th,1907-09,29,61,2,164,222
+61st,1909-11,32,59,1,172,219
+62nd,1911-13,42,49,1,228,162
+63rd,1913-15,51,44,1,290,127
+64th,1915-17,56,39,1,231,193
+65th,1917-19,53,42,1,210,216
+66th,1919-21,47,48,1,191,237
+67th,1921-23,37,59,0,132,300
+68th,1923-25,43,51,2,207,225
+69th,1925-27,40,54,1,183,247
+70th,1927-29,47,48,1,195,237
+71st,1929-31,39,56,1,163,267
+72nd,1931-33,47,48,1,216,218
+73rd,1933-35,59,36,1,313,117
+74th,1935-37,69,25,2,322,103
+75th,1937-39,75,17,4,333,89
+76th,1939-41,69,23,4,262,169
+77th,1941-43,66,28,2,267,162
+78th,1943-45,57,38,1,222,209
+79th,1945-47,57,38,1,243,190
+80th,1947-49,45,51,0,188,246
+81st,1949-51,54,42,0,263,171
+82nd,1951-53,48,47,1,234,199
+83rd,1953-55,46,48,2,213,221
+84th,1955-57,48,47,1,232,203
+85th,1957-59,49,47,0,234,201
+86th,1959-61,64,34,0,283,154
+87th,1961-63,64,36,0,262,175
+88th,1963-65,67,33,0,258,176
+89th,1965-67,68,32,0,295,140
+90th,1967-69,64,36,0,248,187
+91st,1969-71,58,42,0,243,192
+92nd,1971-73,54,44,2,255,180
+93rd,1973-75,56,42,2,242,192
+94th,1975-77,60,37,2,291,144
+ALABAMA,1958,House,1,Augusta E. Wilson,Democrat,37718
+ALABAMA,1958,House,1,Jack Edwards,Republican,60710
+ALABAMA,1958,House,1,Mary B. McCarthy,National Democrat,3638
+ALABAMA,1958,House,2,Clair Chisler,Democrat,27729
+ALABAMA,1958,House,2,William L. (Bill) Dickinson,Republican,54089
+ALABAMA,1958,House,3,Bill Nichols,Democrat,63582
+ALABAMA,1958,House,3,James R. Connell,Prohibition,2729
+ALABAMA,1958,House,3,Write-in,Write-in,1
+ALABAMA,1958,House,4,Tom Bevill,Democrat,77925
+ALABAMA,1958,House,4,Write-in,Write-in,193
+ALABAMA,1958,House,5,Bob Jones,Democrat,56375
+ALABAMA,1958,House,5,Write-in,Write-in,6
+ALABAMA,1958,House,6,Arma Miglionico,Democrat,39444
+ALABAMA,1958,House,6,John H. Buchanan Jr.,Republican,54505
+ALABAMA,1958,House,6,Elizabeth S. Dillard,Prohibition,1595
+ALABAMA,1958,House,6,Write-in,Write-in,693
+ALABAMA,1958,House,7,Walter Flowers,Democrat,73203
+ALABAMA,1958,House,7,Frank P. Walls,Conservative,5175
+ALABAMA,1958,House,7,Lewis Black,National Democrat,2085
+ALABAMA,1958,House,7,Write-in,Write-in,5
+ALABAMA,1958,Senate,,James B. Allen,Democrat,501541
+ALABAMA,1958,Senate,,Alvin Abercrombie,Prohibition,21749
+ALASKA,1958,Senate,,Mike Gravel,Democrat,54361
+ALASKA,1958,Senate,,C. R. Lewis,Republican,38914
+ARIZONA,1982,House,1,"Patricia M. ""Pat"" Fullenwider",Democrat,52807
+ARIZONA,1982,House,1,John J. Rhodes,Republican,63847
+ARIZONA,1982,House,1,J. M. Sanders,Life-Liberty-Justice,8199
+ARIZONA,1982,House,1,,Write-in,18
+ARIZONA,1982,House,2,Morris K. Udall,Democrat,84491
+ARIZONA,1982,House,2,Keith Dolgaard,Republican,51886
+ARIZONA,1982,House,3,Pat Bosch,Democrat,68424
+ARIZONA,1982,House,3,Sam Steiger,Republican,71497
+ARIZONA,1982,House,4,"Byron T. ""Bud"" Brown",Democrat,63677
+ARIZONA,1982,House,4,John B. Conlan,Republican,78887
+ARIZONA,1982,Senate,,Jonathan Marshall,Democrat,229523
+ARIZONA,1982,Senate,,Barry M. Goldwater,Republican,320396
+ARKANSAS,1982,House,1,Bill Alexander,Democrat,104247
+ARKANSAS,1982,House,1,James Lawrence Dauer,Republican,10821
+ARKANSAS,1982,House,2,Wilbur D. Mills,Democrat,80296
+ARKANSAS,1982,House,2,Judy Petty,Republican,56038
+ARKANSAS,1982,House,3,Bill Clinton,Democrat,83030
+ARKANSAS,1982,House,3,John Paul Hammerschmidt,Republican,89324
+ARKANSAS,1982,House,4,Ray Thornton,Democrat,0
+ARKANSAS,1982,Senate,,Dale Bumpers,Democrat,461056
+ARKANSAS,1982,Senate,,John Harris Jones,Republican,82026
+Abner J. Mikva,Democrat,83437,10,,,
+Alabama,1974,Representative,1,,Democrat,273926
+Alabama,1974,Representative,2,,Democrat,44280
+Alabama,1974,Representative,3,,Democrat,99886
+Alabama,1974,Representative,4,,Democrat,3262153
+Alabama,1974,Representative,5,,Democrat,103583
+Alabama,1974,Representative,6,,Democrat,66140
+Alabama,1974,Representative,7,,Democrat,157311
+Alabama,1974,Senate,,Sparkman,Democratic,504541
+Alabama,1974,Senate,,Martin,Republican,384614
+Alabama,1974,Senate,,Stewart,Independent,21749
+Alabama,1974,Senate,,Cashin,National Democratic,8404
+Alabama,1974,Senate,,Boone,Independent,42769
+Alabama,1974,Senate,,Higdon,Independent,17551
+Alabama,1974,Senate,,Paulk,Independent,6020
+Alabama,1974,Senate,,Sellers,Independent,4615
+Alabama,1974,Senate,,Swearingen,Independent,7161
+Alabama,1974,Senate,,Zeigler,Independent,13050
+Alabama,1974,Senate,,Carmichael,Independent,7727
+Alabama,1974,Senate,,Etheredge,Independent,4531
+Alabama,1974,Senate,,Huddleston,Independent,8316
+Alabama,1974,Senate,,Rabren,Independent,7993
+Albert W. Johnson,Republican,67192,,,,
+Alexander W. Nojovits,Conservative,1438,14,,,
+Alfred J. Libous,Republican,68273,27,,,
+Alphonzo Bell,Republican,99645,,,,
+Ann Riley Owens,Socialist Workers,192,5,,,
+Arlene R. Wenger,Constitutional,1765,,,,
+Arline Mathews,Democrat,61119,,,,
+Arthur L. Berger,Democrat,61441,,,,
+Augustus F. (Gus) Hawkins,Democrat,45977,,,,
+Austen D. Canade,Republican,34814,15,,,
+B. F. Sisk,Democrat,80205,,,,
+Barbara C. Wicks,Democrat,46596,38,,,
+Barber B. Conable Jr.,Republican,90269,35,,,
+Barry Goldwater Jr.,Republican,96324,,,,
+Bella S. Abzug,Democrat,65401,20,,,
+Benjamin A. Gilman,Republican,81562,26,,,
+Bessie C. Noble,Liberal,1802,33,,,
+Betty C. Spence,Democrat,45049,12,,,
+Bill Bond,Republican,72967,,,,
+Bob Carr,Democrat,73956,6,,,
+Bob Mathias,Republican,61242,,,,
+Bob Traxler,Democrat,77795,8,,,
+Brian Ehaw,Socialist Workers,252,11,,,
+Bryce F. Bender Jr.,Human Rights,765,3,,,
+Burt L. Talcott,Republican,76984,,,,
+CALIFORNIA,1982,House,1,Harold T. (Bizz) Johnson,Democrat,137849
+CALIFORNIA,1982,House,1,Dorothy D. Paradis,American Independent,22628
+CALIFORNIA,1982,House,10,Don Edwards,Democrat,86014
+CALIFORNIA,1982,House,10,John M. Enright,Republican,25678
+CALIFORNIA,1982,House,11,Leo J. Ryan,Democrat,106975
+CALIFORNIA,1982,House,11,"Brainard ""Bee"" G. Merdinger",Republican,29783
+CALIFORNIA,1982,House,11,Nicholas W. Kudrovzeff,American Independent,2293
+CALIFORNIA,1982,House,12,Gary G. Gillmor,Democrat,46197
+CALIFORNIA,1982,House,12,"Paul N. ""Pete"" McCloskey Jr.",Republican,103228
+CALIFORNIA,1982,House,13,Norman Y. Mineta,Democrat,78649
+CALIFORNIA,1982,House,13,George W. Milias,Republican,63381
+CALIFORNIA,1982,House,13,Elizabeth Cervantes Barron,Peace and Freedom,3846
+CALIFORNIA,1982,House,13,Floyd S. Stancliffe,American Independent,3738
+CALIFORNIA,1982,House,2,"Oscar ""H"" Klee",Democrat,76951
+CALIFORNIA,1982,House,2,Don H. Clausen,Republican,95308
+CALIFORNIA,1982,House,2,Carole J. Glass,Peace and Freedom,7719
+CALIFORNIA,1982,House,3,John E. Moss,Democrat,121842
+CALIFORNIA,1982,House,3,Ivaldo Lenci,Republican,46585
+CALIFORNIA,1982,House,4,Robert L. Leggett,Democrat,100934
+CALIFORNIA,1982,House,5,John Burton,Democrat,87323
+CALIFORNIA,1982,House,5,Thomas Caylor,Republican,55881
+CALIFORNIA,1982,House,5,Raymond Broshears,Peace and Freedom,3999
+CALIFORNIA,1982,House,6,Phillip Burton,Democrat,84585
+CALIFORNIA,1982,House,6,Tom Spinosa,Republican,25721
+CALIFORNIA,1982,House,6,Carl Richard Davis,American Independent,3456
+CALIFORNIA,1982,House,6,Emily L. Engel,Peace and Freedom,4753
+CALIFORNIA,1982,House,7,George Miller,Democrat,82765
+CALIFORNIA,1982,House,7,Gary Fernandez,Republican,66115
+CALIFORNIA,1982,House,8,Ronald V. Dellums,Democrat,93106
+CALIFORNIA,1982,House,8,Jack Redden,Republican,65432
+CALIFORNIA,1982,House,8,John Holland,American Independent,6324
+CALIFORNIA,1982,House,9,Fortney H. (Pete) Stark,Democrat,87854
+CALIFORNIA,1982,House,9,Edson Adams,Republican,36322
+CALIFORNIA,1982,Senate,,Alan Cranston,Democrat,3639334
+CALIFORNIA,1982,Senate,,H. L. Richardson,Republican,2176315
+CALIFORNIA,1982,Senate,,Jack McCoy,American Independent,100111
+CALIFORNIA,1982,Senate,,Gayle M. Justice,Peace and Freedom,95394
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,CONGRESSIONAL_DISTRICT,,,
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,CONGRESSIONAL_DISTRICT,,,
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,CONGRESSIONAL_DISTRICT,,,
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,CONGRESSIONAL_DISTRICT,,,
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,,,,
+CANDIDATE_NAME,CANDIDATE_PARTY,VOTES,,,,
+COLORADO,1964,House,1,Pat Schroeder,Democrat,94583
+COLORADO,1964,House,1,Frank Southworth,Republican,66046
+COLORADO,1964,House,1,Elmer B. Sachs,American,1105
+COLORADO,1964,House,2,Timothy E. Wirth,Democrat,93827
+COLORADO,1964,House,2,Donald G. Brotzman,Republican,86818
+COLORADO,1964,House,3,Frank E. Evans,Democrat,91783
+COLORADO,1964,House,3,E. Keith Records,Republican,43298
+COLORADO,1964,House,4,John Carroll,Democrat,76452
+COLORADO,1964,House,4,James P. (Jim) Johnson,Republican,82982
+COLORADO,1964,House,5,Ben Galloway,Democrat,56888
+COLORADO,1964,House,5,William L. Armstrong,Republican,85326
+COLORADO,1964,House,5,Stan Johnson,Independent,5580
+COLORADO,1964,Senate,,Gary Hart,Democrat,471688
+COLORADO,1964,Senate,,Peter H. Dominick,Republican,325526
+COLORADO,1964,Senate,,Joseph Fred Hyskell,Prohibition,8404
+COLORADO,1964,Senate,,John M. King,Independent,15131
+COLORADO,1964,Senate,,Henry John Olshaw,American,2394
+CONNECTICUT,1964,House,1,William R. Cotter,Democrat,117098
+CONNECTICUT,1964,House,1,Francis M. Buckley,Republican,67080
+CONNECTICUT,1964,House,1,Charlie Burke,George Wallace,2459
+CONNECTICUT,1964,House,2,Christopher J. Dodd,Democrat,104426
+CONNECTICUT,1964,House,2,Samuel B. Hellier,Republican,69380
+CONNECTICUT,1964,House,2,Anthony Discepolo,Independent,9124
+CONNECTICUT,1964,Senate,,Abraham A. Ribicoff,Democrat,696820
+CONNECTICUT,1964,Senate,,James H. Brannen III,Republican,372054
+CONNECTICUT,1964,Senate,,Arthur F. Capozzi Jr.,George Wallace,19184
+CONNECTICUT,1964,Senate,,Norman L. Rochon,American,2482
+California,1974,House,37,Bobby Ray Vincent,Democrat,46449
+California,1974,House,37,Jerry L. Pettis,Republican,88548
+California,1974,House,37,John H. Ortman,American Independent,5522
+California,1974,House,38,Jerry M. Patterson,Democrat,67999
+California,1974,House,38,David Rehmann,Republican,51509
+California,1974,House,38,Lee R. Rayburn,American Independent,3991
+California,1974,House,38,Larry B. Kallenberger,Peace and Freedom,1851
+California,1974,House,39,"William E. ""Bill"" Farris",Democrat,64375
+California,1974,House,39,Charles E. Wiggins,Republican,87995
+California,1974,House,39,Pat P. Scalera,American Independent,6967
+California,1974,House,40,"Roderick J. ""Rod"" Wilson",Democrat,56195
+California,1974,House,40,Andrew Hinshaw,Republican,114895
+California,1974,House,40,Grayson L. Watkins,American Independent,10381
+California,1974,House,41,Colleen Marie O'Connor,Democrat,73954
+California,1974,House,41,Bob Wilson,Republican,93461
+California,1974,House,41,Robert W. Franson,American Independent,4312
+California,1974,House,42,Lionel Van Deerlin,Democrat,66746
+California,1974,House,42,Wes Marden,Republican,30058
+California,1974,House,43,Bill Bandes,Democrat,74905
+California,1974,House,43,Clair W. Burgener,Republican,114102
+Cardiss Collins,Democrat,63952,7,,,
+Carleton J. King,Republican,77718,29,,,
+Carlos J. Moorhead,Republican,78983,,,,
+Carol O. Harner,Republican,31391,,,,
+Charles B. Rangel,Democrat,49447,19,,,
+Charles C. Diggs Jr.,Democrat,63246,13,,,
+Charles G. Mills IV,Conservative,2039,19,,,
+Charles H. Wilson,Democrat,60560,,,,
+Charles L. Sconing,Republican,38111,,,,
+Charles M. Gibson,Republican,34679,,,,
+Charles Stephens,Republican,48325,24,,,
+Christiana A. Nelson,Socialist Labor,412,20,,,
+Christopher Acer,Conservative,7181,11,,,
+Claire Moriarty,Socialist Workers,412,20,,,
+Clarence E. Carman Jr.,Conservative,4667,35,,,
+Clement R. Scallatti,Republican,54277,,,,
+Clifford D. Carlson,Republican,54278,15,,,
+Clifford W. Taylor,Republican,73309,6,,,
+Congress,Years,Senate_Democrats,Senate_Republicans,Senate_Other,House_Democrats,House_Republicans
+Connecticut,1974,House,3,Robert Giaimo,Democrat,114316
+Connecticut,1974,House,3,James Altham Jr.,Republican,55177
+Connecticut,1974,House,3,Peter Koltypin,George Wallace,3693
+Connecticut,1974,House,3,Joelle R. Fishman,Communist,2307
+Connecticut,1974,House,3,,Write-in,14
+Connecticut,1974,House,4,James G. Kellis,Democrat,71947
+Connecticut,1974,House,4,Stewart B. McKinney,Republican,83630
+Connecticut,1974,House,4,Alan B. Fodeman,George Wallace,2549
+Connecticut,1974,House,4,,Write-in,18
+Connecticut,1974,House,5,William Ratchford,Democrat,90467
+Connecticut,1974,House,5,Ronald A. Sarasin,Republican,94998
+Connecticut,1974,House,5,Virginia A. Knauf,George Wallace,3071
+Connecticut,1974,House,5,,Write-in,13
+Connecticut,1974,House,6,Anthony Toby Moffett,Democrat,122785
+Connecticut,1974,House,6,Patsy J. Piscopo,Republican,69942
+Connecticut,1974,House,6,Louis J. Marietta,Independent,823
+Connecticut,1974,House,6,,Write-in,31
+Connie Allen,Socialist Workers,275,9,,,
+Conservative,Conservative,5391,13,,,
+Conservative,Conservative,7878,15,,,
+Conservative,Conservative,6406,16,,,
+Conservative,Conservative,15942,23,,,
+Conservative,Conservative,11855,24,,,
+Craig R. Kessler,American Independent,1758,9,,,
+D. J. Mauro,American Independent,4576,,,,
+DISTRICT OF COLUMBIA,1974,Delegate,,Walter E. Fauntroy,Democrat,66337
+DISTRICT OF COLUMBIA,1974,Delegate,,William R. Phillips,Republican,9166
+DISTRICT OF COLUMBIA,1974,Delegate,,Anton N. Wood,Statehood,3039
+DISTRICT OF COLUMBIA,1974,Delegate,,James G. Banks,Independent,21874
+DISTRICT OF COLUMBIA,1974,Delegate,,David Hodges Dabney,Independent,1539
+DISTRICT OF COLUMBIA,1974,Delegate,,Susan Pennington,Independent,1818
+DISTRICT OF COLUMBIA,1974,Delegate,,Write-in,246,
+Daniel D. Rostenkowski,Democrat,75011,8,,,
+Daniel J. Flood,Democrat,111572,,,,
+David E. Davis,American Independent,3980,,,,
+David L. MacAdam,Liberal,1110,35,,,
+Del Clawson,Republican,71054,,,,
+Delaware,1974,Representative,,,Democrat,84048
+Delaware,1974,House,,James R. Soles,Democrat,63490
+Delaware,1974,House,,Pierre S. du Pont IV,Republican,93826
+Delaware,1974,House,,Donald G. Gies,American Independent,1250
+Delaware,1974,House,,George C. Brown,Prohibition,370
+Delaware,1974,House,,Melvin Dillard,United States Labor,151
+Delaware,1974,House,,John Trager,Public Congress,1241
+Donald H. Elliott,Liberal,6186,14,,,
+Donald J. Mitchell,Republican,87458,31,,,
+Donald J. Rella,Democrat,59639,31,,,
+Donald L. Metzger,Republican,8809,7,,,
+Donald W. Riegle Jr.,Democrat,31014,7,,,
+Dwight W. Johnson,American Independent,5610,5,,,
+Edward Breitenbach,Conservative,4050,28,,,
+Edward G. Biester Jr.,Republican,75313,,,,
+Edward G. Desborough,Republican,12297,11,,,
+Edward Hutchinson,Republican,64751,4,,,
+Edward I. Koch,Democrat,78399,18,,,
+Edward J. Derwinski,Republican,68428,4,,,
+Edward R. Madigan,Republican,78640,21,,,
+Edward R. Roybal,Democrat,43998,,,,
+Edward V. Hanrahan,Democrat,57534,6,,,
+Edward W. Pattison,Democrat,95204,29,,,
+Edwin D. Eshleman,Republican,73130,,,,
+Elford A. Cederberg,Republican,77118,10,,,
+Elizabeth Holtzman,Democrat,65790,16,,,
+Elliott Stone Graham,Republican,43639,,,,
+Eugene J. Tyzn,Republican,94263,12,,,
+FLORIDA,1962,House,10,Evelyn Tucker,Democrat,41925
+FLORIDA,1962,House,10,L. A. (Skip) Bafalis,Republican,117368
+FLORIDA,1962,House,12,Charles Friedman,Democrat,58899
+FLORIDA,1962,House,12,J. Herbert Burke,Republican,61191
+FLORIDA,1962,House,14,Claude Pepper,Democrat,45479
+FLORIDA,1962,House,14,Michael A. Carricarte,Republican,20383
+FLORIDA,1962,House,15,Dante B. Fascell,Democrat,68064
+FLORIDA,1962,House,15,S. Peter Capua,Republican,28444
+FLORIDA,1962,House,4,Bill Chappell Jr.,Democrat,74720
+FLORIDA,1962,House,4,Warren Hauser,Republican,34867
+FLORIDA,1962,House,5,JoAnn Saunders,Democrat,63610
+FLORIDA,1962,House,5,Richard Kelly,Republican,74954
+FLORIDA,1962,House,5,Write-in,Write-in,3524
+FLORIDA,1962,House,6,Mickey Monroe,Democrat,34886
+FLORIDA,1962,House,6,C. W. Bill Young,Republican,109302
+FLORIDA,1962,House,8,James A. Haley,Democrat,63283
+FLORIDA,1962,House,8,Joe Z. Lovingood,Republican,48240
+FLORIDA,1962,House,9,William D. Rowland,Democrat,26255
+FLORIDA,1962,House,9,Lou Frey Jr.,Republican,86226
+Florida,1974,Representative,1,,Democrat,124088
+Florida,1974,House,1,Bob Sikes,Democrat,
+Florida,1974,Representative,2,,Democrat,130940
+Florida,1974,House,2,Don Fuqua,Democrat,
+Florida,1974,Representative,3,,Democrat,1094603
+Florida,1974,House,3,Charles E. Bennett,Democrat,
+Florida,1974,Representative,4,,Democrat,126915
+Florida,1974,Senate,,Richard (Dick) Stone,Democrat,781031
+Florida,1974,Senate,,Jack Eckerd,Republican,736674
+Florida,1974,Senate,,John Grady,American,282659
+Florida,1974,Senate,,Write-in,Write-in,175
+Francis D. Brouillette,Democrat,73793,11,,,
+Francis H. Aspinwall,Conservative,4866,33,,,
+Francis J. McArdle,Democrat,41706,,,,
+Francis J. Voyticky,Republican,4579,12,,,
+Frank Annunzio,Democrat,102541,11,,,
+Frank E. Huet,Constitutional,2020,,,,
+Frank Girard,Socialist Labor,239,5,,,
+Frank H. Walker,Peace and Freedom,2877,,,,
+Frank Horton,Republican,105583,34,,,
+Frank J. Biondolillo,Republican,28269,17,,,
+Frank M. Clark,Democrat,64049,,,,
+Franklin B. Resseguie,Conservative,6526,27,,,
+Fred B. Rooney,Democrat,85905,,,,
+Frederick W. Richmond,Democrat,33195,14,,,
+GEORGIA,1962,House,1,Bo Ginn,Democrat,64958
+GEORGIA,1962,House,1,Bill Gowan,Republican,10487
+GEORGIA,1962,House,1,Write-in,Write-in,1
+GEORGIA,1962,Senate,,Herman E. Talmadge,Democrat,627376
+GEORGIA,1962,Senate,,Jerry R. Johnson,Republican,246896
+GEORGIA,1962,Senate,,Write-in,Write-in,513
+GUAM,1974,Delegate,,Antonio Borja Won Pat,Democrat,18551
+Garry Brown,Republican,70157,3,,,
+Gary A. Myers,Republican,74645,,,,
+George A. Seielstad,Democrat,59931,,,,
+George E. Brown Jr.,Democrat,69615,,,,
+George E. Danielson,Democrat,66074,,,,
+George E. McCall,Republican,8636,13,,,
+George E. Shipley,Democrat,67921,22,,,
+George M. O'Brien,Republican,29984,17,,,
+Gillian M. Drummond,Conservative,4429,18,,,
+Glenn M. Anderson,Democrat,82485,,,,
+Gus Yatron,Democrat,111127,,,,
+Guy A. Vander Jagt,Republican,87551,9,,,
+H. John Heinz III,Republican,107723,,,,
+HAWAII,1974,House,1,Spark M. Matsunaga,Democrat,71352
+HAWAII,1974,House,1,William B. Paul,Republican,40065
+HAWAII,1970,HOUSE,1,,,71552
+HAWAII,1974,House,2,Patsy Takemoto Mink,Democrat,86916
+HAWAII,1974,House,2,Carla W. Coray,Republican,51984
+HAWAII,1970,HOUSE,2,,,56916
+HAWAII,1974,Senate,,Daniel K. Inouye,Democrat,207454
+HAWAII,1974,Senate,,James D. Kimmel,Prohibition,42707
+HAWAII,1970,SENATE,,,,207454
+Hamilton Fish Jr.,Republican,87130,25,,,
+Harold Snyder,American Independent,1574,4,,,
+Harry M. Fox,Republican,64416,,,,
+Hawaii,1974,Representative,1,,Democrat,84344
+Hawaii,1974,Representative,2,,Democrat,47670
+Helen Halyard,Socialist Workers,372,14,,,
+Henry A. Waxman,Democrat,85343,,,,
+Henry J. Hyde,Republican,66027,6,,,
+Henry J. Nowak,Democrat,80774,37,,,
+Herbert J. Stieger,Republican,38723,14,,,
+Herbert M. Feinsod,Liberal,3325,15,,,
+Herman Badillo,Democrat,25413,21,,,
+Herman T. Schneebeli,Republican,70274,,,,
+Howard Jones,Human Rights,2143,6,,,
+IDAHO,1970,HOUSE,1,J. Ray Cox,Democrat,54001
+IDAHO,1970,HOUSE,1,Steven D. Symms,Republican,75404
+IDAHO,1970,HOUSE,2,Max Hanson,Democrat,53599
+IDAHO,1970,HOUSE,2,George Hansen,Republican,67274
+ILLINOIS,1970,HOUSE,1,Ralph H. Metcalfe,Democrat,75206
+ILLINOIS,1970,HOUSE,1,Oscar H. Haynes,Republican,4399
+ILLINOIS,1970,HOUSE,1,Willie Mae Reid,Socialist Workers,620
+ILLINOIS,1970,HOUSE,2,Morgan F. Murphy,Democrat,65812
+ILLINOIS,1970,HOUSE,2,James J. Ginderske,Republican,9386
+ILLINOIS,1970,HOUSE,3,Martin A. Russo,Democrat,65336
+ILLINOIS,1970,HOUSE,3,Robert P. Hanrahan,Republican,58891
+ILLINOIS,1970,SENATE,,Adlai E. Stevenson III,Democrat,1811496
+ILLINOIS,1970,SENATE,,George M. Burditt,Republican,1084884
+ILLINOIS,1970,SENATE,,Edward Thomas Heisler,Socialist Workers,12413
+ILLINOIS,1970,SENATE,,Ishmael Flory,Communist,5873
+INDIANA,1964,House,1,Ray J. Madden,Democrat,71759
+INDIANA,1964,House,1,Joseph D. Harkin,Republican,32793
+INDIANA,1964,House,10,Philip R. Sharp,Democrat,85418
+INDIANA,1964,House,10,David W. Dennis,Republican,71701
+INDIANA,1964,House,11,Andrew Jacobs Jr.,Democrat,81508
+INDIANA,1964,House,11,William H. Hudnut III,Republican,73793
+INDIANA,1964,House,2,Floyd J. Fithian,Democrat,101856
+INDIANA,1964,House,2,Carl F. Lundgrebe,Republican,64950
+INDIANA,1964,House,3,John Brademas,Democrat,89396
+INDIANA,1964,House,3,Virginia R. Black,Republican,50116
+INDIANA,1964,House,4,J. Edward Rouch,Democrat,83604
+INDIANA,1964,House,4,Walter F. Helmke,Republican,75031
+INDIANA,1964,House,4,Donald L. Harris,American,2584
+INDIANA,1964,House,5,William T. Sebree,Democrat,73239
+INDIANA,1964,House,5,Elwood H. Hillis,Republican,95331
+INDIANA,1964,House,6,David Walter Evans,Democrat,78414
+INDIANA,1964,House,6,William G. Bray,Republican,71134
+INDIANA,1964,House,7,Elden Creasy Tipton,Democrat,73928
+INDIANA,1964,House,7,John T. Myers,Republican,100128
+INDIANA,1964,House,7,Harold P. Schlechtweg,Socialist Workers,1421
+INDIANA,1964,House,8,Philip H. Hayes,Democrat,100121
+INDIANA,1964,House,8,Roger H. Zion,Republican,87296
+INDIANA,1964,House,9,Lee H. Hamilton,Democrat,117648
+INDIANA,1964,House,9,Delson Cox Jr.,Republican,47881
+INDIANA,1964,Senate,,Birch Bayh,Democrat,889269
+INDIANA,1964,Senate,,Richard Lugar,Republican,814117
+INDIANA,1964,Senate,,Don L. Lee,American,49592
+IOWA,1968,House,1,Edward Mezvinsky,Democrat,75687
+IOWA,1968,House,1,James A. S. Leach,Republican,63540
+IOWA,1968,House,2,Michael T. Blouin,Democrat,73416
+IOWA,1968,House,2,Tom Riley,Republican,69088
+IOWA,1968,House,2,James W. Whitford,American,1108
+IOWA,1968,House,3,Stephen J. Rapp,Democrat,74805
+IOWA,1968,House,3,Charles E. Grassley,Republican,77468
+IOWA,1968,House,4,Neal Smith,Democrat,96755
+IOWA,1968,House,4,Chuck Dick,Republican,53736
+IOWA,1968,House,4,Donna Le Porte,American,917
+IOWA,1968,House,5,Tom Harkin,Democrat,81146
+IOWA,1968,House,5,Bill Scherle,Republican,77683
+IOWA,1968,House,6,Berkley Bedell,Democrat,86315
+IOWA,1968,House,6,Wiley Mayne,Republican,71695
+IOWA,1968,Senate,,John C. Culver,Democrat,426947
+IOWA,1968,Senate,,David Stanley,Republican,420546
+IOWA,1968,Senate,,Lorin E. Oxley,American,6028
+Illinois,1974,Representative,1,,Democrat,425272
+Illinois,1974,Representative,2,,Democrat,98481
+Indiana,1974,Representative,1,,Democrat,85692
+Indiana,1976,House,10,H. Kent Bumpass,Democrat,42333
+Indiana,1976,House,10,Clarence E. Miller,Republican,100521
+Indiana,1976,House,11,Michael D. Coffey,Democrat,52017
+Indiana,1976,House,11,J. William Stanton,Republican,79756
+Indiana,1976,House,11,Write-in,Write-in,6
+Indiana,1976,House,12,Fran Ryan,Democrat,70818
+Indiana,1976,House,12,Samuel L. Devine,Republican,73303
+Indiana,1976,House,13,Fred M. Ritenauer,Democrat,53766
+Indiana,1976,House,13,Charles A. Mosher,Republican,72881
+Indiana,1976,House,14,John F. Seiberling,Democrat,93931
+Indiana,1976,House,14,Mark Figetakis,Republican,30603
+Indiana,1976,House,15,M. L. McGee,Democrat,40683
+Indiana,1976,House,15,Chalmers P. Wylie,Republican,79376
+Indiana,1976,House,16,John G. Freedom,Democrat,48754
+Indiana,1976,House,16,Ralph S. Regula,Republican,92986
+Indiana,1976,House,17,David D. Noble,Democrat,63342
+Indiana,1976,House,17,John M. Ashbrook,Republican,70708
+Indiana,1976,House,17,Clifford J. Simpson,Independent,3
+Indiana,1976,House,18,Wayne L. Hays,Democrat,90447
+Indiana,1976,House,18,Ralph H. Romig,Republican,47385
+Indiana,1976,House,19,Charles J. Carney,Democrat,97709
+Indiana,1976,House,19,James L. Ripple,Republican,36649
+Indiana,1974,Representative,2,,Democrat,1267809
+Indiana,1976,House,20,James V. Stanton,Democrat,86405
+Indiana,1976,House,20,Robert A. Frantz,Republican,12991
+Indiana,1976,House,21,Louis Stokes,Democrat,58969
+Indiana,1976,House,21,Bill Mack,Republican,12986
+Indiana,1976,House,22,Charles A. Vanik,Democrat,112671
+Indiana,1976,House,22,William J. Franz,Republican,30585
+Indiana,1976,House,23,Ronald M. Mottl,Democrat,53338
+Indiana,1976,House,23,George E. Mastics,Republican,46810
+Indiana,1976,House,23,Arthur L. Cain,Independent,2005
+Indiana,1976,House,23,Bohdan A. Futey,Independent,3955
+Indiana,1976,House,23,Hugh J. Gallagher,Independent,3461
+Indiana,1976,House,23,Dennis J. Kucinich,Independent,45186
+Indiana,1974,Representative,3,,Democrat,75252
+Indiana,1976,House,4,James L. Gehrlein,Democrat,51065
+Indiana,1976,House,4,Tennyson Guyer,Republican,81674
+Indiana,1976,House,5,Bruce Edwards,Democrat,53391
+Indiana,1976,House,5,Delbert L. Latta,Republican,89161
+Indiana,1976,House,6,Lloyd Allan Wood,Democrat,42316
+Indiana,1976,House,6,William H. Harsha,Republican,93400
+Indiana,1976,House,7,Patrick L. Nelson,Democrat,34828
+Indiana,1976,House,7,Clarence J. Brown,Republican,73503
+Indiana,1976,House,7,Dorothy Franke,Independent,13088
+Indiana,1976,House,8,T. Edward Strinko,Democrat,47761
+Indiana,1976,House,8,Thomas N. Kindness,Republican,51007
+Indiana,1976,House,8,Don Gingerich,Independent,23616
+Indiana,1976,House,8,Write-in,Write-in,1
+Indiana,1976,House,9,Thomas Ludlow Ashley,Democrat,64831
+Indiana,1976,House,9,Carleton S. Finkbeiner Jr.,Republican,57802
+Indiana,1976,House,9,Write-in,Write-in,2
+Ira Liebowitz,Socialist Labor,921,37,,,
+Irene Gossin,Democrat,45408,34,,,
+J. Warren McGee,Conservative,4309,34,,,
+Jack E. Roberts,Republican,47615,,,,
+Jack F. Kemp,Republican,111417,38,,,
+Jack N. Dobosh,Republican,14838,13,,,
+James C. (Jim) Griffin,American Independent,4636,,,,
+James C. Corman,Democrat,86778,,,,
+James D. Lordi,Democrat,65334,,,,
+James F. Hastings,Republican,87321,39,,,
+James G. O'Hara,Democrat,89832,12,,,
+James H. Scheuer,Democrat,62388,11,,,
+James M. Hanley,Democrat,88660,32,,,
+James M. Sparling Jr.,Republican,61578,8,,,
+James Manis,American Independent,3169,,,,
+James R. Montgomery,Republican,41706,,,,
+Jerome Kretchmer,Liberal,10622,17,,,
+Jerry Rubin,Peace and Freedom,5547,,,,
+Jim Gende,Democrat,44677,19,,,
+Jim Lloyd,Democrat,60799,,,,
+Jim Osgood,Republican,55838,,,,
+Jimmy L. Sabin,American Independent,1245,7,,,
+John B. Anderson,Republican,65175,16,,,
+John Boogaerts Jr.,Republican,22560,18,,,
+John Bove,Constitutional,6226,,,,
+John C. Kluczynski,Democrat,93009,5,,,
+John Dalessio,Democrat,50919,,,,
+John DiGiovanni,Conservative,5323,22,,,
+John Dow,Democrat,54380,26,,,
+John F. Dicks,United States Labor,152,7,,,
+John H. Dent,Democrat,88701,,,,
+John J. Houlihan,Democrat,56541,17,,,
+John J. LaFalce,Democrat,86978,36,,,
+John J. McFall,Democrat,101932,,,,
+John J. Perez,Republican,22928,,,,
+John Krebs,Democrat,66082,,,,
+John M. Murphy,Democrat,63805,17,,,
+John N. Erlenborn,Republican,77718,14,,,
+John P. Freeman,Human Rights,582,7,,,
+John P. Murtha,Democrat,85193,,,,
+John Rousselot,Republican,80782,,,,
+John S. Donohue,Peace and Freedom,3093,,,,
+John S. Reuther,Democrat,62755,2,,,
+Jonathan B. Bingham,Democrat,69449,22,,,
+Joseph A. Spaniolo,United States Labor,161,14,,,
+Joseph J. Anderko,Republican,25129,,,,
+Joseph L. Gentili,Republican,13400,16,,,
+Joseph M. Gaydos,Democrat,112237,,,,
+Joseph M. McDade,Republican,100793,,,,
+Joseph P. Vigorito,Democrat,76929,,,,
+Joseph Paul,Constitutional,1327,,,,
+Joseph R. Bala,Republican,23491,37,,,
+Joseph V. Damiano,Conservative,3832,39,,,
+Judith Hagen,Socialist Workers,332,13,,,
+Julian Camacho,Democrat,74018,,,,
+K. Douglas Lassiter,Independent,2817,15,,,
+KANSAS,1936,HOUSE,1,Don Smith,Democrat,57326
+KANSAS,1936,HOUSE,1,Keith G. Sebelius,Republican,101565
+KANSAS,1936,HOUSE,1,Thelma Morgan,American,13009
+KANSAS,1936,HOUSE,1,Lorin P. Miller,Prohibition,1968
+KANSAS,1936,HOUSE,2,Martha Keys,Democrat,84864
+KANSAS,1936,HOUSE,2,John C. Peterson,Republican,67650
+KANSAS,1936,HOUSE,2,David Scoggin,Prohibition,1725
+KANSAS,1936,HOUSE,3,Samuel J. Wells,Democrat,49976
+KANSAS,1936,HOUSE,3,Larry Winn Jr.,Republican,89694
+KANSAS,1936,HOUSE,3,Ted E. Oakes,American,2980
+KANSAS,1936,HOUSE,4,Bert Chaney,Democrat,61210
+KANSAS,1936,HOUSE,4,Garner E. Shriver,Republican,70401
+KANSAS,1936,HOUSE,4,John S. Stevens,American,12520
+KANSAS,1936,HOUSE,5,Frank Gaines,Democrat,72024
+KANSAS,1936,HOUSE,5,Joe Skubitz,Republican,88646
+KANSAS,1968,Senate,,Bill Roy,Democrat,390451
+KANSAS,1968,Senate,,Bob Dole,Republican,403983
+KANSAS,1968,Senate,,Write-in,Write-in,3
+KENTUCKY,1936,HOUSE,1,Carroll Hubbard Jr.,Democrat,70723
+KENTUCKY,1936,HOUSE,1,Charles Thurman Banken Jr.,Republican,16937
+KENTUCKY,1936,HOUSE,1,Robert W. Yoak,American,2805
+KENTUCKY,1936,HOUSE,2,William H. Natcher,Democrat,56502
+KENTUCKY,1936,HOUSE,2,Art Eddleman,Republican,18312
+KENTUCKY,1936,HOUSE,2,Leland Neville,American,2586
+KENTUCKY,1936,HOUSE,3,Romano L. Mazzoli,Democrat,75571
+KENTUCKY,1936,HOUSE,3,Vincent N. Barclay,Republican,28813
+KENTUCKY,1936,HOUSE,3,William P. Chambers,American,3383
+KENTUCKY,1936,HOUSE,3,Luther J. Wilson,Independent,708
+KENTUCKY,1936,HOUSE,4,Kyle T. Hubbard,Democrat,59539
+KENTUCKY,1936,HOUSE,4,Marion Gene Snyder,Republican,63845
+KENTUCKY,1936,HOUSE,5,Lyle L. Willis,Democrat,28706
+KENTUCKY,1936,HOUSE,5,Tim Lee Carter,Republican,66709
+KENTUCKY,1936,HOUSE,5,Albert G. J. Cullum,American,2467
+KENTUCKY,1936,HOUSE,6,John B. Breckinridge,Democrat,63010
+KENTUCKY,1936,HOUSE,6,Thomas F. Rogers III,Republican,21039
+KENTUCKY,1936,HOUSE,6,Fred Korstenry,American,3367
+KENTUCKY,1936,HOUSE,7,Carl D. Perkins,Democrat,71221
+KENTUCKY,1936,HOUSE,7,Granville Thomas,Republican,22982
+KENTUCKY,1936,SENATE,,Wendell H. Ford,Democrat,398887
+KENTUCKY,1936,SENATE,,Marlow W. Cook,Republican,328260
+KENTUCKY,1936,SENATE,,Wm. E. Parker,American,17551
+Katherine Sojourner,Socialist Workers,929,18,,,
+Kathryn Ropers,Socialist Workers,270,10,,,
+Kentucky,1974,Representative,1,,Democrat,101819
+LOUISIANA,1974,House,1,F. Edward Hébert,Democrat,48452
+LOUISIANA,1974,House,2,Lindy (Mrs. Hale) Boggs,Democrat,53802
+LOUISIANA,1974,House,2,Diane Morpbee,Republican,9632
+LOUISIANA,1974,House,2,"Jules W. ""Ted"" Hillery",Independent,2322
+LOUISIANA,1974,House,3,Charles Grisbaum Jr.,Democrat,39412
+LOUISIANA,1974,House,3,David C. Treen,Republican,55574
+LOUISIANA,1974,House,4,Joe D. Waggonner Jr.,Democrat,47371
+LOUISIANA,1974,House,5,Otto E. Passman,Democrat,43068
+LOUISIANA,1974,House,6,Jeff La Caze,Democrat,63366
+LOUISIANA,1974,House,6,W. Henson Moore,Republican,74802
+LOUISIANA,1974,House,7,John B. Breaux,Democrat,59406
+LOUISIANA,1974,House,7,Jeremy J. Millett,Independent,7131
+LOUISIANA,1974,House,8,Gillis W. Long,Democrat,41704
+LOUISIANA,1974,Senate,,Russell B. Long,Democrat,434643
+Lawrence Coughlin,Republican,98985,,,,
+Lawrence H. Curry,Democrat,59433,,,,
+Leo C. Zeferetti,Democrat,45855,15,,,
+Leonard J. Lukomiski,American Independent,1739,14,,,
+Leslie E. Craine,Socialist Workers,146,4,,,
+Liberal,Liberal,2231,12,,,
+Liberal,Liberal,10180,13,,,
+Liberal,Liberal,8220,16,,,
+Liberal,Liberal,13586,18,,,
+Liberal,Liberal,7225,19,,,
+Liberal,Liberal,10673,20,,,
+Liberal,Liberal,2612,21,,,
+Liberal,Liberal,7768,22,,,
+Liberal,Liberal,5107,23,,,
+Lucien N. Nedzi,Democrat,93973,14,,,
+MAINE,1974,House,1,Peter N. Kyros,Democrat,93524
+MAINE,1974,House,1,David F. Emery,Republican,94203
+MAINE,1974,House,2,Markham L. Gartley,Democrat,47399
+MAINE,1974,House,2,William S. Cohen,Republican,113194
+MARYLAND,1974,House,1,Thomas J. Hatem,Democrat,52853
+MARYLAND,1974,House,1,Robert E. Bauman,Republican,59570
+MARYLAND,1974,House,2,Clarence D. Long,Democrat,103222
+MARYLAND,1974,House,2,John M. Seney,Republican,30630
+MARYLAND,1974,House,3,Paul S. Sarbanes,Democrat,93218
+MARYLAND,1974,House,3,William H. Mathews,Republican,17967
+MARYLAND,1974,House,4,Fred L. Wineland,Democrat,44059
+MARYLAND,1974,House,4,Marjorie S. Holt,Republican,61208
+MARYLAND,1974,House,5,Gladys Noon Spellman,Democrat,45211
+MARYLAND,1974,House,5,John B. Burnham Jr.,Republican,40805
+MARYLAND,1974,House,6,Goodloe E. Byron,Democrat,90882
+MARYLAND,1974,House,6,Elton R. Wampler,Republican,32416
+MARYLAND,1974,House,7,Parren J. Mitchell,Democrat,43252
+MARYLAND,1974,House,8,Sidney Kramer,Democrat,54112
+MARYLAND,1974,House,8,Gilbert Gude,Republican,104675
+MARYLAND,1974,Senate,,Barbara A. Mikulski,Democrat,374563
+MARYLAND,1974,Senate,,Charles McC. Mathias,Republican,503223
+MASSACHUSETTS,1974,House,1,Thomas R. Manning,Democrat,43524
+MASSACHUSETTS,1974,House,1,Silvio O. Conte,Republican,107285
+MASSACHUSETTS,1974,House,1,Write-in,Write-in,7
+MASSACHUSETTS,1974,House,2,Edward P. Boland,Democrat,105763
+MASSACHUSETTS,1974,House,2,Write-in,Write-in,30
+MICHIGAN,1962,House,15,William D. Ford,Democrat,86601
+MICHIGAN,1962,House,15,Jack A. Underwood,Republican,23028
+MICHIGAN,1962,House,15,Alif G. Dunagun,American Independent,904
+MICHIGAN,1962,House,15,Clyde O. Tarte,Socialist Workers,156
+MICHIGAN,1962,House,15,James R. Eades,United States Labor,161
+MICHIGAN,1962,House,16,John D. Dingell,Democrat,95834
+MICHIGAN,1962,House,16,Wallace D. English,Republican,25248
+MICHIGAN,1962,House,16,Donald A. Beehler,Socialist Workers,365
+MICHIGAN,1962,House,16,Virginia Crawford,American Independent,1005
+MICHIGAN,1962,House,16,Lewis Steinhardt,United States Labor,232
+MICHIGAN,1962,House,17,William M. Brodhead,Democrat,94242
+MICHIGAN,1962,House,17,Kenneth C. Gallagher,Republican,39856
+MICHIGAN,1962,House,17,Bruce E. Duke,American Independent,1035
+MICHIGAN,1962,House,17,Christy Wallace,Socialist Workers,449
+MICHIGAN,1962,House,17,Harry Jock,United States Labor,91
+MICHIGAN,1962,House,18,James J. Blanchard,Democrat,83523
+MICHIGAN,1962,House,18,Robert J. Huber,Republican,57133
+MICHIGAN,1962,House,18,James Gordon Lott,American Independent,632
+MICHIGAN,1962,House,18,Sandra L. Peck,Socialist Workers,239
+MICHIGAN,1962,House,19,Maurice Geary,Human Rights,607
+MICHIGAN,1962,House,19,Matthew Moriarty,United States Labor,98
+MICHIGAN,1962,House,19,George F. Montgomery,Democrat,50924
+MICHIGAN,1962,House,19,William S. Broomfield,Republican,86846
+MICHIGAN,1962,House,19,Rudolf Zeller,Socialist Workers,175
+MICHIGAN,1962,House,19,James Jaber,United States Labor,105
+MINNESOTA,1962,House,1,Ulric Scott,Democrat,56868
+MINNESOTA,1962,House,1,Albert H. Quie,Republican,95138
+MINNESOTA,1962,House,2,Steve Babcock,Democrat,77780
+MINNESOTA,1962,House,2,Tom Hagedorn,Republican,88071
+MINNESOTA,1962,House,3,Bob Riggs,Democrat,54630
+MINNESOTA,1962,House,3,Bill Frenzel,Republican,83325
+MINNESOTA,1962,House,4,Joseph E. Karth,Democrat,95437
+MINNESOTA,1962,House,4,Joseph A. Rheinberger,Republican,30083
+MINNESOTA,1962,House,5,Donald M. Fraser,Democrat,90012
+MINNESOTA,1962,House,5,Phil Ratte,Republican,30146
+MINNESOTA,1962,House,5,Edmund A. Jurenas,Socialist Workers,1887
+MINNESOTA,1962,House,6,Richard Nolan,Democrat,96465
+MINNESOTA,1962,House,6,Jon Grunseth,Republican,77797
+MINNESOTA,1962,House,7,Bob Bergland,Democrat,129207
+MINNESOTA,1962,House,7,Dan Reber,Republican,43054
+MINNESOTA,1962,House,8,James L. Oberstar,Democrat,104740
+MINNESOTA,1962,House,8,Jerome Arnold,Republican,44208
+MINNESOTA,1962,House,8,William R. (Bill) Ojala,Economic Justice,16932
+MINNESOTA,1962,House,8,Robert C. Bester,Independent,2987
+MISSISSIPPI,1962,House,1,Jamie L. Whitten,Democrat,39158
+MISSISSIPPI,1962,House,1,Jack Benner,Independent,5250
+MISSISSIPPI,1962,House,2,David R. Bowen,Democrat,37909
+MISSISSIPPI,1962,House,2,Ben F. Hilbun Jr.,Republican,15876
+MISSISSIPPI,1962,House,2,H. B. Wells,Independent,3573
+MISSISSIPPI,1962,House,3,G. V. (Sonny) Montgomery,Democrat,43020
+MISSISSIPPI,1962,House,4,Kenneth L. Dean,Democrat,25699
+MISSISSIPPI,1962,House,4,Thad Cochran,Republican,62634
+MISSISSIPPI,1962,House,4,Leonard R. Young,Independent,868
+MISSISSIPPI,1962,House,5,Walter Wilson Murphey,Democrat,10333
+MISSISSIPPI,1962,House,5,Trent Lott,Republican,52489
+MISSISSIPPI,1962,House,5,Ernest Creel,Independent,742
+MISSISSIPPI,1962,House,5,Glenn E. Gilley,Independent,1954
+MISSISSIPPI,1962,House,5,"Karl ""Claudia"" Mertz",Independent,6404
+MISSOURI,1982,House,1,William (Bill) Clay,Democrat,61933
+MISSOURI,1982,House,1,Arthur O. Martin,Republican,28707
+MISSOURI,1982,House,10,Bill D. Burlison,Democrat,77677
+MISSOURI,1982,House,10,Truman Farrow,Republican,29059
+MISSOURI,1982,House,2,James W. Symington,Democrat,85977
+MISSOURI,1982,House,2,Howard C. Ohlendorf,Republican,55026
+MISSOURI,1982,House,3,Leonor K. (Mrs. John B.) Sullivan,Democrat,96201
+MISSOURI,1982,House,3,Jo Ann P. Raisch,Republican,31489
+MISSOURI,1982,House,3,Marie S. Nowak,Independent,1851
+MISSOURI,1982,House,4,Wm. J. (Bill) Randall,Democrat,82447
+MISSOURI,1982,House,4,Claude Patterson,Republican,39055
+MISSOURI,1982,House,5,Richard Bolling,Democrat,57081
+MISSOURI,1982,House,5,John McDonough,Republican,24669
+MISSOURI,1982,House,5,Edward Verburg,Independent,855
+MISSOURI,1982,House,6,Jerry Litton,Democrat,101609
+MISSOURI,1982,House,6,Grover H. Speers,Republican,27147
+MISSOURI,1982,House,7,Richard L. Franks,Democrat,72653
+MISSOURI,1982,House,7,Gene Taylor,Republican,79787
+MISSOURI,1982,House,8,Richard H. Ichord,Democrat,86595
+MISSOURI,1982,House,8,James A. Noland Jr.,Republican,37369
+MISSOURI,1982,House,9,William L. (Bill) Hungate,Democrat,87546
+MISSOURI,1982,House,9,Milton Bischof Jr.,Republican,44318
+MISSOURI,1982,Senate,,Thomas F. Eagleton,Democrat,735433
+MISSOURI,1982,Senate,,Thomas H. Curtis,Republican,480900
+MISSOURI,1982,Senate,,C. E. (Cliff) Talmage,Independent,7970
+MONTANA,1962,House,1,,Democrat,74304
+MONTANA,1962,House,1,,Republican,61309
+MONTANA,1982,House,1,Max S. Baucus,Democrat,74304
+MONTANA,1982,House,1,Dick Shoup,Republican,61309
+MONTANA,1962,House,2,,Democrat,74680
+MONTANA,1962,House,2,,Republican,43853
+MONTANA,1982,House,2,John Melcher,Democrat,74680
+MONTANA,1982,House,2,John J. (Jack) McDonald,Republican,43858
+Margaret Costanza,Democrat,63012,35,,,
+Margaret M. Davis,Socialist Workers,258,6,,,
+Mark Nelson,American Independent,2401,8,,,
+Mark Severs,Socialist Workers,328,14,,,
+Mark W. Hannaford,Democrat,78345,,,,
+Marshall Hungness,Democrat,33724,16,,,
+Martha E. Pettit,Socialist Workers,186,2,,,
+Martin Shephard,Conservative,1522,12,,,
+Marvin L. Esch,Republican,72245,2,,,
+Marvin P. Lightvoot,American Independent,912,3,,,
+Mary C. Lynch,Conservative,959,21,,,
+Maryland,1974,Representative,1,,Democrat,176133
+Maryland,1974,Representative,2,,Democrat,119119
+Maryland,1974,Representative,3,,Democrat,84346
+Maryland,1974,Representative,4,,Democrat,114756
+Massachusetts,1962,House,10,Barry F. Monahan,Democrat,55871
+Massachusetts,1962,House,10,Margaret M. Heckler,Republican,99993
+Massachusetts,1962,House,10,,Write-in,4
+Massachusetts,1962,House,11,James A. Burke,Democrat,125974
+Massachusetts,1962,House,11,,Write-in,13
+Massachusetts,1962,House,12,Gerry E. Studds,Democrat,138779
+Massachusetts,1962,House,12,J. Alan MacKay,Republican,46787
+Massachusetts,1962,House,12,,Write-in,3
+Massachusetts,1962,House,3,Joseph D. Early,Democrat,78244
+Massachusetts,1962,House,3,David J. Lionett,Republican,60717
+Massachusetts,1962,House,3,Douglas J. Rowe,Independent,19018
+Massachusetts,1962,House,3,,Write-in,141
+Massachusetts,1962,House,4,Robert F. Drinan,Democrat,77286
+Massachusetts,1962,House,4,Alvin Mandell,Republican,21922
+Massachusetts,1962,House,4,Jon Rotenberg,Independent,52783
+Massachusetts,1962,House,4,,Write-in,2
+Massachusetts,1962,House,5,Paul E. Tsongas,Democrat,99518
+Massachusetts,1962,House,5,Paul W. Cronin,Republican,64506
+Massachusetts,1962,House,5,,Write-in,3
+Massachusetts,1962,House,6,Michael J. Harrington,Democrat,110278
+Massachusetts,1962,House,6,,Write-in,23
+Massachusetts,1962,House,7,Torbert H. Macdonald,Democrat,122165
+Massachusetts,1962,House,7,James J. Murphy,Independent,30639
+Massachusetts,1962,House,7,,Write-in,7
+Massachusetts,1962,House,8,Thomas P. O'Neill Jr.,Democrat,107042
+Massachusetts,1962,House,8,James H. Riggon,United States Labor,8363
+Massachusetts,1962,House,8,Laura Ross,Communist,6421
+Massachusetts,1962,House,8,,Write-in,19
+Massachusetts,1962,House,9,John Joseph Moakley,Democrat,94804
+Massachusetts,1962,House,9,Laurence R. Sherman,United States Labor,11344
+Massachusetts,1962,House,9,,Write-in,10
+Matthew F. McHugh,Democrat,79946,27,,,
+Maxine Williams,Socialist Workers,125,12,,,
+Mel Nadell,Republican,31365,,,,
+Melvin Price,Democrat,78347,23,,,
+Michael Ajello,Conservative,7808,17,,,
+Michael Ballan,Socialist Labor,155,6,,,
+Michael Carbajal Jr.,Republican,5960,14,,,
+Michael J. Minney,Democrat,40273,,,,
+Michigan,1962,House,1,John Conyers Jr.,Democrat,97620
+Michigan,1962,House,1,Walter E. Girardot,Republican,9358
+Michigan,1962,House,1,Hattie L. McCutcheon,Socialist Workers,419
+Michigan,1962,House,1,Jacqueline M. Cotton,United States Labor,176
+Minnesota,1974,Representative,1,,Democrat,90651
+Minnesota,1974,Representative,2,,Democrat,58533
+Mississippi,1974,Representative,1,,Democrat,75078
+Mitchell G. Zadrozny,Republican,39182,11,,,
+NEBRASKA,1962,House,1,Horace Seely,Democrat,72099
+NEBRASKA,1962,House,1,Charles Thone,Republican,82353
+NEBRASKA,1962,House,1,,Write-in,2
+NEBRASKA,1962,House,2,Daniel C. Lynch,Democrat,59142
+NEBRASKA,1962,House,2,John Y. McCollister,Republican,72731
+NEBRASKA,1962,House,2,,Write-in,52
+NEBRASKA,1962,House,3,Wayne W. Ziebarth,Democrat,80255
+NEBRASKA,1962,House,3,Virginia Smith,Republican,80992
+NEBRASKA,1962,House,3,,Write-in,65
+NEVADA,1962,Senate,,Harry Reid,Democrat,78981
+NEVADA,1962,Senate,,Paul Laxalt,Republican,79605
+NEVADA,1962,Senate,,Jack C. Doyle,Independent American,10887
+NEVADA,1962,House,,Jim Santini,Democrat,93665
+NEVADA,1962,House,,David Towell,Republican,61182
+NEVADA,1962,House,,Joel F. Hansen,Independent American,13119
+NEW HAMPSHIRE,1962,House,1,Norman E. D'Amours,Democrat,58388
+NEW HAMPSHIRE,1962,House,1,David A. Banks,Republican,53610
+NEW HAMPSHIRE,1962,House,2,Helen L. Bliss,Democrat,38463
+NEW HAMPSHIRE,1962,House,2,James C. Cleveland,Republican,69068
+NEW HAMPSHIRE,1962,Senate,,John A. Durkin,Democrat,110924
+NEW HAMPSHIRE,1962,Senate,,Louis C. Wyman,Republican,110926
+NEW HAMPSHIRE,1962,Senate,,Carmen C. Chimento,American,1513
+NEW JERSEY,1974,HOUSE,1,James J. Florio,Democrat,80768
+NEW JERSEY,1974,HOUSE,1,John E. Hunt,Republican,54069
+NEW JERSEY,1974,HOUSE,1,Elizabeth L. Drews,Independent,713
+NEW JERSEY,1974,HOUSE,1,James Perry,Independent Tax Watchdog,3276
+NEW JERSEY,1974,HOUSE,1,Bradley S. Kirsch,Independents Against Apathy,805
+NEW JERSEY,1974,HOUSE,1,Raymond Carotenuto,An Independent American,389
+NEW JERSEY,1974,HOUSE,1,Julius Levin,Socialist Labor,391
+NEW JERSEY,1974,HOUSE,1,Pedro J. Torres,Independent,347
+NEW JERSEY,1974,HOUSE,10,Peter W. Rodino Jr.,Democrat,53094
+NEW JERSEY,1974,HOUSE,10,John R. Taliaferro,Republican,9936
+NEW JERSEY,1974,HOUSE,10,Sandra Hill,Independent,2508
+NEW JERSEY,1974,HOUSE,11,Joseph G. Minish,Democrat,98957
+NEW JERSEY,1974,HOUSE,11,William B. Grant,Republican,42036
+NEW JERSEY,1974,HOUSE,11,Robert Clement,Socialist Labor,1922
+NEW JERSEY,1974,HOUSE,12,Adam K. Levin,Democrat,46246
+NEW JERSEY,1974,HOUSE,12,Matthew J. Rinaldo,Republican,92829
+NEW JERSEY,1974,HOUSE,12,Robert A. Steiner,Independent,1017
+NEW JERSEY,1974,HOUSE,12,Anthony Carbone,Independent,1569
+NEW JERSEY,1974,HOUSE,12,Catherine O'Toole French,Integrity in Government,1182
+NEW JERSEY,1948,House,13,Helen S. Meyner,Democrat,86043
+NEW JERSEY,1948,House,13,Joseph J. Maraziti,Republican,64166
+NEW JERSEY,1948,House,14,Dominick V. Daniels,Democrat,85438
+NEW JERSEY,1948,House,14,Claire J. Sheridan,Republican,17231
+NEW JERSEY,1948,House,14,John A. Alston,Good Neighbor,4266
+NEW JERSEY,1948,House,15,Edward J. Patton,Democrat,92593
+NEW JERSEY,1948,House,15,Ernest J. Hammefahr,Republican,35875
+NEW JERSEY,1948,House,15,Paul M. Schiff,Communist,1890
+NEW JERSEY,1974,HOUSE,2,William J. Hughes,Democrat,109763
+NEW JERSEY,1974,HOUSE,2,Charles W. Sandman Jr.,Republican,79064
+NEW JERSEY,1974,HOUSE,2,Andrew Wenger,Independent,2693
+NEW JERSEY,1974,HOUSE,3,James J. Howard,Democrat,105979
+NEW JERSEY,1974,HOUSE,3,Kenneth W. Clark,Republican,45932
+NEW JERSEY,1974,HOUSE,3,Thomas W. Palven,Independent,818
+NEW JERSEY,1974,HOUSE,3,Joseph A. Rogers,Anti-monopoly,1177
+NEW JERSEY,1974,HOUSE,4,Frank Thompson Jr.,Democrat,82195
+NEW JERSEY,1974,HOUSE,4,Henry J. Keller,Republican,40797
+NEW JERSEY,1974,HOUSE,5,Frederick M. Bohen,Democrat,66380
+NEW JERSEY,1974,HOUSE,5,Millicent Fenwick,Republican,81498
+NEW JERSEY,1974,HOUSE,5,John Giammarco,American Independent,3102
+NEW JERSEY,1974,HOUSE,5,Leonard F. Newton,New Leadership,1778
+NEW JERSEY,1974,HOUSE,6,Charles B. Yates,Democrat,70353
+NEW JERSEY,1974,HOUSE,6,Edwin B. Forsythe,Republican,81190
+NEW JERSEY,1974,HOUSE,6,Joseph Alfons Nowak,Christian,583
+NEW JERSEY,1974,HOUSE,6,John V. Mahalchik,Regular Democracy,1451
+NEW JERSEY,1974,HOUSE,6,Bernardo S. Doganiero,Socialist Labor,1135
+NEW JERSEY,1974,HOUSE,7,Andrew Maguire,Democrat,79398
+NEW JERSEY,1974,HOUSE,7,William B. Widnall,Republican,71377
+NEW JERSEY,1974,HOUSE,7,Milton Gralla,Independent Citizens Action,6520
+NEW JERSEY,1974,HOUSE,8,Robert A. Roe,Democrat,83724
+NEW JERSEY,1974,HOUSE,8,Herman Schmidt,Republican,27839
+NEW JERSEY,1974,HOUSE,8,Kenneth Kowalczyk,Socialist Labor,1764
+NEW JERSEY,1974,HOUSE,9,Henry Helstoski,Democrat,99592
+NEW JERSEY,1974,HOUSE,9,Harold A. Pareti,Republican,50839
+NEW JERSEY,1974,HOUSE,9,Herbert H. Shaw,Politicians Are Crooks,3460
+NEW JERSEY,1974,HOUSE,9,Robert W. Funsch,Independent,451
+NEW MEXICO,1948,House,1,Robert A. Mondragon,Democrat,71968
+NEW MEXICO,1948,House,1,Manuel Lujan Jr.,Republican,106268
+NEW MEXICO,1948,House,1,Martin Molloy,American Independent,3069
+NEW MEXICO,1948,House,2,Harold Runnels,Democrat,90127
+NEW MEXICO,1948,House,2,Donald W. Trubey,Republican,43045
+NEW MEXICO,1948,House,2,Herbert (Hub) Horton,American Independent,1860
+NEW YORK,1954,House,1,Otis G. Pike,Democrat,101130
+NEW YORK,1954,House,1,Donald R. Smith,Republican,44513
+NEW YORK,1954,House,1,Seth Morgan,Conservative,10038
+NEW YORK,1954,House,10,Mario Biaggi,Democrat,49204
+NEW YORK,1954,House,10,Republican,,26171
+NEW YORK,1954,House,10,Francis L. McHugh,Conservative,10259
+NEW YORK,1954,House,10,John P. Hagan,Liberal,5797
+NEW YORK,1954,House,2,Thomas J. Downey,Democrat,58299
+NEW YORK,1954,House,2,James R. Grover Jr.,Republican,53344
+NEW YORK,1954,House,2,Neil Greene,Conservative,7818
+NEW YORK,1954,House,3,Jerome Ambro Jr.,Democrat,76383
+NEW YORK,1954,House,3,Angelo D. Roncallo,Republican,55765
+NEW YORK,1954,House,3,Arthur Hoffer,Liberal,3191
+NEW YORK,1954,House,4,Franklin Ornstein,Democrat,69556
+NEW YORK,1954,House,4,Norman F. Lent,Republican,70409
+NEW YORK,1954,House,4,Conservative,,44082
+NEW YORK,1954,House,5,Allard K. Lowenstein,Democrat,72513
+NEW YORK,1954,House,5,John W. Wydler,Republican,79044
+NEW YORK,1954,House,5,Liberal,,4843
+NEW YORK,1954,House,5,Conservative,,12633
+NEW YORK,1954,House,6,Lester L. Wolff,Democrat,62582
+NEW YORK,1954,House,6,Edythe Layne,Republican,37538
+NEW YORK,1954,House,6,Liberal,,8655
+NEW YORK,1954,House,6,Conservative,,12090
+NEW YORK,1954,House,7,Joseph P. Addabbo,Democrat,58855
+NEW YORK,1954,House,7,Liberal,,7326
+NEW YORK,1954,House,7,Republican,,47701
+NEW YORK,1954,House,8,Benjamin S. Rosenthal,Democrat,78396
+NEW YORK,1954,House,8,Albert Lemishow,Republican,16530
+NEW YORK,1954,House,8,Liberal,,11804
+NEW YORK,1954,House,8,Conservative,,7450
+NEW YORK,1954,House,9,James J. Delaney,Democrat,45064
+NEW YORK,1954,House,9,Republican,,31602
+NEW YORK,1954,House,9,Conservative,,15895
+NEW YORK,1954,House,9,Theodore E. Garrison,Liberal,6024
+NEW YORK,1954,Senate,,Ramsey Clark,Democrat,1973781
+NEW YORK,1954,Senate,,Jacob K. Javits,Republican,2098529
+NEW YORK,1954,Senate,,Barbara A. Keating,Conservative,822584
+NEW YORK,1954,Senate,,Rebecca Finch,Socialist Workers,7727
+NEW YORK,1954,Senate,,Robert E. Massi,Socialist Labor,4037
+NEW YORK,1954,Senate,,Elijah C. Boyd Jr.,Labor,3798
+NEW YORK,1954,Senate,,Mildred Edelman,Communist,3876
+NEW YORK,1954,Senate,,William P. Dowling Jr.,Courage,7429
+NORTH CAROLINA,1948,House,1,Walter B. Jones,Democrat,55323
+NORTH CAROLINA,1948,House,1,Harry McMullan,Republican,16098
+NORTH CAROLINA,1974,HOUSE,10,Jack L. Rhyne,Democrat,53131
+NORTH CAROLINA,1974,HOUSE,10,James T. (Jim) Broyhill,Republican,63382
+NORTH CAROLINA,1974,HOUSE,11,Roy A. Taylor,Democrat,89163
+NORTH CAROLINA,1974,HOUSE,11,Albert F. (Doc) Gilman,Republican,45983
+NORTH CAROLINA,1948,House,2,L. H. Fountain,Democrat,52786
+NORTH CAROLINA,1948,House,3,David N. Henderson,Democrat,50931
+NORTH CAROLINA,1948,House,4,Ike Andrews,Democrat,62600
+NORTH CAROLINA,1948,House,4,Ward Purrington,Republican,33524
+NORTH CAROLINA,1948,House,4,Michael Henderson Sinodberg,Socialist Labor,670
+NORTH CAROLINA,1948,House,5,Stephen L. Neal,Democrat,64634
+NORTH CAROLINA,1948,House,5,William (Vinegar Bend) Mizell,Republican,59182
+NORTH CAROLINA,1948,House,5,Larry Eugene Brubaker,Socialist Labor,427
+NORTH CAROLINA,1948,House,6,Richardson Preyer,Democrat,56507
+NORTH CAROLINA,1948,House,6,H. S. (Steve) Ritchie,Republican,31906
+NORTH CAROLINA,1948,House,6,Harry Allen Frigg,Socialist Labor,351
+NORTH CAROLINA,1948,House,7,Charles Rose,Democrat,49780
+NORTH CAROLINA,1974,HOUSE,8,W. G. (Bill) Hefner,Democrat,61591
+NORTH CAROLINA,1974,HOUSE,8,Earl B. Ruth,Republican,46500
+NORTH CAROLINA,1974,HOUSE,9,Milton Short,Democrat,41387
+NORTH CAROLINA,1974,HOUSE,9,James G. Martin,Republican,51032
+NORTH CAROLINA,1974,HOUSE,9,Geoffrey Michael Hooks,Socialist Labor,1458
+NORTH CAROLINA,1948,Senate,,Robert Morgan,Democrat,633775
+NORTH CAROLINA,1948,Senate,,William E. Stevens,Republican,377618
+NORTH CAROLINA,1948,Senate,,Rudolph Nesmith,Socialist Labor,8474
+NORTH DAKOTA,1974,SENATE,,William L. Bill Guy,Democrat,114675
+NORTH DAKOTA,1974,SENATE,,Milton R. Young,Republican,114823
+NORTH DAKOTA,1974,SENATE,,Kenneth C. Gardner,Independent,882
+NORTH DAKOTA,1974,SENATE,,James R. Jungroth,Independent,6679
+NORTH DAKOTA,1974,HOUSE,,Byron Dorgan,Democrat,103504
+NORTH DAKOTA,1974,HOUSE,,Mark Andrews,Republican,130184
+New Hampshire,1974,Representative,1,,Democrat,2053157
+New Mexico,1974,Presidential,,,,105995
+New York,1974,Presidential,,,,2175765
+Nicholas Angell,Democrat,53357,25,,,
+Nicolee E. Brerson,Socialist Workers,186,8,,,
+Norm Halbower,Democrat,65235,9,,,
+Norman A. Hodges,Republican,23939,,,,
+North Dakota,1974,Presidential,,,,138502
+OHIO,1974,HOUSE,1,Thomas A. Luken,Democrat,67685
+OHIO,1974,HOUSE,1,Willis D. Gradison Jr.,Republican,70284
+OHIO,1974,HOUSE,1,Write-in,Write-in,22
+OHIO,1974,HOUSE,2,Edward W. Wolterman,Democrat,62530
+OHIO,1974,HOUSE,2,Donald D. Clancy,Republican,71512
+OHIO,1974,HOUSE,3,Charles W. Whalen Jr.,Republican,82159
+OHIO,1974,SENATE,,John Glenn,Democrat,1930670
+OHIO,1974,SENATE,,Ralph J. Perk,Republican,918133
+OHIO,1974,SENATE,,K. G. Harroff,Independent,76882
+OHIO,1974,SENATE,,Richard B. Kay,Independent,64921
+OKLAHOMA,1934,House,1,James R. Jones,Democrat,88159
+OKLAHOMA,1934,House,1,George Alfred Miner Jr.,Republican,41697
+OKLAHOMA,1934,House,2,"Theodore M. ""Ted"" Risenhoover",Democrat,78046
+OKLAHOMA,1934,House,2,Ralph F. Keen,Republican,54110
+OKLAHOMA,1934,House,3,Carl Albert,Democrat,
+OKLAHOMA,1934,House,4,Tom Steed,Democrat,
+OKLAHOMA,1934,House,5,John Jarman,Democrat,52107
+OKLAHOMA,1934,House,5,M. H. Mickey Edwards,Republican,48705
+OKLAHOMA,1934,House,6,Glenn English,Democrat,76392
+OKLAHOMA,1934,House,6,John N. Happy Camp,Republican,63731
+OKLAHOMA,1934,House,6,Bennett L. Basore,Independent,3365
+OKLAHOMA,1934,Senate,,Ed Edmondson,Democrat,387162
+OKLAHOMA,1934,Senate,,Henry Bellmon,Republican,390997
+OKLAHOMA,1934,Senate,,Paul Edward Trent,Independent,13650
+OREGON,1974,House,1,Les AuCoin,Democrat,114629
+OREGON,1974,House,1,Diarmuid O'Scannlain,Republican,89848
+OREGON,1974,House,1,Write-in,Write-in,115
+OREGON,1974,House,2,Al Ullman,Democrat,140963
+OREGON,1974,House,2,Kenneth Brown,Republican,39441
+OREGON,1974,House,2,Write-in,Write-in,45
+OREGON,1974,House,3,Robert Duncan,Democrat,129290
+OREGON,1974,House,3,John Piacentini,Republican,54080
+OREGON,1974,House,3,Write-in,Write-in,167
+OREGON,1974,House,4,James Weaver,Democrat,97580
+OREGON,1974,House,4,John Dellenback,Republican,86950
+OREGON,1974,House,4,Write-in,Write-in,87
+OREGON,1974,Senate,,Betty Roberts,Democrat,338591
+OREGON,1974,Senate,,Bob Packwood,Republican,420984
+OREGON,1974,Senate,,Jesem Bee,Write-in,5672
+OREGON,1974,Senate,,Write-in,Write-in,1767
+Ohio,1974,Presidential,,,,1549704
+Oklahoma,1974,Presidential,,,,486142
+Oregon,1974,Presidential,,,,483944
+P. G. Shuster,Republican,73881,,,,
+PENNSYLVANIA,1974,House,1,William A. Barrett,Democrat,96988
+PENNSYLVANIA,1974,House,1,Russel M. Nigro,Republican,29772
+PENNSYLVANIA,1974,House,1,Bernard Salera,Socialist Labor,1141
+PENNSYLVANIA,1974,House,2,Robert N. C. Nix,Democrat,75033
+PENNSYLVANIA,1974,House,2,Jesse W. Woods Jr.,Republican,26353
+PENNSYLVANIA,1974,House,3,William J. Green,Democrat,84675
+PENNSYLVANIA,1974,House,3,Richard P. Colbert,Republican,27692
+PENNSYLVANIA,1974,House,4,Joshua Eilberg,Democrat,123952
+PENNSYLVANIA,1974,House,4,Isadore Einhorn,Republican,50988
+PENNSYLVANIA,1974,House,5,Leo D. McDermott,Democrat,56626
+PENNSYLVANIA,1974,House,5,Richard T. Schulze,Republican,83526
+PENNSYLVANIA,1974,Senate,,Pete Flaherty,Democrat,1506121
+PENNSYLVANIA,1974,Senate,,Richard S. Schweiker,Republican,1843317
+PENNSYLVANIA,1974,Senate,,George W. Shankey Jr.,Constitutional,38094
+PENNSYLVANIA,1974,Senate,,Write-in,Write-in,370
+Paul A. Conforti,Democrat,56487,,,,
+Paul Findley,Republican,84426,20,,,
+Paul G. Goebel Jr.,Republican,66659,5,,,
+Paul H. Todd Jr.,Democrat,65212,3,,,
+Paul Simon,Democrat,108417,24,,,
+Pennsylvania,1974,Presidential,,,,1605658
+Percy Ray Wheeler,United States Labor,289,13,,,
+Peter A. Peyser,Republican,64419,23,,,
+Peter C. Wambach,Democrat,64576,,,,
+Peter F. Mack,Democrat,69551,20,,,
+Philip E. Ruppe,Republican,83293,11,,,
+Philip M. Crane,Republican,70731,12,,,
+Philip S. Carroll,Human Rights,1834,2,,,
+RHODE ISLAND,1944,House,1,Fernand J. St. Germain,Democrat,105288
+RHODE ISLAND,1944,House,1,Ernest Barone,Republican,39096
+RHODE ISLAND,1944,House,2,Edward P. Beard,Democrat,124759
+RHODE ISLAND,1944,House,2,Vincent J. Rotondo,Republican,34728
+Ralph F. Johns,Constitutional,1721,,,,
+Randolph A. Wedler,United States Labor,88,6,,,
+Republican,Republican,6427,19,,,
+Rhode Island,1974,Presidential,,,,165438
+Richard A. Muzyka,Republican,38106,,,,
+Richard E. Daugherty,Democrat,55409,4,,,
+Richard F. Vander Veen,Democrat,89778,5,,,
+Richard Grawso,Socialist Workers,207,12,,,
+Richard Hallin,Democrat,62770,,,,
+Richard L. Ottinger,Democrat,82542,24,,,
+Richard N. Small,Democrat,49896,21,,,
+Robert Black,Republican,8142,22,,,
+Robert C. McEwen,Republican,73608,30,,,
+Robert D. Ford,Democrat,56844,,,,
+Robert D. McKenney,Constitutional,3793,,,,
+Robert E. (Bob) White,Democrat,57423,,,,
+Robert E. Eastman,Republican,41603,7,,,
+Robert H. Boeckman,Democrat,45043,33,,,
+Robert H. Michel,Republican,71681,18,,,
+Robert H. Renshaw,Democrat,38981,14,,,
+Robert J. Lagomarsino,Republican,84849,,,,
+Robert McClory,Republican,51405,13,,,
+Robert W. Edgar,Democrat,89680,,,,
+Roger A. Blain,American Independent,7367,,,,
+Roger W. Tubby,Democrat,61668,30,,,
+Ronald A. Rodger,Democrat,47096,4,,,
+Ronald G. Ziegler,United States Labor,146,2,,,
+Roy S. Jones,American Independent,994,2,,,
+Russell A. Rourke,Republican,55952,36,,,
+SOUTH CAROLINA,1944,House,1,Mendel J. Davis,Democrat,63111
+SOUTH CAROLINA,1944,House,1,George B. Rust,Republican,22450
+SOUTH CAROLINA,1944,House,1,Benjamin Frasier,United Citizens,520
+SOUTH CAROLINA,1944,House,1,Charles Amaker,Independent,687
+SOUTH CAROLINA,1944,House,2,Matthew J. Perry,Democrat,45205
+SOUTH CAROLINA,1944,House,2,Floyd Spence,Republican,38936
+SOUTH CAROLINA,1944,House,2,Paul Proveaux,Independent,950
+SOUTH CAROLINA,1972,House,3,Butler Derrick,Democrat,55120
+SOUTH CAROLINA,1972,House,3,Marshall J. Parker,Republican,34046
+SOUTH CAROLINA,1972,House,4,James R. Mann,Democrat,45070
+SOUTH CAROLINA,1972,House,4,Robert L. Watkins,Republican,26185
+SOUTH CAROLINA,1972,House,5,Kenneth L. Holland,Democrat,47614
+SOUTH CAROLINA,1972,House,5,Len Phillips,Republican,29294
+SOUTH CAROLINA,1972,House,5,Bert Sumner,Independent,637
+SOUTH CAROLINA,1972,House,6,John W. Jenrette Jr.,Democrat,45396
+SOUTH CAROLINA,1972,House,6,Edward L. Young,Republican,41982
+SOUTH CAROLINA,1944,Senate,,Ernest F. Hollings,Democrat,356126
+SOUTH CAROLINA,1944,Senate,,Gwen Bush,Republican,146645
+SOUTH CAROLINA,1944,Senate,,Harold Hough,Independent,9620
+SOUTH DAKOTA,1972,House,1,Frank E. Denholm,Democrat,63339
+SOUTH DAKOTA,1972,House,1,Larry Pressler,Republican,78266
+SOUTH DAKOTA,1972,House,2,Jack M. Weiland,Democrat,42119
+SOUTH DAKOTA,1972,House,2,James Abdnor,Republican,88746
+SOUTH DAKOTA,1972,Senate,,George McGovern,Democrat,147929
+SOUTH DAKOTA,1972,Senate,,Leo K. Thorsness,Republican,130955
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+Salvatore E. Oddo,Republican,11664,8,,,
+Samuel D. Marble,Democrat,69246,10,,,
+Samuel H. Young,Republican,80597,10,,,
+Samuel S. Stratton,Democrat,156439,28,,,
+Sanford P. Cohen,Free Libertarian,1881,25,,,
+Scott Randolph,Republican,18987,23,,,
+Sheila Ostrow,Socialist Workers,132,7,,,
+Shirley A. Chisholm,Democrat,24215,12,,,
+Sidney R. Yates,Democrat,93864,9,,,
+South Carolina,1974,Presidential,,,,267338
+South Dakota,1974,Presidential,,,,136852
+Stanley W. Beetham,Democrat,42903,13,,,
+Stephen J. McEwen Jr.,Republican,70380,,,,
+Stephen J. Solarz,Democrat,80828,13,,,
+Stephen Posner,Republican,15053,20,,,
+Stephen Postupack,Republican,35805,,,,
+Steve Beumer,Socialist Workers,93,3,,,
+Steven L. Nordvall,Democrat,50225,18,,,
+TENNESSEE,1972,House,1,Lloyd Blevins,Democrat,42523
+TENNESSEE,1972,House,1,James H. Quillen,Republican,76394
+TENNESSEE,1972,House,2,Jesse James Brown,Democrat,35920
+TENNESSEE,1972,House,2,John Duncan,Republican,87419
+TENNESSEE,1972,House,3,Marilyn Lloyd,Democrat,61926
+TENNESSEE,1972,House,3,LaMar Baker,Republican,55580
+TENNESSEE,1972,House,3,Sarah Delaney,Independent,2681
+TENNESSEE,1972,House,3,Write-in,Write-in,1011
+TEXAS,1962,Representative,1,Wright Patman,Democrat,49426
+TEXAS,1962,Representative,1,James W. Farris,Republican,22619
+TEXAS,1962,Representative,10,J. J. (Jake) Pickle,Democrat,78240
+TEXAS,1962,Representative,10,Paul A. Weiss,Republican,18560
+TEXAS,1962,Representative,11,W. R. (Bob) Poage,Democrat,46828
+TEXAS,1962,Representative,11,Don Clements,Republican,9883
+TEXAS,1962,Representative,11,Laurel N. Dunn,Independent,650
+TEXAS,1962,Representative,12,James C. Wright Jr.,Democrat,42632
+TEXAS,1962,Representative,12,James S. Garvey,Republican,11543
+TEXAS,1962,Representative,13,Jack Hightower,Democrat,53094
+TEXAS,1962,Representative,13,Bob Price,Republican,39087
+TEXAS,1982,HOUSE,14,John Young,Democrat,41066
+TEXAS,1982,HOUSE,15,E. (Kika) de la Garza,Democrat,42567
+TEXAS,1982,HOUSE,16,Richard C. (Dick) White,Democrat,42880
+TEXAS,1982,HOUSE,17,Omar Burleson,Democrat,64595
+TEXAS,1982,HOUSE,18,Barbara Jordan,Democrat,36597
+TEXAS,1982,HOUSE,18,Robbins Mitchell,Republican,6043
+TEXAS,1982,HOUSE,18,Kris Vasquez,Socialist Workers,518
+TEXAS,1982,HOUSE,19,George Mahon,Democrat,49619
+TEXAS,1962,Representative,2,Charles Wilson,Democrat,57096
+TEXAS,1982,HOUSE,20,Henry B. Gonzalez,Democrat,39358
+TEXAS,1982,HOUSE,21,"Robert ""Bob"" Krueger",Democrat,53543
+TEXAS,1982,HOUSE,21,Douglas S. Harlan,Republican,45959
+TEXAS,1982,HOUSE,21,Ed Gallion,American,2254
+TEXAS,1982,HOUSE,22,Bob Casey,Democrat,47783
+TEXAS,1982,HOUSE,22,Ron Paul,Republican,19483
+TEXAS,1982,HOUSE,22,Jill Fein,Socialist Workers,602
+TEXAS,1982,HOUSE,22,James T. Smith,American,847
+TEXAS,1982,HOUSE,23,Abraham (Chick) Kazen Jr.,Democrat,47249
+TEXAS,1982,HOUSE,24,Dale Milford,Democrat,36085
+TEXAS,1982,HOUSE,24,Joseph Beaman Jr.,Republican,9698
+TEXAS,1982,HOUSE,24,Earl W. Armstrong,American,1653
+TEXAS,1962,Representative,3,Harold Collum,Democrat,34622
+TEXAS,1962,Representative,3,James M. Collins,Republican,63489
+TEXAS,1962,Representative,4,Ray Roberts,Democrat,48209
+TEXAS,1962,Representative,4,Dick LeTourneau,Republican,16113
+TEXAS,1962,Representative,5,Mike McKool,Democrat,26190
+TEXAS,1962,Representative,5,Alan Steelman,Republican,28444
+TEXAS,1962,Representative,6,Olin E. Teague,Democrat,53345
+TEXAS,1962,Representative,6,Carl A. Nigliazzo,Republican,10908
+TEXAS,1962,Representative,7,Jim Brady,Democrat,18524
+TEXAS,1962,Representative,7,Bill Archer,Republican,70363
+TEXAS,1962,Representative,8,Bob Eckhardt,Democrat,30158
+TEXAS,1962,Representative,8,Donald D. Whitefield,Republican,11605
+TEXAS,1962,Representative,9,Jack Brooks,Democrat,37275
+TEXAS,1962,Representative,9,Coleman R. Ferguson,Republican,22935
+Tennessee,1974,Presidential,,,,456432
+Teresa Delgado,Socialist Labor,309,12,,,
+Texas,1974,Presidential,,,,926759
+Theodore G. Albert,Human Rights,369,11,,,
+Theodore L. Tolles,Liberal,4281,31,,,
+This image appears to be a title page and does not contain any election result data to format into CSV. It shows it's a document about the Congressional Election of November 4, 1974, but contains no actual voting statistics to parse.,,,,
+Thomas E. Morgan,Democrat,83654,,,,
+Thomas J. Hanlon,Democrat,54401,,,,
+Thomas M. Rees,Democrat,119239,,,,
+Thomas Moore,Conservative,11345,26,,,
+Tibby Blum,Liberal,4487,11,,,
+Tim L. Hall,Democrat,61912,15,,,
+Timothy A. Mitchell,Conservative,4087,20,,,
+Tom Neddy,Republican,21308,,,,
+Tom Railsback,Republican,84040,19,,,
+UTAH,1982,HOUSE,1,K. Gunn McKay,Democrat,124793
+UTAH,1982,HOUSE,1,Ronald W. Inkley,Republican,62807
+UTAH,1982,HOUSE,1,L. S. Brown,American,11664
+UTAH,1974,House,2,Allan T. Howe,Democrat,105739
+UTAH,1974,House,2,Stephen Harmsen,Republican,100259
+UTAH,1974,House,2,Karl J. Bray,Libertarian,1218
+UTAH,1974,House,2,Robert J. Schafer,American,6482
+UTAH,1982,SENATE,,Wayne Owens,Democrat,185377
+UTAH,1982,SENATE,,Jake Garn,Republican,210299
+UTAH,1982,SENATE,,Kenneth Rex Larsen,American,24966
+Utah,1974,Presidential,,,,204083
+VERMONT,1974,Senate,,Patrick J. Leahy,Democrat,67125
+VERMONT,1974,Senate,,Richard W. Mallary,Republican,66223
+VERMONT,1974,Senate,,Bernard Sanders,Liberty Union,2901
+VERMONT,1974,Senate,,Patrick J. Leahy,Independent Vermonters,3504
+VERMONT,1974,Senate,,Write-in,Write-in,19
+VERMONT,1974,House,,Francis J. Cain,Democrat,53701
+VERMONT,1974,House,,James M. Jeffords,Republican,74561
+VERMONT,1974,House,,Michael Parenti,Liberty Union,9961
+VERMONT,1974,House,,Francis J. Cain,Independent Vermonters,2641
+VERMONT,1974,House,,Write-in,Write-in,35
+VIRGIN ISLANDS,1972,DELEGATE,,Ron de Lugo,Democrat,14467
+VIRGINIA,1974,House,1,Thomas N. Downing,Democrat,58338
+VIRGINIA,1974,House,1,Write-in,Write-in,136
+VIRGINIA,1974,House,2,Robert Richards,Democrat,32923
+VIRGINIA,1974,House,2,G. William Whitehurst,Republican,49369
+VIRGINIA,1974,House,2,Write-in,Write-in,7
+VIRGINIA,1974,House,3,David E. Satterfield III,Democrat,64627
+VIRGINIA,1974,House,3,Alan Robert Ogden,Independent,7574
+VIRGINIA,1974,House,3,Write-in,Write-in,795
+VIRGINIA,1974,House,4,Lester E. Schlitz,Democrat,36489
+VIRGINIA,1974,House,4,Robert W. Daniel Jr.,Republican,48195
+VIRGINIA,1974,House,4,Curtis W. Harris,Independent,17224
+VIRGINIA,1974,House,4,Write-in,Write-in,3
+VIRGINIA,1974,House,5,W. D. (Dan) Daniel,Democrat,52459
+VIRGINIA,1974,House,5,Write-in,Write-in,292
+VIRGINIA,1974,House,6,Paul J. Puckett,Democrat,27350
+VIRGINIA,1974,House,6,M. Caldwell Butler,Republican,45805
+VIRGINIA,1974,House,6,Timothy A. McGay,Independent,1832
+VIRGINIA,1974,House,6,Warren D. Saunders,Independent,26496
+VIRGINIA,1974,House,6,Write-in,Write-in,10
+Val Oshel,Republican,73634,24,,,
+Vermont,1974,Presidential,,,,95095
+Victor V. Veysey,Republican,60102,,,,
+Virgil V. Badalich,American Independent,8710,,,,
+Virginia,1974,Presidential,,,,446292
+Virginia Tadio,Liberal,1063,34,,,
+W. John Schade Jr.,Independent,18380,16,,,
+WASHINGTON,1964,House,1,W. R. Knedlik,Democrat,44055
+WASHINGTON,1964,House,1,Joel Pritchard,Republican,108391
+WASHINGTON,1964,House,1,Fred Lovgren,Socialist Workers,1759
+WASHINGTON,1964,House,1,Patricia Dolbeare,United States Labor,1216
+WASHINGTON,1964,HOUSE,1,Thomas M. Pelly,Republican,108391
+WASHINGTON,1964,HOUSE,1,William J. Moshier,Democrat,44555
+WASHINGTON,1964,House,2,Lloyd Meeds,Democrat,81565
+WASHINGTON,1964,House,2,Ronald C. Reed,Republican,53157
+WASHINGTON,1964,House,2,Paul Roberts,United States Labor,1822
+WASHINGTON,1964,HOUSE,2,Lloyd Meeds,Democrat,81565
+WASHINGTON,1964,HOUSE,2,Jack Westland,Republican,53157
+WASHINGTON,1964,House,3,Don Bonker,Democrat,93980
+WASHINGTON,1964,House,3,A. Ludlow Kramer,Republican,38774
+WASHINGTON,1964,House,3,Evelyn K. Olafson,United States Labor,1516
+WASHINGTON,1964,HOUSE,3,Julia Butler Hansen,Democrat,93980
+WASHINGTON,1964,HOUSE,3,Stan Carter,Republican,28774
+WASHINGTON,1964,House,4,Mike McCormack,Democrat,84949
+WASHINGTON,1964,House,4,Floyd Paxton,Republican,59249
+WASHINGTON,1964,HOUSE,4,Catherine May,Republican,48730
+WASHINGTON,1964,HOUSE,4,Stephen Huza,Democrat,87959
+WASHINGTON,1964,House,5,Thomas S. Foley,Democrat,87959
+WASHINGTON,1964,House,5,Gary G. Gage,Republican,48739
+WASHINGTON,1964,HOUSE,5,Walt Horan,Republican,37400
+WASHINGTON,1964,HOUSE,5,Thomas S. Foley,Democrat,95324
+WASHINGTON,1964,House,6,Floyd V. Hicks,Democrat,95354
+WASHINGTON,1964,House,6,George M. Nalley,Republican,37400
+WASHINGTON,1964,House,7,Brock Adams,Democrat,85593
+WASHINGTON,1964,House,7,Raymond Pritchard,Republican,34847
+WASHINGTON,1964,HOUSE,7,K. W. Starlund,Republican,34947
+WASHINGTON,1964,HOUSE,7,Brock Adams,Democrat,85350
+WASHINGTON,1964,Senate,,Warren G. Magnusson,Democrat,611811
+WASHINGTON,1964,Senate,,Jack Metcalf,Republican,363129
+WASHINGTON,1964,Senate,,Clare Fraenzl,Socialist Workers,8176
+WASHINGTON,1964,Senate,,Gene Gossman,American Independent,19871
+WASHINGTON,1964,Senate,,Patrick Ruckett,United States Labor,4363
+WASHINGTON,1964,SENATE,,Warren G. Magnuson,Democrat,611811
+WASHINGTON,1964,SENATE,,Brian J. Lewis,Republican,363626
+WEST_VIRGINIA,1964,HOUSE,1,Robert H. Mollohan,Democrat,72457
+WEST_VIRGINIA,1964,HOUSE,1,Joe Laurita Jr.,Republican,48966
+WEST_VIRGINIA,1964,HOUSE,2,Harley O. Staggers,Democrat,73683
+WEST_VIRGINIA,1964,HOUSE,2,"William H. ""Bill"" Loy",Republican,40779
+WEST_VIRGINIA,1964,HOUSE,3,John M. Slack,Democrat,77586
+WEST_VIRGINIA,1964,HOUSE,3,William L. Lareamp,Republican,35623
+WEST_VIRGINIA,1964,HOUSE,4,Ken Hechler,Democrat,66420
+WISCONSIN,1964,HOUSE,1,Les Aspin,Democrat,81902
+WISCONSIN,1964,HOUSE,1,Leonard W. Smith,Republican,34288
+WISCONSIN,1964,HOUSE,2,Robert W. Kastenmeier,Democrat,93501
+WISCONSIN,1964,HOUSE,2,Elizabeth T. Miller,Republican,50890
+WISCONSIN,1964,HOUSE,3,Alvin Baldus,Democrat,76668
+WISCONSIN,1964,HOUSE,3,Vernon W. Thomson,Republican,71171
+WISCONSIN,1964,HOUSE,3,Keith D. Ellison,American,2153
+WISCONSIN,1964,HOUSE,4,Clement J. Zablocki,Democrat,84768
+WISCONSIN,1964,HOUSE,4,Lewis H. Callison,Republican,27818
+WISCONSIN,1964,HOUSE,4,Herbert O. Jahnke,American,4494
+WISCONSIN,1974,House,5,Henry S. Reuss,Democrat,65060
+WISCONSIN,1974,House,5,Mildred A. Morries,Republican,16293
+WISCONSIN,1974,House,5,,Write-in,8
+WISCONSIN,1974,House,6,Nancy J. Simenz,Democrat,51571
+WISCONSIN,1974,House,6,William A. Steiger,Republican,86652
+WISCONSIN,1974,House,6,Harvey C. LeRoy,American,7442
+WISCONSIN,1974,House,6,,Write-in,5
+WISCONSIN,1974,House,7,David R. Obey,Democrat,104468
+WISCONSIN,1974,House,7,Josef Burger,Republican,43558
+WISCONSIN,1974,House,7,,Write-in,146
+WISCONSIN,1974,House,8,Robert J. Cornell,Democrat,79923
+WISCONSIN,1974,House,8,Harold V. Froelich,Republican,66889
+WISCONSIN,1974,House,8,,Write-in,28
+WISCONSIN,1974,House,9,Lynn S. Adelman,Democrat,66071
+WISCONSIN,1974,House,9,Robert W. Kasten Jr.,Republican,77733
+WISCONSIN,1974,House,9,William D. Quirk,American,3037
+WISCONSIN,1974,House,9,,Write-in,30
+WISCONSIN,1964,SENATE,,Gaylord A. Nelson,Democrat,740700
+WISCONSIN,1964,SENATE,,Thomas E. Petri,Republican,429327
+WISCONSIN,1964,SENATE,,Gerald L. McFarren,American,24060
+WISCONSIN,1964,SENATE,,Roman Blenski,Independent,5306
+WYOMING,1974,House,,Teno Roncalio,Democrat,69434
+WYOMING,1974,House,,Tom Stroock,Republican,57499
+Washington,1974,Presidential,,,,698459
+Wayne E. Wagner,Republican,33493,28,,,
+West Virginia,1974,Presidential,,,,275459
+William A. Young,Republican,65731,22,,,
+William B. Moyer,Democrat,54815,,,,
+William C. Taylor,Peace and Freedom,2549,,,,
+William E. Walsh,Republican,97380,33,,,
+William Emery Pasley,American Independent,5701,,,,
+William F. Bush,Republican,54511,32,,,
+William F. Goodling,Republican,96417,,,,
+William Greenawalt,Democrat,54001,23,,,
+William H. G. Toms,Republican,15198,5,,,
+William L. Parment,Democrat,52381,39,,,
+William M. Ketchum,Republican,66603,,,,
+William S. Moorhead,Democrat,93109,,,,
+Wisconsin,1974,Presidential,,,,769497
+Write-in,Write-in,5,13,,,
+Write-in,Write-in,2,16,,,
+Write-in,Write-in,2,19,,,
+Write-in,Write-in,10,20,,,
+Write-in,,10,,,,
+Write-in,,47,,,,
+Write-in,,42,,,,
+Write-in,,27,,,,
+Write-in,,54,,,,
+Write-in,,22,,,,
+Write-in,,38,,,,
+Wyoming,1974,Presidential,,,,69497
+Yates Mast,Democrat,69211,,,,
+Yvonne Brathwaite Burke,Democrat,86743,,,,
+Zachary T. Davis,Republican,27116,,,,
