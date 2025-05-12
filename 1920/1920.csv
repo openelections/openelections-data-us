@@ -1,0 +1,439 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+Alabama,1920,Presidential,,Democratic,Democratic,159965
+Alabama,1920,Presidential,,Republican,Republican,74556
+Alabama,1920,Presidential,,Socialist,Socialist,2369
+Alabama,1920,Presidential,,Prohibitionist,Prohibitionist,748
+Alabama,1920,Senate,,Oscar W. Underwood,Democratic,154664
+Alabama,1920,Senate,,L. H. Reynolds,Republican,77337
+Alabama,1920,Senate,,A. M. Foreman,Socialist,1984
+Alabama,1920,Senate,,J. Thomas Heflin,Democratic,160680
+Alabama,1920,Senate,,G. T. Lunsford,Republican,68460
+Alabama,1920,Senate,,W. H. Chichester,Socialist,2520
+Alabama,1920,House,1,John McDuffie,Democratic,12978
+Alabama,1920,House,1,C. H. Hutchinson,Socialist,165
+Alabama,1920,House,2,Almon R. Johnson,Democratic,18460
+Alabama,1920,House,2,Ed. J. Green,Socialist,66
+Alabama,1920,House,3,Henry B. Steagall,Democratic,12750
+Alabama,1920,House,3,Dallas B. Smith,Republican,2582
+Alabama,1920,House,4,Fred L. Blackmon,Democratic,12286
+Alabama,1920,House,4,M. B. Liveakmore,Republican,8305
+Alabama,1920,House,5,William B. Bowling,Democratic,13290
+Alabama,1920,House,5,W. M. Russell,Republican,4793
+Alabama,1920,House,6,W. B. Oliver,Democratic,8721
+Alabama,1920,House,7,Lilius P. Rainey,Democratic,23709
+Alabama,1920,House,7,Chas B. Kennemer,Republican,22970
+Alabama,1920,House,7,J. O. Meadows,Socialist,233
+Alabama,1920,House,8,Edward B. Almon,Democratic,17640
+Alabama,1920,House,8,W. E. Hotchkiss,Republican,5306
+Alabama,1920,House,8,Fred L. Gentry,Socialist,143
+Alabama,1920,House,9,George Huddleston,Democratic,26776
+Alabama,1920,House,9,Alex. C. Birch,Republican,4452
+Alabama,1920,House,9,Cox,Socialist,124
+Alabama,1920,House,10,William B. Bankhead,Democratic,15485
+Alabama,1920,House,10,William L. Chenault,Republican,13737
+Alabama,1920,House,10,C. H. Walker,Socialist,137
+Arizona,1920,Presidential,,Republican,Republican,37016
+Arizona,1920,Presidential,,Democratic,Democratic,29584
+Arizona,1920,Senate,,Ralph H. Cameron,Republican,35893
+Arizona,1920,Senate,,Marcus A. Smith,Democratic,29169
+Arizona,1920,House,,Carl Hayden,Democratic,35397
+Arizona,1920,House,,James A. Dunseath,Republican,25841
+Arkansas,1920,Presidential,,Democratic,Democratic,107409
+Arkansas,1920,Presidential,,Republican,Republican,71117
+Arkansas,1920,Presidential,,Socialist,Socialist,6111
+Arkansas,1920,Senate,,Thaddeus H. Caraway,Democratic,126477
+Arkansas,1920,Senate,,Charles F. Cole,Republican,65831
+Arkansas,1920,House,1,William J. Driver,Democratic,19843
+Arkansas,1920,House,1,H. M. Mayes,Republican,7110
+Arkansas,1920,House,2,William A. Oldfield,Democratic,16089
+Arkansas,1920,House,2,Thad Rowden,Republican,8137
+Arkansas,1920,House,3,John N. Tillman,Democratic,14341
+Arkansas,1920,House,3,Lura D. Washington,Republican,12587
+Arkansas,1920,House,4,Otis Wingo,Democratic,19722
+Arkansas,1920,House,4,W. H. Dunblazier,Republican,11031
+Arkansas,1920,House,5,Hence M. Jacoway,Democratic,21165
+Arkansas,1920,House,5,George A.McConnell,Republican,8045
+Arkansas,1920,House,6,Sam M. Taylor,Democratic,18028
+Arkansas,1920,House,6,W. E. Day,Republican,7956
+Arkansas,1920,House,7,Tilman B. Parks,Democratic,18303
+Arkansas,1920,House,7,J. C. Russell,Republican,7064
+California,1920,Presidential,,Republican,Republican,624992
+California,1920,Presidential,,Democratic,Democratic,229191
+California,1920,Presidential,,Prohibitionist,Prohibitionist,25085
+California,1920,Presidential,,Socialist,Socialist,64076
+California,1920,Senate,,Samuel M. Shortridge,Republican,447835
+California,1920,Senate,,James D. Phelan,Democratic,371580
+California,1920,Senate,,Elvina S. Beals,Socialist,56545
+California,1920,Senate,,James S. Edwards,Prohibitionist,57763
+California,1920,House,1,Clarence F. Lea,Democratic,34427
+California,1920,House,1,J. A. McGeachy Jr.,Republican,18569
+California,1920,House,1,A. K. Gifford,Socialist,2778
+California,1920,House,2,John E. Baker,Democratic,26172
+California,1920,House,3,Charles F. Curry,Republican,54984
+California,1920,House,3,J. W. Stinckenbruck,Democratic,14964
+California,1920,House,3,Miles Willian Beck,Socialist,3531
+California,1920,House,4,Julius Kahn,Republican,50841
+California,1920,House,4,Milton Harlan,Socialist,9289
+California,1920,House,5,John I. Nolan,Republican,50274
+California,1920,House,5,Thomas Conway,Socialist,10952
+California,1920,House,6,John A. Elston,Republican,75616
+California,1920,House,6,Leonard Shipley,Socialist,15151
+California,1920,House,7,Henry E. Barbour,Republican,57647
+California,1920,House,7,Harry M. McKee,Socialist,8449
+California,1920,House,8,Arthur M. Free,Republican,46823
+California,1920,House,8,Hugh S. Hersman,Democratic,26311
+California,1920,House,9,Chas F.Van DeWater,Republican,62952
+California,1920,House,9,Mary E. Garbutt,Socialist,5819
+California,1920,House,9,C. H. Randall,Prohibitionist,36675
+California,1920,House,10,Henry Z. Osborne,Republican,97469
+California,1920,House,10,Upton Sinclair,Socialist,20439
+California,1920,House,11,Philip D. Swing,Republican,59425
+California,1920,House,11,Hugh L. Dickson,Democratic,22144
+Colorado,1920,Presidential,,Republican,Republican,173248
+Colorado,1920,Presidential,,Democratic,Democratic,104936
+Colorado,1920,Presidential,,Prohibitionist,Prohibitionist,2807
+Colorado,1920,Presidential,,Farmer-Labor,Farmer-Labor,8016
+Colorado,1920,Presidential,,Socialist,Socialist,8046
+Colorado,1920,Senate,,Samuel D. Nicholson,Republican,156577
+Colorado,1920,Senate,,Tully Scott,Democratic,112890
+Colorado,1920,Senate,,G. F. Stevens,Farmer-Labor,9041
+Colorado,1920,Senate,,Charles S. Thomas,Nationalist,8666
+Connecticut,1920,Presidential,,Republican,Republican,229283
+Connecticut,1920,Presidential,,Democratic,Democratic,129731
+Connecticut,1920,Presidential,,Socialist,Socialist,10380
+Connecticut,1920,Presidential,,Prohibitionist,Prohibitionist,1771
+Connecticut,1920,Presidential,,Socialist-Labor,Socialist-Labor,1491
+Connecticut,1920,Presidential,,Farmer-Labor,Farmer-Labor,1947
+Connecticut,1920,Senate,,Frank B. Brandegee,Republican,216792
+Connecticut,1920,Senate,,Augustine Lonergan,Democratic,131824
+Connecticut,1920,Senate,,Martin F. Plunkett,Socialist,10118
+Connecticut,1920,Senate,,Emil L. G. Hohenthal,Prohibitionist,2802
+Connecticut,1920,Senate,,Charles J. Backstofen,Socialist-Labor,1486
+Connecticut,1920,Senate,,Josephine B. Bennett,Farmer-Labor,2076
+Delaware,1920,Presidential,,Republican,Republican,52858
+Delaware,1920,Presidential,,Democratic,Democratic,39911
+Delaware,1920,Presidential,,Prohibitionist,Prohibitionist,836
+Delaware,1920,Presidential,,Socialist,Socialist,988
+Delaware,1920,Presidential,,Single Tax,Single Tax,39
+Delaware,1920,Presidential,,Independent,Independent,93
+Delaware,1920,House,,Caleb R. Layton,Republican,52145
+Delaware,1920,House,,James R. Clements,Democratic,40206
+Delaware,1920,House,,Robert A. Walker,Socialist,1063
+Delaware,1920,House,,Howard T. Ennis,Independent,196
+Florida,1920,Presidential,,Democratic,Democratic,90515
+Florida,1920,Presidential,,Republican and White Republican (one candidate),Republican,44853
+Florida,1920,Presidential,,Republican,Republican,37469
+Florida,1920,Presidential,,Republican (White),Republican,10118
+Florida,1920,Presidential,,Socialist,Socialist,9180
+Florida,1920,Presidential,,Prohibitionist,Prohibitionist,5124
+Florida,1920,Senate,,Duncan U. Fletcher,Democratic,98957
+Florida,1920,Senate,,John M. Cheney,Republican,37065
+Florida,1920,Senate,,C. A. Klock,Republican (White),2847
+Florida,1920,Senate,,M. J. Martin,Socialist,3525
+Florida,1920,House,1,Herbert J. Drane,Democratic,26335
+Florida,1920,House,1,H. B. Jeffries,Republican,4729
+Florida,1920,House,1,C. W. Hines,Republican (White),1603
+Florida,1920,House,1,C. W. Smith,Socialist,1074
+Florida,1920,House,2,Frank Clark,Democratic,15143
+Florida,1920,House,2,Fred Cubberly,Republican,2383
+Florida,1920,House,2,W. L. Case,Socialist,312
+Florida,1920,House,3,John H. Smithwick,Democratic,17299
+Florida,1920,House,3,Millard M. Owens,Republican,2763
+Florida,1920,House,4,William J. Sears,Democratic,38355
+Florida,1920,House,4,O. D. Bowen,Republican,11109
+Florida,1920,House,4,Earl Hunt,Socialist,2019
+Georgia,1920,Presidential,,Democratic,Democratic,107162
+Georgia,1920,Presidential,,Republican,Republican,41089
+Georgia,1920,Senate,,Thomas E. Watson,Democratic,124630
+Georgia,1920,Senate,,Harry S. Edwards,Prolsague Ind.,6700
+Idaho,1920,Presidential,,Republican,Republican,88975
+Idaho,1920,Presidential,,Democratic,Democratic,46579
+Idaho,1920,Presidential,,Socialist,Socialist,38
+Idaho,1920,Senate,,Frank R. Gooding,Republican,75985
+Idaho,1920,Senate,,John F. Nugent,Democratic,64513
+Idaho,1920,House,1,Burton L. French,Republican,34654
+Idaho,1920,House,1,Merrill K. Prior,Democratic,15218
+Idaho,1920,House,1,Riley Rice,Independent,8605
+Idaho,1920,House,2,Addison T. Smith,Republican,49642
+Idaho,1920,House,2,W. P. Whitaker,Democratic,29190
+Illinois,1920,Presidential,,Republican,Republican,1420480
+Illinois,1920,Presidential,,Democratic,Democratic,534395
+Illinois,1920,Presidential,,Socialist,Socialist,74747
+Illinois,1920,Presidential,,Prohibitionist,Prohibitionist,11216
+Illinois,1920,Presidential,,Farmer-Labor,Farmer-Labor,48603
+Illinois,1920,Presidential,,Single Tax,Single Tax,775
+Illinois,1920,Presidential,,Socialist-Labor,Socialist-Labor,3471
+Illinois,1920,Senate,,William B. McKinley,Republican,1381384
+Illinois,1920,Senate,,Peter A. Waller,Democratic,564372
+Illinois,1920,Senate,,Gustave T. Fraenckel,Socialist,66463
+Illinois,1920,Senate,,Frank D. Bentson,Prohibitionist,10183
+Illinois,1920,Senate,,John Fitzpatrick,Farmer-Labor,59749
+Illinois,1920,Senate,,George Dodd Carrington,Single Tax,784
+Illinois,1920,Senate,,Joseph B. Moody,Socialist-Labor,3107
+Illinois,1920,House,1,Martin B. Madden,Republican,41907
+Illinois,1920,House,1,James A. Gorman,Democratic,12398
+Illinois,1920,House,1,Willis E. Davis,Socialist,890
+Illinois,1920,House,2,James R. Mann,Republican,92217
+Illinois,1920,House,2,James J. Leddy,Democratic,29764
+Illinois,1920,House,2,Bernard Berlyn,Socialist,4543
+Illinois,1920,House,3,Elliott W. Sproul,Republican,73547
+Illinois,1920,House,3,Thomas M. Crane,Democratic,30631
+Illinois,1920,House,3,Kellam Foster,Socialist,4043
+Illinois,1920,House,3,George W. Sloan,Socialist,924
+Indiana,1920,Presidential,,Republican,Republican,696370
+Indiana,1920,Presidential,,Democratic,Democratic,511364
+Indiana,1920,Presidential,,Socialist,Socialist,24703
+Indiana,1920,Presidential,,Prohibitionist,Prohibitionist,13462
+Indiana,1920,Presidential,,Farmer-Labor,Farmer-Labor,16499
+Indiana,1920,Presidential,,Single Tax,Single Tax,566
+Indiana,1920,Senate,,James G. Watson,Republican,681851
+Indiana,1920,Senate,,Thomas Taggart,Democratic,514191
+Indiana,1920,Senate,,Francis M. Wampler,Socialist,23386
+Indiana,1920,Senate,,Culla Bayhinger,Prohibitionist,13323
+Indiana,1920,Senate,,Francis J. Dillon,Farmer-Labor,16804
+Iowa,1920,Presidential,,Republican,Republican,634674
+Iowa,1920,Presidential,,Democratic,Democratic,227921
+Iowa,1920,Presidential,,Socialist,Socialist,16981
+Iowa,1920,Presidential,,Farmer-Labor,Farmer-Labor,10321
+Iowa,1920,Presidential,,Socialist-Labor,Socialist-Labor,982
+Iowa,1920,Presidential,,Prohibitionist,Prohibitionist,4197
+Iowa,1920,Senate,,Albert B. Cummins,Republican,528499
+Iowa,1920,Senate,,Claude R. Porter,Democratic,322015
+Iowa,1920,Senate,,H. W. Cowles,Farmer-Labor,9020
+Iowa,1920,Senate,,Arthur S. Dowler,Socialist-Labor,933
+Kansas,1920,Presidential,,Republican,Republican,369268
+Kansas,1920,Presidential,,Democratic,Democratic,185464
+Kansas,1920,Presidential,,Socialist,Socialist,18511
+Kansas,1920,Senate,,Charles Curtis,Republican,327072
+Kansas,1920,Senate,,George H. Hodges,Democratic,170443
+Kansas,1920,Senate,,Dan Reedy,Socialist,13417
+Kentucky,1920,Presidential,,Democratic,Democratic,456497
+Kentucky,1920,Presidential,,Republican,Republican,452480
+Kentucky,1920,Presidential,,Socialist,Socialist,6409
+Kentucky,1920,Presidential,,Prohibitionist,Prohibitionist,3322
+Kentucky,1920,Senate,,Richard P. Ernst,Republican,452226
+Kentucky,1920,Senate,,J. C. W. Beckham,Democratic,449244
+Louisiana,1920,Presidential,,Democratic,Democratic,87519
+Louisiana,1920,Presidential,,Republican,Republican,38538
+Maine,1920,Presidential,,Republican,Republican,136355
+Maine,1920,Presidential,,Democratic,Democratic,58961
+Maine,1920,Presidential,,Single Tax,Single Tax,310
+Maine,1920,Presidential,,Socialist,Socialist,2214
+Maine,1920,House,1,Carroll L. Beedy,Republican,30310
+Maine,1920,House,2,Wallace H. White Jr.,Republican,35015
+Maine,1920,House,3,John A. Peters,Republican,38533
+Maine,1920,House,4,Ira G. Hersey,Republican,30872
+Maryland,1920,Presidential,,Republican,Republican,236117
+Maryland,1920,Presidential,,Democratic,Democratic,180626
+Maryland,1920,Presidential,,Socialist,Socialist,8876
+Maryland,1920,Presidential,,Labor,Labor,1178
+Maryland,1920,Presidential,,Third Party,Third Party,1643
+Maryland,1920,Senate,,Ovington E. Weller,Republican,184999
+Maryland,1920,Senate,,John Walter Smith,Democratic,169200
+Maryland,1920,Senate,,Frank N. H. Lang,Labor,2669
+Maryland,1920,Senate,,William A. Toole,Socialist,6559
+Maryland,1920,Senate,,G. D. Iverson Jr.,Independent,21345
+Maryland,1920,Senate,,William A. Hawkins,Independent,6588
+Massachusetts,1920,Presidential,,Republican,Republican,681153
+Massachusetts,1920,Presidential,,Democratic,Democratic,276091
+Massachusetts,1920,Presidential,,Socialist,Socialist,32939
+Massachusetts,1920,Presidential,,Socialist-Labor,Socialist-Labor,3583
+Massachusetts,1920,Presidential,,All others,Other,24
+Michigan,1920,Presidential,,Republican,Republican,762865
+Michigan,1920,Presidential,,Democratic,Democratic,233450
+Michigan,1920,Presidential,,Socialist,Socialist,28937
+Michigan,1920,Presidential,,Prohibition,Prohibition,9646
+Michigan,1920,Presidential,,Farmer-Labor,Farmer-Labor,10372
+Michigan,1920,Presidential,,Socialist-Labor,Socialist-Labor,2539
+Minnesota,1920,Presidential,,Republican,Republican,519421
+Minnesota,1920,Presidential,,Democratic,Democratic,142994
+Minnesota,1920,Presidential,,Industrial,Industrial,5269
+Minnesota,1920,Presidential,,Socialist,Socialist,56108
+Minnesota,1920,Presidential,,Prohibitionist,Prohibitionist,11489
+Mississippi,1920,Presidential,,Democratic,Democratic,69277
+Mississippi,1920,Presidential,,Republican,Republican,11576
+Mississippi,1920,Presidential,,Socialist,Socialist,1639
+Missouri,1920,Presidential,,Republican,Republican,727162
+Missouri,1920,Presidential,,Democratic,Democratic,574799
+Missouri,1920,Presidential,,Socialist,Socialist,20242
+Missouri,1920,Presidential,,Socialist-Labor,Socialist-Labor,2164
+Missouri,1920,Presidential,,Farmer-Workman,Farmer-Workman,3291
+Missouri,1920,Presidential,,Prohibitionist,Prohibitionist,5142
+Missouri,1920,Senate,,Selden P. Spencer,Republican,711161
+Missouri,1920,Senate,,Breckinridge Long,Democratic,590498
+Missouri,1920,Senate,,Elias F. Hodges,Socialist,20002
+Missouri,1920,Senate,,Trudell,Socialist-Labor,1675
+Missouri,1920,Senate,,Mallett,Farmer-Workman,3158
+Montana,1920,Presidential,,Republican,Republican,109430
+Montana,1920,Presidential,,Democratic,Democratic,57334
+Montana,1920,Presidential,,Farmer-Labor,Farmer-Labor,12204
+Nebraska,1920,Presidential,,Republican,Republican,247498
+Nebraska,1920,Presidential,,Democratic,Democratic,119608
+Nebraska,1920,Presidential,,Prohibitionist,Prohibitionist,5947
+Nebraska,1920,Presidential,,Socialist,Socialist,9600
+Nevada,1920,Presidential,,Republican,Republican,15479
+Nevada,1920,Presidential,,Democratic,Democratic,9851
+Nevada,1920,Presidential,,Socialist,Socialist,1864
+Nevada,1920,Senate,,Tasker L. Oddie,Republican,11550
+Nevada,1920,Senate,,Charles B. Henderson,Democratic,10402
+Nevada,1920,Senate,,Anne Martin,Independent,4981
+Nevada,1920,Senate,,James Jepson,Socialist,494
+New Hampshire,1920,Presidential,,Republican,Republican,95196
+New Hampshire,1920,Presidential,,Democratic,Democratic,62662
+New Hampshire,1920,Presidential,,Socialist,Socialist,1234
+New Jersey,1920,Presidential,,Republican,Republican,615333
+New Jersey,1920,Presidential,,Democratic,Democratic,258781
+New Jersey,1920,Presidential,,Single Tax,Single Tax,603
+New Jersey,1920,Presidential,,Socialist,Socialist,27855
+New Jersey,1920,Presidential,,National Prohibitionist,Prohibitionist,4865
+New Jersey,1920,Presidential,,Farmer-Labor,Farmer-Labor,2264
+New Jersey,1920,Presidential,,Socialist-Labor,Socialist-Labor,1010
+New Mexico,1920,Presidential,,Republican,Republican,57634
+New Mexico,1920,Presidential,,Democratic,Democratic,46668
+New Mexico,1920,Presidential,,Farmer-Labor,Farmer-Labor,1067
+New Mexico,1920,Presidential,,Socialist,Socialist,2
+New Mexico,1920,House,,Nestor Montoya,Republican,54672
+New Mexico,1920,House,,Antonio Lucero,Democratic,49426
+New Mexico,1920,House,,A. J. McDonald,Farmer-Labor,1290
+New York,1920,Presidential,,Republican,Republican,1871167
+New York,1920,Presidential,,Democratic,Democratic,781238
+New York,1920,Presidential,,Socialist,Socialist,203201
+New York,1920,Presidential,,Prohibitionist,Prohibitionist,19653
+New York,1920,Presidential,,Socialist-Labor,Socialist-Labor,4841
+New York,1920,Presidential,,Farmer-Labor,Farmer-Labor,83413
+New York,1920,Senate,,James W. Wadsworth Jr.,Republican,1434393
+New York,1920,Senate,,Harry C. Walker,Democratic,901310
+New York,1920,Senate,,Jacob Panken,Socialist,208155
+New York,1920,Senate,,Ella A. Boole,Prohibitionist,103620
+New York,1920,Senate,,Harry Carlson,Socialist-Labor,27822
+New York,1920,Senate,,Rose Schneiderman,Farmer-Labor,27934
+North Carolina,1920,Presidential,,Democratic,Democratic,305447
+North Carolina,1920,Presidential,,Republican,Republican,232848
+North Carolina,1920,Presidential,,Socialist,Socialist,446
+North Carolina,1920,Senate,,Lee S. Overman,Democratic,319504
+North Carolina,1920,Senate,,A. E. Holton,Republican,229343
+North Dakota,1920,Presidential,,Republican,Republican,160072
+North Dakota,1920,Presidential,,Democratic,Democratic,37422
+North Dakota,1920,Presidential,,Individual,Individual,8282
+North Dakota,1920,Senate,,Edwin F. Ladd,Republican,139914
+North Dakota,1920,Senate,,H. H. Perry,Democratic,85495
+Ohio,1920,Presidential,,Republican,Republican,1182022
+Ohio,1920,Presidential,,Democratic,Democratic,780037
+Ohio,1920,Presidential,,Socialist,Socialist,57147
+Ohio,1920,Presidential,,Farmer-Labor,Farmer-Labor,2153
+Ohio,1920,Presidential,,Prohibitionist,Prohibitionist,294
+Ohio,1920,Senate,,Frank B. Willis,Republican,1134953
+Ohio,1920,Senate,,W. A. Julian,Democratic,782650
+Ohio,1920,Senate,,Henry P. Strong,Socialist,2647
+Oklahoma,1920,Presidential,,Republican,Republican,243831
+Oklahoma,1920,Presidential,,Democratic,Democratic,217053
+Oklahoma,1920,Presidential,,Socialist,Socialist,25725
+Oklahoma,1920,Senate,,John W. Harreld,Republican,247719
+Oklahoma,1920,Senate,,Scott Ferris,Democratic,217583
+Oklahoma,1920,Senate,,A. A. Bagwell,Socialist,23664
+Oregon,1920,Presidential,,Republican,Republican,143592
+Oregon,1920,Presidential,,Democratic,Democratic,80019
+Oregon,1920,Presidential,,Prohibitionist,Prohibitionist,3595
+Oregon,1920,Presidential,,Socialist,Socialist,9801
+Oregon,1920,Presidential,,Industrial Labor,Industrial Labor,1515
+Oregon,1920,Senate,,Robert N. Stanfield,Republican,116696
+Oregon,1920,Senate,,George E. Chamberlain,Democratic,100133
+Oregon,1920,Senate,,Thomas A. Hayes,Independent,4456
+Oregon,1920,Senate,,Albert Slaughter,Socialist,6949
+Oregon,1920,Senate,,C. H. Svenson,Industrial Labor,1782
+Pennsylvania,1920,Presidential,,Republican,Republican,1218215
+Pennsylvania,1920,Presidential,,Democratic,Democratic,503202
+Pennsylvania,1920,Presidential,,Socialist,Socialist,70021
+Pennsylvania,1920,Presidential,,Prohibitionist,Prohibitionist,42612
+Pennsylvania,1920,Presidential,,Industrialist,Industrialist,755
+Pennsylvania,1920,Presidential,,Labor,Labor,15642
+Pennsylvania,1920,Presidential,,Single tax,Single Tax,803
+Pennsylvania,1920,Senate,,Boies Penrose,Republican,1057989
+Pennsylvania,1920,Senate,,John A. Farrell,Democratic,541362
+Pennsylvania,1920,Senate,,Birch Wilson,Socialist,67310
+Pennsylvania,1920,Senate,,Leah Cobb Marion,Prohibitionist,132610
+Pennsylvania,1920,Senate,,Robert J. Wheeler,Labor,27401
+Pennsylvania,1920,Senate,,Joseph E. Jennings,Single Tax,2110
+Rhode Island,1920,Presidential,,Republican,Republican,107463
+Rhode Island,1920,Presidential,,Democratic,Democratic,55062
+Rhode Island,1920,Presidential,,Socialist,Socialist,4351
+Rhode Island,1920,Presidential,,Socialist-Labor,Socialist-Labor,495
+Rhode Island,1920,Presidential,,Prohibitionist,Prohibitionist,510
+Rhode Island,1920,Presidential,,Single Tax,Single Tax,109
+Rhode Island,1920,Presidential,,Black ballot,Independent,5407
+Rhode Island,1920,Presidential,,Defective ballots,Other,1081
+South Carolina,1920,Presidential,,Democratic,Democratic,64170
+South Carolina,1920,Presidential,,Republican,Republican,2244
+South Carolina,1920,Presidential,,Insurgent Referendum,Independent,366
+South Carolina,1920,Presidential,,Socialist,Socialist,26
+South Carolina,1920,Senate,,Ellison D. Smith,Democratic,64388
+South Carolina,1920,Senate,,George Warren,Independent,1
+South Dakota,1920,Presidential,,Republican,Republican,110692
+South Dakota,1920,Presidential,,Democratic,Democratic,35938
+South Dakota,1920,Presidential,,Nonpartisan,Independent,29707
+South Dakota,1920,Presidential,,Independent,Independent,600
+South Dakota,1920,Senate,,Peter Norbeck,Republican,92267
+South Dakota,1920,Senate,,U. S. G. Cherry,Democratic,36839
+South Dakota,1920,Senate,,Tom Ayres,Nonpartisan,44809
+South Dakota,1920,Senate,,L. D. Manbeck,Independent,738
+South Dakota,1920,Senate,,R. O. Richards,Independent,10032
+Tennessee,1920,Presidential,,Republican,Republican,219829
+Tennessee,1920,Presidential,,Democratic,Democratic,206558
+Tennessee,1920,Presidential,,Socialist,Socialist,2239
+Texas,1920,Presidential,,Democratic,Democratic,288767
+Texas,1920,Presidential,,Republican,Republican,114360
+Texas,1920,Presidential,,Black and Tan Republican,Republican,27201
+Texas,1920,Presidential,,American,Independent,47968
+Texas,1920,Presidential,,Socialist,Socialist,8121
+Utah,1920,Presidential,,Republican,Republican,81555
+Utah,1920,Presidential,,Democratic,Democratic,56639
+Utah,1920,Presidential,,Socialist,Socialist,3139
+Utah,1920,Presidential,,Farmer-Labor,Farmer-Labor,4475
+Utah,1920,Senate,,Reed Smoot,Republican,82566
+Utah,1920,Senate,,Milton H. Welling,Democratic,56280
+Utah,1920,Senate,,J. Alex Bevan,Socialist-Farmer-Labor,7112
+Vermont,1920,Presidential,,Republican,Republican,68212
+Vermont,1920,Presidential,,Democratic,Democratic,20919
+Vermont,1920,Presidential,,Prohibitionist,Prohibitionist,774
+Vermont,1920,Presidential,,Scattering,Other,56
+Vermont,1920,Senate,,William P. Dillingham,Republican,69650
+Vermont,1920,Senate,,Howard E. Shaw,Democratic,19580
+Vermont,1920,Senate,,Scattering,Other,41
+Virginia,1920,Presidential,,Democratic,Democratic,141670
+Virginia,1920,Presidential,,Republican,Republican,87456
+Virginia,1920,Presidential,,Prohibitionist,Prohibitionist,867
+Virginia,1920,Presidential,,Socialist,Socialist,807
+Virginia,1920,Presidential,,Farmer-Labor,Farmer-Labor,243
+Virginia,1920,Senate,,Carter Glass,Democratic,184646
+Virginia,1920,Senate,,J. R. Pollard,Republican,17576
+Washington,1920,Presidential,,Republican,Republican,223137
+Washington,1920,Presidential,,Democratic,Democratic,84298
+Washington,1920,Presidential,,Socialist,Socialist,8913
+Washington,1920,Presidential,,Socialist-Labor,Socialist-Labor,1321
+Washington,1920,Presidential,,Prohibitionist,Prohibitionist,3790
+Washington,1920,Presidential,,Farmer-Labor,Farmer-Labor,77246
+Washington,1920,Senate,,Wesley L. Jones,Republican,217069
+Washington,1920,Senate,,George F. Cotterill,Democratic,68438
+Washington,1920,Senate,,C. L. France,Farmer-Labor,99309
+West Virginia,1920,Presidential,,Republican,Republican,282007
+West Virginia,1920,Presidential,,Democratic,Democratic,220789
+West Virginia,1920,Presidential,,Socialist,Socialist,5618
+West Virginia,1920,Presidential,,Prohibitionist,Prohibitionist,1528
+Wisconsin,1920,Presidential,,Republican,Republican,498576
+Wisconsin,1920,Presidential,,Democratic,Democratic,113422
+Wisconsin,1920,Presidential,,Prohibitionist,Prohibitionist,8647
+Wisconsin,1920,Presidential,,Socialist,Socialist,80635
+Wisconsin,1920,Senate,,Irvine L. Lenroot,Republican,281576
+Wisconsin,1920,Senate,,James Thompson,Independent,235029
+Wisconsin,1920,Senate,,Paul S. Reinsch,Democratic,89265
+Wisconsin,1920,Senate,,Clyde D. Mead,Prohibitionist,5107
+Wisconsin,1920,Senate,,Frank J. Weber,Socialist,66172
+Wisconsin,1920,Senate,,Scattering,Other,3
+Wyoming,1920,Presidential,,Republican,Republican,35091
+Wyoming,1920,Presidential,,Democratic,Democratic,17429
+Wyoming,1920,Presidential,,Socialist,Socialist,769
+Wyoming,1920,Presidential,,Labor,Labor,85
+Wyoming,1920,House,,Frank W. Mondell,Republican,34689
+Wyoming,1920,House,,Wade H. Fowler,Democratic,14962
+Wyoming,1920,House,,Anthony Carlson,Socialist,769
+Wyoming,1920,House,,James Morgan,Labor,6021
