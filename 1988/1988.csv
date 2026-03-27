@@ -1,0 +1,1753 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+ALABAMA,1988,Representative,1,John M. Tyson Jr.,Democratic,77670
+ALABAMA,1988,Representative,1,"H. L. ""Sonny"" Callahan",Republican,115173
+ALABAMA,1988,Representative,1,Ken Ament,Libertarian,1483
+ALABAMA,1988,Representative,1,,Write-In,37
+ALABAMA,1988,Representative,2,Bill Dickinson,Republican,120408
+ALABAMA,1988,Representative,2,Joel Brooke King,Libertarian,7352
+ALABAMA,1988,Representative,2,,Write-In,101
+ALABAMA,1988,Representative,3,Bill Nichols,Democratic,117514
+ALABAMA,1988,Representative,3,Jerome Shockley,Libertarian,4793
+ALABAMA,1988,Representative,3,,Write-In,3
+ALABAMA,1988,Representative,4,Tom Bevill,Democratic,131880
+ALABAMA,1988,Representative,4,John Sebastian,Libertarian,5264
+ALABAMA,1988,Representative,4,,Write-In,5
+ALABAMA,1988,Representative,5,Ronnie G. Flippo,Democratic,120142
+ALABAMA,1988,Representative,5,Stan McDonald,Republican,64491
+ALABAMA,1988,Representative,5,John Palmer,Libertarian,1989
+ALABAMA,1988,Representative,5,,Write-In,1
+ALABAMA,1988,Representative,6,Ben Erdreich,Democratic,138920
+ALABAMA,1988,Representative,6,Charles Caddis,Republican,98738
+ALABAMA,1988,Representative,6,William Wingo,Libertarian,1092
+ALABAMA,1988,Representative,6,,Write-In,226
+ALABAMA,1988,Representative,7,Claude Harris,Democratic,136074
+ALABAMA,1988,Representative,7,"James E. ""Jim"" Bacon",Republican,63372
+ALABAMA,1988,Representative,7,Alan Barksdale,Libertarian,1421
+ALABAMA,1988,Representative,7,,Write-In,99
+ALABAMA,1988,Presidential,,,,549506
+ALABAMA,1988,Presidential,,,,815276
+ALABAMA,1988,Presidential,,,,8460
+ALABAMA,1988,Presidential,,,,4428
+ALABAMA,1988,Presidential,,,,506
+ALASKA,1982,PRESIDENTIAL,,,,72584
+ALASKA,1982,PRESIDENTIAL,,,,119251
+ALASKA,1982,PRESIDENTIAL,,,,5484
+ALASKA,1982,PRESIDENTIAL,,,,1024
+ALASKA,1982,PRESIDENTIAL,,,,816
+ALASKA,1982,PRESIDENTIAL,,,,967
+ALASKA,1982,HOUSE,,Peter Gruenstein,Democratic,71881
+ALASKA,1982,HOUSE,,Don Young,Republican,120595
+ALASKA,1982,HOUSE,,Write-In,Write-In,479
+AMERICAN SAMOA,1988,DELEGATE,,Eni F. H. Faleomavaega,Democratic,4054
+AMERICAN SAMOA,1988,DELEGATE,,I. S. Mulitauaopele,Democratic,912
+AMERICAN SAMOA,1988,DELEGATE,,Aumoeualogo Salanoa Soli,Republican,2125
+AMERICAN SAMOA,1988,DELEGATE,,Tufele Li'amatua,Write-in,3764
+AMERICAN SAMOA,1988,DELEGATE,,Eni F. H. Paleomavaega,Democratic,4610
+AMERICAN SAMOA,1988,DELEGATE,,Tufele Li'amatua,Write-in,4427
+ARIZONA,1982,HOUSE,1,John M. Fillmore,Democratic,71388
+ARIZONA,1982,HOUSE,1,John J. Rhodes III,Republican,184639
+ARIZONA,1980,House,1,,Democratic,71388
+ARIZONA,1980,House,1,,Republican,184439
+ARIZONA,1982,HOUSE,2,Morris K. Udall,Democratic,99895
+ARIZONA,1982,HOUSE,2,Joseph D. Sweeney,Republican,36309
+ARIZONA,1980,House,2,,Democratic,99205
+ARIZONA,1980,House,2,,Republican,93493
+ARIZONA,1982,HOUSE,3,Dave Moss,Democratic,72417
+ARIZONA,1982,HOUSE,3,Bob Stump,Republican,174453
+ARIZONA,1982,HOUSE,3,John Parsons,Land-Water-Legacy,6460
+ARIZONA,1980,House,3,,Democratic,72417
+ARIZONA,1980,House,3,,Republican,119458
+ARIZONA,1982,HOUSE,4,Jon Kyl,Republican,206248
+ARIZONA,1982,HOUSE,4,Gary Sprunk,Libertarian,30430
+ARIZONA,1980,House,4,,Republican,205248
+ARIZONA,1980,House,4,,Libertarian,30439
+ARIZONA,1982,HOUSE,5,Judith E. Belcher,Democratic,78115
+ARIZONA,1982,HOUSE,5,Jim Kolbe,Republican,164462
+ARIZONA,1980,House,5,,Democratic,78115
+ARIZONA,1980,House,5,,Republican,164462
+ARIZONA,1982,PRESIDENTIAL,,,,454029
+ARIZONA,1982,PRESIDENTIAL,,,,702541
+ARIZONA,1982,PRESIDENTIAL,,,,13351
+ARIZONA,1982,PRESIDENTIAL,,,,1662
+ARIZONA,1982,PRESIDENTIAL,,,,290
+ARIZONA,1982,SENATE,,Dennis DeConcini,Democratic,660403
+ARIZONA,1982,SENATE,,Keith DeGreen,Republican,478060
+ARIZONA,1982,SENATE,,Rick Tompkins,Libertarian,20849
+ARIZONA,1982,SENATE,,Ed Finkelstein,New Alliance,5195
+ARIZONA,1982,SENATE,,Write-In,Write-In,32
+ARIZONA,1980,Senate,,,Democratic,560403
+ARIZONA,1980,Senate,,,Republican,476060
+ARIZONA,1980,Senate,,,Libertarian,30349
+ARIZONA,1980,President,,,,454029
+ARIZONA,1980,President,,,,702541
+ARIZONA,1980,President,,,,13351
+ARKANSAS,1980,House,1,Bill Alexander,Democratic,
+ARKANSAS,1980,House,2,Tommy F. Robinson,Democratic,168889
+ARKANSAS,1980,House,2,Warren D. Carpenter,Republican,33475
+ARKANSAS,1980,House,3,David Stewart,Democratic,54767
+ARKANSAS,1980,House,3,John Paul Hammerschmidt,Republican,161623
+ARKANSAS,1980,House,4,Beryl Anthony Jr.,Democratic,129508
+ARKANSAS,1980,House,4,Roger N. Bell,Republican,57658
+ARKANSAS,1980,President,,,,349237
+ARKANSAS,1980,President,,,,465678
+ARKANSAS,1980,President,,,,5146
+ARKANSAS,1980,President,,,,3297
+ARKANSAS,1980,President,,,,2161
+ARKANSAS,1980,President,,,,1319
+Alabama,1988,Presidential,,,,543604
+Alabama,1988,Presidential,,,,521864
+Alabama,1988,Presidential,,Democratic,Democratic,666482
+Alabama,1988,Presidential,,Republican,Republican,673046
+Alaska,1988,Presidential,,,,119251
+Alaska,1988,Presidential,,,,72584
+Arizona,1988,Presidential,,,,702541
+Arizona,1988,Presidential,,,,454029
+Arizona,1988,Presidential,,Democratic,Democratic,454029
+Arizona,1988,Presidential,,Republican,Republican,502438
+Arkansas,1988,Presidential,,,,466578
+Arkansas,1988,Presidential,,,,349237
+Arkansas,1988,Presidential,,Democratic,Democratic,349237
+Arkansas,1988,Presidential,,Republican,Republican,466578
+CALIFORNIA,1980,President,,,,4702233
+CALIFORNIA,1980,President,,,,5054917
+CALIFORNIA,1980,President,,,,70105
+CALIFORNIA,1980,President,,,,53999
+CALIFORNIA,1980,President,,,,811
+COLORADO,1988,House,1,,Democratic,133922
+COLORADO,1988,House,1,,Republican,57587
+COLORADO,1988,House,1,Patricia Schroeder,Democratic,133922
+COLORADO,1988,House,1,Joy Wood,Republican,57387
+COLORADO,1988,House,2,,Democratic,147937
+COLORADO,1988,House,2,,Republican,87078
+COLORADO,1988,House,2,David E. Skaggs,Democratic,147437
+COLORADO,1988,House,2,Dave Bath,Republican,87578
+COLORADO,1988,House,3,,Democratic,120284
+COLORADO,1988,House,3,,Republican,97823
+COLORADO,1988,House,3,Ben Nighthorse Campbell,Democratic,169284
+COLORADO,1988,House,3,Jim Zartman,Republican,47625
+COLORADO,1988,House,4,,Democratic,57552
+COLORADO,1988,House,4,,Republican,156302
+COLORADO,1988,House,4,Charles S. Vigil,Democratic,57552
+COLORADO,1988,House,4,Hank Brown,Republican,156202
+COLORADO,1988,House,5,,Democratic,60118
+COLORADO,1988,House,5,,Republican,181612
+COLORADO,1988,House,5,John J. Mitchell,Democratic,60116
+COLORADO,1988,House,5,Joel Hefley,Republican,131612
+COLORADO,1988,House,6,,Democratic,77136
+COLORADO,1988,House,6,,Republican,136487
+COLORADO,1988,House,6,,Prohibition,2911
+COLORADO,1988,House,6,Martha M. Ezzard,Democratic,77158
+COLORADO,1988,House,6,Dan Schaefer,Republican,136487
+COLORADO,1988,House,6,John Heckman,Concerns of People,2911
+COLORADO,1988,Presidential,,,,621453
+COLORADO,1988,Presidential,,,,728177
+COLORADO,1988,Presidential,,,,15482
+COLORADO,1988,Presidential,,,,4604
+COLORADO,1988,Presidential,,,,2539
+COLORADO,1988,Presidential,,,,189
+CONNECTICUT,1988,House,1,Barbara B. Kennelly,Democratic,176463
+CONNECTICUT,1988,House,1,"Mario Robles, Jr.",Republican,51985
+CONNECTICUT,1988,House,2,Sam Gejdenson,Democratic,143326
+CONNECTICUT,1988,House,2,Glenn Carberry,Republican,81965
+CONNECTICUT,1988,House,3,Bruce A. Morrison,Democratic,147394
+CONNECTICUT,1988,House,3,Gerard B. Patton,Republican,74275
+CONNECTICUT,1988,House,4,Roger Pearson,Democratic,55751
+CONNECTICUT,1988,House,4,Christopher Shays,Republican,147843
+CONNECTICUT,1988,House,4,Nicholas J. Tarzia,War Against AIDS,2379
+CONNECTICUT,1988,House,5,"Joseph Marinan, Jr.",Democratic,58612
+CONNECTICUT,1988,House,5,John G. Rowland,Republican,163729
+CONNECTICUT,1988,House,6,James L. Griffin,Democratic,78814
+CONNECTICUT,1988,House,6,Nancy L. Johnson,Republican,157020
+CONNECTICUT,1988,House,6,Louis J. Marietta,Independent,1054
+CONNECTICUT,1988,Senate,,Joe Lieberman,Democratic,688499
+CONNECTICUT,1988,Senate,,"Lowell P. Weicker, Jr.",Republican,678454
+CONNECTICUT,1988,Senate,,"Howard Avory Grayson, Jr.",Libertarian,12409
+CONNECTICUT,1988,Senate,,Melissa M. Fisher,New Alliance,4154
+CONNECTICUT,1988,Senate,,Write-In,Write-In,10
+California,1992,House,1,Douglas H. Bosco,Democrat,159815
+California,1992,House,1,"Samuel ""Mark"" Vanderbilt",Republican,72189
+California,1992,House,1,Eric Fried,Peace and Freedom,22150
+California,1992,House,10,Don Edwards,Democrat,142500
+California,1992,House,10,Kennita Watson,Libertarian,22301
+California,1992,House,11,Tom Lantos,Democrat,145484
+California,1992,House,11,"G.M. ""Bill"" Quraishi",Republican,50059
+California,1992,House,11,Bill Wade,Libertarian,4688
+California,1992,House,11,Victor Martinez,Peace and Freedom,2906
+California,1992,House,11,Nicholas W. Kudrovzeff,Independent,1893
+California,1992,House,12,Anna G. Eshoo,Democrat,121528
+California,1992,House,12,Tom Campbell,Republican,136384
+California,1992,House,12,Tom Grey,Libertarian,6023
+California,1992,House,13,Norman Y. Mineta,Democrat,143989
+California,1992,House,13,Luke Sommer,Republican,63959
+California,1992,House,13,John H. Webster,Libertarian,6583
+California,1992,House,14,Patricia Malberg,Democrat,103839
+California,1992,House,14,Norman D. Shumway,Republican,173876
+California,1992,House,15,Tony Coelho,Democrat,118710
+California,1992,House,15,Carol Harner,Republican,47957
+California,1992,House,15,Richard M. Harris,Libertarian,3526
+California,1992,House,16,Leon E. Panetta,Democrat,177452
+California,1992,House,16,Stanley Monteith,Republican,48375
+California,1992,House,17,Vincent Lavery,Democrat,51730
+California,1992,House,17,"Charles ""Chip"" Pashayan",Republican,129568
+California,1992,House,18,Richard H. Lehman,Democrat,125715
+California,1992,House,18,David A. Linn,Republican,54034
+California,1982,Representative,19,Gary K. Hart,Democrat,112033
+California,1982,Representative,19,"Robert J. ""Bob"" Lagomarsino",Republican,116026
+California,1982,Representative,19,Robert Donaldson,Libertarian,2865
+California,1992,House,2,Wayne Meyer,Democrat,91088
+California,1992,House,2,Wally Herger,Republican,139010
+California,1992,House,2,Harry H. Pendery,Libertarian,6258
+California,1982,Representative,20,Lite Reid,Democrat,62037
+California,1982,Representative,20,William M. Thomas,Republican,162779
+California,1982,Representative,20,David Bersohn,Libertarian,4190
+California,1982,Representative,21,Donald E. Stevens,Democrat,75739
+California,1982,Representative,21,Elton Gallegly,Republican,181413
+California,1982,Representative,21,Robert Jay,Libertarian,5519
+California,1982,Representative,22,John G. Simmons,Democrat,61555
+California,1982,Representative,22,Carlos J. Moorhead,Republican,164699
+California,1982,Representative,22,Shirley Rachel Isaacson,Peace and Freedom,6298
+California,1982,Representative,22,Ted Brown,Libertarian,4259
+California,1982,Representative,23,Anthony C. Beilenson,Democrat,147858
+California,1982,Representative,23,Jim Salomon,Republican,77184
+California,1982,Representative,23,John Vernon,Libertarian,4503
+California,1982,Representative,23,John Honigsfeld,Peace and Freedom,3316
+California,1982,Representative,23,,Write-In,18
+California,1982,Representative,24,Henry A. Waxman,Democrat,112038
+California,1982,Representative,24,John N. Cowles,Republican,86835
+California,1982,Representative,24,James Green,Peace and Freedom,3571
+California,1982,Representative,24,George Abrahams,Libertarian,2627
+California,1982,Representative,25,Edward R. Roybal,Democrat,85378
+California,1982,Representative,25,Raul Reyes,Peace and Freedom,8746
+California,1982,Representative,25,John C. Thie,Libertarian,5752
+California,1982,Representative,26,Howard L. Berman,Democrat,126930
+California,1982,Representative,26,"G. C. ""Brodie"" Broderson",Republican,53518
+California,1982,Representative,27,Mel Levine,Democrat,145814
+California,1982,Representative,27,Dennis Galbraith,Republican,65307
+California,1982,Representative,27,William J. Fulco,Libertarian,6214
+California,1982,Representative,28,Julian C. Dixon,Democrat,109801
+California,1982,Representative,28,George Zaldivar Adams,Republican,28645
+California,1982,Representative,28,Howard Johnson,Libertarian,3080
+California,1982,Representative,28,Salomea Honigsfeld,Peace and Freedom,2811
+California,1982,Representative,29,"Augustus F. ""Gus"" Hawkins",Democrat,88169
+California,1982,Representative,29,Reuben D. Franco,Republican,14543
+California,1982,Representative,29,Gregory P. Gilmore,Libertarian,3724
+California,1992,House,3,Robert T. Matsui,Democrat,183470
+California,1992,House,3,Lowell Patrick Landowski,Republican,74296
+California,1982,Representative,30,"Matthew G. ""Marty"" Martinez",Democrat,72253
+California,1982,Representative,30,Ralph R. Ramirez,Republican,43833
+California,1982,Representative,30,Houston Myers,Independent,2694
+California,1982,Representative,30,Kim J. Goldsworthy,Libertarian,1864
+California,1982,Representative,31,Mervyn M. Dymally,Democrat,100919
+California,1982,Representative,31,Arnold C. May,Republican,36017
+California,1982,Representative,31,B. Kwaku Duren,Peace and Freedom,4091
+California,1982,Representative,32,Glenn M. Anderson,Democrat,114566
+California,1982,Representative,32,Sanford W. Kahn,Republican,50719
+California,1982,Representative,32,Vikki Murdock,Peace and Freedom,4032
+California,1982,Representative,32,Marc F. Denny,Libertarian,1941
+California,1982,Representative,33,Nelson Gentry,Democrat,97586
+California,1982,Representative,33,David Dreier,Republican,151700
+California,1982,Representative,33,Gail Lightfoot,Libertarian,6601
+California,1982,Representative,33,Mike Noonan,Peace and Freedom,3492
+California,1982,Representative,34,Esteban E. Torres,Democrat,92087
+California,1982,Representative,34,Charles M. House,Republican,50954
+California,1982,Representative,34,"Carl M. ""Marty"" Swinney",Libertarian,2686
+California,1982,Representative,35,Paul Stuckey,Democrat,71186
+California,1982,Representative,35,Jerry Lewis,Republican,181203
+California,1982,Representative,35,Jeff Shuman,Libertarian,4279
+California,1982,Representative,36,George E. Brown Jr.,Democrat,103493
+California,1982,Representative,36,John Paul Stark,Republican,81413
+California,1982,Representative,36,Kenneth E. Valentine,Libertarian,3382
+California,1982,Representative,36,Fred L. Anderson,Independent,3360
+California,1982,Representative,37,Johnny Pearson,Democrat,89666
+California,1982,Representative,37,Al McCandless,Republican,174284
+California,1982,Representative,37,Bonnie Flickinger,Libertarian,7169
+California,1982,Representative,37,Write-In,Write-In,123
+California,1982,Representative,38,Jerry Yudelson,Democrat,52399
+California,1982,Representative,38,"Robert K. ""Bob"" Dornan",Republican,87980
+California,1982,Representative,38,Bruce McKay,Libertarian,3733
+California,1982,Representative,38,Frank German,Peace and Freedom,3547
+California,1982,Representative,39,Don E. Marquis,Democrat,52162
+California,1982,Representative,39,"William E. ""Bill"" Dannemeyer",Republican,169260
+California,1982,Representative,39,Lee Connelly,Libertarian,7470
+California,1982,Representative,39,Write-In,Write-In,367
+California,1992,House,4,Vic Fazio,Democrat,181184
+California,1992,House,4,Write-In,Write-In,1306
+California,1982,Representative,40,Lida Lenney,Democrat,80782
+California,1982,Representative,40,Christopher Cox,Republican,181259
+California,1982,Representative,40,Roger Bloxham,Libertarian,4539
+California,1982,Representative,40,Gretchen J. Farsi,Peace and Freedom,3639
+California,1982,Representative,40,Write-In,Write-In,87
+California,1982,Representative,41,Dan Kripke,Democrat,88192
+California,1982,Representative,41,Bill Lowery,Republican,187380
+California,1982,Representative,41,Dick Rider,Libertarian,5336
+California,1982,Representative,41,C. T. Weber,Peace and Freedom,4853
+California,1982,Representative,42,Guy C. Kimbrough,Democrat,78778
+California,1982,Representative,42,Dana Rohrabacher,Republican,153280
+California,1982,Representative,42,Richard D. Rose,Peace and Freedom,6563
+California,1982,Representative,43,Howard Greenebaum,Democrat,72499
+California,1982,Representative,43,Ron Packard,Republican,202478
+California,1982,Representative,43,Daniel L. Muhe,Libertarian,7552
+California,1982,Representative,44,Jim Bates,Democrat,90796
+California,1982,Representative,44,Rob Butterfield,Republican,55511
+California,1982,Representative,44,Dennis Thompson,Libertarian,5782
+California,1982,Representative,45,Pete Lepiscopo,Democrat,54012
+California,1982,Representative,45,Duncan Hunter,Republican,166451
+California,1982,Representative,45,Perry Willis,Libertarian,4440
+California,1992,House,5,Nancy Pelosi,Democrat,133530
+California,1992,House,5,Bruce Michael O'Neill,Republican,33692
+California,1992,House,5,Sam Grove,Libertarian,3561
+California,1992,House,5,"Theodore ""Ted"" Zuur",Peace and Freedom,3975
+California,1992,House,6,Barbara Boxer,Democrat,176645
+California,1992,House,6,William Steinmetz,Republican,64174
+California,1992,House,7,George Miller,Democrat,170006
+California,1992,House,7,Jean Last,Republican,78478
+California,1992,House,8,Ronald V. Dellums,Democrat,163221
+California,1992,House,8,John J. Cuddihy Jr.,Republican,76531
+California,1992,House,8,Tom Condit,Peace and Freedom,5444
+California,1992,House,9,Fortney Pete Stark,Democrat,152866
+California,1992,House,9,Howard Hertz,Republican,56656
+California,1988,Presidential,,,,5016881
+California,1988,Presidential,,,,3085398
+California,1992,Senate,,Leo McCarthy,Democrat,4287253
+California,1992,Senate,,Pete Wilson,Republican,5148409
+California,1992,Senate,,M. Elizabeth Munger,Peace and Freedom,156407
+California,1992,Senate,,Jack Dean,Libertarian,79997
+California,1992,Senate,,Merton D. Short,Independent,56288
+California,1992,Senate,,Write-In,Write-In,51
+California,1988,Presidential,,Democratic,Democratic,4702233
+California,1988,Presidential,,Republican,Republican,5054917
+Colorado,1988,Presidential,,,,728177
+Colorado,1988,Presidential,,,,621453
+Colorado,1988,Presidential,,Democratic,Democratic,621453
+Colorado,1988,Presidential,,Republican,Republican,728177
+Congress,Years,Number_of_Senators,Democrats,Republicans,Other_parties,Vacant
+Connecticut,1988,House,5,,,58612
+Connecticut,1988,House,5,,,168729
+Connecticut,1988,House,6,,,78814
+Connecticut,1988,House,6,,,157020
+Connecticut,1988,Presidential,,,,750241
+Connecticut,1988,Presidential,,,,676901
+Connecticut,1988,Senate,,,,688499
+Connecticut,1988,Presidential,,,,676584
+Connecticut,1988,Presidential,,Democratic,Democratic,676584
+Connecticut,1988,Presidential,,Republican,Republican,750241
+Delaware,1988,Presidential,,,,139639
+Delaware,1988,Presidential,,,,108662
+Delaware,1988,Presidential,,,,108647
+Delaware,1988,Presidential,,,,139639
+Delaware,1988,Presidential,,,,1162
+Delaware,1988,Presidential,,,,443
+Delaware,1988,Senate,,S.B. Woo,Democratic,92378
+Delaware,1988,Senate,,"William V. Roth, Jr.",Republican,151115
+Delaware,1988,House,,Thomas R. Carper,Democratic,158338
+Delaware,1988,House,,James P. Krapf,Republican,76179
+Delaware,1988,Presidential,,Democratic,Democratic,140355
+Delaware,1988,Presidential,,Republican,Republican,139639
+District of Columbia,1984,Presidential,,,,159407
+District of Columbia,1984,Presidential,,,,27590
+District of Columbia,1984,Presidential,,,,3064
+District of Columbia,1984,Presidential,,,,554
+District of Columbia,1984,Presidential,,,,236
+District of Columbia,1984,Presidential,,,,208
+District of Columbia,1984,Presidential,,,,142
+District of Columbia,1984,Presidential,,,,123
+District of Columbia,1984,Presidential,,,,1553
+District of Columbia,1984,Delegate,,Walter E. Fauntroy,Democratic,121817
+District of Columbia,1984,Delegate,,"W. Ronald ""Ron"" Evans",Republican,22936
+District of Columbia,1984,Delegate,,Alvin C. Frost,D. C. Statehood,13802
+District of Columbia,1984,Delegate,,David H. Dabney,Independent,10449
+District of Columbia,1984,Delegate,,Write-In,Write-In,1929
+District of Columbia,1988,Presidential,,,,1
+FLORIDA,1982,HOUSE,1,Earl Hutto,Democrat,142449
+FLORIDA,1982,HOUSE,1,E. D. Armbruster,Republican,70584
+FLORIDA,1982,HOUSE,10,David B. Higginbottom,Democrat,56536
+FLORIDA,1982,HOUSE,10,Andy Ireland,Republican,156563
+FLORIDA,1982,HOUSE,11,Bill Nelson,Democrat,168390
+FLORIDA,1982,HOUSE,11,Bill Tolley,Republican,108373
+FLORIDA,1982,HOUSE,12,Tom Lewis,Republican,(1)
+FLORIDA,1982,HOUSE,13,Jack Conway,Democrat,93700
+FLORIDA,1982,HOUSE,13,Porter J. Goss,Republican,231170
+FLORIDA,1982,HOUSE,14,Harry A. Johnston,Democrat,173292
+FLORIDA,1982,HOUSE,14,Ken Adams,Republican,142635
+FLORIDA,1982,HOUSE,15,"Michael A. ""Mike"" Kuhle",Democrat,67746
+FLORIDA,1982,HOUSE,15,E. Clay Shaw,Republican,132090
+FLORIDA,1982,HOUSE,16,Larry Smith,Democrat,153032
+FLORIDA,1982,HOUSE,16,Joseph Smith,Republican,67461
+FLORIDA,1982,HOUSE,17,William Lehman,Democrat,(1)
+FLORIDA,1982,HOUSE,18,Claude Pepper,Democrat,(1)
+FLORIDA,1982,HOUSE,19,Dante B. Fascell,Democrat,135455
+FLORIDA,1982,HOUSE,19,Ralph Carlos Rocheteau,Republican,51628
+FLORIDA,1982,HOUSE,2,Bill Grant,Democrat,134269
+FLORIDA,1982,HOUSE,2,Dennis M. Prescott,Write-in,352
+FLORIDA,1982,HOUSE,3,Charles E. Bennett,Democrat,(1)
+FLORIDA,1982,HOUSE,4,Bill Chappell,Democrat,124817
+FLORIDA,1982,HOUSE,4,Craig T. James,Republican,125608
+FLORIDA,1982,HOUSE,5,Bill McCollum,Republican,(1)
+FLORIDA,1982,HOUSE,6,Jon Mills,Democrat,118756
+FLORIDA,1982,HOUSE,6,Cliff Stearns,Republican,136415
+FLORIDA,1982,HOUSE,7,Sam M. Gibbons,Democrat,(1)
+FLORIDA,1982,HOUSE,8,C. Bette Wimbish,Democrat,62539
+FLORIDA,1982,HOUSE,8,C. W. Bill Young,Republican,169165
+FLORIDA,1982,HOUSE,9,Michael Bilirakis,Republican,223925
+FLORIDA,1982,HOUSE,9,M. P. Beigenho,Write-in,242
+Florida,1988,Presidential,,,,2618885
+Florida,1988,Presidential,,,,1656701
+Florida,1988,Presidential,,,,1656701
+Florida,1988,Presidential,,,,2618885
+Florida,1988,Presidential,,,,19796
+Florida,1988,Presidential,,,,6655
+Florida,1988,Presidential,,,,276
+Florida,1988,Senate,,Buddy MacKay,Democratic,2016553
+Florida,1988,Senate,,Connie Mack,Republican,2051071
+Florida,1988,Senate,,Adam Straus,Write-In,585
+Florida,1988,Presidential,,Democratic,Democratic,1656701
+Florida,1988,Presidential,,Republican,Republican,2618885
+GEORGIA,1980,House,1,Lindsay Thomas,Democratic,94531
+GEORGIA,1980,House,1,John Christian (Chris) Meredith,Republican,46552
+GEORGIA,1980,House,10,Doug Bernard Jr.,Democratic,113156
+GEORGIA,1980,House,10,Mark Myers,Republican,66521
+GEORGIA,1980,House,2,Charles Hatcher,Democratic,85029
+GEORGIA,1980,House,2,Ralph T. Hudgens,Republican,52807
+GEORGIA,1980,House,3,Richard Ray,Democratic,97663
+GEORGIA,1980,House,4,Ben Jones,Democratic,145894
+GEORGIA,1980,House,4,Pat Swindall,Republican,97745
+GEORGIA,1980,House,5,John Lewis,Democratic,135194
+GEORGIA,1980,House,5,J. W. Tibbs Jr.,Republican,37693
+GEORGIA,1980,House,6,David Worley,Democratic,76824
+GEORGIA,1980,House,6,Newt Gingrich,Republican,110169
+GEORGIA,1980,House,6,,Write-In,18
+GEORGIA,1980,House,7,George (Buddy) Darden,Democratic,135056
+GEORGIA,1980,House,7,Robert Lamutt,Republican,73425
+GEORGIA,1980,House,8,J. Roy Rowland,Democratic,102696
+GEORGIA,1980,House,9,Ed Jenkins,Democratic,121800
+GEORGIA,1980,House,9,Joe Hoffman,Republican,71905
+GEORGIA,1980,Presidential,,,,714792
+GEORGIA,1980,Presidential,,,,1081331
+GEORGIA,1980,Presidential,,,,8435
+GEORGIA,1980,Presidential,,,,5099
+GEORGIA,1980,Presidential,,,,15
+Georgia,1988,Presidential,,,,1081331
+Georgia,1988,Presidential,,,,714792
+Georgia,1988,Presidential,,Democratic,Democratic,714792
+Georgia,1988,Presidential,,Republican,Republican,1081331
+Guam,1984,Delegate,,Vicente C. Pangelinan,Democratic,13426
+Guam,1984,Delegate,,Ben Garrido Blaz,Republican,16185
+HAWAII,1992,House,1,Mary Bitterman,Democratic,76394
+HAWAII,1992,House,1,Patricia Saiki,Republican,96848
+HAWAII,1992,House,1,Blase Harris,Libertarian,3778
+HAWAII,1992,House,2,Daniel K. Akaka,Democratic,144802
+HAWAII,1992,House,2,Lloyd Jeffrey Mallan,Libertarian,18006
+HAWAII,1992,Presidential,,,,192364
+HAWAII,1992,Presidential,,,,158625
+HAWAII,1992,Presidential,,,,1999
+HAWAII,1992,Presidential,,,,1003
+HAWAII,1992,Presidential,,,,470
+HAWAII,1992,Senate,,Spark Matsunaga,Democratic,247941
+HAWAII,1992,Senate,,Maria M. Hustace,Republican,66387
+HAWAII,1992,Senate,,Ken Schoolland,Libertarian,8948
+Hawaii,1988,Presidential,,,,158625
+Hawaii,1988,Presidential,,,,192364
+Hawaii,1988,Presidential,,Democratic,Democratic,192364
+Hawaii,1988,Presidential,,Republican,Republican,158625
+IDAHO,1984,HOUSE,1,Jeanne Givens,Democratic,70328
+IDAHO,1984,HOUSE,1,Larry E. Craig,Republican,135221
+IDAHO,1984,HOUSE,2,Richard H. Stallings,Democratic,127956
+IDAHO,1984,HOUSE,2,Dane Watkins,Republican,68226
+IDAHO,1984,HOUSE,2,Donovan Bramwell,Libertarian,5703
+IDAHO,1992,Presidential,,,,147272
+IDAHO,1992,Presidential,,,,283881
+IDAHO,1992,Presidential,,,,5313
+IDAHO,1992,Presidential,,,,2502
+ILLINOIS,1984,HOUSE,1,Charles A. Hayes,Democratic,164125
+ILLINOIS,1984,HOUSE,1,Stephen J. Evans,Republican,6753
+ILLINOIS,1984,HOUSE,10,Eugene F. Friedman,Democratic,60187
+ILLINOIS,1984,HOUSE,10,John Edward Porter,Republican,158519
+ILLINOIS,1984,HOUSE,11,Frank Annunzio,Democratic,131753
+ILLINOIS,1984,HOUSE,11,George S. Gottlieb,Republican,72489
+ILLINOIS,1984,HOUSE,12,John A. Leonardi,Democratic,54769
+ILLINOIS,1984,HOUSE,12,Philip M. Crane,Republican,165913
+ILLINOIS,1984,HOUSE,13,Evelyn E. Craig,Democratic,74424
+ILLINOIS,1984,HOUSE,13,Harris W. Fawell,Republican,174992
+ILLINOIS,1984,HOUSE,14,Stephen Youhanaie,Democratic,57482
+ILLINOIS,1984,HOUSE,14,J. Dennis Hastert,Republican,161146
+ILLINOIS,1984,HOUSE,15,Thomas J. (Tom) Curl,Democratic,55260
+ILLINOIS,1984,HOUSE,15,Edward R. Madigan,Republican,140171
+ILLINOIS,1984,HOUSE,16,Steven E. Mahan,Democratic,72431
+ILLINOIS,1984,HOUSE,16,Lynn Martin,Republican,128365
+ILLINOIS,1984,HOUSE,17,Lane Evans,Democratic,132130
+ILLINOIS,1984,HOUSE,17,William E. Stewart,Republican,71560
+ILLINOIS,1984,HOUSE,18,G. Douglas Stephens,Democratic,94768
+ILLINOIS,1984,HOUSE,18,Robert H. Michel,Republican,114458
+ILLINOIS,1984,HOUSE,19,Terry L. Bruce,Democratic,132889
+ILLINOIS,1984,HOUSE,19,Robert F. Kerans,Republican,73981
+ILLINOIS,1984,HOUSE,2,Gus Savage,Democratic,138256
+ILLINOIS,1984,HOUSE,2,William T. Hespel,Republican,28831
+ILLINOIS,1984,HOUSE,20,Richard J. Durbin,Democratic,153341
+ILLINOIS,1984,HOUSE,20,Paul E. Jurgens,Republican,69303
+ILLINOIS,1984,HOUSE,21,Jerry F. Costello,Democratic,105836
+ILLINOIS,1984,HOUSE,21,Robert H. (Bob) Gaffner,Republican,95385
+ILLINOIS,1984,HOUSE,22,Glenn Poshard,Democratic,139392
+ILLINOIS,1984,HOUSE,22,Patrick J. Kelley,Republican,75462
+ILLINOIS,1984,HOUSE,3,Marty Russo,Democratic,132111
+ILLINOIS,1984,HOUSE,3,Joseph J. McCarthy,Republican,80181
+ILLINOIS,1984,HOUSE,4,George E. Sangmeister,Democratic,91282
+ILLINOIS,1984,HOUSE,4,Jack Davis,Republican,90243
+ILLINOIS,1984,HOUSE,5,William O. Lipinski,Democratic,93567
+ILLINOIS,1984,HOUSE,5,John J. Holowinski,Republican,59128
+ILLINOIS,1984,HOUSE,6,William J. Andrle,Democratic,54804
+ILLINOIS,1984,HOUSE,6,Henry J. Hyde,Republican,158425
+ILLINOIS,1984,HOUSE,7,Cardiss Collins,Democratic,135331
+ILLINOIS,1984,HOUSE,8,Dan Rostenkowski,Democratic,107728
+ILLINOIS,1984,HOUSE,8,V. Stephen Vetter,Republican,34659
+ILLINOIS,1984,HOUSE,8,Mark J. Almberg,Communist,1937
+ILLINOIS,1984,HOUSE,9,Sidney R. Yates,Democratic,135582
+ILLINOIS,1984,HOUSE,9,Herbert Sohn,Republican,67604
+ILLINOIS,1984,HOUSE,9,Jessie Fields,Solidarity,2000
+INDIANA,1988,REPRESENTATIVE,1,Peter J. Visclosky,Democratic,138251
+INDIANA,1988,REPRESENTATIVE,1,Owen W. Crumpacker,Republican,41076
+INDIANA,1988,REPRESENTATIVE,10,Andrew Jacobs Jr.,Democratic,105846
+INDIANA,1988,REPRESENTATIVE,10,James C. Cummings,Republican,68978
+INDIANA,1988,REPRESENTATIVE,2,Philip R. Sharp,Democratic,116915
+INDIANA,1988,REPRESENTATIVE,2,Mike Pence,Republican,102846
+INDIANA,1988,REPRESENTATIVE,3,Thomas W. Ward,Democratic,97934
+INDIANA,1988,REPRESENTATIVE,3,John Hiler,Republican,116309
+INDIANA,1988,REPRESENTATIVE,4,Jill Long,Democratic,80915
+INDIANA,1988,REPRESENTATIVE,4,Dan Coats,Republican,132843
+INDIANA,1988,REPRESENTATIVE,5,Jim Jontz,Democratic,116240
+INDIANA,1988,REPRESENTATIVE,5,Patricia L. Williams,Republican,90163
+INDIANA,1988,REPRESENTATIVE,6,George Thomas Holland,Democratic,71447
+INDIANA,1988,REPRESENTATIVE,6,Dan Burton,Republican,192064
+INDIANA,1988,REPRESENTATIVE,7,Mark Richard Waterfill,Democratic,80738
+INDIANA,1988,REPRESENTATIVE,7,John T. Myers,Republican,130578
+INDIANA,1988,REPRESENTATIVE,8,Frank McCloskey,Democratic,141355
+INDIANA,1988,REPRESENTATIVE,8,John L. Myers,Republican,87321
+INDIANA,1988,REPRESENTATIVE,9,Lee H. Hamilton,Democratic,147193
+INDIANA,1988,REPRESENTATIVE,9,Floyd Eugene Coates,Republican,60946
+INDIANA,1984,PRESIDENT,,,,860643
+INDIANA,1984,PRESIDENT,,,,1297763
+INDIANA,1984,PRESIDENT,,,,10215
+INDIANA,1984,SENATE,,Jack Wickes,Democratic,668778
+INDIANA,1984,SENATE,,Richard G. Lugar,Republican,1480525
+IOWA,1982,HOUSE,1,Bill Gluba,Democrat,71280
+IOWA,1982,HOUSE,1,Jim Leach,Republican,112746
+IOWA,1982,HOUSE,1,Judy Stav-River,Nominated by Petition,1670
+IOWA,1982,HOUSE,2,Eric Tabor,Democrat,86438
+IOWA,1982,HOUSE,2,Thomas J. Tauke,Republican,113543
+IOWA,1982,HOUSE,3,David R. Nagle,Democrat,129204
+IOWA,1982,HOUSE,3,Donald B. Redfern,Republican,74882
+IOWA,1982,HOUSE,4,Neal Smith,Democrat,157065
+IOWA,1982,HOUSE,4,Paul Lunde,Republican,62056
+IOWA,1982,HOUSE,5,Gene Freund,Democrat,66599
+IOWA,1982,HOUSE,5,Jim Lightfoot,Republican,117761
+IOWA,1982,HOUSE,6,Dave O'Brien,Democrat,69614
+IOWA,1982,HOUSE,6,Fred Grandy,Republican,125859
+IOWA,1988,PRESIDENT,,,,670557
+IOWA,1988,PRESIDENT,,,,545355
+IOWA,1988,PRESIDENT,,,,3526
+IOWA,1988,PRESIDENT,,,,2494
+IOWA,1988,PRESIDENT,,,,755
+IOWA,1988,PRESIDENT,,,,540
+IOWA,1988,PRESIDENT,,,,384
+IOWA,1988,PRESIDENT,,,,235
+IOWA,1988,PRESIDENT,,,,205
+IOWA,1988,PRESIDENT,,,,1613
+Idaho,1988,Presidential,,,,253881
+Idaho,1988,Presidential,,,,147272
+Idaho,1988,Presidential,,Democratic,Democratic,147272
+Idaho,1988,Presidential,,Republican,Republican,253881
+Illinois,1988,Presidential,,,,2310939
+Illinois,1988,Presidential,,,,2310831
+Illinois,1988,Presidential,,Democratic,Democratic,2215940
+Illinois,1988,Presidential,,Republican,Republican,2310939
+Indiana,1988,Presidential,,,,1297763
+Indiana,1988,Presidential,,,,860643
+Indiana,1988,Presidential,,Democratic,Democratic,860643
+Indiana,1988,Presidential,,Republican,Republican,1297763
+Iowa,1988,Presidential,,,,545355
+Iowa,1988,Presidential,,,,670557
+Iowa,1988,Presidential,,Democratic,Democratic,670557
+Iowa,1988,Presidential,,Republican,Republican,545355
+KANSAS,1980,House,1,,Republican,168700
+KANSAS,1982,HOUSE,1,Pat Roberts,Republican,168700
+KANSAS,1980,House,2,Jim Jeffries,Democratic,135694
+KANSAS,1980,House,2,,Republican,49498
+KANSAS,1982,HOUSE,2,Jim Slattery,Democrat,135694
+KANSAS,1982,HOUSE,2,Phil Meinhardt,Republican,49498
+KANSAS,1980,House,3,,Democratic,93929
+KANSAS,1980,House,3,,Republican,150223
+KANSAS,1982,HOUSE,3,Lionel Kunst,Democrat,53959
+KANSAS,1982,HOUSE,3,Jan Meyers,Republican,150223
+KANSAS,1980,House,4,,Democratic,122715
+KANSAS,1980,House,4,,Republican,171485
+KANSAS,1982,HOUSE,4,Dan Glickman,Democrat,122777
+KANSAS,1982,HOUSE,4,Lee Thompson,Republican,69165
+KANSAS,1980,House,5,,Democratic,54527
+KANSAS,1980,House,5,,Republican,127722
+KANSAS,1982,HOUSE,5,John A. Barnes,Democrat,54327
+KANSAS,1982,HOUSE,5,Bob Whittaker,Republican,127722
+KANSAS,1980,Presidential,,,,422636
+KANSAS,1980,Presidential,,,,564049
+KANSAS,1980,Presidential,,,,15359
+KENTUCKY,1980,House,1,Carroll Hubbard Jr.,Democratic,117288
+KENTUCKY,1980,House,1,Charles K. Hatchett,Independent,6106
+KENTUCKY,1980,House,1,,Write-In,16
+KENTUCKY,1980,House,2,William H. Natcher,Democratic,92184
+KENTUCKY,1980,House,2,Martin A. Tori,Republican,59907
+KENTUCKY,1980,House,2,,Write-In,8
+KENTUCKY,1980,House,3,Romano L. Mazzoli,Democratic,131981
+KENTUCKY,1980,House,3,Philip Dunnagan,Republican,57387
+KENTUCKY,1980,House,4,Richard V. Roilies,Democratic,50575
+KENTUCKY,1980,House,4,Jim Bunning,Republican,145609
+KENTUCKY,1980,House,5,Harold Rogers,Republican,104467
+KENTUCKY,1980,House,5,,Write-In,34
+KENTUCKY,1980,House,6,Milton Patton,Democratic,45339
+KENTUCKY,1980,House,6,Larry J. Hopkins,Republican,128898
+KENTUCKY,1980,House,6,,Write-In,40
+KENTUCKY,1980,House,7,Carl C. Perkins,Democratic,96946
+KENTUCKY,1980,House,7,"William Thompson (""Will"") Scott",Republican,68165
+KENTUCKY,1980,House,7,,Write-In,1
+KENTUCKY,1980,Presidential,,,,580368
+KENTUCKY,1980,Presidential,,,,734281
+KENTUCKY,1980,Presidential,,,,4494
+KENTUCKY,1980,Presidential,,,,2118
+KENTUCKY,1980,Presidential,,,,1256
+Kansas,1988,Presidential,,,,554049
+Kansas,1988,Presidential,,,,422636
+Kansas,1988,Presidential,,Democratic,Democratic,422636
+Kansas,1988,Presidential,,Republican,Republican,554049
+Kentucky,1988,Presidential,,,,734281
+Kentucky,1988,Presidential,,,,580368
+Kentucky,1988,Presidential,,Democratic,Democratic,580368
+Kentucky,1988,Presidential,,Republican,Republican,734281
+LOUISIANA,1980,HOUSE,1,Robert L. Livingston,Republican,
+LOUISIANA,1980,HOUSE,2,Lindy Boggs,Democratic,
+LOUISIANA,1980,HOUSE,3,W. J. Tauzin,Democratic,
+LOUISIANA,1980,HOUSE,4,Jim McCrery,Republican,
+LOUISIANA,1980,HOUSE,5,Jerry Huckaby,Democratic,
+LOUISIANA,1980,HOUSE,6,Richard Baker,Republican,
+LOUISIANA,1980,HOUSE,7,Jimmy Hayes,Democratic,
+LOUISIANA,1980,HOUSE,8,Faye Williams,Democratic,88564
+LOUISIANA,1980,HOUSE,8,Clyde C. Holloway,Republican,116241
+LOUISIANA,1980,PRESIDENT,,,,717460
+LOUISIANA,1980,PRESIDENT,,,,883702
+LOUISIANA,1980,PRESIDENT,,,,18612
+LOUISIANA,1980,PRESIDENT,,,,4115
+LOUISIANA,1980,PRESIDENT,,,,2355
+LOUISIANA,1980,PRESIDENT,,,,1958
+Louisiana,1988,Presidential,,,,883702
+Louisiana,1988,Presidential,,,,715971
+Louisiana,1988,Presidential,,Democratic,Democratic,483983
+Louisiana,1988,Presidential,,Republican,Republican,883702
+MAINE,1972,House,1,Joseph E. Brennan,Democratic,190989
+MAINE,1972,House,1,Edward S. O'Meara Jr.,Republican,111125
+MAINE,1972,House,1,,Other,49
+MAINE,1972,House,2,Kenneth P. Hayes,Democratic,85346
+MAINE,1972,House,2,Olympia J. Snowe,Republican,167226
+MAINE,1972,House,2,,Other,149
+MAINE,1980,PRESIDENT,,,,243569
+MAINE,1980,PRESIDENT,,,,307131
+MAINE,1980,PRESIDENT,,,,2700
+MAINE,1980,PRESIDENT,,,,1405
+MAINE,1980,PRESIDENT,,,,230
+MAINE,1980,SENATE,,George J. Mitchell,Democratic,452581
+MAINE,1980,SENATE,,Jasper S. Wyman,Republican,104164
+MARYLAND,1972,House,1,Roy Dyson,Democratic,96128
+MARYLAND,1972,House,1,Wayne T. Gilchrest,Republican,94588
+MARYLAND,1972,House,2,Joseph Bartenfelder,Democratic,63114
+MARYLAND,1972,House,2,Helen Delich Bentley,Republican,157956
+MARYLAND,1972,House,3,Benjamin L. Cardin,Democratic,133779
+MARYLAND,1972,House,3,Ross Z. Pierpont,Republican,49733
+MARYLAND,1972,House,4,C. Thomas McMillen,Democratic,128624
+MARYLAND,1972,House,4,Bradley McClanahan,Republican,59688
+MARYLAND,1972,House,5,Steny H. Hoyer,Democratic,128437
+MARYLAND,1972,House,5,John Eugene Sellner,Republican,34909
+MARYLAND,1972,House,6,Beverly B. Byron,Democratic,166753
+MARYLAND,1972,House,6,Kenneth W. Halsey,Republican,54528
+MARYLAND,1972,House,7,Kweisi Mfume,Democratic,117650
+MARYLAND,1972,House,8,Peter Franchot,Democratic,102478
+MARYLAND,1972,House,8,Constance A. Morella,Republican,172619
+MARYLAND,1972,Presidential,,,,826304
+MARYLAND,1972,Presidential,,,,876167
+MARYLAND,1972,Presidential,,,,5748
+MARYLAND,1972,Presidential,,,,5115
+MARYLAND,1972,Presidential,,,,24
+MARYLAND,1972,Senate,,Paul S. Sarbanes,Democratic,999166
+MARYLAND,1972,Senate,,Alan L. Keyes,Republican,617537
+MARYLAND,1972,Senate,,Write-In,Write-In,362
+MASSACHUSETTS,1980,House,1,John R. Arden,Democratic,38907
+MASSACHUSETTS,1980,House,1,Silvio O. Conte,Republican,186356
+MASSACHUSETTS,1980,House,1,Other,,28
+MASSACHUSETTS,1980,House,2,Richard E. Neal,Democratic,156262
+MASSACHUSETTS,1980,House,2,Louis R. Godena,Peace Jobs Justice,88446
+MASSACHUSETTS,1980,House,2,Other,,32
+MASSACHUSETTS,1980,House,3,Joseph D. Early,Democratic,191005
+MASSACHUSETTS,1980,House,3,Other,,673
+MASSACHUSETTS,1980,House,4,Barney Frank,Democratic,169729
+MASSACHUSETTS,1980,House,4,Debra R. Tucker,Republican,71661
+MASSACHUSETTS,1980,House,4,Other,,24
+MASSACHUSETTS,1980,House,5,Chester G. Atkins,Democratic,181860
+MASSACHUSETTS,1980,House,5,T. David Hudson,Libertarian,34339
+MASSACHUSETTS,1980,House,5,Other,,72
+MASSACHUSETTS,1980,House,6,Nicholas Mavroules,Democratic,177643
+MASSACHUSETTS,1980,House,6,Paul McCarthy,Republican,77186
+MASSACHUSETTS,1980,House,6,Other,,238
+MASSACHUSETTS,1980,House,7,Edward J. Markey,Democratic,188647
+MASSACHUSETTS,1980,House,7,Other,,63
+MASSACHUSETTS,1980,House,8,Joseph P. Kennedy II,Democratic,165745
+MASSACHUSETTS,1980,House,8,Glenn W. Fiscus,Republican,40316
+MASSACHUSETTS,1980,House,8,Other,,128
+MASSACHUSETTS,1980,House,9,John Joseph Moakley,Democratic,160799
+MASSACHUSETTS,1980,House,9,Other,,243
+MASSACHUSETTS,1980,Presidential,,,,1401415
+MASSACHUSETTS,1980,Presidential,,,,1194635
+MASSACHUSETTS,1980,Presidential,,,,24251
+MASSACHUSETTS,1980,Presidential,,,,9561
+MASSACHUSETTS,1980,Presidential,,,,2939
+MASSACHUSETTS,1980,Senate,,Edward M. Kennedy,Democratic,1683344
+MASSACHUSETTS,1980,Senate,,Joseph D. Malone,Republican,584267
+MASSACHUSETTS,1980,Senate,,Mary Fridley,New Alliance,15206
+MASSACHUSETTS,1980,Senate,,Freda Lee Nelson,Libertarian,13199
+MASSACHUSETTS,1980,Senate,,Other,,207
+MINNESOTA,1984,HOUSE,1,Timothy J. (Tim) Penny,Democratic-Farmer-Labor,161118
+MINNESOTA,1984,HOUSE,1,Curt Schrimpf,Independent-Republican,67709
+MINNESOTA,1984,HOUSE,1,Craig Honts,Socialist Workers,357
+MINNESOTA,1984,HOUSE,1,Write-In,Write-In,29
+MINNESOTA,1984,HOUSE,2,Doug Peterson,Democratic-Farmer-Labor,96016
+MINNESOTA,1984,HOUSE,2,Vin Weber,Independent-Republican,131939
+MINNESOTA,1984,HOUSE,2,Write-In,Write-In,33
+MINNESOTA,1984,HOUSE,3,Dave Carlson,Democratic-Farmer-Labor,99770
+MINNESOTA,1984,HOUSE,3,Bill Frenzel,Independent-Republican,215322
+MINNESOTA,1984,HOUSE,3,Write-In,Write-In,217
+MINNESOTA,1984,PRESIDENT,,,,1109471
+MINNESOTA,1984,PRESIDENT,,,,962337
+MINNESOTA,1984,PRESIDENT,,,,5403
+MINNESOTA,1984,PRESIDENT,,,,5102
+MINNESOTA,1984,PRESIDENT,,,,2185
+MINNESOTA,1984,PRESIDENT,,,,1949
+MINNESOTA,1984,PRESIDENT,,,,1734
+MINNESOTA,1984,PRESIDENT,,,,1702
+MINNESOTA,1984,PRESIDENT,,,,1529
+MINNESOTA,1984,PRESIDENT,,,,1298
+MINNESOTA,1984,PRESIDENT,,,,489
+MINNESOTA,1984,PRESIDENT,,,,3614
+MINNESOTA,1984,SENATE,,"Hubert H. ""Skip"" Humphrey III",Democratic-Farmer-Labor,856594
+MINNESOTA,1984,SENATE,,Dave Durenberger,Independent-Republican,1176210
+MINNESOTA,1984,SENATE,,Polly Mann,Progressive Issues,14474
+MINNESOTA,1984,SENATE,,Derrick P. Grimmer,Grassroots,9016
+MINNESOTA,1984,SENATE,,Allen Overvig,Libertarian,4039
+MINNESOTA,1984,SENATE,,Wendy Lyons,Socialist Workers,3105
+MINNESOTA,1984,SENATE,,Write-In,Write-In,415
+MISSISSIPPI,1988,House,1,Jamie L. Whitten,Democratic,137445
+MISSISSIPPI,1988,House,1,Jim Bush,Republican,38381
+MISSISSIPPI,1988,House,2,Mike Espy,Democratic,112401
+MISSISSIPPI,1988,House,2,Jack Coleman,Republican,59827
+MISSISSIPPI,1988,House,2,Dorothy Benford,Independent,1403
+MISSISSIPPI,1988,House,3,"G.V. ""Sonny"" Montgomery",Democratic,164651
+MISSISSIPPI,1988,House,3,Jimmie Ray Bourland,Republican,20729
+MISSISSIPPI,1988,House,4,Mike Parker,Democratic,110134
+MISSISSIPPI,1988,House,4,Thomas Collins,Republican,88433
+MISSISSIPPI,1988,House,4,Liz Gilchrist,Independent,2446
+MISSISSIPPI,1988,House,5,Gene Taylor,Democratic,82034
+MISSISSIPPI,1988,House,5,Larkin Smith,Republican,100185
+MISSISSIPPI,1988,President,,,,363821
+MISSISSIPPI,1988,President,,,,557890
+MISSISSIPPI,1988,President,,,,6387
+MISSISSIPPI,1988,President,,,,3329
+MISSISSIPPI,1988,Senate,,Wayne Dowdy,Democratic,436339
+MISSISSIPPI,1988,Senate,,Trent Lott,Republican,510380
+MISSOURI,1988,House,1,William (Bill) Clay,Democratic,140751
+MISSOURI,1988,House,1,Joseph A. Schwan,Republican,53109
+MISSOURI,1988,House,1,Terry Inman,Libertarian,2428
+MISSOURI,1988,House,2,Robert H. (Bob) Feigenbaum,Democratic,91645
+MISSOURI,1988,House,2,Jack Buechner,Republican,186459
+MISSOURI,1988,House,2,Deania Lohmann,Libertarian,3014
+MISSOURI,1982,House,3,Richard A. Gephardt,Democratic,150205
+MISSOURI,1982,House,3,Mark F. (Thor) Hearne,Republican,96763
+MISSOURI,1982,House,3,Lloyd Sloan,Libertarian,2128
+MISSOURI,1982,House,3,,Write-In,107
+MISSOURI,1982,House,4,Ike Skelton,Democratic,166480
+MISSOURI,1982,House,4,David Eyerly,Republican,65393
+MISSOURI,1982,House,5,Alan Wheat,Democratic,149166
+MISSOURI,1982,House,5,Mary Ellen Lobb,Republican,60453
+MISSOURI,1982,House,5,Mike Hurley,Libertarian,2520
+MISSOURI,1982,House,6,Doug R. Hughes,Democratic,93128
+MISSOURI,1982,House,6,Tom Coleman,Republican,135883
+MISSOURI,1982,House,7,Max Bacon,Democratic,111244
+MISSOURI,1982,House,7,Mel Hancock,Republican,127939
+MISSOURI,1982,House,7,Rob Lurvey,Libertarian,1728
+MISSOURI,1982,House,8,Wayne Cryts,Democratic,84801
+MISSOURI,1982,House,8,Bill Emerson,Republican,117601
+MISSOURI,1982,House,9,Harold L. Volkmer,Democratic,160872
+MISSOURI,1982,House,9,Ken Dudley,Republican,76008
+MISSOURI,1988,President,,,,1001619
+MISSOURI,1988,President,,,,1084853
+MISSOURI,1988,President,,,,6656
+MISSOURI,1988,Senate,,Jeremiah W. (Jay) Nixon,Democratic,660045
+MISSOURI,1988,Senate,,John C. Danforth,Republican,1407416
+MISSOURI,1988,Senate,,John Guss,Libertarian,11410
+MISSOURI,1988,Senate,,,Write-In,4
+MONTANA,1982,House,1,Pat Williams,Democratic,115278
+MONTANA,1982,House,1,Jim Fenlason,Republican,74405
+MONTANA,1982,House,2,Buck O'Brien,Democratic,78069
+MONTANA,1982,House,2,Ron Marlenee,Republican,97465
+MONTANA,1982,Presidential,,,,168936
+MONTANA,1982,Presidential,,,,190412
+MONTANA,1982,Presidential,,,,5047
+MONTANA,1982,Presidential,,,,1279
+MONTANA,1982,Senate,,John Melcher,Democratic,175809
+MONTANA,1982,Senate,,Conrad Burns,Republican,189445
+Maine,1988,Presidential,,,,307131
+Maine,1988,Presidential,,,,243316
+Maine,1988,Presidential,,Democratic,Democratic,243569
+Maine,1988,Presidential,,Republican,Republican,307131
+Maryland,1988,Presidential,,,,1025844
+Maryland,1988,Presidential,,,,707094
+Maryland,1988,Presidential,,Democratic,Democratic,837730
+Maryland,1988,Presidential,,Republican,Republican,876167
+Massachusetts,1984,House,10,Gerry E. Studds,Democrat,187178
+Massachusetts,1984,House,10,Jon L. Bryan,Republican,93564
+Massachusetts,1984,House,10,Other,Other,25
+Massachusetts,1984,House,11,Brian J. Donnelly,Democrat,169692
+Massachusetts,1984,House,11,Michael C. Gilleran,Republican,40277
+Massachusetts,1984,House,11,Other,Other,19
+Massachusetts,1988,Presidential,,,,1401416
+Massachusetts,1988,Presidential,,,,1194635
+Massachusetts,1988,Presidential,,Democratic,Democratic,1401416
+Massachusetts,1988,Presidential,,Republican,Republican,1194635
+Michigan,1984,House,1,John Conyers Jr.,Democrat,127800
+Michigan,1984,House,1,Bill Ashe,Republican,10979
+Michigan,1984,House,1,Jonathan Paul Flint,Libertarian,744
+Michigan,1984,House,1,Sam Johnson,Workers Against Concessions,615
+Michigan,1990,Representative,10,Mathias G. Forbes,Democrat,55388
+Michigan,1990,Representative,10,Bill Schuette,Republican,152646
+Michigan,1990,Representative,10,Gary R. Bradley,Libertarian,1512
+Michigan,1990,Representative,10,Other,,7
+Michigan,1990,Representative,11,Mitch Irwin,Democrat,86526
+Michigan,1990,Representative,11,Robert W. Davis,Republican,129085
+Michigan,1990,Representative,11,Denise Kline,Libertarian,803
+Michigan,1990,Representative,11,Other,,3
+Michigan,1990,Representative,12,David E. Bonior,Democrat,108158
+Michigan,1990,Representative,12,Douglas Carl,Republican,91780
+Michigan,1990,Representative,12,Keith P. Edwards,Libertarian,1311
+Michigan,1990,Representative,12,Vincent Mario Contrera,Workers Against Concessions,548
+Michigan,1990,Representative,12,Other,,1
+Michigan,1990,Representative,13,George W. Crockett Jr.,Democrat,99751
+Michigan,1990,Representative,13,John Wright Savage II,Republican,13196
+Michigan,1990,Representative,13,Alan H. Harris,Libertarian,878
+Michigan,1990,Representative,13,Martinez Alfred Gomez,Workers Against Concessions,874
+Michigan,1990,Representative,13,Other,,1
+Michigan,1990,Representative,14,Dennis M. Hertel,Democrat,111612
+Michigan,1990,Representative,14,Kenneth C. McNealy,Republican,64750
+Michigan,1990,Representative,14,Robert W. Roddis,Libertarian,1336
+Michigan,1990,Representative,14,James L. Breeland,Workers Against Concessions,710
+Michigan,1990,Representative,14,Other,,2
+Michigan,1990,Representative,15,William D. Ford,Democrat,104596
+Michigan,1990,Representative,15,Burl C. Adkins,Republican,56963
+Michigan,1990,Representative,15,Eric Blankenburg,Libertarian,1513
+Michigan,1990,Representative,15,Ronda M. Reed Bell,Workers Against Concessions,670
+Michigan,1990,Representative,16,John D. Dingell,Democrat,132775
+Michigan,1990,Representative,16,Russell W. Leone,Workers Against Concessions,3561
+Michigan,1990,Representative,16,Other,,21
+Michigan,1990,Representative,17,Sander M. Levin,Democrat,135493
+Michigan,1990,Representative,17,Dennis M. Pleasland,Republican,55197
+Michigan,1990,Representative,17,Charles Hahn,Libertarian,2383
+Michigan,1990,Representative,17,Other,,4
+Michigan,1990,Representative,18,Gary L. Kohut,Democrat,57643
+Michigan,1990,Representative,18,William S. Broomfield,Republican,195579
+Michigan,1990,Representative,18,Timothy J. O'Brien,Libertarian,4003
+Michigan,1990,Representative,18,Other,,3
+Michigan,1984,House,2,Lana Pollack,Democrat,98290
+Michigan,1984,House,2,Carl D. Pursell,Republican,120070
+Michigan,1984,House,2,David H. Raaflaub,Libertarian,1324
+Michigan,1984,House,2,Other,Other,8
+Michigan,1984,House,3,Howard Wolpe,Democrat,112605
+Michigan,1984,House,3,Cal Allgaier,Republican,83789
+Michigan,1984,House,3,Other,Other,1
+Michigan,1984,House,4,Norman J. Rivers,Democrat,54428
+Michigan,1984,House,4,Frederick S. Upton,Republican,132270
+Michigan,1984,House,4,Other,Other,5
+Michigan,1990,Representative,5,James M. Catchick,Democrat,62868
+Michigan,1990,Representative,5,Paul B. Henry,Republican,166569
+Michigan,1990,Representative,5,Other,,8
+Michigan,1990,Representative,6,Bob Carr,Democrat,120581
+Michigan,1990,Representative,6,Scott Schultz,Republican,81079
+Michigan,1990,Representative,6,Tony Wright,Libertarian,1397
+Michigan,1990,Representative,6,Judith R. Christensen,Workers Against Concessions,1063
+Michigan,1990,Representative,6,Other,,5
+Michigan,1990,Representative,7,Dale E. Kildee,Democrat,150832
+Michigan,1990,Representative,7,Jeff Coad,Republican,47071
+Michigan,1990,Representative,7,Gary Walkowicz,Workers Against Concessions,1174
+Michigan,1990,Representative,7,Other,,3
+Michigan,1990,Representative,8,Bob Traxler,Democrat,139904
+Michigan,1990,Representative,8,Lloyd F. Buhl,Republican,54195
+Michigan,1990,Representative,8,Other,,5
+Michigan,1990,Representative,9,David John Gawron,Democrat,64843
+Michigan,1990,Representative,9,Guy Vander Jagt,Republican,149743
+Michigan,1990,Representative,9,Other,,8
+Michigan,1988,Presidential,,,,1965486
+Michigan,1988,Presidential,,,,1675783
+Michigan,1984,Presidential,,,,1675783
+Michigan,1984,Presidential,,,,1965486
+Michigan,1984,Presidential,,,,18336
+Michigan,1984,Presidential,,,,1958
+Michigan,1984,Presidential,,,,7500
+Michigan,1984,Senate,,Donald W. Riegle Jr.,Democrat,2116865
+Michigan,1984,Senate,,Jack Lousma,Republican,1348219
+Michigan,1984,Senate,,Dick M. Jacobs,Libertarian,27116
+Michigan,1984,Senate,,Sally Blair,Workers Against Concessions,8908
+Michigan,1984,Senate,,Other,Other,4877
+Michigan,1988,Presidential,,Democratic,Democratic,1675783
+Michigan,1988,Presidential,,Republican,Republican,1965318
+Minnesota,1994,1st district,1,,Democratic,141318
+Minnesota,1994,2nd district,2,,Democratic,94818
+Minnesota,1994,3rd district,3,,Democratic,77271
+Minnesota,1994,4th district,4,,Democratic,137495
+Minnesota,1982,House,4,Bruce F. Vento,Democratic-Farmer-Labor,131227
+Minnesota,1982,House,4,Ian Maitland,Independent-Republican,67073
+Minnesota,1982,House,4,Natasha Terlexis,Socialist Workers,1861
+Minnesota,1982,House,4,,Write-In,166
+Minnesota,1994,5th district,5,,Democratic,141146
+Minnesota,1982,House,5,Martin Olav Sabo,Democratic-Farmer-Labor,174416
+Minnesota,1982,House,5,Raymond C. Gilbertson,Independent-Republican,60646
+Minnesota,1982,House,5,T. Christopher Wright,Grassroots,6468
+Minnesota,1982,House,5,,Write-In,488
+Minnesota,1994,6th district,6,,Democratic,102661
+Minnesota,1982,House,6,Gerry Sikorski,Democratic-Farmer-Labor,169486
+Minnesota,1982,House,6,Ray Ploetz,Independent-Republican,89209
+Minnesota,1982,House,6,,Write-In,340
+Minnesota,1994,7th district,7,,Democratic,116502
+Minnesota,1982,House,7,Marv Hanson,Democratic-Farmer-Labor,101011
+Minnesota,1982,House,7,Arlan Stangeland,Independent-Republican,121396
+Minnesota,1982,House,7,,Write-In,89
+Minnesota,1994,8th district,8,,Democratic,165662
+Minnesota,1982,House,8,James L. Oberstar,Democratic-Farmer-Labor,165656
+Minnesota,1982,House,8,Jerry Shuster,Independent-Republican,56530
+Minnesota,1982,House,8,,Write-In,25
+Minnesota,1988,Presidential,,,,1109471
+Minnesota,1988,Presidential,,,,962337
+Minnesota,1988,Presidential,,Democratic,Democratic,1109471
+Minnesota,1988,Presidential,,Republican,Republican,962337
+Mississippi,1988,Presidential,,,,557890
+Mississippi,1988,Presidential,,,,363921
+Mississippi,1988,Presidential,,Democratic,Democratic,363921
+Mississippi,1988,Presidential,,Republican,Republican,557890
+Missouri,1988,Presidential,,,,1084953
+Missouri,1988,Presidential,,,,931182
+Missouri,1988,Presidential,,Democratic,Democratic,1007619
+Missouri,1988,Presidential,,Republican,Republican,1084953
+Montana,1988,Presidential,,,,190412
+Montana,1988,Presidential,,,,168936
+Montana,1988,Presidential,,Democratic,Democratic,168936
+Montana,1988,Presidential,,Republican,Republican,190412
+NEBRASKA,1980,House,1,Corky Jones,Democratic,72187
+NEBRASKA,1980,House,1,Doug Bereuter,Republican,146281
+NEBRASKA,1980,House,1,Write-In,Write-In,104
+NEBRASKA,1980,House,2,Peter Hoagland,Democratic,112174
+NEBRASKA,1980,House,2,Jerry Schenken,Republican,109193
+NEBRASKA,1980,House,2,Write-In,Write-In,908
+NEBRASKA,1980,House,3,John D. Bacek,Democratic,45183
+NEBRASKA,1980,House,3,Virginia Smith,Republican,170302
+NEBRASKA,1980,House,3,Write-In,Write-In,16
+NEBRASKA,1980,Presidential,,,,259235
+NEBRASKA,1980,Presidential,,,,397956
+NEBRASKA,1980,Presidential,,,,2584
+NEBRASKA,1980,Presidential,,,,1740
+NEBRASKA,1980,Senate,,Bob Kerrey,Democratic,378717
+NEBRASKA,1980,Senate,,Dave Karnes,Republican,278250
+NEBRASKA,1980,Senate,,Ernie Chambers,New Alliance,10372
+NEBRASKA,1980,Senate,,Write-In,Write-In,521
+NEVADA,1980,Presidential,,,,132738
+NEVADA,1980,Presidential,,,,205040
+NEVADA,1980,Presidential,,,,3520
+NEVADA,1980,Presidential,,,,835
+NEW JERSEY,1988,HOUSE,1,James J. Florio,Democrat,141988
+NEW JERSEY,1988,HOUSE,1,Frank A. Cristaudo,Republican,60037
+NEW JERSEY,1988,HOUSE,1,Richard Bartucci,Libertarian,1128
+NEW JERSEY,1988,HOUSE,10,Donald M. Payne,Democrat,84681
+NEW JERSEY,1988,HOUSE,10,Michael Webb,Republican,13848
+NEW JERSEY,1988,HOUSE,10,Anthony Imperiale,People's Choice,5422
+NEW JERSEY,1988,HOUSE,10,Mindy Birdno,Socialist Workers,4539
+NEW JERSEY,1988,HOUSE,10,Alvin Curtis,Time for Change,551
+NEW JERSEY,1988,HOUSE,10,Alan Bowser,Independent,432
+NEW JERSEY,1988,HOUSE,11,John C. Shaw,Democrat,64773
+NEW JERSEY,1988,HOUSE,11,Dean A. Gallo,Republican,154654
+NEW JERSEY,1988,HOUSE,12,Norman J. Weinstein,Democrat,71596
+NEW JERSEY,1988,HOUSE,12,Jim Courier,Republican,165918
+NEW JERSEY,1988,HOUSE,12,Stephen Friedlander,Libertarian,2023
+NEW JERSEY,1988,HOUSE,2,William J. Hughes,Democrat,134505
+NEW JERSEY,1988,HOUSE,2,Kirk W. Conover,Republican,67759
+NEW JERSEY,1988,HOUSE,2,Richard A. Schindewolf Jr.,Pro-Life Conservative,2372
+NEW JERSEY,1988,HOUSE,3,Frank Pallone Jr.,Democrat,117024
+NEW JERSEY,1988,HOUSE,3,Joseph Azzolina,Republican,107479
+NEW JERSEY,1988,HOUSE,3,Laura Stewart,Libertarian,2107
+NEW JERSEY,1988,HOUSE,4,Betty Holland,Democrat,79006
+NEW JERSEY,1988,HOUSE,4,Christopher H. Smith,Republican,155283
+NEW JERSEY,1988,HOUSE,4,Judson M. Carter,Independent,1114
+NEW JERSEY,1988,HOUSE,4,Daniel A. Maiullo Jr.,Libertarian,691
+NEW JERSEY,1988,HOUSE,5,Lee Monaco,Democrat,54828
+NEW JERSEY,1988,HOUSE,5,Marge Roukema,Republican,175562
+NEW JERSEY,1988,HOUSE,5,Daniel M. Karlan,Libertarian,1546
+NEW JERSEY,1988,HOUSE,6,Bernard J. Dwyer,Democrat,120125
+NEW JERSEY,1988,HOUSE,6,Peter J. Sica,Republican,74824
+NEW JERSEY,1988,HOUSE,6,Joan Paltrineri,Socialist Workers,1034
+NEW JERSEY,1988,HOUSE,6,Howard F. Schoen,Libertarian,615
+NEW JERSEY,1988,HOUSE,7,James Hely,Democrat,82189
+NEW JERSEY,1988,HOUSE,7,Matthew J. Rinaldo,Republican,153350
+NEW JERSEY,1988,HOUSE,8,Robert A. Roe,Democrat,96036
+NEW JERSEY,1988,HOUSE,9,Robert G. Torricelli,Democrat,142012
+NEW JERSEY,1988,HOUSE,9,Roger J. Lane,Republican,68363
+NEW JERSEY,1988,HOUSE,9,Richard J. Kemly,Poor Man's,1119
+NEW JERSEY,1988,PRESIDENT,,,,1320352
+NEW JERSEY,1988,PRESIDENT,,,,1743192
+NEW JERSEY,1988,PRESIDENT,,,,9953
+NEW JERSEY,1988,PRESIDENT,,,,8421
+NEW JERSEY,1988,PRESIDENT,,,,5119
+NEW JERSEY,1988,PRESIDENT,,,,3454
+NEW JERSEY,1988,PRESIDENT,,,,2587
+NEW JERSEY,1988,PRESIDENT,,,,2446
+NEW JERSEY,1988,PRESIDENT,,,,2298
+NEW JERSEY,1988,PRESIDENT,,,,1020
+NEW JERSEY,1988,PRESIDENT,,,,691
+NEW JERSEY,1988,SENATE,,Frank R. Lautenberg,Democrat,1599905
+NEW JERSEY,1988,SENATE,,Peter M. Dawkins,Republican,1349337
+NEW JERSEY,1988,SENATE,,Joseph F. Job,Independent,20091
+NEW JERSEY,1988,SENATE,,Jerry Zeldin,Libertarian,12354
+NEW JERSEY,1988,SENATE,,Thomas A. Fiske,Socialist Workers,5347
+NEW MEXICO,1988,HOUSE,1,Tom Udall,Democratic,84138
+NEW MEXICO,1988,HOUSE,1,Steven H. Schiff,Republican,89985
+NEW MEXICO,1988,HOUSE,1,Allen Montgomery Parkman,Libertarian,3839
+NEW MEXICO,1988,HOUSE,2,Joe Skeen,Republican,100324
+NEW MEXICO,1988,HOUSE,3,Bill Richardson,Democratic,124938
+NEW MEXICO,1988,HOUSE,3,Cecilia M. Salazar,Republican,45954
+NEW MEXICO,1988,PRESIDENT,,,,244497
+NEW MEXICO,1988,PRESIDENT,,,,270341
+NEW MEXICO,1988,PRESIDENT,,,,3268
+NEW MEXICO,1988,PRESIDENT,,,,2237
+NEW MEXICO,1988,PRESIDENT,,,,344
+NEW MEXICO,1988,PRESIDENT,,,,258
+NEW MEXICO,1988,PRESIDENT,,,,249
+NEW MEXICO,1988,PRESIDENT,,,,93
+NEW MEXICO,1988,SENATE,,Jeff Bingaman,Democratic,321983
+NEW MEXICO,1988,SENATE,,Bill Valentine,Republican,186579
+NEW MEXICO,1988,SENATE,,Write-In,Write-In,36
+NEW YORK,1982,HOUSE,1,George J. Hochbrueckner,Democrat,103511
+NEW YORK,1982,HOUSE,1,Edward P. Romaine,Republican,87812
+NEW YORK,1982,HOUSE,10,Charles E. Schumer,Democrat,102727
+NEW YORK,1982,HOUSE,10,George S. Popielarski,Republican,24313
+NEW YORK,1982,HOUSE,11,Edolphus Towns,Democrat,70973
+NEW YORK,1982,HOUSE,11,Riaz B. Hussain,Republican,7418
+NEW YORK,1982,HOUSE,12,Major R. Owens,Democrat,69062
+NEW YORK,1982,HOUSE,12,Owen Augustin,Republican,4652
+NEW YORK,1994,House,13,Stephen J. Solarz,Democrat,77988
+NEW YORK,1994,House,13,,Liberal,3317
+NEW YORK,1994,House,13,Anthony M. Curci,Republican,23926
+NEW YORK,1994,House,13,,Conservative,3610
+NEW YORK,1994,House,14,Jerome X. O'Donovan,Democrat,56088
+NEW YORK,1994,House,14,,Independent Voter,1415
+NEW YORK,1994,House,14,Guy V. Molinari,Republican,31211
+NEW YORK,1994,House,14,,Conservative,13087
+NEW YORK,1994,House,14,,Right-To-Life,4881
+NEW YORK,1994,House,15,Peter G. Doukas,Democrat,64425
+NEW YORK,1994,House,15,Bill Green,Republican,100701
+NEW YORK,1994,House,15,,Independent,6898
+NEW YORK,1994,House,15,John B. Levitt,Liberal,3459
+NEW YORK,1994,House,16,Charles B. Rangel,Democrat,95227
+NEW YORK,1994,House,16,,Republican,8820
+NEW YORK,1994,House,16,,Liberal,3573
+NEW YORK,1994,House,16,Michael Liccione,Conservative,1779
+NEW YORK,1994,House,16,Barbara R. Taylor,New Alliance,1451
+NEW YORK,1994,House,17,Ted Weiss,Democrat,148089
+NEW YORK,1994,House,17,,Liberal,9250
+NEW YORK,1994,House,17,Myrna C. Albert,Republican,26443
+NEW YORK,1994,House,17,,Conservative,2713
+NEW YORK,1994,House,18,Robert Garcia,Democrat,73168
+NEW YORK,1994,House,18,,Liberal,2291
+NEW YORK,1994,House,18,Fred Brown,Republican,5764
+NEW YORK,1994,House,18,Rafael Mendez,New Alliance,904
+NEW YORK,1994,House,18,Daniel Verhoff,Conservative,739
+NEW YORK,1994,House,19,Eliot L. Engel,Democrat,74618
+NEW YORK,1994,House,19,,Liberal,2545
+NEW YORK,1994,House,19,Mario Biaggi,Republican,37454
+NEW YORK,1994,House,19,Martin J. O'Grady,Right-To-Life,11271
+NEW YORK,1994,House,19,Robert Blumetti,Conservative,11182
+NEW YORK,1994,House,19,Michael Zagarell,Independent Progressive Line,678
+NEW YORK,1982,HOUSE,2,Thomas J. Downey,Democrat,104765
+NEW YORK,1982,HOUSE,2,Joseph Carino Jr.,Republican,55773
+NEW YORK,1994,House,20,Nita M. Lowey,Democrat,102235
+NEW YORK,1994,House,20,Joseph J. DioGuardi,Republican,94951
+NEW YORK,1994,House,20,,Conservative,11514
+NEW YORK,1994,House,20,Florence T. O'Grady,Right-To-Life,2932
+NEW YORK,1994,House,20,Henry M. Levine,Liberal,1631
+NEW YORK,1994,House,21,Lawrence W. Grunberger,Democrat,47294
+NEW YORK,1994,House,21,Hamilton Fish Jr.,Republican,134173
+NEW YORK,1994,House,21,,Conservative,16270
+NEW YORK,1994,House,21,Richard S. Curtin II,Right-To-Life,3870
+NEW YORK,1994,House,22,Eleanor F. Burlingham,Democrat,54312
+NEW YORK,1994,House,22,Benjamin A. Gilman,Republican,144227
+NEW YORK,1994,House,22,Barbara E. Braun,Right-To-Life,5096
+NEW YORK,1994,House,23,Michael R. McNulty,Democrat,145040
+NEW YORK,1994,House,23,Peter M. Bakal,Republican,83308
+NEW YORK,1994,House,23,,Conservative,6550
+NEW YORK,1994,House,24,Fred Baye,Democrat,62177
+NEW YORK,1994,House,24,Gerald B. H. Solomon,Republican,144271
+NEW YORK,1994,House,24,,Conservative,12523
+NEW YORK,1994,House,24,,Right-To-Life,5168
+NEW YORK,1994,House,25,Sherwood L. Boehlert,Republican,130122
+NEW YORK,1994,House,26,Donald R. Ravenscroft,Democrat,43585
+NEW YORK,1994,House,26,David O'B. Martin,Republican,120973
+NEW YORK,1994,House,26,,Conservative,10070
+NEW YORK,1982,Representative,27,Rosemary S. Pooler,Democrat,88476
+NEW YORK,1982,Representative,27,Jobs,,2378
+NEW YORK,1982,Representative,27,James T. Walsh,Republican,116918
+NEW YORK,1982,Representative,27,,Conservative,8010
+NEW YORK,1982,Representative,27,Stephen K. Hoff,Right-To-Life,1644
+NEW YORK,1982,Representative,28,Matt McHugh,Democrat,141976
+NEW YORK,1982,Representative,28,Mary C. Dixon,Right-To-Life,10395
+NEW YORK,1982,Representative,29,James R. Vogel,Democrat,51243
+NEW YORK,1982,Representative,29,Frank Horton,Republican,132608
+NEW YORK,1982,Representative,29,Richard G. Baxer,Conservative,5688
+NEW YORK,1982,Representative,29,Donald M. Peters,Right-To-Life,3122
+NEW YORK,1982,HOUSE,3,Robert J. Mrazek,Democrat,128336
+NEW YORK,1982,HOUSE,3,Robert Previdi,Republican,80393
+NEW YORK,1982,Representative,30,Louise M. Slaughter,Democrat,128364
+NEW YORK,1982,Representative,30,John D. Bouchard,Republican,89126
+NEW YORK,1982,Representative,30,Thomas D. Cook,Conservative,6252
+NEW YORK,1982,Representative,30,Michael P. Flanagan,Right-To-Life,1970
+NEW YORK,1982,Representative,31,David J. Swarts,Democrat,98958
+NEW YORK,1982,Representative,31,,Liberal,3819
+NEW YORK,1982,Representative,31,L. William Paxon,Republican,103802
+NEW YORK,1982,Representative,31,,Conservative,8245
+NEW YORK,1982,Representative,31,,Right-To-Life,5663
+NEW YORK,1982,Representative,32,John J. LaFalce,Democrat,129359
+NEW YORK,1982,Representative,32,,Liberal,4558
+NEW YORK,1982,Representative,32,Emil K. Novak Jr.,Republican,43747
+NEW YORK,1982,Representative,32,,Conservative,3733
+NEW YORK,1982,Representative,32,,Right-To-Life,2749
+NEW YORK,1982,Representative,33,Henry J. Nowak,Democrat,134398
+NEW YORK,1982,Representative,33,,Liberal,5206
+NEW YORK,1982,Representative,34,Amo Houghton,Republican,119552
+NEW YORK,1982,Representative,34,,Conservative,11526
+NEW YORK,1982,Representative,34,Ian Kelly Woodward,Liberal,4797
+NEW YORK,1982,HOUSE,4,Francis T. Goban,Democrat,87435
+NEW YORK,1982,HOUSE,4,Norman F. Lent,Republican,135173
+NEW YORK,1982,HOUSE,5,William G. Kelly,Democrat,68930
+NEW YORK,1982,HOUSE,5,Raymond J. McGrath,Republican,122038
+NEW YORK,1982,HOUSE,6,Floyd H. Flake,Democrat,90196
+NEW YORK,1982,HOUSE,6,Robert L. Brandofino,Conservative,13499
+NEW YORK,1982,HOUSE,7,Gary L. Ackerman,Democrat,89105
+NEW YORK,1982,HOUSE,8,James H. Scheuer,Democrat,95045
+NEW YORK,1982,HOUSE,9,Thomas J. Manton,Democrat,72851
+NEW YORK,1982,SENATE,,Daniel Patrick Moynihan,Democrat,3907178
+NEW YORK,1982,SENATE,,Robert R. McMillan,Republican,1943551
+NEW YORK,1982,SENATE,,Adele R. Nathanson,Right-To-Life,64845
+NEW YORK,1982,SENATE,,Charlene Mitchell,Independent Progressive Line,14770
+NEW YORK,1982,SENATE,,Lydia Bayoneta,Workers World,13673
+NEW YORK,1982,SENATE,,William P. McMillen,Libertarian,12064
+NEW YORK,1982,SENATE,,James E. Harris Jr.,Socialist Workers,11239
+NEW YORK,1988,PRESIDENT,,,,3255487
+NEW YORK,1988,PRESIDENT,,,,2838414
+NEW YORK,1988,PRESIDENT,,,,243457
+NEW YORK,1988,PRESIDENT,,,,22395
+NEW YORK,1988,PRESIDENT,,,,20447
+NEW YORK,1988,PRESIDENT,,,,15845
+NEW YORK,1988,PRESIDENT,,,,12149
+NEW YORK,1988,PRESIDENT,,,,4179
+NEW YORK,1988,PRESIDENT,,,,3287
+NEW YORK,1988,PRESIDENT,,,,13
+NORTH CAROLINA,1984,HOUSE,1,Walter B. Jones,Democratic,118027
+NORTH CAROLINA,1984,HOUSE,1,Howard D. Moye,Republican,63013
+NORTH CAROLINA,1984,HOUSE,10,Jack L. Rhyne,Democratic,71865
+NORTH CAROLINA,1984,HOUSE,10,Cass Ballenger,Republican,112554
+NORTH CAROLINA,1984,HOUSE,11,James McClure Clarke,Democratic,108436
+NORTH CAROLINA,1984,HOUSE,11,Charles H. Taylor,Republican,106907
+NORTH CAROLINA,1984,HOUSE,2,Tim Valentine,Democratic,128832
+NORTH CAROLINA,1984,HOUSE,3,H. Martin Lancaster,Democratic,95323
+NORTH CAROLINA,1984,HOUSE,4,David E. Price,Democratic,131896
+NORTH CAROLINA,1984,HOUSE,4,Tom Fetzer,Republican,95482
+NORTH CAROLINA,1984,HOUSE,5,Stephen L. Neal,Democratic,110516
+NORTH CAROLINA,1984,HOUSE,5,Lyons Gray,Republican,99540
+NORTH CAROLINA,1984,HOUSE,6,Tom Gilmore,Democratic,70008
+NORTH CAROLINA,1984,HOUSE,6,Howard Coble,Republican,116534
+NORTH CAROLINA,1984,HOUSE,7,Charles Rose,Democratic,102392
+NORTH CAROLINA,1984,HOUSE,7,George G. (Jerry) Thompson,Republican,49855
+NORTH CAROLINA,1984,HOUSE,8,W. G. (Bill) Hefner,Democratic,99214
+NORTH CAROLINA,1984,HOUSE,8,Ted Blanton,Republican,93463
+NORTH CAROLINA,1984,HOUSE,9,Mark Sholander,Democratic,71802
+NORTH CAROLINA,1984,HOUSE,9,J. Alex McMillan,Republican,139014
+NORTH CAROLINA,1984,PRESIDENTIAL,,,,890167
+NORTH CAROLINA,1984,PRESIDENTIAL,,,,1237258
+NORTH CAROLINA,1984,PRESIDENTIAL,,,,5682
+NORTH CAROLINA,1984,PRESIDENTIAL,,,,1263
+NORTH DAKOTA,1982,Senate,,Quentin N. Burdick,Democratic,171899
+NORTH DAKOTA,1982,Senate,,Earl Strinden,Republican,112937
+NORTH DAKOTA,1982,Senate,,Kenneth C. Gardner,Libertarian,4334
+NORTH DAKOTA,1982,House,,Byron L. Dorgan,Democratic,212583
+NORTH DAKOTA,1982,House,,Steve Sydness,Republican,84475
+NORTH DAKOTA,1982,House,,Kris Brekke,Libertarian,2924
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,127739
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,166559
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,1315
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,905
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,396
+NORTH DAKOTA,1984,PRESIDENTIAL,,,,347
+Nebraska,1988,Presidential,,,,397956
+Nebraska,1988,Presidential,,,,243959
+Nebraska,1988,Presidential,,Democratic,Democratic,217258
+Nebraska,1988,Presidential,,Republican,Republican,397956
+Nevada,1980,House,1,James H. Bilbray,Democratic,101764
+Nevada,1980,House,1,Lucille Lusk,Republican,53588
+Nevada,1980,House,1,Patrick O'Neill,Libertarian,3724
+Nevada,1980,House,2,Jim Spoo,Democratic,75163
+Nevada,1980,House,2,Barbara F. Vucanovich,Republican,105981
+Nevada,1980,House,2,Kent Cromwell,Libertarian,3953
+Nevada,1988,Presidential,,,,206040
+Nevada,1988,Presidential,,,,132738
+Nevada,1980,Senate,,Richard H. Bryan,Democratic,175548
+Nevada,1980,Senate,,Chic Hecht,Republican,161386
+Nevada,1980,Senate,,James Frye,Libertarian,5523
+Nevada,1988,Presidential,,Democratic,Democratic,132738
+Nevada,1988,Presidential,,Republican,Republican,206040
+New Hampshire,1980,House,1,Joseph F. Keefe,Democratic,86623
+New Hampshire,1980,House,1,Bob Smith,Republican,131824
+New Hampshire,1980,House,1,Write-In,Write-In,58
+New Hampshire,1980,House,2,James W. Donchess,Democratic,89677
+New Hampshire,1980,House,2,Chuck Douglas,Republican,119742
+New Hampshire,1980,House,2,Roy Kendel,Independent,1454
+New Hampshire,1980,House,2,Write-In,Write-In,121
+New Hampshire,1988,Presidential,,,,281537
+New Hampshire,1988,Presidential,,,,163696
+New Hampshire,1988,Presidential,,Democratic,Democratic,163696
+New Hampshire,1988,Presidential,,Republican,Republican,281537
+New Jersey,1982,Representative,13,James B. Smith,Democrat,73561
+New Jersey,1982,Representative,13,H. James Saxton,Republican,167470
+New Jersey,1982,Representative,14,Frank J. Guarini,Democrat,104001
+New Jersey,1982,Representative,14,Fred J. Theemling Jr.,Republican,47293
+New Jersey,1982,Representative,14,John A. Jones,All-Peoples Congress,1346
+New Jersey,1982,Representative,14,Christopher White,Libertarian,1005
+New Jersey,1982,Representative,14,John Rummel,Communist,442
+New Jersey,1982,Representative,14,Peter Galbo,No Slogan,353
+New Jersey,1988,Presidential,,,,1743192
+New Jersey,1988,Presidential,,,,1320352
+New Jersey,1988,Presidential,,Democratic,Democratic,1320352
+New Jersey,1988,Presidential,,Republican,Republican,1743192
+New Mexico,1988,Presidential,,,,270341
+New Mexico,1988,Presidential,,,,217302
+New Mexico,1988,Presidential,,Democratic,Democratic,270341
+New Mexico,1988,Presidential,,Republican,Republican,286783
+New York,1988,Presidential,,,,3347882
+New York,1988,Presidential,,,,2190165
+New York,1988,Presidential,,Democratic,Democratic,3347882
+New York,1988,Presidential,,Republican,Republican,3081871
+North Carolina,1988,Presidential,,,,1237258
+North Carolina,1988,Presidential,,,,890167
+North Carolina,1988,Presidential,,Democratic,Democratic,890167
+North Carolina,1988,Presidential,,Republican,Republican,1237258
+North Dakota,1988,Presidential,,,,166559
+North Dakota,1988,Presidential,,,,127739
+North Dakota,1988,Presidential,,Democratic,Democratic,127739
+North Dakota,1988,Presidential,,Republican,Republican,166559
+OHIO,1982,House,1,Thomas A. Luken,Democratic,117682
+OHIO,1982,House,1,Steve Chabot,Republican,90738
+OHIO,1996,House,10,John M. Buchanan,Democrat,56893
+OHIO,1996,House,10,Clarence E. Miller,Republican,143673
+OHIO,1996,House,11,Dennis E. Eckart,Democrat,124600
+OHIO,1996,House,11,Margaret Mueller,Republican,78028
+OHIO,1996,House,12,Mark P. Brown,Democrat,50782
+OHIO,1996,House,12,John R. Kasich,Republican,204892
+OHIO,1996,House,13,Donald J. Pease,Democrat,137074
+OHIO,1996,House,13,Dwight Brown,Republican,59287
+OHIO,1996,House,14,Thomas C. Sawyer,Democrat,148951
+OHIO,1996,House,14,Loretta Lang,Republican,50356
+OHIO,1996,House,15,Mark S. Froehlich,Democrat,51172
+OHIO,1996,House,15,Chalmers P. Wylie,Republican,154694
+OHIO,1996,House,16,Melvin J. Gravely,Democrat,43356
+OHIO,1996,House,16,Ralph Regula,Republican,158824
+OHIO,1996,House,17,James A. Traficant Jr.,Democrat,162526
+OHIO,1996,House,17,Frederick W. Lenz,Republican,47929
+OHIO,1996,House,18,Douglas Applegate,Democrat,151306
+OHIO,1996,House,18,William C. Abraham,Republican,43628
+OHIO,1996,House,19,Edward F. Feighan,Democrat,168065
+OHIO,1996,House,19,Noel F. Roberts,Republican,70359
+OHIO,1982,House,2,Chuck R. Stidham,Democratic,58637
+OHIO,1982,House,2,Willis D. Gradison Jr.,Republican,153162
+OHIO,1996,House,20,Mary Rose Oakar,Democrat,146715
+OHIO,1996,House,20,Michael Sajna,Republican,30944
+OHIO,1996,House,21,Louis Stokes,Democrat,148388
+OHIO,1996,House,21,Franklin H. Roski,Republican,24804
+OHIO,1982,House,3,Tony P. Hall,Democratic,141953
+OHIO,1982,House,3,Ron Crutcher,Republican,42664
+OHIO,1982,House,4,Michael G. Oxley,Republican,160099
+OHIO,1982,House,4,Write-In,Write-In,538
+OHIO,1982,House,5,Tom Murray,Democratic,80472
+OHIO,1982,House,5,Paul E. Gillmor,Republican,123838
+OHIO,1982,House,6,Gordon R. Roberts,Democratic,52685
+OHIO,1982,House,6,Bob McEwen,Republican,152295
+OHIO,1982,House,7,Jack Schira,Democratic,50423
+OHIO,1982,House,7,Michael DeWine,Republican,142597
+OHIO,1982,House,8,John Griffin,Democratic,49084
+OHIO,1982,House,8,Donald E. Lukens,Republican,154164
+OHIO,1996,House,9,Marcy Kaptur,Democrat,157557
+OHIO,1996,House,9,Al Hawkins,Republican,36183
+OHIO,1996,House,9,,Write-In,72
+OHIO,1982,Senate,,Howard M. Metzenbaum,Democratic,2480038
+OHIO,1982,Senate,,George V. Voinovich,Republican,1872716
+OHIO,1982,Senate,,Write-In,Write-In,151
+OKLAHOMA,1988,HOUSE,1,Kurt Glassco,Democratic,93101
+OKLAHOMA,1988,HOUSE,1,James M. Inhofe,Republican,103458
+OKLAHOMA,1988,HOUSE,2,Mike Synar,Democratic,136009
+OKLAHOMA,1988,HOUSE,2,Ira Phillips,Republican,73659
+OKLAHOMA,1988,HOUSE,3,Wes Watkins,Democratic,0
+OKLAHOMA,1988,HOUSE,4,Dave McCurdy,Democratic,0
+OKLAHOMA,1988,HOUSE,5,Terry J. Montgomery,Democratic,53668
+OKLAHOMA,1988,HOUSE,5,Mickey Edwards,Republican,139182
+OKLAHOMA,1988,HOUSE,6,Glenn English,Democratic,122887
+OKLAHOMA,1988,HOUSE,6,Mike Brown,Republican,45289
+OKLAHOMA,1988,PRESIDENTIAL,,,,488423
+OKLAHOMA,1988,PRESIDENTIAL,,,,678367
+OKLAHOMA,1988,PRESIDENTIAL,,,,6291
+OKLAHOMA,1988,PRESIDENTIAL,,,,2985
+OREGON,1988,HOUSE,1,Les AuCoin,Democratic,179915
+OREGON,1988,HOUSE,1,Earl Molander,Republican,75626
+OREGON,1988,HOUSE,1,Other,Other,82
+OREGON,1988,HOUSE,2,Larry Tuttle,Democratic,74700
+OREGON,1988,HOUSE,2,Robert F. (Bob) Smith,Republican,125366
+OREGON,1988,HOUSE,2,Other,Other,13
+OREGON,1988,HOUSE,3,Ron Wyden,Democratic,190684
+OREGON,1988,HOUSE,3,Other,Other,1141
+OREGON,1988,HOUSE,4,Peter A. DeFazio,Democratic,108493
+OREGON,1988,HOUSE,4,Jim Howard,Republican,42220
+OREGON,1988,HOUSE,4,Other,Other,82
+OREGON,1988,HOUSE,5,Mike Kopetski,Democratic,110782
+OREGON,1988,HOUSE,5,Denny Smith,Republican,111489
+OREGON,1988,HOUSE,5,Other,Other,83
+OREGON,1988,PRESIDENTIAL,,,,616206
+OREGON,1988,PRESIDENTIAL,,,,560126
+OREGON,1988,PRESIDENTIAL,,,,14811
+OREGON,1988,PRESIDENTIAL,,,,8487
+OREGON,1988,PRESIDENTIAL,,,,4064
+Ohio,1988,Presidential,,,,2416549
+Ohio,1988,Presidential,,,,1939629
+Ohio,1988,Presidential,,Democratic,Democratic,1939629
+Ohio,1988,Presidential,,Republican,Republican,2416549
+Oklahoma,1988,Presidential,,,,678367
+Oklahoma,1988,Presidential,,,,483423
+Oklahoma,1988,Presidential,,Democratic,Democratic,483423
+Oklahoma,1988,Presidential,,Republican,Republican,678367
+Oregon,1988,Presidential,,,,560126
+Oregon,1988,Presidential,,,,616206
+Oregon,1988,Presidential,,Democratic,Democratic,560126
+Oregon,1988,Presidential,,Republican,Republican,560039
+PENNSYLVANIA,1972,House,1,Thomas M. Foglietta,Democratic,128076
+PENNSYLVANIA,1972,House,1,William J. O'Brien,Republican,39749
+PENNSYLVANIA,1972,House,10,Robert C. Cordaro,Democratic,51179
+PENNSYLVANIA,1972,House,10,Joseph M. McDade,Republican,140096
+PENNSYLVANIA,1972,House,2,William H. Gray III,Democratic,184322
+PENNSYLVANIA,1972,House,2,Richard L. Harsch,Republican,12365
+PENNSYLVANIA,1972,House,3,Robert A. Borski,Democratic,135590
+PENNSYLVANIA,1972,House,3,Mark Matthews,Republican,78909
+PENNSYLVANIA,1972,House,4,Joe Kolter,Democratic,124041
+PENNSYLVANIA,1972,House,4,Gordon R. Johnston,Republican,52402
+PENNSYLVANIA,1972,House,4,Erich L. Kaltenhauser,Populist,1256
+PENNSYLVANIA,1972,House,5,Donald A. Hadley,Democratic,42758
+PENNSYLVANIA,1972,House,5,Richard T. Schulze,Republican,158453
+PENNSYLVANIA,1972,House,6,Gus Yatron,Democratic,114119
+PENNSYLVANIA,1972,House,6,James R. Erwin,Republican,65278
+PENNSYLVANIA,1972,House,6,Louis R. Perugini Jr.,Independent,1348
+PENNSYLVANIA,1972,House,7,David Landau,Democratic,73745
+PENNSYLVANIA,1972,House,7,Curt Weldon,Republican,155387
+PENNSYLVANIA,1972,House,8,Peter H. Kostmeyer,Democratic,128153
+PENNSYLVANIA,1972,House,8,Ed Howard,Republican,93648
+PENNSYLVANIA,1972,House,8,Donald C. Ernsberger,Libertarian,3765
+PENNSYLVANIA,1972,House,9,Bud Shuster,Republican,158702
+PENNSYLVANIA,1972,Presidential,,,,2194944
+PENNSYLVANIA,1972,Presidential,,,,2300087
+PENNSYLVANIA,1972,Presidential,,,,19158
+PENNSYLVANIA,1972,Presidential,,,,12051
+PENNSYLVANIA,1972,Presidential,,,,4579
+PENNSYLVANIA,1972,Presidential,,,,3444
+PENNSYLVANIA,1972,Presidential,,,,2188
+PENNSYLVANIA,1972,Senate,,Joe Vignola,Democratic,1416764
+PUERTO RICO,1988,RESIDENT COMMISSIONER,,Jaime B. Fuster,Democratic,864396
+PUERTO RICO,1988,RESIDENT COMMISSIONER,,Pedro J. Rossello,New Progressive,821896
+PUERTO RICO,1988,RESIDENT COMMISSIONER,,Luis Pio Sanchez Longo,Pro-Independence,79159
+Pennsylvania,1922,House,11,Paul E. Kanjorski,Democrat,120706
+Pennsylvania,1922,House,12,John P. Murtha,Democrat,133081
+Pennsylvania,1922,House,13,Bernard Tomkin,Democrat,76424
+Pennsylvania,1922,House,13,Lawrence Coughlin,Republican,152191
+Pennsylvania,1922,House,14,William J. Coyne,Democrat,135181
+Pennsylvania,1922,House,14,Richard Edward Caligiuri,Republican,36719
+Pennsylvania,1922,House,15,Ed Reibman,Democrat,79127
+Pennsylvania,1922,House,15,Don Ritter,Republican,106951
+Pennsylvania,1922,House,16,Ernest Eric Guyll,Democrat,48169
+Pennsylvania,1922,House,16,Robert S. Walker,Republican,136944
+Pennsylvania,1922,House,17,George W. Gekas,Republican Democrat,166289
+Pennsylvania,1922,House,18,Doug Walgren,Democrat,136924
+Pennsylvania,1922,House,18,John A. Newman,Republican,80975
+Pennsylvania,1922,House,18,James J. Bailey,Populist,589
+Pennsylvania,1922,House,19,Paul E. Ritchey,Democrat,42819
+Pennsylvania,1922,House,19,William F. Goodling,Republican,145381
+Pennsylvania,1922,House,20,Joseph M. Gaydos,Democrat,137472
+Pennsylvania,1922,House,20,Richard W. Wilson,Populist,2144
+Pennsylvania,1922,House,21,George R. H. Elder,Democrat,38288
+Pennsylvania,1922,House,21,Thomas J. Ridge,Republican,141832
+Pennsylvania,1922,House,22,Austin J. Murphy,Democrat,123428
+Pennsylvania,1922,House,22,William Hodgkiss,Republican,47039
+Pennsylvania,1922,House,23,Howard Shakespeare,Democrat,63476
+Pennsylvania,1922,House,23,William F. Clinger Jr.,Republican,105575
+Pennsylvania,1922,House,23,William Smolik,Populist,1109
+Pennsylvania,1988,Presidential,,,,2300087
+Pennsylvania,1988,Presidential,,,,2194944
+Pennsylvania,1988,Presidential,,Democratic,Democratic,2194944
+Pennsylvania,1988,Presidential,,Republican,Republican,2300087
+RHODE ISLAND,1980,HOUSE,1,Fernand J. St Germain,Democratic,84141
+RHODE ISLAND,1980,HOUSE,1,Ronald K. Machtley,Republican,105506
+RHODE ISLAND,1980,HOUSE,2,Ruth S. Morgenthau,Democratic,56129
+RHODE ISLAND,1980,HOUSE,2,Claudine Schneider,Republican,145218
+RHODE ISLAND,1980,PRESIDENT,,,,225123
+RHODE ISLAND,1980,PRESIDENT,,,,177761
+RHODE ISLAND,1980,PRESIDENT,,,,825
+RHODE ISLAND,1980,PRESIDENT,,,,280
+RHODE ISLAND,1980,PRESIDENT,,,,195
+RHODE ISLAND,1980,PRESIDENT,,,,159
+RHODE ISLAND,1980,PRESIDENT,,,,130
+RHODE ISLAND,1980,PRESIDENT,,,,96
+RHODE ISLAND,1980,PRESIDENT,,,,53
+RHODE ISLAND,1980,SENATE,,Richard A. Licht,Democratic,180717
+RHODE ISLAND,1980,SENATE,,John H. Chaffee,Republican,217273
+Rhode Island,1988,Presidential,,,,225123
+Rhode Island,1988,Presidential,,,,212080
+Rhode Island,1988,Presidential,,Democratic,Democratic,225123
+Rhode Island,1988,Presidential,,Republican,Republican,177761
+SOUTH CAROLINA,1980,HOUSE,1,Wheeler Tillman,Democratic,57691
+SOUTH CAROLINA,1980,HOUSE,1,Arthur Ravenel Jr.,Republican,101572
+SOUTH CAROLINA,1980,HOUSE,2,Jim Leventis,Democratic,83978
+SOUTH CAROLINA,1980,HOUSE,2,Floyd D. Spence,Republican,94960
+SOUTH CAROLINA,1980,HOUSE,2,Geb Sommer,Libertarian,1061
+SOUTH CAROLINA,1980,HOUSE,3,Butler Derrick,Democratic,89071
+SOUTH CAROLINA,1980,HOUSE,3,Henry Jordan,Republican,75571
+SOUTH CAROLINA,1980,HOUSE,3,John B. Heaton,Libertarian,1188
+SOUTH CAROLINA,1980,HOUSE,4,Liz J. Patterson,Democratic,90234
+SOUTH CAROLINA,1980,HOUSE,4,Knox White,Republican,82793
+SOUTH CAROLINA,1980,HOUSE,5,John Spratt Jr.,Democratic,107959
+SOUTH CAROLINA,1980,HOUSE,5,Robert K. (Bob) Carley,Republican,46622
+SOUTH CAROLINA,1980,HOUSE,6,Robin Tallon,Democratic,120719
+SOUTH CAROLINA,1980,HOUSE,6,Bob Cunningham,Republican,37958
+SOUTH CAROLINA,1980,PRESIDENT,,,,370554
+SOUTH CAROLINA,1980,PRESIDENT,,,,606443
+SOUTH CAROLINA,1980,PRESIDENT,,,,4335
+SOUTH CAROLINA,1980,PRESIDENT,,,,4077
+SOUTH DAKOTA,1948,Representative,,Tim Johnson,Democratic,223759
+SOUTH DAKOTA,1948,Representative,,David Volk,Republican,88157
+SOUTH DAKOTA,1948,Presidential,,,Democratic,145560
+SOUTH DAKOTA,1948,Presidential,,,Republican,165415
+SOUTH DAKOTA,1948,Presidential,,,Independent,2016
+South Carolina,1988,Presidential,,,,606443
+South Carolina,1988,Presidential,,,,305704
+South Carolina,1984,Presidential,,,,549592
+South Carolina,1984,Presidential,,,,344472
+South Carolina,1984,Presidential,,,,2111
+South Carolina,1984,Presidential,,,,2183
+South Carolina,1984,Presidential,,,,401
+South Carolina,1984,Presidential,,,,1153
+South Carolina,1984,Presidential,,,,6983
+South Carolina,1984,Presidential,,,,1842
+South Carolina,1984,Presidential,,,,45427
+South Carolina,1988,Presidential,,Democratic,Democratic,366937
+South Carolina,1988,Presidential,,Republican,Republican,606443
+South Dakota,1988,Presidential,,Democratic,Democratic,145560
+South Dakota,1988,Presidential,,Republican,Republican,165415
+TENNESSEE,1948,Representative,1,Sidney S. Smith,Democratic,29469
+TENNESSEE,1948,Representative,1,James H. (Jimmy) Quillen,Republican,113526
+TENNESSEE,1948,Representative,1,Write-In,Write-In,4
+TENNESSEE,1948,Representative,2,Dudley W. Taylor,Democratic,77540
+TENNESSEE,1948,Representative,2,John J. Duncan Jr.,Republican,99631
+TENNESSEE,1948,Representative,2,Write-In,Write-In,3
+TENNESSEE,1984,HOUSE,3,Marilyn Lloyd,Democrat,108264
+TENNESSEE,1984,HOUSE,3,Harold L. Coker,Republican,80372
+TENNESSEE,1984,HOUSE,3,,Write-In,2
+TENNESSEE,1984,HOUSE,4,Jim Cooper,Democrat,94129
+TENNESSEE,1984,HOUSE,4,,Write-In,22
+TENNESSEE,1984,HOUSE,5,Bob Clement,Democrat,155068
+TENNESSEE,1984,HOUSE,5,,Write-In,72
+TENNESSEE,1984,HOUSE,6,Bart Gordon,Democrat,123652
+TENNESSEE,1984,HOUSE,6,Wallace Embry,Republican,38033
+TENNESSEE,1984,HOUSE,6,,Write-In,2
+TENNESSEE,1984,HOUSE,7,Kenneth (Ken) Bloodworth,Democrat,35237
+TENNESSEE,1984,HOUSE,7,Don Sundquist,Republican,142025
+TENNESSEE,1984,HOUSE,7,,Write-In,3
+TENNESSEE,1984,HOUSE,8,John Tanner,Democrat,94571
+TENNESSEE,1984,HOUSE,8,Ed Bryant,Republican,56893
+TENNESSEE,1984,HOUSE,8,,Write-In,1
+TENNESSEE,1984,HOUSE,9,Harold Ford,Democrat,126280
+TENNESSEE,1984,HOUSE,9,Isaac Richmond,Independent,28522
+TENNESSEE,1948,Presidential,,,Democratic,679794
+TENNESSEE,1948,Presidential,,,Republican,947223
+TENNESSEE,1948,Presidential,,,Independent,8938
+TENNESSEE,1948,Presidential,,,Write-In,235
+TENNESSEE,1948,Senate,,Jim Sasser,Democratic,1020061
+TENNESSEE,1948,Senate,,Bill Anderson,Republican,541033
+TENNESSEE,1948,Senate,,Khalil-Ullah Al-Muhaymin,Independent,6042
+TENNESSEE,1948,Senate,,Write-In,Write-In,45
+TEXAS,1984,HOUSE,1,Jim Chapman,Democrat,122566
+TEXAS,1984,HOUSE,1,Horace McQueen,Republican,74937
+TEXAS,1984,HOUSE,2,Charles Wilson,Democrat,145614
+TEXAS,1984,HOUSE,2,Gary W. Nelson,Libertarian,20475
+TEXAS,1984,HOUSE,26,Jo Ann Reyes,Democrat,86490
+TEXAS,1984,HOUSE,26,Dick Armey,Republican,194944
+TEXAS,1984,HOUSE,26,,Write-in,12
+TEXAS,1984,HOUSE,27,Solomon P. Ortiz,Democrat,105085
+TEXAS,1984,PRESIDENT,,,,2352748
+TEXAS,1984,PRESIDENT,,,,3036829
+TEXAS,1984,PRESIDENT,,,,30355
+TEXAS,1984,PRESIDENT,,,,7208
+TEXAS,1984,PRESIDENT,,,,270
+TEXAS,1984,SENATE,,Lloyd Bentsen,Democrat,3149806
+TEXAS,1984,SENATE,,Beau Bouler,Republican,2129228
+TEXAS,1984,SENATE,,Jeff Daiell,Libertarian,43939
+TEXAS,1984,SENATE,,,Write-In,583
+Tennessee,1988,Presidential,,,,947233
+Tennessee,1988,Presidential,,,,679794
+Tennessee,1988,Presidential,,Democratic,Democratic,679794
+Tennessee,1988,Presidential,,Republican,Republican,947233
+Texas,1994,House,10,"J. J. ""Jake"" Pickle",Democrat,232213
+Texas,1994,House,10,Vincent J. May,Libertarian,15281
+Texas,1994,House,11,Marvin Leath,Democrat,194207
+Texas,1994,House,11,Frederick M. King,Libertarian,6533
+Texas,1994,House,12,Jim Wright,Democrat,135459
+Texas,1994,House,12,,Write-in,997
+Texas,1994,House,13,Bill Sarpalius,Democrat,98345
+Texas,1994,House,13,Larry S. Milner,Republican,89105
+Texas,1994,House,14,Greg Laughlin,Democrat,111395
+Texas,1994,House,14,Mac Sweeney,Republican,96042
+Texas,1994,House,14,Don Kelley,Libertarian,1779
+Texas,1994,House,15,E (Kika) de la Garza,Democrat,93672
+Texas,1994,House,15,Gloria Joyce Hendrix,Libertarian,6133
+Texas,1994,House,16,Ronald Coleman,Democrat,104514
+Texas,1994,House,17,Charles W. Stenholm,Democrat,149064
+Texas,1994,House,18,Mickey Leland,Democrat,94408
+Texas,1994,House,18,J. Alejandro Snead,Libertarian,7235
+Texas,1994,House,19,Gerald McCathern,Democrat,53932
+Texas,1994,House,19,Larry Combest,Republican,113068
+Texas,1994,House,20,Henry B. Gonzalez,Democrat,94557
+Texas,1994,House,20,Lee Trevino,Republican,36301
+Texas,1994,House,20,Theresa S. Doyle,Libertarian,2368
+Texas,1994,House,21,Lamar Smith,Republican,203989
+Texas,1994,House,21,James A. Robinson,Libertarian,14801
+Texas,1994,House,22,Wayne Walker,Democrat,58471
+Texas,1994,House,22,Tom DeLay,Republican,125733
+Texas,1994,House,22,George Harper,Libertarian,2276
+Texas,1994,House,22,,Write-in,4
+Texas,1994,House,23,Albert G. Bustamante,Democrat,115423
+Texas,1994,House,23,Jerome L. (Jerry) Gonzales,Republican,60559
+Texas,1994,House,23,Tony R. Garza,Libertarian,3448
+Texas,1994,House,24,Martin Frost,Democrat,135794
+Texas,1994,House,24,Leo Sadovy,Libertarian,10841
+Texas,1994,House,25,Mike Andrews,Democrat,113499
+Texas,1994,House,25,George Loeffler,Republican,44043
+Texas,1994,House,25,Kevin Southwick,Libertarian,1494
+Texas,1994,House,3,Blake Cowden,Democrat,50627
+Texas,1994,House,3,Steve Bartlett,Republican,227882
+Texas,1994,House,4,Ralph M. Hall,Democrat,139379
+Texas,1994,House,4,Randy Sutton,Republican,67937
+Texas,1994,House,4,Melanie A. Dunn,Libertarian,3152
+Texas,1994,House,5,John Bryant,Democrat,95376
+Texas,1994,House,5,Lon Williams,Republican,59877
+Texas,1994,House,5,Ken Ashby,Libertarian,1786
+Texas,1994,House,6,"N. P. ""Pat"" Kendrick",Democrat,78786
+Texas,1994,House,6,Joe Barton,Republican,164692
+Texas,1994,House,7,Dianne Richards,Democrat,48824
+Texas,1994,House,7,Bill Archer,Republican,185203
+Texas,1994,House,8,Jack Fields,Republican,90503
+Texas,1994,House,9,Jack Brooks,Democrat,137270
+Texas,1988,Presidential,,Democratic,Democratic,2352748
+Texas,1988,Presidential,,Republican,Republican,3036829
+This image appears to be a title page and does not contain any election result data to format into CSV. It shows it's a statistics book for the 1988 Presidential and Congressional election, compiled by Dallas L. Dendy Jr. under direction of Donnald K. Anderson, but contains no actual election results to parse.,,,,
+UTAH,1982,HOUSE,1,Gunn McKay,Democrat,87976
+UTAH,1982,HOUSE,1,James V. Hansen,Republican,130893
+UTAH,1982,HOUSE,2,Wayne Owens,Democrat,112129
+UTAH,1982,HOUSE,2,Richard Snelgrove,Republican,80212
+UTAH,1982,HOUSE,2,Michael Lee,Libertarian,2997
+UTAH,1982,HOUSE,3,Robert W. Stringham,Democrat,60018
+UTAH,1982,HOUSE,3,Howard C. Nielson,Republican,129951
+UTAH,1982,HOUSE,3,E. Dean Christensen,American,3285
+UTAH,1982,HOUSE,3,Judy Stranahan,Socialist Workers,1207
+UTAH,1984,PRESIDENT,,,,207343
+UTAH,1984,PRESIDENT,,,,428442
+UTAH,1984,PRESIDENT,,,,7473
+UTAH,1984,PRESIDENT,,,,2158
+UTAH,1984,PRESIDENT,,,,455
+UTAH,1984,PRESIDENT,,,,427
+UTAH,1984,PRESIDENT,,,,372
+UTAH,1984,PRESIDENT,,,,129
+UTAH,1984,SENATE,,Brian H. Moss,Democrat,203264
+UTAH,1984,SENATE,,Orrin G. Hatch,Republican,430089
+UTAH,1984,SENATE,,Robert J. Smith,American,5016
+UTAH,1984,SENATE,,William M. Arth,Socialist Workers,1233
+Utah,1988,Presidential,,Democratic,Democratic,207343
+Utah,1988,Presidential,,Republican,Republican,428442
+Utah,1988,Presidential,,,,207343
+Utah,1988,Presidential,,,,428937
+Utah,1988,Presidential,,,,8359
+Utah,1988,Presidential,,,,5316
+Utah,1988,Presidential,,,,3166
+Utah,1988,Presidential,,,,1034
+Utah,1988,Presidential,,,,1128734
+Utah,1988,Presidential,,,,139487
+Utah,1988,Presidential,,,,27508
+VERMONT,1982,PRESIDENTIAL,,,,115775
+VERMONT,1982,PRESIDENTIAL,,,,124331
+VERMONT,1982,PRESIDENTIAL,,,,1000
+VERMONT,1982,PRESIDENTIAL,,,,275
+VERMONT,1982,PRESIDENTIAL,,,,205
+VERMONT,1982,PRESIDENTIAL,,,,189
+VERMONT,1982,PRESIDENTIAL,,,,164
+VERMONT,1982,PRESIDENTIAL,,,,142
+VERMONT,1982,PRESIDENTIAL,,,,113
+VERMONT,1982,PRESIDENTIAL,,,,1134
+VERMONT,1982,SENATE,,Bill Gray,Democrat,71460
+VERMONT,1982,SENATE,,James M. Jeffords,Republican,163133
+VERMONT,1982,SENATE,,Jerry Levy,Liberty Union,2333
+VERMONT,1982,SENATE,,King Milne,Independent,2424
+VERMONT,1982,HOUSE,,Paul N. Poirier,Democrat,45330
+VERMONT,1982,HOUSE,,Peter Smith,Republican,99937
+VERMONT,1982,HOUSE,,Bernard Sanders,Independent,90026
+VERMONT,1982,HOUSE,,Jim Hedbor,Libertarian,3110
+VERMONT,1982,HOUSE,,Peter Diamondstone,Liberty Union,1455
+VERMONT,1982,HOUSE,,Morris Earle,Small is Beautiful,1070
+VIRGINIA,1982,House,1,James S. Ellenson,Democratic,49614
+VIRGINIA,1982,House,1,Herbert H. Bateman,Republican,135937
+VIRGINIA,1982,House,1,Write-In,Write-In,25
+VIRGINIA,1982,House,10,Robert L. Weinberg,Democratic,88284
+VIRGINIA,1982,House,10,Frank R. Wolf,Republican,188550
+VIRGINIA,1982,House,10,Write-In,Write-In,74
+VIRGINIA,1982,House,2,Owen B. Pickett,Democratic,106566
+VIRGINIA,1982,House,2,Jerry R. Curry,Republican,62564
+VIRGINIA,1982,House,2,Stephen F. Shaw,Independent,4255
+VIRGINIA,1982,House,2,Robert A. Smith,Independent,2691
+VIRGINIA,1982,House,2,Write-In,Write-In,32
+VIRGINIA,1982,House,3,Thomas J. Bliley Jr.,Republican,187354
+VIRGINIA,1982,House,3,Write-In,Write-In,544
+VIRGINIA,1982,House,4,Norman Sisisky,Democratic,134786
+VIRGINIA,1982,House,4,Write-In,Write-In,98
+VIRGINIA,1982,House,5,Lewis F. Payne Jr.,Democratic,97242
+VIRGINIA,1982,House,5,Charles R. Hawkins,Republican,78396
+VIRGINIA,1982,House,5,"J. F. ""Frank"" Cole",Independent,3732
+VIRGINIA,1982,House,5,Write-In,Write-In,13
+VIRGINIA,1982,House,6,Jim Olin,Democratic,113369
+VIRGINIA,1982,House,6,Charles E. Judd,Republican,66935
+VIRGINIA,1982,House,6,Write-In,Write-In,8
+VIRGINIA,1982,House,7,D. French Slaughter Jr.,Republican,136988
+VIRGINIA,1982,House,7,Write-In,Write-In,458
+VIRGINIA,1982,House,8,David G. Brickley,Democratic,93561
+VIRGINIA,1982,House,8,Stan Parris,Republican,154761
+VIRGINIA,1982,House,8,Write-In,Write-In,78
+VIRGINIA,1982,House,9,Rick Boucher,Democratic,113309
+VIRGINIA,1982,House,9,John C. Brown,Republican,65410
+VIRGINIA,1982,House,9,Write-In,Write-In,8
+VIRGINIA,1982,Presidential,,,,859799
+VIRGINIA,1982,Presidential,,,,1309152
+VIRGINIA,1982,Presidential,,,,14312
+VIRGINIA,1982,Presidential,,,,8336
+VIRGINIA,1982,Senate,,Charles S. Robb,Democratic,1474086
+VIRGINIA,1982,Senate,,Maurice A. Dawkins,Republican,593652
+VIRGINIA,1982,Senate,,Write-In,Write-In,1159
+Vermont,1988,Presidential,,Democratic,Democratic,115775
+Vermont,1988,Presidential,,Republican,Republican,124331
+Vermont,1988,Presidential,,,,465
+Vermont,1988,Presidential,,,,95
+Vermont,1988,Presidential,,,,3020
+Vermont,1988,Presidential,,,,545
+Virgin Islands,1984,Delegate,,Ron de Lugo,Democratic,14573
+Virgin Islands,1984,Delegate,,Write-In,Write-In,395
+Virginia,1988,Presidential,,Democratic,Democratic,859799
+Virginia,1988,Presidential,,Republican,Republican,1309162
+Virginia,1988,Presidential,,,,10
+Virginia,1988,Presidential,,,,11
+Virginia,1988,Presidential,,,,14
+Virginia,1988,Presidential,,,,4442
+Virginia,1988,Presidential,,,,3054
+Virginia,1988,Presidential,,,,111
+WASHINGTON,1988,House,1,Reese Lindquist,Democratic,122646
+WASHINGTON,1988,House,1,John Miller,Republican,152265
+WASHINGTON,1988,House,2,Al Swift,Democratic,175191
+WASHINGTON,1988,House,3,Jolene Unsoeld,Democratic,109412
+WASHINGTON,1988,House,3,Bill Wight,Republican,103794
+WASHINGTON,1988,House,4,J. Richard Golob,Democratic,48550
+WASHINGTON,1988,House,4,Sid Morrison,Republican,142938
+WASHINGTON,1988,House,5,Thomas S. Foley,Democratic,160654
+WASHINGTON,1988,House,5,Marlyn A. Derby,Republican,49657
+WASHINGTON,1988,House,6,Norm Dicks,Democratic,125904
+WASHINGTON,1988,House,6,Kevin P. Cook,Republican,60346
+WASHINGTON,1988,House,7,Jim McDermott,Democratic,173809
+WASHINGTON,1988,House,7,Robert Edwards,Republican,53902
+WASHINGTON,1988,House,8,Jim Kean,Democratic,71920
+WASHINGTON,1988,House,8,Rod Chandler,Republican,174942
+WASHINGTON,1988,Presidential,,,,933516
+WASHINGTON,1988,Presidential,,,,903835
+WASHINGTON,1988,Presidential,,,,17240
+WASHINGTON,1988,Presidential,,,,4412
+WASHINGTON,1988,Presidential,,,,3520
+WASHINGTON,1988,Presidential,,,,1440
+WASHINGTON,1988,Presidential,,,,1290
+WASHINGTON,1988,Senate,,Mike Lowry,Democratic,904183
+WASHINGTON,1988,Senate,,Slade Gorton,Republican,944359
+WEST VIRGINIA,1984,HOUSE,1,Alan B. Mollohan,Democratic,119256
+WEST VIRGINIA,1984,HOUSE,1,Howard Tuck,Republican,40732
+WEST VIRGINIA,1984,HOUSE,2,Harley O. Staggers Jr.,Democratic,118356
+WEST VIRGINIA,1984,HOUSE,3,Robert E. Wise Jr.,Democratic,120192
+WEST VIRGINIA,1984,HOUSE,3,Paul W. Hart,Republican,41478
+WEST VIRGINIA,1984,HOUSE,4,Nick Joe Rahall II,Democratic,78812
+WEST VIRGINIA,1984,HOUSE,4,Marianne R. Brewster,Republican,49753
+WEST VIRGINIA,1984,PRESIDENT,,,,341016
+WEST VIRGINIA,1984,PRESIDENT,,,,310065
+WEST VIRGINIA,1984,PRESIDENT,,,,2230
+WEST VIRGINIA,1984,SENATE,,Robert C. Byrd,Democratic,410983
+WEST VIRGINIA,1984,SENATE,,M. Jay Wolfe,Republican,223564
+WISCONSIN,1988,House,1,Les Aspin,Democrat,158552
+WISCONSIN,1988,House,1,Bernard J. Weaver,Republican,49620
+WISCONSIN,1988,House,2,Robert W. Kastenmeier,Democrat,151501
+WISCONSIN,1988,House,2,Jim Haney,Republican,107457
+WISCONSIN,1988,House,3,Karl Krueger,Democrat,72385
+WISCONSIN,1988,House,3,Steven C. Gunderson,Republican,157513
+WISCONSIN,1988,House,4,Gerald D. Kleczka,Democrat,177283
+WISCONSIN,1988,House,5,Jim Moody,Democrat,140518
+WISCONSIN,1988,House,5,Helen I. Barnhill,Republican,78307
+WISCONSIN,1988,House,6,Joseph Garrett,Democrat,57552
+WISCONSIN,1988,House,6,Thomas E. Petri,Republican,165923
+WISCONSIN,1988,House,7,David R. Obey,Democrat,142197
+WISCONSIN,1988,House,7,Kevin J. Hermening,Republican,86077
+WISCONSIN,1988,House,7,John Thomas Alan Duelge,Independent,1893
+WISCONSIN,1988,House,8,Robert A. Baron,Democrat,72708
+WISCONSIN,1988,House,8,Toby Roth,Republican,167275
+WISCONSIN,1988,House,9,Thomas J. Hickey,Democrat,62008
+WISCONSIN,1988,House,9,F. James Sensenbrenner Jr.,Republican,185093
+WISCONSIN,1988,Senate,,Herbert H. Kohl,Democrat,1128625
+WISCONSIN,1988,Senate,,Susan Engeleiter,Republican,1030440
+WISCONSIN,1988,Senate,,George W. Zaehringer,Independent,3965
+WISCONSIN,1988,Senate,,Patricia Grogan,Independent,1198
+WISCONSIN,1988,Senate,,Arlyn F. Wollenburg,Independent,933
+WISCONSIN,1984,PRESIDENT,,,,1126794
+WISCONSIN,1984,PRESIDENT,,,,1047499
+WISCONSIN,1984,PRESIDENT,,,,15042
+WISCONSIN,1984,PRESIDENT,,,,2273
+WYOMING,1988,HOUSE,0,Bryan Sharratt,Democratic,56527
+WYOMING,1988,HOUSE,0,Dick Cheney,Republican,118350
+WYOMING,1988,HOUSE,0,Craig Alan McCune,Libertarian,1906
+WYOMING,1988,HOUSE,0,Al Hamburg,New Alliance,868
+WYOMING,1988,PRESIDENT,,,,67113
+WYOMING,1988,PRESIDENT,,,,106867
+WYOMING,1988,PRESIDENT,,,,2026
+WYOMING,1988,PRESIDENT,,,,545
+WYOMING,1988,SENATE,,John P. Vinich,Democratic,89821
+WYOMING,1988,SENATE,,Malcolm Wallop,Republican,91143
+Washington,1988,Presidential,,Democratic,Democratic,933516
+Washington,1988,Presidential,,Republican,Republican,903835
+West Virginia,1988,Presidential,,Democratic,Democratic,341016
+West Virginia,1988,Presidential,,Republican,Republican,310065
+West Virginia,1988,Presidential,,,,1
+Wisconsin,1988,Presidential,,Democratic,Democratic,1126794
+Wisconsin,1988,Presidential,,Republican,Republican,1047499
+Wisconsin,1988,Presidential,,,,1
+Wyoming,1988,Presidential,,Democratic,Democratic,67113
+Wyoming,1988,Presidential,,Republican,Republican,106867
+Wyoming,1988,Presidential,,,,3

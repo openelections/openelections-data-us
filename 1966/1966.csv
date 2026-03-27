@@ -1,0 +1,1400 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+34th,1855-1857,62,42,15,5,0
+35th,1857-1859,64,36,20,8,0
+36th,1859-1861,66,38,26,2,0
+37th,1861-1863,50,11,31,7,1
+38th,1863-1865,51,12,39,0,0
+39th,1865-1867,52,10,42,0,0
+40th,1867-1869,53,11,42,0,0
+41st,1869-1871,74,11,61,0,2
+42nd,1871-1873,74,17,57,0,0
+43rd,1873-1875,74,19,54,0,1
+44th,1875-1877,76,29,46,0,1
+45th,1877-1879,76,36,39,1,0
+46th,1879-1881,76,43,33,0,0
+47th,1881-1883,76,37,39,0,0
+48th,1883-1885,76,36,40,0,0
+49th,1885-1887,76,34,41,0,1
+50th,1887-1889,76,37,39,0,0
+51st,1889-1891,84,37,47,0,0
+52nd,1891-1893,88,39,47,2,0
+53rd,1893-1895,88,44,38,3,3
+54th,1895-1897,88,39,44,5,0
+55th,1897-1899,90,34,46,10,0
+56th,1899-1901,90,26,53,11,0
+57th,1901-1903,90,29,56,3,2
+58th,1903-1905,90,32,58,0,0
+59th,1905-1907,90,32,58,0,0
+60th,1907-1909,92,29,61,0,2
+61st,1909-1911,92,32,59,0,1
+62nd,1911-1913,92,42,49,1,0
+63rd,1913-1915,96,51,44,0,1
+64th,1915-1917,96,56,39,1,0
+65th,1917-1919,96,53,42,1,0
+66th,1919-1921,96,47,48,1,0
+67th,1921-1923,96,37,59,0,0
+68th,1923-1925,96,43,51,2,0
+69th,1925-1927,96,40,54,1,1
+70th,1927-1929,96,47,48,1,0
+71st,1929-1931,96,39,56,1,0
+72nd,1931-1933,96,47,48,1,0
+73rd,1933-1935,96,59,36,1,0
+74th,1935-1937,96,69,25,2,0
+75th,1937-1939,96,75,17,4,0
+76th,1939-1941,96,69,23,4,0
+77th,1941-1943,96,66,28,2,0
+78th,1943-1945,96,57,38,1,0
+79th,1945-1947,96,57,38,1,0
+80th,1947-1949,96,45,51,0,0
+81st,1949-1951,96,54,42,0,0
+82nd,1951-1953,96,48,47,1,0
+83rd,1953-1955,96,46,48,1,1
+84th,1955-1957,96,48,47,1,0
+85th,1957-1959,96,49,47,0,0
+86th,1959-1961,98,64,34,0,0
+87th,1961-1963,100,64,36,0,0
+88th,1963-1965,100,67,33,0,0
+89th,1965-1967,100,68,32,0,0
+90th,1967-1969,100,64,36,0,0
+ALABAMA,1966,House,1,Warren L. Finch,Democrat,30474
+ALABAMA,1966,House,1,Jack Edwards,Republican,58515
+ALABAMA,1966,House,2,Robert F. Whaley,Democrat,40832
+ALABAMA,1966,House,2,William L. Dickinson,Republican,49203
+ALABAMA,1966,House,3,George Andrews,Democrat,61015
+ALABAMA,1966,House,4,Bill Nichols,Democrat,51863
+ALABAMA,1966,House,4,Glenn Andrews,Republican,36933
+ALABAMA,1966,House,5,Armistead I. Selden Jr.,Democrat,68486
+ALABAMA,1966,House,6,Walter Emmett Perry,Democrat,37131
+ALABAMA,1966,House,6,John Buchanan,Republican,64435
+ALABAMA,1966,House,7,Tom Bevill,Democrat,73987
+ALABAMA,1966,House,7,Wayman Sherrer,Republican,40972
+ALABAMA,1966,House,8,Robert E. Jones,Democrat,65982
+ALABAMA,1966,House,8,Don Mayhall,Republican,25404
+ALABAMA,1966,Senate,,John Sparkman,Democrat,482138
+ALABAMA,1966,Senate,,John Grenier,Republican,313018
+ALABAMA,1966,Senate,,Julian E. Elgin,Independent,7444
+ALASKA,1966,Senate,,E. L. Bartlett,Democrat,49289
+ALASKA,1966,Senate,,Lee L. McKinley,Republican,15961
+ALASKA,1966,House,,Ralph J. Rivers,Democrat,31867
+ALASKA,1966,House,,Howard W. Pollock,Republican,34040
+ARIZONA,1966,House,1,"L'Alton ""Pat"" Riggs",Democrat,49913
+ARIZONA,1966,House,1,John J. Rhodes,Republican,102007
+ARIZONA,1966,House,2,Morris K. Udall,Democrat,66813
+ARIZONA,1966,House,2,G. Alfred McGinnis,Republican,45326
+ARIZONA,1966,House,3,George F. Senner Jr.,Democrat,43219
+ARIZONA,1966,House,3,Sam Steiger,Republican,57145
+ARKANSAS,1966,House,1,"E. C. ""Took"" Gatherings",Democrat,0
+ARKANSAS,1966,House,2,Wilbur D. Mills,Democrat,0
+ARKANSAS,1966,House,3,J. W. Trimble,Democrat,74009
+ARKANSAS,1966,House,3,John Paul Hammerschmidt,Republican,83938
+ARKANSAS,1966,House,4,David Pryor,Democrat,86887
+ARKANSAS,1966,House,4,Lynn Lowe,Republican,46804
+ARKANSAS,1966,Senate,,John L. McClellan,Democrat,0
+Alabama,1966,Representative,1,,Democratic,48779
+Alabama,1966,Representative,1,,Republican,27842
+Alabama,1966,Senate,,John Sparkman,Democratic,482338
+Alabama,1966,Senate,,John Crommelin,Republican,313818
+Alaska,1966,Senate,,Ernest Gruening,Democratic,30286
+Alaska,1966,Senate,,Elmer E. Rasmuson,Republican,30657
+Arizona,1966,Representative,1,,Democratic,39399
+Arizona,1966,Representative,1,,Republican,53842
+Arkansas,1966,Representative,1,,Democratic,39364
+Arkansas,1966,Representative,1,,Republican,26342
+CALIFORNIA,1966,Representatives,1,Thomas T. Storer,Democrat,77000
+CALIFORNIA,1966,Representatives,1,Don H. Clausen,Republican,143755
+CALIFORNIA,1966,Representatives,10,George Leppert,Democrat,79613
+CALIFORNIA,1966,Representatives,10,Charles S. Gubser,Republican,156549
+CALIFORNIA,1966,Representatives,11,Mark Sullivan,Democrat,77605
+CALIFORNIA,1966,Representatives,11,J. Arthur Younger,Republican,113679
+CALIFORNIA,1966,Representatives,12,Gerald V. Barron,Democrat,31787
+CALIFORNIA,1966,Representatives,12,Burt L. Talcott,Republican,108070
+CALIFORNIA,1966,Representatives,13,Charles A. Storke,Democrat,56240
+CALIFORNIA,1966,Representatives,13,Charles M. Teague,Republican,116701
+CALIFORNIA,1966,Representatives,14,Jerome R. Waldie,Democrat,108668
+CALIFORNIA,1966,Representatives,14,Frank J. Newman,Republican,83878
+CALIFORNIA,1966,Representatives,15,John J. McFall,Democrat,81733
+CALIFORNIA,1966,Representatives,15,Sam Van Dyken,Republican,61550
+CALIFORNIA,1966,Representatives,16,B. F. Sisk,Democrat,118063
+CALIFORNIA,1966,Representatives,16,Cecil F. White,Republican,47329
+CALIFORNIA,1966,Representatives,17,Cecil R. King,Democrat,76962
+CALIFORNIA,1966,Representatives,17,Don Cortum,Republican,49615
+CALIFORNIA,1966,Representatives,18,Harlan Hagen,Democrat,76346
+CALIFORNIA,1966,Representatives,18,Robert B. (Bob) Mathias,Republican,96699
+CALIFORNIA,1966,Representatives,19,Chet Holifield,Democrat,82592
+CALIFORNIA,1966,Representatives,19,William R. Sutton,Republican,50068
+CALIFORNIA,1966,Representatives,2,Harold T. (Bizz) Johnson,Democrat,131145
+CALIFORNIA,1966,Representatives,2,William H. Romack Jr.,Republican,53753
+CALIFORNIA,1966,Representatives,3,John E. Moss,Democrat,143177
+CALIFORNIA,1966,Representatives,3,Terry G. Fell,Republican,69057
+CALIFORNIA,1966,Representatives,4,Robert L. Leggett,Democrat,67942
+CALIFORNIA,1966,Representatives,4,Tom McHatton,Republican,46337
+CALIFORNIA,1966,Representatives,5,Phillip Burton,Democrat,56476
+CALIFORNIA,1966,Representatives,5,Terry R. Macken,Republican,22778
+CALIFORNIA,1966,Representatives,6,LeRue Grim,Democrat,40514
+CALIFORNIA,1966,Representatives,6,William S. Mailliard,Republican,132906
+CALIFORNIA,1966,Representatives,7,Jeffery Cohelan,Democrat,84644
+CALIFORNIA,1966,Representatives,7,Malcolm M. Champlin,Republican,46763
+CALIFORNIA,1966,Representatives,8,George P. Miller,Democrat,92263
+CALIFORNIA,1966,Representatives,8,Raymond P. Britton,Republican,48727
+CALIFORNIA,1966,Representatives,9,Don Edwards,Democrat,97311
+CALIFORNIA,1966,Representatives,9,Wilbur G. Durkee,Republican,56784
+COLORADO,1966,House,1,Byron G. Rogers,Democrat,92088
+COLORADO,1966,House,1,Greg Pearson,Republican,72732
+COLORADO,1966,House,2,Roy H. McVicker,Democrat,86685
+COLORADO,1966,House,2,Donald G. Brotzman,Republican,95123
+COLORADO,1966,House,2,Joe Lucero,New Hispano,2263
+COLORADO,1966,House,3,Frank E. Evans,Democrat,76270
+COLORADO,1966,House,3,David W. Enoch,Republican,71213
+COLORADO,1966,House,4,Wayne N. Aspinall,Democrat,84107
+COLORADO,1966,House,4,James P. Johnson,Republican,59404
+COLORADO,1966,Senate,,Roy Romer,Democrat,266198
+COLORADO,1966,Senate,,Gordon Allott,Republican,368307
+COLORADO,1966,Senate,,Walter Cranson,Write-In,332
+CONNECTICUT,1966,House,1,Emilio Q. Daddario,Democrat,100447
+CONNECTICUT,1966,House,1,John L. Bonee,Republican,71353
+CONNECTICUT,1966,House,1,Donald B. LaCroix,People's Choice,1299
+CONNECTICUT,1966,House,1,,Scattering,124
+CONNECTICUT,1966,House,2,William St. Onge,Democrat,90298
+CONNECTICUT,1966,House,2,Joseph H. Goldberg,Republican,69402
+CONNECTICUT,1966,House,2,Daniel R. Tarascvich,Veteran,939
+CONNECTICUT,1966,House,2,,Scattering,181
+CONNECTICUT,1966,House,3,Robert N. Giaimo,Democrat,86029
+CONNECTICUT,1966,House,3,Stelio Salmona,Republican,67226
+CONNECTICUT,1966,House,3,Robert M. Cook,American Independent,8730
+CONNECTICUT,1966,House,3,,Scattering,10
+CONNECTICUT,1966,House,4,Donald J. Irwin,Democrat,89709
+CONNECTICUT,1966,House,4,Abner W. Sibal,Republican,86337
+CONNECTICUT,1966,House,4,,Scattering,105
+CONNECTICUT,1966,House,5,John S. Monagan,Democrat,98801
+CONNECTICUT,1966,House,5,Romeo G. Petroni,Republican,67094
+CONNECTICUT,1966,House,5,,Scattering,24
+CONNECTICUT,1966,House,6,Bernard F. Grabowski,Democrat,79865
+CONNECTICUT,1966,House,6,Thomas J. Meskill,Republican,81907
+CONNECTICUT,1966,House,6,Stephen Minot,American Independent,5731
+CONNECTICUT,1966,House,6,,Scattering,6
+California,1966,Representative,1,,Democratic,85419
+California,1966,Representative,1,,Republican,45110
+California,1966,House,20,Raymond Freschi,Democrat,46730
+California,1966,House,20,H. Allen Smith,Republican,128896
+California,1966,House,20,,Scattering,63
+California,1966,House,21,Augustus F. Hawkins,Democrat,74216
+California,1966,House,21,Norman A. Hodges,Republican,13294
+California,1966,House,21,,Scattering,12
+California,1966,House,22,James C. Corman,Democrat,94420
+California,1966,House,22,Robert C. Cline,Republican,82207
+California,1966,House,22,,Scattering,29
+California,1966,House,23,Ed O'Connor,Democrat,45141
+California,1966,House,23,Del Clawson,Republican,93320
+California,1966,House,23,,Scattering,15
+California,1966,House,24,Earl G. McNall,Democrat,46138
+California,1966,House,24,Glenard P. Lipscomb,Republican,148190
+California,1966,House,24,,Scattering,141
+California,1966,House,25,Ronald Brooks Cameron,Democrat,63345
+California,1966,House,25,Charles E. Wiggins,Republican,70154
+California,1966,House,25,,Scattering,13
+California,1966,House,26,Thomas M. Rees,Democrat,103280
+California,1966,House,26,Irving Teichner,Republican,62441
+California,1966,House,26,,Scattering,20
+California,1966,House,27,"John A. ""Jack"" Howard",Democrat,49785
+California,1966,House,27,Ed Reinecke,Republican,93800
+California,1966,House,27,,Scattering,42
+California,1966,House,28,Lawrence (Larry) Sherman,Democrat,81007
+California,1966,House,28,Alphonzo Bell,Republican,211404
+California,1966,House,28,,Scattering,80
+California,1966,House,29,George E. Brown Jr.,Democrat,69115
+California,1966,House,29,Bill Orozco,Republican,66079
+California,1966,House,29,,Scattering,8
+California,1966,House,30,Edward R. Roybal,Democrat,72173
+California,1966,House,30,Henri O'Bryant Jr.,Republican,36506
+California,1966,House,30,,Scattering,20
+California,1966,House,31,Charles H. Wilson,Democrat,92875
+California,1966,House,31,Theodore (Ted) Smith,Republican,53708
+California,1966,House,31,,Scattering,22
+California,1966,House,32,Tracy Odell,Democrat,34609
+California,1966,House,32,Craig Hosmer,Republican,139328
+California,1966,House,32,,Scattering,17
+California,1966,House,33,Ken W. Dyal,Democrat,89071
+California,1966,House,33,Jerry L. Pettis,Republican,102401
+California,1966,House,33,,Scattering,8
+California,1966,House,34,Richard T. Hanna,Democrat,127976
+California,1966,House,34,Frank LaMagna,Republican,101410
+California,1966,House,34,,Scattering,5
+California,1966,House,35,Thomas B. Lenhart,Democrat,69873
+California,1966,House,35,James B. Utt,Republican,189582
+California,1966,House,35,,Scattering,21
+California,1966,House,36,William C. Godfrey,Democrat,44365
+California,1966,House,36,Bob Wilson,Republican,119274
+California,1966,House,36,,Scattering,340
+California,1966,House,37,Lionel Van Deerlin,Democrat,80060
+California,1966,House,37,Samuel S. Vener,Republican,50817
+California,1966,House,37,,Scattering,63
+California,1966,Representative,38,John V. Tunney,Democrat,83216
+California,1966,Representative,38,Robert R. Barry,Republican,69444
+California,1966,Representative,38,,Scattering,114
+California,1966,Senate,,George Murphy,Republican,2845632
+California,1966,Senate,,Pierre Salinger,Democratic,2749174
+Colorado,1966,Representative,1,,Democratic,56288
+Colorado,1966,Representative,1,,Republican,54870
+Congress,Year,Number_of_Senators,Democrats,Republicans,Other_Parties,Vacant
+Connecticut,1966,Representative,1,,Democratic,65788
+Connecticut,1966,Representative,1,,Republican,56450
+Connecticut,1966,Senate,,Abraham A. Ribicoff,Democratic,611403
+Connecticut,1966,Senate,,Peter P. Mariani,Republican,360487
+DELAWARE,1966,Senate,,James M. Tunnell,Democrat,67263
+DELAWARE,1966,Senate,,J. Caleb Boggs,Republican,97268
+DELAWARE,1966,House,,Harris B. McDowell,Democrat,72142
+DELAWARE,1966,House,,William V. Roth,Republican,90961
+Delaware,1966,Senate,,James M. Tunnell Jr.,Democratic,53337
+Delaware,1966,Senate,,J. Caleb Boggs,Republican,82052
+FLORIDA,1966,Representatives,1,Bob Sikes,Democrat,55547
+FLORIDA,1966,Representatives,1,Scattering,,2862
+FLORIDA,1966,Representatives,10,Joe Varon,Democrat,51636
+FLORIDA,1966,Representatives,10,J. Herbert Burke,Republican,80989
+FLORIDA,1966,Representatives,10,Scattering,,961
+FLORIDA,1966,Representatives,11,Claude Pepper,Democrat,62195
+FLORIDA,1966,Representatives,11,Scattering,,94
+FLORIDA,1966,Representatives,12,Dante B. Fascell,Democrat,62457
+FLORIDA,1966,Representatives,12,Mike Thompson,Republican,47226
+FLORIDA,1966,Representatives,12,Scattering,,13
+FLORIDA,1966,Representatives,2,Don Fuqua,Democrat,71565
+FLORIDA,1966,Representatives,2,Harold Hill,Republican,22281
+FLORIDA,1966,Representatives,2,Scattering,,4
+FLORIDA,1966,Representatives,3,Charles E. Bennett,Democrat,72038
+FLORIDA,1966,Representatives,3,Scattering,,71
+FLORIDA,1966,Representatives,4,A. Sydney Herlong Jr.,Democrat,70155
+FLORIDA,1966,Representatives,4,Scattering,,18
+FLORIDA,1966,Representatives,5,Edward J. Gurney,Republican,75875
+FLORIDA,1966,Representatives,5,Scattering,,197
+FLORIDA,1966,Representatives,6,Sam M. Gibbons,Democrat,50772
+FLORIDA,1966,Representatives,6,Scattering,,102
+FLORIDA,1966,Representatives,7,James A. Haley,Democrat,64408
+FLORIDA,1966,Representatives,7,Joe Z. Lovinggood,Republican,37586
+FLORIDA,1966,Representatives,7,Scattering,,1
+FLORIDA,1966,Representatives,8,Roy L. Reynolds,Democrat,43275
+FLORIDA,1966,Representatives,8,William C. (Bill) Cramer,Republican,105019
+FLORIDA,1966,Representatives,9,Paul G. Rogers,Democrat,76828
+FLORIDA,1966,Representatives,9,Scattering,,10
+Florida,1966,Representative,1,,Democratic,44714
+Florida,1966,Representative,1,,Republican,25956
+Florida,1966,Senate,,Paul Barns Jr.,Democratic,363932
+Florida,1966,Senate,,Edward J. Gurney,Republican,503947
+GEORGIA,1966,House,1,G. Elliott Hagan,Democrat,53413
+GEORGIA,1966,House,1,Porter Carswell,Republican,38619
+GEORGIA,1966,House,10,Robert G. Stephens,Democrat,54141
+GEORGIA,1966,House,10,Leroy H. Simkins,Republican,28547
+GEORGIA,1966,House,2,Maston O'Neal,Democrat,54487
+GEORGIA,1966,House,3,Jack Brinkley,Democrat,42425
+GEORGIA,1966,House,3,Billy J. Mixon,Republican,26255
+GEORGIA,1966,House,4,James A. Mackay,Democrat,54891
+GEORGIA,1966,House,4,Benjamin B. Blackburn,Republican,55249
+GEORGIA,1966,House,5,Archie L. Lindsey,Democrat,36751
+GEORGIA,1966,House,5,Fletcher Thompson,Republican,53423
+GEORGIA,1966,House,6,John J. Flynt Jr.,Democrat,74175
+GEORGIA,1966,House,6,G. Paul Jones Jr.,Republican,35048
+GEORGIA,1966,House,7,John W. Davis,Democrat,65614
+GEORGIA,1966,House,7,Edward Y. Chapin,Republican,35383
+GEORGIA,1966,House,8,W. S. (Bill) Stuckey,Democrat,60059
+GEORGIA,1966,House,8,Mack F. Mattingly,Republican,17926
+GEORGIA,1966,House,9,Phil M. Landrum,Democrat,61930
+GEORGIA,1966,Senate,,Richard B. Russell,Democrat,631002
+Georgia,1966,Representative,1,,Democratic,1175278
+Georgia,1966,Representative,1,,Republican,414
+HAWAII,1966,House,,Spark M. (Sparky) Matsunaga,Democrat,140110
+HAWAII,1966,House,,Patsy Takemoto Mink,Democrat,140880
+HAWAII,1966,House,,John S. Carroll,Republican,67281
+HAWAII,1966,House,,James K. Kealoha,Republican,62473
+Hawaii,1966,Representative,1,,Democratic,84187
+Hawaii,1966,Representative,1,,Republican,54196
+Hawaii,1966,Senate,,Thomas P. Gill,Democratic,91778
+Hawaii,1966,Senate,,Hiram L. Fong,Republican,97477
+IDAHO,1966,House,1,Compton I. White Jr.,Democrat,65446
+IDAHO,1966,House,1,James A. McClure,Republican,70410
+IDAHO,1966,House,2,A. W. (Bill) Brunt,Democrat,33348
+IDAHO,1966,House,2,George V. Hansen,Republican,79024
+IDAHO,1966,Senate,,Ralph R. Harding,Democrat,112637
+IDAHO,1966,Senate,,Len B. Jordan,Republican,139819
+ILLINOIS,1966,House,1,William L. Dawson,Democrat,91119
+ILLINOIS,1966,House,1,David R. Reed,Republican,34421
+ILLINOIS,1966,House,10,Frank J. Jirka Jr.,Democrat,58376
+ILLINOIS,1966,House,10,Harold R. Collier,Republican,132650
+ILLINOIS,1966,House,11,Roman C. Pucinski,Democrat,105996
+ILLINOIS,1966,House,11,John J. Hoellen,Republican,102244
+ILLINOIS,1966,House,12,"Herbert L. ""Hub"" Stern",Democrat,40502
+ILLINOIS,1966,House,12,Robert McClory,Republican,90483
+ILLINOIS,1966,House,12,Scattering,,8
+ILLINOIS,1966,House,13,James L. McCabe,Democrat,50107
+ILLINOIS,1966,House,13,Donald Rumsfeld,Republican,138769
+ILLINOIS,1966,House,14,Kenneth McCleary,Democrat,51385
+ILLINOIS,1966,House,14,John N. Erlenborn,Republican,130442
+ILLINOIS,1966,House,15,Selwyn L. Boyer,Democrat,39123
+ILLINOIS,1966,House,15,Charlotte T. Reid,Republican,102018
+ILLINOIS,1966,House,16,Robert M. Whiteford,Democrat,33274
+ILLINOIS,1966,House,16,John B. Anderson,Republican,89990
+ILLINOIS,1966,House,17,Bernard J. Hughes,Democrat,59350
+ILLINOIS,1966,House,17,Leslie C. Arends,Republican,104240
+ILLINOIS,1966,House,18,Thomas V. Cassidy,Democrat,57100
+ILLINOIS,1966,House,18,Robert H. Michel,Republican,80203
+ILLINOIS,1966,House,19,Gale Schisler,Democrat,71050
+ILLINOIS,1966,House,19,Tom Railsback,Republican,77895
+ILLINOIS,1966,House,2,Barratt O'Hara,Democrat,83471
+ILLINOIS,1966,House,2,Philip G. Bixler,Republican,57620
+ILLINOIS,1966,House,20,Richard R. Wolfe,Democrat,62343
+ILLINOIS,1966,House,20,Paul Findley,Republican,102609
+ILLINOIS,1966,House,20,Scattering,,12
+ILLINOIS,1966,House,21,Kenneth J. Gray,Democrat,103128
+ILLINOIS,1966,House,21,Robert Beckmeyer,Republican,80382
+ILLINOIS,1966,House,22,Cameron B. Satterthwaite,Democrat,55818
+ILLINOIS,1966,House,22,William L. Springer,Republican,96453
+ILLINOIS,1966,House,23,George E. Shipley,Democrat,95156
+ILLINOIS,1966,House,23,Leslie N. Jones,Republican,73463
+ILLINOIS,1966,House,24,Melvin Price,Democrat,82513
+ILLINOIS,1966,House,24,John S. Guthrie,Republican,32915
+ILLINOIS,1966,House,3,William T. Murphy,Democrat,83857
+ILLINOIS,1966,House,3,Albert F. Manion,Republican,77442
+ILLINOIS,1966,House,4,Ray J. Rybacki,Democrat,48673
+ILLINOIS,1966,House,4,Edward J. Derwinski,Republican,125365
+ILLINOIS,1966,House,5,John C. Kluczynski,Democrat,85770
+ILLINOIS,1966,House,5,Walter K. Kiltz,Republican,66735
+ILLINOIS,1966,House,6,Daniel J. Ronan,Democrat,84126
+ILLINOIS,1966,House,6,Samuel A. DeCaro,Republican,63374
+ILLINOIS,1966,House,7,Frank Annunzio,Democrat,82902
+ILLINOIS,1966,House,7,Joseph D. Day,Republican,19650
+ILLINOIS,1966,House,8,Daniel D. Rostenkowski,Democrat,94631
+ILLINOIS,1966,House,8,John H. Leszynski,Republican,63377
+ILLINOIS,1966,House,9,Sidney R. Yates,Democrat,96746
+ILLINOIS,1966,House,9,Richard C. Storey Jr.,Republican,64875
+ILLINOIS,1966,Senate,,Paul H. Douglas,Democrat,1678147
+ILLINOIS,1966,Senate,,Charles H. Percy,Republican,2100140
+ILLINOIS,1966,Senate,,Robert Sabonjian,Write-in,41965
+ILLINOIS,1966,Senate,,Maxwell Primack,Write-in,1493
+ILLINOIS,1966,Senate,,Scattering,,470
+INDIANA,1966,Representative,1,Ray J. Madden,Democrat,71040
+INDIANA,1966,Representative,1,Albert Harrigan,Republican,50804
+INDIANA,1966,Representative,10,Robert H. Staton,Democrat,54515
+INDIANA,1966,Representative,10,Richard L. Roudebush,Republican,94428
+INDIANA,1966,Representative,11,Andrew Jacobs Jr.,Democrat,65624
+INDIANA,1966,Representative,11,Paul R. Oakes,Republican,52096
+INDIANA,1966,Representative,2,Ralph G. McFadden,Democrat,71825
+INDIANA,1966,Representative,2,Charles A. Halleck,Republican,97161
+INDIANA,1966,Representative,3,John Brademas,Democrat,75321
+INDIANA,1966,Representative,3,Robert A. Ehlers,Republican,59731
+INDIANA,1966,Representative,4,J. Byron Hayes,Democrat,54331
+INDIANA,1966,Representative,4,E. Ross Adair,Republican,94457
+INDIANA,1966,Representative,5,J. Edward Roush,Democrat,76176
+INDIANA,1966,Representative,5,Kenneth Bowman,Republican,72873
+INDIANA,1966,Representative,6,James M. Nicholson,Democrat,53762
+INDIANA,1966,Representative,6,William G. Bray,Republican,124087
+INDIANA,1966,Representative,6,Henry W. Holt,Independent,1363
+INDIANA,1966,Representative,7,Elden Tipton,Democrat,67135
+INDIANA,1966,Representative,7,John T. Myers,Republican,79864
+INDIANA,1966,Representative,8,Winfield K. Denton,Democrat,90837
+INDIANA,1966,Representative,8,Roger H. Zion,Republican,94924
+INDIANA,1966,Representative,9,Lee H. Hamilton,Democrat,89392
+INDIANA,1966,Representative,9,John W. Lewis,Republican,76661
+IOWA,1966,House,1,John R. Schmidhauser,Democrat,60534
+IOWA,1966,House,1,Fred Schwengel,Republican,64705
+IOWA,1966,House,1,Merle M. Thayer,American Constitution,1007
+IOWA,1966,House,2,John C. Culver,Democrat,76281
+IOWA,1966,House,2,Robert M. L. Johnson,Republican,65079
+IOWA,1966,House,2,Scattering,,1
+IOWA,1966,House,3,L. A. Pat Touchae,Democrat,48530
+IOWA,1966,House,3,H. R. Gross,Republican,79343
+IOWA,1966,House,4,Bert Bandstra,Democrat,61074
+IOWA,1966,House,4,John Kyl,Republican,65299
+IOWA,1966,House,5,Neal Smith,Democrat,72875
+IOWA,1966,House,5,Don Mahon,Republican,46981
+IOWA,1966,House,5,Robbins Risher,American Constitution,712
+IOWA,1966,House,6,Stanley L. Greigg,Democrat,53917
+IOWA,1966,House,6,Wiley Mayne,Republican,73274
+IOWA,1966,House,6,Lee E. Smith,American Constitution,414
+IOWA,1966,House,7,John R. Hansen,Democrat,44529
+IOWA,1966,House,7,William J. Scherle,Republican,64217
+IOWA,1966,House,7,Gordon Risher,American Constitution,145
+IOWA,1966,House,7,Scattering,,1
+IOWA,1966,Senate,,E. B. Smith,Democrat,324114
+IOWA,1966,Senate,,Jack Miller,Republican,522339
+IOWA,1966,Senate,,Robert D. Dilley,American Constitution,3826
+IOWA,1966,Senate,,Charles R. Day,Peace Independent,3050
+IOWA,1966,Senate,,Herbert F. Hoover,Iowa,2085
+IOWA,1966,Senate,,Verne Higens,National Prohibition,2081
+IOWA,1966,Senate,,Scattering,,1
+Illinois,1966,Representative,1,,Democratic,127586
+Illinois,1966,Representative,1,,Republican,86344
+Indiana,1966,Senate,,Vance Hartke,Democratic,771541
+Indiana,1966,Senate,,Russell Bontrager,Republican,717793
+KANSAS,1966,House,1,Berniece Henkle,Democrat,44569
+KANSAS,1966,House,1,Robert Dole,Republican,97487
+KANSAS,1966,House,2,Harry G. Wiles,Democrat,50336
+KANSAS,1966,House,2,Chester L. Mize,Republican,85128
+KANSAS,1966,House,3,Marvin E. Rainey,Democrat,51108
+KANSAS,1966,House,3,Larry Winn Jr.,Republican,60107
+KANSAS,1966,House,3,Harold H. Shomber,Conservative,2349
+KANSAS,1966,House,4,Paul H. Gerling,Democrat,39625
+KANSAS,1966,House,4,Garner E. Shriver,Republican,86944
+KANSAS,1966,House,5,Delno L. Bass,Democrat,55933
+KANSAS,1966,House,5,Joe Skubitz,Republican,86944
+KANSAS,1966,Senate,,J. Floyd Breeding,Democrat,303223
+KANSAS,1966,Senate,,James B. Pearson,Republican,350677
+KANSAS,1966,Senate,,Earl F. Dodge,Prohibition,9364
+KANSAS,1966,Senate,,George W. Snell,Conservative,7103
+KANSAS,1966,Senate,,Write-in,Write-in,1578
+KENTUCKY,1966,House,1,Frank A. Stubblefield,Democrat,57736
+KENTUCKY,1966,House,1,Richard Nicholson,Republican,24085
+KENTUCKY,1966,House,2,William H. Natcher,Democrat,51311
+KENTUCKY,1966,House,2,R. Douglas Ford,Republican,35770
+KENTUCKY,1966,House,3,Norbert Blume,Democrat,46240
+KENTUCKY,1966,House,3,William O. Cowger,Republican,66577
+KENTUCKY,1966,House,4,Frank Chelf,Democrat,56902
+KENTUCKY,1966,House,4,M. G. (Gene) Snyder,Republican,66801
+KENTUCKY,1966,House,4,John J. Moloney,Write-in,143
+KENTUCKY,1966,House,5,Eugene C. Harter Jr.,Democrat,21452
+KENTUCKY,1966,House,5,Tim Lee Carter,Republican,65596
+KENTUCKY,1966,House,6,John C. Watts,Democrat,58182
+KENTUCKY,1966,House,6,William McK. Hendren,Republican,31266
+KENTUCKY,1966,House,7,Carl D. Perkins,Democrat,65522
+KENTUCKY,1966,House,7,C. F. See,Republican,29541
+KENTUCKY,1966,Senate,,John Young Brown,Democrat,266079
+KENTUCKY,1966,Senate,,John Sherman Cooper,Republican,483805
+Kansas,1966,Representative,1,,Democratic,47956
+Kansas,1966,Representative,1,,Republican,38103
+Kentucky,1966,Representative,1,,Democratic,1194664
+Kentucky,1966,Representative,1,,Republican,7568
+LOUISIANA,1966,House,1,F. Edward Hébert,Democrat,68523
+LOUISIANA,1966,House,2,Hale Boggs,Democrat,90149
+LOUISIANA,1966,House,2,Leonard E. Limes,Republican,41209
+LOUISIANA,1966,House,3,Edwin E. Willis,Democrat,46533
+LOUISIANA,1966,House,3,Hall M. Lyons,Republican,31444
+LOUISIANA,1966,House,4,J. D. (Joe) Waggonner Jr.,Democrat,48345
+LOUISIANA,1966,House,5,Otto E. Passman,Democrat,38660
+LOUISIANA,1966,House,6,John R. Rarick,Democrat,86958
+LOUISIANA,1966,House,6,Crayton G. (Sparky) Hall,Republican,26599
+LOUISIANA,1966,House,7,Edwin W. Edwards,Democrat,34655
+LOUISIANA,1966,House,8,Speedy O. Long,Democrat,33183
+LOUISIANA,1966,Senate,,Allen J. Ellender,Democrat,437695
+MAINE,1966,House,1,Peter N. Kyros,Democrat,81302
+MAINE,1966,House,1,Peter A. Garland,Republican,72984
+MAINE,1966,House,1,Thomas L. Maynard,Independent,7098
+MAINE,1966,House,2,William D. Hathaway,Democrat,85956
+MAINE,1966,House,2,Howard M. Foley,Republican,65476
+MAINE,1966,Senate,,Elmer Violette,Democrat,131136
+MAINE,1966,Senate,,Margaret Chase Smith,Republican,188291
+MAINE,1966,Senate,,Neil S. Bishop,Write-in,108
+MARYLAND,1966,Representatives,1,Harry C. Byrd,Democrat,28025
+MARYLAND,1966,Representatives,1,Rogers C. B. Morton,Republican,69940
+MARYLAND,1966,Representatives,2,Clarence D. Long,Democrat,79963
+MARYLAND,1966,Representatives,2,Paul T. McHenry Jr.,Republican,35476
+MARYLAND,1966,Representatives,3,Edward A. Garmatz,Democrat,56980
+MARYLAND,1966,Representatives,4,George H. Fallon,Democrat,57572
+MARYLAND,1966,Representatives,4,G. Neilson Sigler,Republican,19930
+MARYLAND,1966,Representatives,5,Hervey G. Machen,Democrat,55676
+MARYLAND,1966,Representatives,5,Lawrence J. Hogan,Republican,47703
+MARYLAND,1966,Representatives,6,Walter G. Finch,Democrat,29637
+MARYLAND,1966,Representatives,6,Charles McC. Mathias Jr.,Republican,72360
+MARYLAND,1966,Representatives,7,Samuel N. Friedel,Democrat,61959
+MARYLAND,1966,Representatives,7,Stephen L. Rosenstein,Republican,19584
+MARYLAND,1966,Representatives,8,Royce Hanson,Democrat,59568
+MARYLAND,1966,Representatives,8,Gilbert Gude,Republican,71050
+MICHIGAN,1966,House,1,John Conyers Jr.,Democrat,89808
+MICHIGAN,1966,House,1,Rheeha R. Ross,Republican,16853
+MICHIGAN,1966,House,10,Elbert C. Evans,Democrat,41410
+MICHIGAN,1966,House,10,Elford A. Cederberg,Republican,85754
+MICHIGAN,1966,House,11,Raymond F. Clevenger,Democrat,65875
+MICHIGAN,1966,House,11,Philip E. Ruppe,Republican,70820
+MICHIGAN,1966,House,12,James G. O'Hara,Democrat,84379
+MICHIGAN,1966,House,12,Patrick J. Driscoll,Republican,45190
+MICHIGAN,1966,House,13,Charles C. Diggs Jr.,Democrat,60660
+MICHIGAN,1966,House,13,Frank Daniels,Republican,12393
+MICHIGAN,1966,House,14,Lucien N. Nedzi,Democrat,77851
+MICHIGAN,1966,House,14,William J. Kennedy,Republican,52490
+MICHIGAN,1966,House,15,William D. Ford,Democrat,72987
+MICHIGAN,1966,House,15,Arpo Yemen,Republican,34610
+MICHIGAN,1966,House,16,John D. Dingell,Democrat,71787
+MICHIGAN,1966,House,16,John T. Dempsey,Republican,42738
+MICHIGAN,1966,House,17,Martha W. Griffiths,Democrat,90541
+MICHIGAN,1966,House,17,William P. Harrington,Republican,40334
+MICHIGAN,1966,House,18,William H. Merrill,Democrat,48627
+MICHIGAN,1966,House,18,William S. Broomfield,Republican,102501
+MICHIGAN,1966,House,19,Billie S. Farnum,Democrat,57907
+MICHIGAN,1966,House,19,Jack H. McDonald,Republican,76884
+MICHIGAN,1966,House,2,Weston E. Vivian,Democrat,62536
+MICHIGAN,1966,House,2,Marvin L. Esch,Republican,65205
+MICHIGAN,1966,House,3,Paul H. Todd Jr.,Democrat,62984
+MICHIGAN,1966,House,3,Garry Brown,Republican,68912
+MICHIGAN,1966,House,4,John V. Martin,Democrat,37177
+MICHIGAN,1966,House,4,Edward Hutchinson,Republican,78190
+MICHIGAN,1966,House,5,James Mathew Catchick,Democrat,40629
+MICHIGAN,1966,House,5,Gerald R. Ford,Republican,87914
+MICHIGAN,1966,House,6,Lee H. Wenke,Democrat,41695
+MICHIGAN,1966,House,6,Charles E. Chamberlain,Republican,85669
+MICHIGAN,1966,House,7,John C. Mackie,Democrat,60408
+MICHIGAN,1966,House,7,Donald W. Riegle Jr.,Republican,71166
+MICHIGAN,1966,House,8,Wager F. Clunis,Democrat,36967
+MICHIGAN,1966,House,8,James Harvey,Republican,85657
+MICHIGAN,1966,House,9,Henry J. Dongvillo,Democrat,46266
+MICHIGAN,1966,House,9,Guy Vander Jagt,Republican,92710
+MICHIGAN,1966,Senate,,G. Mennen Williams,Democrat,1070484
+MICHIGAN,1966,Senate,,Robert P. Griffin,Republican,1363808
+MICHIGAN,1966,Senate,,Ralph W. Muncy,Socialist Labor,6166
+MINNESOTA,1966,House,1,George Daley,Democrat,56547
+MINNESOTA,1966,House,1,Albert H. Quie,Republican,109312
+MINNESOTA,1966,House,2,Charles M. Christensen,Democrat,47899
+MINNESOTA,1966,House,2,Ancher Nelsen,Republican,93855
+MINNESOTA,1966,House,3,Elva D. Walker,Democrat,64861
+MINNESOTA,1966,House,3,Clark MacGregor,Republican,122775
+MINNESOTA,1966,House,4,Joseph E. Karth,Democrat,91271
+MINNESOTA,1966,House,4,Stephen Maxwell,Republican,79667
+MINNESOTA,1966,House,5,Donald M. Fraser,Democrat,86953
+MINNESOTA,1966,House,5,William L. Hathaway,Republican,58816
+MINNESOTA,1966,House,6,Alec G. Olson,Democrat,76439
+MINNESOTA,1966,House,6,John M. Zwach,Republican,80710
+MINNESOTA,1966,House,7,Keith C. Davison,Democrat,49388
+MINNESOTA,1966,House,7,Odin Langen,Republican,84914
+MINNESOTA,1966,House,8,John A. Blatnik,Democrat,116969
+MINNESOTA,1966,Senate,,Walter F. Mondale,Democrat,685840
+MINNESOTA,1966,Senate,,Robert A. Forsythe,Republican,574868
+MINNESOTA,1966,Senate,,William Braatz,Industrial Government,5231
+MINNESOTA,1966,Senate,,Joseph Johnson,Socialist Workers,5487
+MISSISSIPPI,1966,House,1,Thomas G. Abernethy,Democrat,47359
+MISSISSIPPI,1966,House,1,William Alexander,Independent,14700
+MISSISSIPPI,1966,House,1,Dock Drummond,Independent,6805
+MISSISSIPPI,1966,House,2,Jamie L. Whitten,Democrat,53629
+MISSISSIPPI,1966,House,2,S. E. (Bushy) Wise,Republican,10622
+MISSISSIPPI,1966,House,3,John Bell Williams,Democrat,71377
+MISSISSIPPI,1966,House,3,Emma Sanders,Independent,15218
+MISSISSIPPI,1966,House,4,"G. V. ""Sonny"" Montgomery",Democrat,52138
+MISSISSIPPI,1966,House,4,L. L. McAllister Jr.,Republican,26027
+MISSISSIPPI,1966,House,4,Sterling P. Davis,Independent,1736
+MISSISSIPPI,1966,House,5,William M. Colmer,Democrat,58080
+MISSISSIPPI,1966,House,5,James M. Moye,Republican,24865
+MISSISSIPPI,1966,Senate,,James O. Eastland,Democrat,258248
+MISSISSIPPI,1966,Senate,,Prentiss Walker,Republican,105150
+MISSISSIPPI,1966,Senate,,Clifton R. Whitley,Independent,30502
+MISSOURI,1966,Representatives,1,Frank M. Karsten,Democrat,62143
+MISSOURI,1966,Representatives,1,Robert L. Sharp,Republican,35053
+MISSOURI,1966,Representatives,10,Paul C. Jones,Democrat,48985
+MISSOURI,1966,Representatives,10,"Wm. ""Willie"" Bruckerhoff",Republican,31263
+MISSOURI,1966,Representatives,2,William B. Milius,Democrat,52527
+MISSOURI,1966,Representatives,2,Thomas B. Curtis,Republican,102985
+MISSOURI,1966,Representatives,3,Leonor K. Sullivan,Democrat,59014
+MISSOURI,1966,Representatives,3,Homer McCracken,Republican,23953
+MISSOURI,1966,Representatives,4,William J. Randall,Democrat,54330
+MISSOURI,1966,Representatives,4,Forest Nave Jr.,Republican,34952
+MISSOURI,1966,Representatives,5,Richard Bolling,Democrat,46674
+MISSOURI,1966,Representatives,5,Willis E. Salyers,Republican,29641
+MISSOURI,1966,Representatives,6,W. R. (Bill) Hull Jr.,Democrat,55418
+MISSOURI,1966,Representatives,6,John L. Leims,Republican,40185
+MISSOURI,1966,Representatives,7,Arch M. Skelton,Democrat,52421
+MISSOURI,1966,Representatives,7,Durward G. Hall,Republican,86626
+MISSOURI,1966,Representatives,8,Richard (Dick) Ichord,Democrat,61128
+MISSOURI,1966,Representatives,8,Ben Rogers,Republican,44035
+MISSOURI,1966,Representatives,9,William L. Hungate,Democrat,68472
+MISSOURI,1966,Representatives,9,Anthony C. Schroeder,Republican,55405
+MONTANA,1966,House,1,Arnold Olsen,Democrat,67123
+MONTANA,1966,House,1,Dick Smiley,Republican,64925
+MONTANA,1966,House,2,John Melcher,Democrat,50308
+MONTANA,1966,House,2,James F. Battin,Republican,76015
+MONTANA,1966,Senate,,Lee Metcalf,Democrat,138166
+MONTANA,1966,Senate,,Tim Babcock,Republican,121697
+Maine,1966,Senate,,Edmund S. Muskie,Democratic,227747
+Maine,1966,Senate,,Clifford G. McIntire,Republican,159383
+Maryland,1966,Representative,1,,Democratic,167847
+Maryland,1966,Representative,1,,Republican,128194
+Maryland,1966,Senate,,Daniel B. Brewster,Democratic,380546
+Maryland,1966,Senate,,George P. Mahoney,Republican,271844
+Massachusetts,1966,Representative,1,,Democratic,1194664
+Massachusetts,1966,Representative,1,,Republican,38499
+Massachusetts,1966,House,1,Silvio O. Conte,Republican,109370
+Massachusetts,1966,House,10,Patrick H. Harrington Jr.,Democrat,92516
+Massachusetts,1966,House,10,Margaret M. Heckler,Republican,96675
+Massachusetts,1966,House,11,James A. Burke,Democrat,141465
+Massachusetts,1966,House,11,James L. Hofford,Republican,47705
+Massachusetts,1966,House,12,Edward F. Harrington,Democrat,80473
+Massachusetts,1966,House,12,Hastings Keith,Republican,98372
+Massachusetts,1966,House,2,Edward P. Boland,Democrat,95985
+Massachusetts,1966,House,3,Philip J. Philbin,Democrat,126664
+Massachusetts,1966,House,3,Howard A. Miller Jr.,Republican,51646
+Massachusetts,1966,House,4,Harold D. Donohue,Democrat,137681
+Massachusetts,1966,House,5,Charles N. Tsapatsaris,Democrat,47377
+Massachusetts,1966,House,5,F. Bradford Morse,Republican,140702
+Massachusetts,1966,House,6,Daniel L. Parent,Democrat,66054
+Massachusetts,1966,House,6,William H. Bates,Republican,127744
+Massachusetts,1966,House,7,Torbert H. Macdonald,Democrat,119548
+Massachusetts,1966,House,7,Gordon F. Hughes,Republican,40930
+Massachusetts,1966,House,8,Thomas P. O'Neill Jr.,Democrat,102104
+Massachusetts,1966,House,9,John W. McCormack,Democrat,87879
+Massachusetts,1966,Senate,,Edward M. Kennedy,Democratic,1180034
+Massachusetts,1966,Senate,,Edward W. Brooke,Republican,1213473
+Massachusetts,1966,Senate,,Endicott Peabody,Democrat,774761
+Massachusetts,1966,Senate,,Edward W. Brooke,Republican,1213473
+Massachusetts,1966,Senate,,Lawrence Gilfedder,Socialist Labor,6790
+Massachusetts,1966,Senate,,Mark R. Shaw,Prohibition,4533
+Michigan,1966,Representative,1,,Democratic,171612
+Michigan,1966,Representative,1,,Republican,256487
+Michigan,1966,Representative,1,,Democrat,89808
+Michigan,1966,Representative,1,,Republican,16853
+Michigan,1966,Representative,10,,Democrat,67660
+Michigan,1966,Representative,10,,Republican,42390
+Michigan,1966,Representative,11,,Democrat,72987
+Michigan,1966,Representative,11,,Republican,34619
+Michigan,1966,Representative,12,,Democrat,74781
+Michigan,1966,Representative,12,,Republican,42738
+Michigan,1966,Representative,13,,Democrat,48627
+Michigan,1966,Representative,13,,Republican,102581
+Michigan,1966,Representative,14,,Democrat,57807
+Michigan,1966,Representative,14,,Republican,76984
+Michigan,1966,Representative,2,,Democrat,62536
+Michigan,1966,Representative,2,,Republican,65205
+Michigan,1966,Representative,3,,Democrat,62984
+Michigan,1966,Representative,3,,Republican,68512
+Michigan,1966,Representative,4,,Democrat,47175
+Michigan,1966,Representative,4,,Republican,78194
+Michigan,1966,Representative,5,,Democrat,41695
+Michigan,1966,Representative,5,,Republican,85666
+Michigan,1966,Representative,6,,Democrat,46468
+Michigan,1966,Representative,6,,Republican,74197
+Michigan,1966,Representative,7,,Democrat,46295
+Michigan,1966,Representative,7,,Republican,92719
+Michigan,1966,Representative,8,,Democrat,45410
+Michigan,1966,Representative,8,,Republican,85724
+Michigan,1966,Representative,9,,Democrat,84379
+Michigan,1966,Representative,9,,Republican,45199
+Michigan,1966,Senate,,G. Mennen Williams,Democratic,1269128
+Michigan,1966,Senate,,Robert P. Griffin,Republican,1372703
+Michigan,1966,Senate,,,Democrat,1070484
+Michigan,1966,Senate,,,Republican,1368808
+Michigan,1966,Senate,,,Socialist Labor,6196
+Minnesota,1966,Representative,1,,Democratic,98472
+Minnesota,1966,Representative,1,,Republican,71812
+Minnesota,1966,Senate,,Walter F. Mondale,Democratic,862952
+Minnesota,1966,Senate,,Robert A. Forsythe,Republican,600429
+Mississippi,1966,Senate,,James O. Eastland,Democratic,162978
+Mississippi,1966,Senate,,Prentiss Walker,Republican,156770
+Missouri,1966,Representative,1,,Democratic,144447
+Missouri,1966,Representative,1,,Republican,98472
+Missouri,1966,Senate,,Warren E. Hearnes,Democratic,127650
+Missouri,1966,Senate,,Thomas B. Curtis,Republican,125465
+Montana,1966,Senate,,Lee Metcalf,Democratic,134204
+Montana,1966,Senate,,Tim M. Babcock,Republican,113507
+NEBRASKA,1966,House,1,Clair A. Callan,Democrat,89363
+NEBRASKA,1966,House,1,Robert V. Denney,Republican,93628
+NEBRASKA,1966,House,1,Scattering,Scattering,6
+NEBRASKA,1966,House,2,Richard Fellman,Democrat,46235
+NEBRASKA,1966,House,2,Glenn Cunningham,Republican,83082
+NEBRASKA,1966,House,2,Scattering,Scattering,11
+NEBRASKA,1966,House,3,John Homan,Democrat,42920
+NEBRASKA,1966,House,3,Dave Martin,Republican,115893
+NEBRASKA,1966,House,3,Scattering,Scattering,6
+NEBRASKA,1966,Senate,,Frank B. Morrison,Democrat,187950
+NEBRASKA,1966,Senate,,Carl T. Curtis,Republican,206116
+NEBRASKA,1966,Senate,,Scattering,Scattering,1032
+NEVADA,1966,House,,Walter S. Baring,Democrat,86467
+NEVADA,1966,House,,Ralph L. Kraemer,Republican,41383
+NEW HAMPSHIRE,1966,House,1,J. Oliva Huot,Democrat,56740
+NEW HAMPSHIRE,1966,House,1,Louis C. Wyman,Republican,72869
+NEW HAMPSHIRE,1966,House,2,William H. Barry Jr.,Democrat,32835
+NEW HAMPSHIRE,1966,House,2,James C. Cleveland,Republican,66179
+NEW HAMPSHIRE,1966,Senate,,Thomas J. McIntyre,Democrat,123888
+NEW HAMPSHIRE,1966,Senate,,Harrison R. Thyng,Republican,105241
+NEW HAMPSHIRE,1966,Senate,,Helen Bliss,Write-in,108
+NEW JERSEY,1966,House,1,Michael J. Piarulli,Democrat,61469
+NEW JERSEY,1966,House,1,John E. Hunt,Republican,68248
+NEW JERSEY,1966,House,1,Elliott G. Heard Jr.,Independent,1907
+NEW JERSEY,1966,House,1,Joseph V. Hayden,Conservative,916
+NEW JERSEY,1966,House,1,Dominic W. Doganiaro,Socialist Labor,183
+NEW JERSEY,1966,House,1,Frederick L. Compton,Peace Equal Rights,183
+NEW JERSEY,1966,House,10,Peter W. Rodino Jr.,Democrat,71699
+NEW JERSEY,1966,House,10,Earl Harris,Republican,36508
+NEW JERSEY,1966,House,10,Harry Press,Socialist Labor,640
+NEW JERSEY,1966,House,10,Virginia Elliott,Conservative,2702
+NEW JERSEY,1966,House,11,Joseph G. Minish,Democrat,64023
+NEW JERSEY,1966,House,11,Leonard J. Felzenberg,Republican,44803
+NEW JERSEY,1966,House,11,Joseph Carroll,Socialist Workers,1014
+NEW JERSEY,1966,House,12,Robert F. Allen,Democrat,37790
+NEW JERSEY,1966,House,12,Florence P. Dwyer,Republican,116701
+NEW JERSEY,1966,House,12,Howard Shershinger,Conservative,3387
+NEW JERSEY,1966,House,13,Cornelius E. Gallagher,Democrat,90488
+NEW JERSEY,1966,House,13,Ruth Swayze,Republican,35486
+NEW JERSEY,1966,House,14,Dominick V. Daniels,Democrat,87741
+NEW JERSEY,1966,House,14,Thomas R. McSherry,Republican,36828
+NEW JERSEY,1966,House,14,Benjamin J. Messina,Conservative,4536
+NEW JERSEY,1966,House,15,Edward J. Patten,Democrat,81959
+NEW JERSEY,1966,House,15,C. John Stroumtsos,Republican,59706
+NEW JERSEY,1966,House,15,Albert Wasilewski,Conservative,2236
+NEW JERSEY,1966,House,2,Thomas C. McGrath Jr.,Democrat,65494
+NEW JERSEY,1966,House,2,Charles W. Sandman Jr.,Republican,72014
+NEW JERSEY,1966,House,2,Lindwood W. Erickson Jr.,Conservative,991
+NEW JERSEY,1966,House,2,Albert Ronis,Socialist Labor,1259
+NEW JERSEY,1966,House,3,James J. Howard,Democrat,81382
+NEW JERSEY,1966,House,3,James M. Coleman Jr.,Republican,72043
+NEW JERSEY,1966,House,3,Martin A. Watkins,Peace Equal Rights,1043
+NEW JERSEY,1966,House,4,Frank Thompson Jr.,Democrat,82271
+NEW JERSEY,1966,House,4,Ralph Clark Chandler,Republican,63730
+NEW JERSEY,1966,House,4,Joseph J. Frank,Socialist Labor,480
+NEW JERSEY,1966,House,5,Carter Jefferson,Democrat,41476
+NEW JERSEY,1966,House,5,Peter H. B. Frelinghuysen,Republican,108375
+NEW JERSEY,1966,House,5,Robert G. Wright,Conservative,3390
+NEW JERSEY,1966,House,6,Walter Dubrow,Democrat,48738
+NEW JERSEY,1966,House,6,William T. Cahill,Republican,106436
+NEW JERSEY,1966,House,6,Malcolm C. McWeeney,Conservative,2857
+NEW JERSEY,1966,House,6,Bernardo S. Doganiero,Socialist Labor,279
+NEW JERSEY,1966,House,6,Nathan Robinson,Peace Equal Rights,726
+NEW JERSEY,1966,House,7,Robert E. Hamer,Democrat,51294
+NEW JERSEY,1966,House,7,William B. Widnall,Republican,101253
+NEW JERSEY,1966,House,8,Charles S. Joelson,Democrat,80725
+NEW JERSEY,1966,House,8,Richard M. DeMarco,Republican,51784
+NEW JERSEY,1966,House,8,Harry Sautthouse,Socialist Labor,2921
+NEW JERSEY,1966,House,9,Henry Helstoski,Democrat,74320
+NEW JERSEY,1966,House,9,Frank C. Osmers Jr.,Republican,71756
+NEW JERSEY,1966,Senate,,Warren W. Wilentz,Democrat,788021
+NEW JERSEY,1966,Senate,,Clifford P. Case,Republican,1278843
+NEW JERSEY,1966,Senate,,Julius Levin,Socialist Labor,10218
+NEW JERSEY,1966,Senate,,Robert Lee Schlachter,Conservative,53605
+NEW MEXICO,1966,House,1,Thomas G. Morris,Democrat,140057
+NEW MEXICO,1966,House,1,Schuble C. Cook,Republican,110441
+NEW MEXICO,1966,House,2,E. S. Johnny Walker,Democrat,126984
+NEW MEXICO,1966,House,2,Robert C. Davidson,Republican,124536
+NEW MEXICO,1966,Senate,,Clinton P. Anderson,Democrat,137205
+NEW MEXICO,1966,Senate,,Anderson Carter,Republican,120988
+NEW YORK,1966,Representatives,1,Otis G. Pike,Democrat Liberal,101963
+NEW YORK,1966,Representatives,1,James M. Catterson Jr.,Republican,58296
+NEW YORK,1966,Representatives,1,Domenico Crachi Jr.,Conservative,12731
+NEW YORK,1966,Representatives,10,Emmanuel Celler,Democrat Liberal,76439
+NEW YORK,1966,Representatives,10,Erwin A. Rosenberg,Republican,16702
+NEW YORK,1966,Representatives,11,Frank J. Brasco,Democrat,99386
+NEW YORK,1966,Representatives,11,Benjamin W. Feldman,Republican,12200
+NEW YORK,1966,Representatives,11,Edward L. Johnson,Liberal,4174
+NEW YORK,1966,Representatives,12,Edna F. Kelly,Democrat Liberal,87651
+NEW YORK,1966,Representatives,12,Alfred G. Walton,Republican,29390
+NEW YORK,1966,Representatives,12,Herbert Apetheker,Peace and Freedom,3562
+NEW YORK,1966,Representatives,13,Abraham J. Multer,Democrat,95511
+NEW YORK,1966,Representatives,13,Mary Gravina,Republican,28750
+NEW YORK,1966,Representatives,13,Hershel Chanin,Liberal,20557
+NEW YORK,1966,Representatives,13,Michael J. Spadaro,Conservative,9463
+NEW YORK,1966,Representatives,14,John J. Rooney,Democrat Liberal,43142
+NEW YORK,1966,Representatives,14,Leon F. Nadrowski,Republican,13482
+NEW YORK,1966,Representatives,15,Hugh L. Carey,Democrat United Tax Payers,52919
+NEW YORK,1966,Representatives,15,Herbert F. Ryan,Republican Conservative,40181
+NEW YORK,1966,Representatives,16,John M. Murphy,Democrat Liberal,71889
+NEW YORK,1966,Representatives,16,Frank J. Biondolillo,Republican Conservative,53346
+NEW YORK,1966,Representatives,17,Jerome L. Wilson,Democrat Liberal,67334
+NEW YORK,1966,Representatives,17,Theodore R. Kupferman,Republican,69492
+NEW YORK,1966,Representatives,17,Richard J. Callahan,Conservative,8818
+NEW YORK,1966,Representatives,18,Adam C. Powell,Democrat,45308
+NEW YORK,1966,Representatives,18,Lassen R. Walsh,Republican,10711
+NEW YORK,1966,Representatives,18,Richard Priedeaux,Liberal,3654
+NEW YORK,1966,Representatives,18,Ryland E. D. Chase,Conservative,1214
+NEW YORK,1966,Representative,19,Leonard Farbstein,Democrat,53581
+NEW YORK,1966,Representative,19,Henry E. Del Rosso,Republican Conservative,24340
+NEW YORK,1966,Representative,19,Elaine M. Morrison,Liberal,11340
+NEW YORK,1966,Representative,19,James Weinstein,Industrial Socialist,3502
+NEW YORK,1966,Representatives,2,Frank M. Corso,Democrat Liberal,49749
+NEW YORK,1966,Representatives,2,James R. Grover,Republican,79640
+NEW YORK,1966,Representatives,2,John Brush,United for Peace,1489
+NEW YORK,1966,Representatives,2,Edward Campbell,Conservative,14820
+NEW YORK,1966,Representative,20,William F. Ryan,Democrat Liberal,74215
+NEW YORK,1966,Representative,20,Norman C. Harlowe,Republican,20560
+NEW YORK,1966,Representative,20,Carolyn S. Weller,Conservative,4470
+NEW YORK,1966,Representative,21,James H. Scheuer,Democrat Liberal,63173
+NEW YORK,1966,Representative,21,Burton Siegel,Republican,12414
+NEW YORK,1966,Representative,22,Jacob H. Gilbert,Democrat,40787
+NEW YORK,1966,Representative,22,Pedro Luis Rodriguez,Republican All Peoples,10603
+NEW YORK,1966,Representative,22,Carlos Rosario,Liberal,3552
+NEW YORK,1966,Representative,23,Jonathan B. Bingham,Democrat Liberal,34540
+NEW YORK,1966,Representative,23,Harold Grossberg,Republican,21735
+NEW YORK,1966,Representative,23,Walter A. Quinn Jr.,Conservative,8949
+NEW YORK,1966,Representative,24,Aileen B. Ryan,Democrat,42291
+NEW YORK,1966,Representative,24,Paul A. Fino,Republican Conservative,80882
+NEW YORK,1966,Representative,24,John P. Hagan,Liberal,3412
+NEW YORK,1966,Representative,25,Richard L. Ottinger,Democrat Liberal,106952
+NEW YORK,1966,Representative,25,Frederick J. Martin Jr.,Republican,88769
+NEW YORK,1966,Representative,26,Joseph L. Hutner,Democrat,39291
+NEW YORK,1966,Representative,26,Ogden R. Reid,Republican,107031
+NEW YORK,1966,Representative,26,Albert M. Ganss,Conservative,8160
+NEW YORK,1966,Representative,27,John G. Dow,Democrat Liberal,79424
+NEW YORK,1966,Representative,27,Louis V. Mills,Republican,74816
+NEW YORK,1966,Representative,27,Frederick F. Roland,Conservative,19946
+NEW YORK,1966,Representative,28,Joseph Y. Resnick,Democrat Liberal,84940
+NEW YORK,1966,Representative,28,Hamilton Fish Jr.,Republican,78258
+NEW YORK,1966,Representative,28,Jean Hervey,Conservative,3578
+NEW YORK,1966,Representative,28,Eric Lindbloom,Voters for Peace,2107
+NEW YORK,1966,Representative,29,Richard J. Connors,Democrat,91174
+NEW YORK,1966,Representative,29,Daniel E. Button,Republican Liberal,107671
+NEW YORK,1966,Representative,29,John Muller,Conservative,3290
+NEW YORK,1966,Representatives,3,Lester L. Wolff,Democrat Liberal,81959
+NEW YORK,1966,Representatives,3,Steven B. Derounian,Republican,81122
+NEW YORK,1966,Representative,30,John S. Hall,Democrat Liberal,61216
+NEW YORK,1966,Representative,30,Careton J. King,Republican,113759
+NEW YORK,1966,Representative,31,Raymond E. Bishop,Democrat Liberal,36273
+NEW YORK,1966,Representative,31,Robert C. McEwen,Republican,73680
+NEW YORK,1966,Representative,32,Robert Castle,Democrat,36195
+NEW YORK,1966,Representative,32,Alexander Pirnie,Republican Liberal,94331
+NEW YORK,1966,Representative,33,Blair G. Ewing,Democrat Liberal,45761
+NEW YORK,1966,Representative,33,Howard W. Robison,Republican,88378
+NEW YORK,1966,Representative,33,Joe Griffith,Write-in,422
+NEW YORK,1966,Representative,34,James M. Hanley,Democrat,90044
+NEW YORK,1966,Representative,34,Stewart F. Hancock Jr.,Republican,62559
+NEW YORK,1966,Representative,34,Norman Balabanian,Liberal Citizens Peace,4900
+NEW YORK,1966,Representative,34,Benjamin K. Senier,Conservative,5903
+NEW YORK,1966,Representative,35,Samuel S. Stratton,Democrat Liberal,93746
+NEW YORK,1966,Representative,35,Frederick D. Dugan,Republican,48668
+NEW YORK,1966,Representative,36,Milo Thomas,Democrat,37129
+NEW YORK,1966,Representative,36,Frank J. Horton,Republican,110541
+NEW YORK,1966,Representative,36,Donald P. Feder,Liberal Voters for Peace,6048
+NEW YORK,1966,Representative,36,Robert H. Dettig,Conservative,10493
+NEW YORK,1966,Representative,37,Kenneth Hed,Democrat,46201
+NEW YORK,1966,Representative,37,Barber B. Conable Jr.,Republican,104342
+NEW YORK,1966,Representative,37,Jerome Balter,Liberal,3683
+NEW YORK,1966,Representative,38,Edison LeRoy Jr.,Democrat,35785
+NEW YORK,1966,Representative,38,Charles E. Goodell,Republican,82137
+NEW YORK,1966,Representative,38,Charles Schwartz,Liberal,2546
+NEW YORK,1966,Representative,38,Lloyd R. Murphy,Conservative,1695
+NEW YORK,1966,Representative,39,Richard D. McCarthy,Democrat Liberal,95671
+NEW YORK,1966,Representative,39,John R. Pillion,Republican Conservative,87230
+NEW YORK,1966,Representatives,4,Martin Steadman,Democrat Liberal,46555
+NEW YORK,1966,Representatives,4,John W. Wydler,Republican,86677
+NEW YORK,1966,Representatives,4,Donald H. Serrell,Conservative,10035
+NEW YORK,1966,Representatives,4,Bernard Kagel,United for Peace,2013
+NEW YORK,1966,Representative,40,William Levitt,Democrat Liberal,54303
+NEW YORK,1966,Representative,40,Henry P. Smith III,Republican,85801
+NEW YORK,1966,Representative,41,Thaddeus J. Dulski,Democrat Liberal,92222
+NEW YORK,1966,Representative,41,Francis X. Schwab Jr.,Republican Conservative,28491
+NEW YORK,1966,Representatives,5,Herbert Tenzer,Democrat Liberal,88602
+NEW YORK,1966,Representatives,5,Thomas Brennan,Republican Conservative,86356
+NEW YORK,1966,Representatives,5,Carleton M. Fisher,United for Peace,2658
+NEW YORK,1966,Representatives,6,Gilbert T. Redleaf,Democrat,45621
+NEW YORK,1966,Representatives,6,Seymour Halpern,Republican Liberal,91526
+NEW YORK,1966,Representatives,6,Ronald E. Weiss,Conservative,17863
+NEW YORK,1966,Representatives,7,Joseph P. Addabbo,Democrat Liberal,93758
+NEW YORK,1966,Representatives,7,Louis R. Morogdiano,Republican,34644
+NEW YORK,1966,Representatives,7,Raymond G. Carpenter,Conservative,16070
+NEW YORK,1966,Representatives,8,Benjamin S. Rosenthal,Democrat Liberal,115310
+NEW YORK,1966,Representatives,8,Thomas C. Gowlan,Republican,26573
+NEW YORK,1966,Representatives,8,Cyrus Julien,Conservative,13726
+NEW YORK,1966,Representatives,9,James J. Delaney,Democrat,75915
+NEW YORK,1966,Representatives,9,John F. Haggerty,Republican Conservative,56724
+NEW YORK,1966,Representatives,9,David Green,Liberal,9182
+NORTH CAROLINA,1966,House,1,Walter B. Jones,Democrat,43539
+NORTH CAROLINA,1966,House,1,John P. East,Republican,27434
+NORTH CAROLINA,1966,House,10,Basil L. Whitener,Democrat,52117
+NORTH CAROLINA,1966,House,10,W. Hall Young,Republican,46741
+NORTH CAROLINA,1966,House,11,Roy A. Taylor,Democrat,72855
+NORTH CAROLINA,1966,House,11,W. Scott Harvey,Republican,65187
+NORTH CAROLINA,1966,House,2,L. H. Fountain,Democrat,36849
+NORTH CAROLINA,1966,House,2,Reece B. Gardner,Republican,19888
+NORTH CAROLINA,1966,House,3,David N. Henderson,Democrat,33809
+NORTH CAROLINA,1966,House,4,Harold D. Cooley,Democrat,46673
+NORTH CAROLINA,1966,House,4,James C. Gardner,Republican,60686
+NORTH CAROLINA,1966,House,5,Nick Galifianakis,Democrat,46635
+NORTH CAROLINA,1966,House,5,G. Fred Steele Jr.,Republican,40729
+NORTH CAROLINA,1966,House,6,Horace R. Kornegay,Democrat,42677
+NORTH CAROLINA,1966,House,6,Richard B. Barnwell,Republican,40000
+NORTH CAROLINA,1966,House,7,Alton Lennon,Democrat,40512
+NORTH CAROLINA,1966,House,8,John G. Plumides,Democrat,22465
+NORTH CAROLINA,1966,House,8,Charles Raper Jonas,Republican,56382
+NORTH CAROLINA,1966,House,9,Robert Bingham,Democrat,46882
+NORTH CAROLINA,1966,House,9,James T. Broyhill,Republican,80980
+NORTH CAROLINA,1966,Senate,,B. Everett Jordan,Democrat,501440
+NORTH CAROLINA,1966,Senate,,John S. Shallcross,Republican,400502
+NORTH CAROLINA,1966,Senate,,Donald R. Badgley,Write-in,36
+NORTH DAKOTA,1966,Representative,1,S. F. Buckshot Hoffner,Democrat,33694
+NORTH DAKOTA,1966,Representative,1,Mark Andrews,Republican,66011
+NORTH DAKOTA,1966,Representative,2,Rolland Redlin,Democrat,46903
+NORTH DAKOTA,1966,Representative,2,Thomas S. Kleppe,Republican,50801
+Nebraska,1966,Senate,,Frank B. Morrison,Democratic,164326
+Nebraska,1966,Senate,,Carl T. Curtis,Republican,228983
+Nevada,1966,Representative,1,,Democratic,48475
+Nevada,1966,Representative,1,,Republican,41983
+Nevada,1966,Senate,,Howard W. Cannon,Democratic,47815
+Nevada,1966,Senate,,Wilford Owen,Republican,37894
+New Hampshire,1966,Representative,1,,Democratic,71812
+New Hampshire,1966,Representative,1,,Republican,48475
+New Jersey,1966,Representative,1,,Democratic,144447
+New Jersey,1966,Representative,1,,Republican,98472
+New Jersey,1966,Senate,,Warren W. Wilentz,Democratic,847514
+New Jersey,1966,Senate,,Clifford P. Case,Republican,1102591
+New Mexico,1966,Representative,1,,Democratic,48475
+New Mexico,1966,Representative,1,,Republican,41983
+New Mexico,1966,Senate,,Clinton P. Anderson,Democratic,147529
+New Mexico,1966,Senate,,Anderson Carter,Republican,108540
+New York,1966,Representative,1,,Democratic,2444475
+New York,1966,Representative,1,,Republican,2175983
+New York,1966,Representative,1,,Democratic,42655
+New York,1966,Representative,1,,Republican,58299
+New York,1966,Representative,1,,Liberal,8288
+New York,1966,Representative,10,,Democratic,29423
+New York,1966,Representative,10,,Republican,21746
+New York,1966,Representative,10,,Liberal,4012
+New York,1966,Representative,11,,Democratic,50510
+New York,1966,Representative,11,,Republican,17745
+New York,1966,Representative,11,,Liberal,6386
+New York,1966,Representative,12,,Democratic,27103
+New York,1966,Representative,12,,Republican,8874
+New York,1966,Representative,12,,Liberal,2401
+New York,1966,Representative,12,,United Taxpayers,3144
+New York,1966,Representative,12,,Independent Socialist,1402
+New York,1966,Representative,12,,Peace Freedom,3950
+New York,1966,Representative,13,,Democratic,27273
+New York,1966,Representative,13,,Republican,14496
+New York,1966,Representative,13,,Liberal,3167
+New York,1966,Representative,14,,Democratic,27104
+New York,1966,Representative,14,,Republican,7569
+New York,1966,Representative,14,,Liberal,2401
+New York,1966,Representative,15,,Democratic,27273
+New York,1966,Representative,15,,Republican,14496
+New York,1966,Representative,15,,Liberal,3167
+New York,1966,Representative,16,,Democratic,38347
+New York,1966,Representative,16,,Republican,14496
+New York,1966,Representative,16,,Liberal,4426
+New York,1966,Representative,17,,Democratic,38045
+New York,1966,Representative,17,,Republican,7996
+New York,1966,Representative,17,,Liberal,1438
+New York,1966,Representative,18,,Democratic,35452
+New York,1966,Representative,18,,Republican,7449
+New York,1966,Representative,18,,Liberal,2446
+New York,1966,Representative,19,,Democratic,35243
+New York,1966,Representative,19,,Republican,15944
+New York,1966,Representative,19,,Liberal,4116
+New York,1966,Representative,2,,Democratic,41984
+New York,1966,Representative,2,,Republican,81722
+New York,1966,Representative,2,,Liberal,10775
+New York,1966,Representative,3,,Democratic,45021
+New York,1966,Representative,3,,Republican,75944
+New York,1966,Representative,3,,Liberal,10512
+New York,1966,Representative,4,,Democratic,54415
+New York,1966,Representative,4,,Republican,59333
+New York,1966,Representative,4,,Liberal,10165
+New York,1966,Representative,5,,Democratic,54401
+New York,1966,Representative,5,,Republican,39715
+New York,1966,Representative,5,,Liberal,9172
+New York,1966,Representative,6,,Democratic,35489
+New York,1966,Representative,6,,Republican,22890
+New York,1966,Representative,6,,Liberal,6171
+New York,1966,Representative,7,,Democratic,40705
+New York,1966,Representative,7,,Republican,13947
+New York,1966,Representative,7,,Liberal,4123
+New York,1966,Representative,8,,Democratic,43436
+New York,1966,Representative,8,,Republican,10741
+New York,1966,Representative,8,,Liberal,3584
+New York,1966,Representative,9,,Democratic,42627
+New York,1966,Representative,9,,Republican,12145
+New York,1966,Representative,9,,Liberal,4147
+New York,1966,Senate,,Frank D. O'Connor,Democratic,2154945
+New York,1966,Senate,,Jacob K. Javits,Republican,2458612
+North Carolina,1966,Representative,1,,Democratic,171612
+North Carolina,1966,Representative,1,,Republican,256487
+North Dakota,1966,Representative,1,,Democratic,315562
+North Dakota,1966,Representative,1,,Liberal,315562
+North Dakota,1966,Representative,1,,Peace and Freedom,3562
+North Dakota,1966,Senate,,Quentin N. Burdick,Democratic,103889
+North Dakota,1966,Senate,,Thomas S. Kleppe,Republican,77932
+OHIO,1966,Representative,1,John J. Gilligan,Democrat,62580
+OHIO,1966,Representative,1,Robert Taft Jr.,Republican,70366
+OHIO,1966,Representative,10,Walter H. Moeller,Democrat,52258
+OHIO,1966,Representative,10,Clarence E. Miller,Republican,56659
+OHIO,1966,Representative,11,James F. Henderson,Democrat,38206
+OHIO,1966,Representative,11,J. William Stanton,Republican,86273
+OHIO,1966,Representative,12,Robert N. Shamansky,Democrat,39140
+OHIO,1966,Representative,12,Samuel L. Devine,Republican,79192
+OHIO,1966,Representative,13,Thomas E. Wolfe,Democrat,36751
+OHIO,1966,Representative,13,Charles A. Mosher,Republican,69862
+OHIO,1966,Representative,14,Charles F. Madden Jr.,Democrat,52646
+OHIO,1966,Representative,14,William H. Ayres,Republican,77819
+OHIO,1966,Representative,15,Robert L. Van Heyde,Democrat,38805
+OHIO,1966,Representative,15,Chalmers P. Wylie,Republican,57993
+OHIO,1966,Representative,16,Robert D. Freeman,Democrat,55775
+OHIO,1966,Representative,16,Frank T. Bow,Republican,87597
+OHIO,1966,Representative,17,Robert T. Secrest,Democrat,59031
+OHIO,1966,Representative,17,John M. Ashbrook,Republican,73132
+OHIO,1966,Representative,18,Wayne L. Hays,Democrat,73657
+OHIO,1966,Representative,18,William H. Weir,Republican,41165
+OHIO,1966,Representative,19,Michael J. Kirwan,Democrat,86975
+OHIO,1966,Representative,19,Donald J. Lewis,Republican,34037
+OHIO,1966,Representative,2,Thomas E. Anderson,Democrat,42307
+OHIO,1966,Representative,2,Donald D. Clancy,Republican,102313
+OHIO,1966,Representative,20,Michael A. Feighan,Democrat,63629
+OHIO,1966,Representative,20,Clarence E. McLeod,Republican,20034
+OHIO,1966,Representative,21,Charles A. Vanik,Democrat,81210
+OHIO,1966,Representative,21,Frederick M. Coleman,Republican,18205
+OHIO,1966,Representative,22,Anthony O. Calabrese Jr.,Democrat,56803
+OHIO,1966,Representative,22,Frances P. Bolton,Republican,71927
+OHIO,1966,Representative,23,Sheldon D. Clark,Democrat,37489
+OHIO,1966,Representative,23,William E. Minshall,Republican,102513
+OHIO,1966,Representative,24,James H. Pelley,Democrat,43418
+OHIO,1966,Representative,24,Donald E. Lukens,Republican,61194
+OHIO,1966,Representative,3,Rodney M. Love,Democrat,53958
+OHIO,1966,Representative,3,Charles W. Whalen Jr.,Republican,62471
+OHIO,1966,Representative,4,Robert H. Mihlbaugh,Democrat,37855
+OHIO,1966,Representative,4,William M. McCulloch,Republican,66142
+OHIO,1966,Representative,5,John H. Shock,Democrat,26503
+OHIO,1966,Representative,5,Delbert L. Latta,Republican,80906
+OHIO,1966,Representative,6,Otto W. Rapp,Democrat,35345
+OHIO,1966,Representative,6,William H. Harsha,Republican,74837
+OHIO,1966,Representative,7,Clarence J. Brown Jr.,Republican,81225
+OHIO,1966,Representative,8,Frank B. Bennett,Democrat,38787
+OHIO,1966,Representative,8,Jackson E. Betts,Republican,78933
+OHIO,1966,Representative,9,Thomas Ludlow Ashley,Democrat,83261
+OHIO,1966,Representative,9,Jane M. Knebbeler,Republican,58777
+OKLAHOMA,1966,House,1,Ed Cadenhead,Democrat,46286
+OKLAHOMA,1966,House,1,Page Belcher,Republican,106259
+OKLAHOMA,1966,House,2,Ed Edmondson,Democrat,62324
+OKLAHOMA,1966,House,2,Denzil D. Garrison,Republican,52919
+OKLAHOMA,1966,House,3,Carl Albert,Democrat,43049
+OKLAHOMA,1966,House,3,Whit Pate,Republican,12697
+OKLAHOMA,1966,House,4,Tom Steed,Democrat,36719
+OKLAHOMA,1966,House,4,Truman T. Branscum,Republican,36355
+OKLAHOMA,1966,House,5,John Jarman,Democrat,96464
+OKLAHOMA,1966,House,5,Melvin H. Grigg,Republican,42088
+OKLAHOMA,1966,House,6,Jed Johnson Jr.,Democrat,48755
+OKLAHOMA,1966,House,6,James V. Smith,Republican,51474
+OKLAHOMA,1966,Senate,,Fred R. Harris,Democrat,343157
+OKLAHOMA,1966,Senate,,Pat J. Patterson,Republican,295585
+OREGON,1966,House,1,Malcolm Cross,Democrat,49841
+OREGON,1966,House,1,Wendell Wyatt,Republican,144361
+OREGON,1966,House,2,Al Ullman,Democrat,94346
+OREGON,1966,House,2,Everett J. Thoren,Republican,54789
+OREGON,1966,House,3,Edith Green,Democrat,114687
+OREGON,1966,House,3,Lyle Dean,Republican,56598
+OREGON,1966,House,4,Charles O. Porter,Democrat,56007
+OREGON,1966,House,4,John R. Dellenback,Republican,94154
+OREGON,1966,Senate,,Robert B. Duncan,Democrat,330374
+OREGON,1966,Senate,,Mark Hatfield,Republican,354391
+Ohio,1966,Representative,1,,Democratic,171612
+Ohio,1966,Representative,1,,Republican,256487
+Ohio,1966,Senate,,Frank J. Lausche,Democratic,1279192
+Ohio,1966,Senate,,Robert Taft Jr.,Republican,1175550
+Oklahoma,1966,Representative,1,,Democratic,171612
+Oklahoma,1966,Representative,1,,Republican,256487
+Oregon,1966,Representative,1,,Democratic,171612
+Oregon,1966,Representative,1,,Republican,256487
+PENNSYLVANIA,1966,House,1,William A. Barrett,Democrat,90100
+PENNSYLVANIA,1966,House,1,Beatrice K. Chernock,Republican,46280
+PENNSYLVANIA,1966,House,10,Neil Trama,Democrat,57615
+PENNSYLVANIA,1966,House,10,Joseph M. McDade,Republican,115765
+PENNSYLVANIA,1966,House,11,Daniel J. Flood,Democrat,110877
+PENNSYLVANIA,1966,House,11,Gerald C. Broadt,Republican,54032
+PENNSYLVANIA,1966,House,12,J. Robert Rohm,Democrat,53044
+PENNSYLVANIA,1966,House,12,J. Irving Whalley,Republican,107374
+PENNSYLVANIA,1966,House,2,Robert N. C. Nix Sr.,Democrat,76372
+PENNSYLVANIA,1966,House,2,Herbert R. Cain Jr.,Republican,51079
+PENNSYLVANIA,1966,House,3,James A. Byrne,Democrat,64575
+PENNSYLVANIA,1966,House,3,Walter T. Darmopray,Republican,49434
+PENNSYLVANIA,1966,House,4,Joshua Eilberg,Democrat,98793
+PENNSYLVANIA,1966,House,4,Robert Baer Cohen,Republican,91620
+PENNSYLVANIA,1966,House,5,William J. Green,Democrat,86128
+PENNSYLVANIA,1966,House,5,Michael J. Bednarek,Republican,59515
+PENNSYLVANIA,1966,House,6,George M. Rhodes,Democrat,91538
+PENNSYLVANIA,1966,House,6,Daniel B. Boyer Jr.,Republican,71508
+PENNSYLVANIA,1966,House,7,John J. Logue,Democrat,58766
+PENNSYLVANIA,1966,House,7,Lawrence G. Williams,Republican,101042
+PENNSYLVANIA,1966,House,8,Walter S. Farley Jr.,Democrat,48845
+PENNSYLVANIA,1966,House,8,Edward G. Biester Jr.,Republican,70433
+PENNSYLVANIA,1966,House,9,Louis F. Waldmann,Democrat,48656
+PENNSYLVANIA,1966,House,9,G. Robert Watkins,Republican,81516
+Pennsylvania,1966,Representative,13,William D. Searle,Democrat,51024
+Pennsylvania,1966,Representative,13,Richard S. Schweiker,Republican,134414
+Pennsylvania,1966,Representative,14,William S. Moorhead,Democrat,83967
+Pennsylvania,1966,Representative,14,Richard L. Thornburgh,Republican,39024
+Pennsylvania,1966,Representative,15,Fred B. Rooney,Democrat,80947
+Pennsylvania,1966,Representative,15,George J. Joseph,Republican,73404
+Pennsylvania,1966,Representative,16,Richard F. Charles,Democrat,36721
+Pennsylvania,1966,Representative,16,Edwin D. Eshleman,Republican,82527
+Pennsylvania,1966,Representative,17,William Conrad Reuter,Democrat,55761
+Pennsylvania,1966,Representative,17,Herman T. Schneebeli,Republican,109169
+Pennsylvania,1966,Representative,18,John R. Wohlforth,Democrat,52714
+Pennsylvania,1966,Representative,18,Robert J. Corbett,Republican,107677
+Pennsylvania,1966,Representative,19,N. Neiman Craley Jr.,Democrat,55907
+Pennsylvania,1966,Representative,19,George A. Goodling,Republican,79445
+Pennsylvania,1966,Representative,20,Elmer J. Holland,Democrat,93038
+Pennsylvania,1966,Representative,20,Joseph Sabol Jr.,Republican,48229
+Pennsylvania,1966,Representative,21,John H. Dent,Democrat,80472
+Pennsylvania,1966,Representative,21,Edward B. Byrne,Republican,44800
+Pennsylvania,1966,Representative,22,Frank H. Buck,Democrat,50017
+Pennsylvania,1966,Representative,22,John P. Saylor,Republican,103808
+Pennsylvania,1966,Representative,23,Robert Mitchell,Democrat,48373
+Pennsylvania,1966,Representative,23,Albert W. Johnson,Republican,81658
+Pennsylvania,1966,Representative,24,Joseph P. Vigorito,Democrat,85193
+Pennsylvania,1966,Representative,24,James D. Weaver,Republican,68955
+Pennsylvania,1966,Representative,25,Frank M. Clark,Democrat,92073
+Pennsylvania,1966,Representative,25,John F. Heath,Republican,50639
+Pennsylvania,1966,Representative,26,Thomas E. Morgan,Democrat,83687
+Pennsylvania,1966,Representative,26,Paul F. Riggle,Republican,46957
+Pennsylvania,1966,Representative,27,Stephen J. Arnold,Democrat,51928
+Pennsylvania,1966,Representative,27,James G. Fulton,Republican,108731
+Pennsylvania,1966,Senate,,Joseph S. Clark,Democratic,1682326
+Pennsylvania,1966,Senate,,Joseph D. Robb,Republican,1547914
+RHODE ISLAND,1966,House,1,Fernand J. St Germain,Democrat,79046
+RHODE ISLAND,1966,House,1,Raymond W. Houghton,Republican,60093
+RHODE ISLAND,1966,House,2,John E. Fogarty,Democrat,117911
+RHODE ISLAND,1966,House,2,Everett C. Sammartino,Republican,64438
+RHODE ISLAND,1966,Senate,,Claiborne Pell,Democrat,219331
+RHODE ISLAND,1966,Senate,,Ruth M. Briggs,Republican,104838
+Rhode Island,1966,Senate,,Claiborne Pell,Democratic,198540
+Rhode Island,1966,Senate,,Ruth M. Briggs,Republican,92543
+SOUTH CAROLINA,1966,House,1,L. Mendel Rivers,Democrat,59055
+SOUTH CAROLINA,1966,House,2,Fred LeClerq,Democrat,27013
+SOUTH CAROLINA,1966,House,2,Albert W. Watson,Republican,48742
+SOUTH CAROLINA,1966,House,3,W. J. Bryan Dorn,Democrat,42874
+SOUTH CAROLINA,1966,House,3,John Grisso,Republican,31331
+SOUTH CAROLINA,1966,House,4,Robert T. Ashmore,Democrat,43611
+SOUTH CAROLINA,1966,House,5,Tom S. Gettys,Democrat,41550
+SOUTH CAROLINA,1966,House,6,John L. McMillan,Democrat,43090
+SOUTH CAROLINA,1966,House,6,Archie Odom,Republican,26702
+SOUTH CAROLINA,1966,Senate,,Bradley Morrah Jr.,Democrat,164955
+SOUTH CAROLINA,1966,Senate,,Strom Thurmond,Republican,271297
+SOUTH CAROLINA,1966,Senate,,Ernest F. Hollings,Democrat,223790
+SOUTH CAROLINA,1966,Senate,,Marshall Parker,Republican,212032
+SOUTH DAKOTA,1966,House,1,Francis Richter,Democrat,40236
+SOUTH DAKOTA,1966,House,1,Ben Reifel,Republican,86592
+SOUTH DAKOTA,1966,House,2,Jack P. Allmon,Democrat,41155
+SOUTH DAKOTA,1966,House,2,E. Y. Berry,Republican,63063
+SOUTH DAKOTA,1966,Senate,,Donn H. Wright,Democrat,76563
+SOUTH DAKOTA,1966,Senate,,Karl E. Mundt,Republican,150517
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+South Carolina,1966,Representative,1,,Democratic,171612
+South Carolina,1966,Representative,1,,Republican,256487
+TENNESSEE,1966,House,1,James A. Quillen,Republican,86421
+TENNESSEE,1966,House,1,Temus Bright,Independent,12819
+TENNESSEE,1966,House,1,Write-in,Write-in,2
+TENNESSEE,1966,House,2,Jake Armstrong,Democrat,23538
+TENNESSEE,1966,House,2,John J. Duncan,Republican,87777
+TENNESSEE,1966,House,3,Franklin Haney,Democrat,37720
+TENNESSEE,1966,House,3,W. E. (Bill) Brock,Republican,67705
+TENNESSEE,1966,House,4,Joe L. Evins,Democrat,72621
+TENNESSEE,1966,House,4,William Bean,Independent,8061
+TENNESSEE,1966,House,5,Richard H. Fulton,Democrat,55685
+TENNESSEE,1966,House,5,George Kelly,Republican,32706
+TENNESSEE,1966,House,6,William R. Anderson,Democrat,50758
+TENNESSEE,1966,House,6,Cecil Hill,Independent,12987
+TENNESSEE,1966,House,6,Write-in,Write-in,8
+TENNESSEE,1966,House,7,Ray Blanton,Democrat,45083
+TENNESSEE,1966,House,7,Julius Hurst,Republican,43118
+TENNESSEE,1966,House,7,L. B. (Pat) Winfield,Independent,872
+TENNESSEE,1966,House,7,Write-in,Write-in,1
+TENNESSEE,1966,House,8,Robert A. Everett,Democrat,53338
+TENNESSEE,1966,House,8,Jim Boyd,Republican,17608
+TENNESSEE,1966,House,8,Write-in,Write-in,1
+TENNESSEE,1966,House,9,George W. Grider,Democrat,44553
+TENNESSEE,1966,House,9,Dan H. Kuykendall,Republican,47489
+TENNESSEE,1966,Senate,,Frank G. Clement,Democrat,383843
+TENNESSEE,1966,Senate,,Howard Baker,Republican,453063
+TENNESSEE,1966,Senate,,Write-in,Write-in,55
+TEXAS,1966,House,1,Wright Patman,Democrat,50072
+TEXAS,1966,House,10,J. J. (Jake) Pickle,Democrat,55424
+TEXAS,1966,House,10,Jane Sumner,Republican,18343
+TEXAS,1966,House,10,R. R. Richter,Constitution,849
+TEXAS,1966,House,11,Bob Poage,Democrat,39140
+TEXAS,1966,House,11,Laurel N. Dunn,Conservative,2102
+TEXAS,1966,House,12,Jim Wright,Democrat,27070
+TEXAS,1966,House,13,Graham Purcell,Democrat,43820
+TEXAS,1966,House,13,D. C. Norwood,Republican,32960
+TEXAS,1966,House,14,John Young,Democrat,52861
+TEXAS,1966,House,15,Eligio de la Garza,Democrat,38129
+TEXAS,1966,House,16,Richard White,Democrat,33179
+TEXAS,1966,House,17,Omar Burleson,Democrat,52169
+TEXAS,1966,House,18,Dee Miller,Democrat,30822
+TEXAS,1966,House,18,Robert Price,Republican,45209
+TEXAS,1966,House,19,George Mahon,Democrat,56792
+TEXAS,1966,House,2,John Dowdy,Democrat,55134
+TEXAS,1966,House,20,Henry Gonzalez,Democrat,41087
+TEXAS,1966,House,20,Bert Ellis,Constitution,2290
+TEXAS,1966,House,20,Robert C. Moore,Conservative,3571
+TEXAS,1966,House,21,O. C. Fisher,Democrat,60497
+TEXAS,1966,House,22,Bob Casey,Democrat,60817
+TEXAS,1966,House,23,Abraham Kazen,Democrat,50322
+TEXAS,1966,House,23,Richard K. Troxell,Constitution,1898
+TEXAS,1966,House,3,Joe Pool,Democrat,35081
+TEXAS,1966,House,3,James Collins,Republican,30588
+TEXAS,1966,House,4,Ray Roberts,Democrat,51895
+TEXAS,1966,House,5,Earle Cabell,Democrat,39977
+TEXAS,1966,House,5,Duke Burgess,Republican,25563
+TEXAS,1966,House,6,Olin Teague,Democrat,42017
+TEXAS,1966,House,7,Frank Briscoe,Democrat,39958
+TEXAS,1966,House,7,George Bush,Republican,33756
+TEXAS,1966,House,7,Bob Gray,Constitution,488
+TEXAS,1966,House,8,Bob Eckhardt,Democrat,38497
+TEXAS,1966,House,8,W. D. Spayne,Constitution,3207
+TEXAS,1966,House,9,Jack Brooks,Democrat,47604
+TEXAS,1966,Senate,,Waggoner Carr,Democrat,643855
+TEXAS,1966,Senate,,John Tower,Republican,841501
+TEXAS,1966,Senate,,James Barker Holland,Constitution,6778
+Tennessee,1966,Representative,1,,Democratic,171612
+Tennessee,1966,Representative,1,,Republican,256487
+Tennessee,1966,Senate,,Frank G. Clement,Democratic,477090
+Tennessee,1966,Senate,,Howard H. Baker Jr.,Republican,482154
+Texas,1966,Representative,1,,Democratic,171612
+Texas,1966,Representative,1,,Republican,256487
+Texas,1966,Senate,,Waggoner Carr,Democratic,1463044
+Texas,1966,Senate,,John G. Tower,Republican,842501
+This image appears to be a title page and does not contain any election result data to format into CSV. It shows it's a document about the Congressional Election of November 8, 1966, compiled by Benjamin J. Guthrie under the direction of W. Pat Jennings, but contains no actual election statistics to parse.,,,
+UTAH,1966,House,1,J. Keith Melville,Democrat,50260
+UTAH,1966,House,1,Laurence J. Burton,Republican,99750
+UTAH,1966,House,2,David S. King,Democrat,61001
+UTAH,1966,House,2,Sherman P. Lloyd,Republican,96426
+Utah,1966,Senate,,Frank E. Moss,Democratic,164323
+Utah,1966,Senate,,Sherman P. Lloyd,Republican,144034
+Utah,1966,Representative,,Unknown,Democratic,111731
+Utah,1966,Representative,,Unknown,Republican,156173
+VERMONT,1966,House,,William J. Ryan,Democrat,46643
+VERMONT,1966,House,,Robert T. Stafford,Republican,89097
+VIRGINIA,1966,House,1,Thomas N. Downing,Democrat,51016
+VIRGINIA,1966,House,1,Scattering,,117
+VIRGINIA,1966,House,10,Clive L. DuVal II,Democrat,41502
+VIRGINIA,1966,House,10,Joel T. Broyhill,Republican,58105
+VIRGINIA,1966,House,10,Scattering,,4
+VIRGINIA,1966,House,2,Porter Hardy,Democrat,33761
+VIRGINIA,1966,House,2,Scattering,,1
+VIRGINIA,1966,House,3,David E. Satterfield III,Democrat,51576
+VIRGINIA,1966,House,3,Scattering,,191
+VIRGINIA,1966,House,4,Watkins M. Abbitt,Democrat,45226
+VIRGINIA,1966,House,4,Edward J. Silverman,Independent,14827
+VIRGINIA,1966,House,4,Scattering,,7907
+VIRGINIA,1966,House,5,William M. Tuck,Democrat,32312
+VIRGINIA,1966,House,5,Robert L. Gilliam,Republican,25293
+VIRGINIA,1966,House,5,Scattering,,20
+VIRGINIA,1966,House,6,Murray A. Stoller,Democrat,13113
+VIRGINIA,1966,House,6,Richard H. Poff,Republican,55342
+VIRGINIA,1966,House,6,Scattering,,2
+VIRGINIA,1966,House,7,John O. Marsh,Democrat,42532
+VIRGINIA,1966,House,7,Edward O. McCue III,Republican,29249
+VIRGINIA,1966,House,7,Scattering,,10
+VIRGINIA,1966,House,8,George C. Rawlings Jr.,Democrat,37929
+VIRGINIA,1966,House,8,William Lloyd Scott,Republican,50782
+VIRGINIA,1966,House,8,Scattering,,21
+VIRGINIA,1966,House,9,W. Pat Jennings,Democrat,42571
+VIRGINIA,1966,House,9,William C. Wampler,Republican,49413
+VIRGINIA,1966,Senate,,William B. Spong Jr.,Democrat,429855
+VIRGINIA,1966,Senate,,James P. Ould Jr.,Republican,245981
+VIRGINIA,1966,Senate,,F. Lee Hawthorne,Independent,58251
+VIRGINIA,1966,Senate,,Scattering,,92
+VIRGINIA,1966,Senate,,Harry F. Byrd Jr.,Democrat,389028
+VIRGINIA,1966,Senate,,Lawrence M. Traylor,Republican,272804
+VIRGINIA,1966,Senate,,John W. Carter,Independent,57692
+VIRGINIA,1966,Senate,,J. B. Brayman,Independent,10180
+VIRGINIA,1966,Senate,,Scattering,,135
+Vermont,1966,Senate,,Winston L. Prouty,Republican,82154
+Vermont,1966,Senate,,Charles O'Brien,Democratic,46824
+Vermont,1966,Representative,,Unknown,Democratic,44248
+Vermont,1966,Representative,,Unknown,Republican,59192
+Virginia,1966,Senate,,William B. Spong Jr.,Democratic,361462
+Virginia,1966,Senate,,A. Willis Robertson,Republican,337547
+Virginia,1966,Representative,,Unknown,Democratic,252023
+Virginia,1966,Representative,,Unknown,Republican,240512
+WASHINGTON,1966,Representatives,1,Alice Franklin Bryant,Democrat,29086
+WASHINGTON,1966,Representatives,1,Thomas M. Pelly,Republican,120747
+WASHINGTON,1966,Representatives,2,Lloyd Meeds,Democrat,75357
+WASHINGTON,1966,Representatives,2,Eugene M. Smith,Republican,44727
+WASHINGTON,1966,Representatives,2,George E. Pittan,Conservative,2991
+WASHINGTON,1966,Representatives,2,Frank L. Batterson,Peace and Freedom,1105
+WASHINGTON,1966,Representatives,3,Julia Butler Hansen,Democrat,78601
+WASHINGTON,1966,Representatives,3,Keith Kisor,Republican,40946
+WASHINGTON,1966,Representatives,4,Gustav Hammer,Democrat,38029
+WASHINGTON,1966,Representatives,4,Catherine May,Republican,77929
+WASHINGTON,1966,Representatives,4,Floyd Paxton,Conservative,9585
+WASHINGTON,1966,Representatives,5,Thomas S. Foley,Democrat,74571
+WASHINGTON,1966,Representatives,5,Dorothy R. Powers,Republican,57201
+WASHINGTON,1966,Representatives,6,Floyd V. Hicks,Democrat,73164
+WASHINGTON,1966,Representatives,6,George Mahler,Republican,48041
+WASHINGTON,1966,Representatives,7,Brock Adams,Democrat,104613
+WASHINGTON,1966,Representatives,7,James Munn,Republican,60065
+WASHINGTON,1966,Representatives,7,Robert B. Shaw,Peace and Freedom,1974
+WEST VIRGINIA,1966,House,1,William M. Kidd,Democrat,36242
+WEST VIRGINIA,1966,House,1,Arch A. Moore Jr.,Republican,88364
+WEST VIRGINIA,1966,House,2,Harley O. Staggers,Democrat,51235
+WEST VIRGINIA,1966,House,2,George L. Strader,Republican,33676
+WEST VIRGINIA,1966,House,3,John M. Slack,Democrat,60073
+WEST VIRGINIA,1966,House,3,Mal Guthrie,Republican,37416
+WEST VIRGINIA,1966,House,4,Ken Hechler,Democrat,71751
+WEST VIRGINIA,1966,House,4,Harry D. (Pinkie) Humphreys,Republican,48396
+WEST VIRGINIA,1966,House,5,James Kee,Democrat,42722
+WEST VIRGINIA,1966,House,5,Elizabeth Ann Bowen,Republican,24470
+WEST VIRGINIA,1966,Senate,,Jennings Randolph,Democrat,292325
+WEST VIRGINIA,1966,Senate,,Francis J. Love,Republican,198891
+WISCONSIN,1966,Representatives,1,Lynn E. Stalbaum,Democrat,62398
+WISCONSIN,1966,Representatives,1,Henry C. Schadeberg,Republican,65041
+WISCONSIN,1966,Representatives,10,Carl E. Lauri,Democrat,39863
+WISCONSIN,1966,Representatives,10,Alvin E. O'Konski,Republican,79282
+WISCONSIN,1966,Representatives,2,Robert W. Kastenmeier,Democrat,70311
+WISCONSIN,1966,Representatives,2,William B. Smith,Republican,50839
+WISCONSIN,1966,Representatives,3,John D. Rice,Democrat,32849
+WISCONSIN,1966,Representatives,3,Vernon W. Thomson,Republican,72580
+WISCONSIN,1966,Representatives,4,Clement J. Zablocki,Democrat,77690
+WISCONSIN,1966,Representatives,4,James E. Laessig,Republican,26863
+WISCONSIN,1966,Representatives,5,Henry S. Reuss,Democrat,52332
+WISCONSIN,1966,Representatives,5,Curtis T. Pechtel,Republican,22167
+WISCONSIN,1966,Representatives,5,James E. Boulton,Independent,235
+WISCONSIN,1966,Representatives,6,John A. Race,Democrat,61761
+WISCONSIN,1966,Representatives,6,William A. Steiger,Republican,67941
+WISCONSIN,1966,Representatives,7,Norman L. Myhra,Democrat,40093
+WISCONSIN,1966,Representatives,7,Melvin R. Laird,Republican,74942
+WISCONSIN,1966,Representatives,8,Marvin S. Kagen,Democrat,47926
+WISCONSIN,1966,Representatives,8,John W. Byrnes,Republican,78817
+WISCONSIN,1966,Representatives,9,James P. Buckley,Democrat,47074
+WISCONSIN,1966,Representatives,9,Glenn R. Davis,Republican,85297
+WYOMING,1966,Senate,,Teno Roncalio,Democrat,59141
+WYOMING,1966,Senate,,Clifford P. Hansen,Republican,63548
+WYOMING,1966,House,,Al Christian,Democrat,56442
+WYOMING,1966,House,,William Henry Harrison,Republican,62984
+Washington,1966,Senate,,Warren G. Magnuson,Democratic,483041
+Washington,1966,Senate,,Lloyd J. Andrews,Republican,381583
+Washington,1966,Representative,,Unknown,Democratic,424802
+Washington,1966,Representative,,Unknown,Republican,460755
+West Virginia,1966,Senate,,Robert C. Byrd,Democratic,452496
+West Virginia,1966,Senate,,Forest J. McNeer,Republican,236304
+West Virginia,1966,Representative,,Unknown,Democratic,312023
+West Virginia,1966,Representative,,Unknown,Republican,242884
+Wisconsin,1966,Senate,,John W. Reynolds,Democratic,482155
+Wisconsin,1966,Senate,,Warren P. Knowles,Republican,566454
+Wyoming,1966,Senate,,Teno Roncalio,Democratic,45173
+Wyoming,1966,Senate,,Clifford P. Hansen,Republican,54674
+Wyoming,1966,Representative,,Unknown,Democratic,39442
+Wyoming,1966,Representative,,Unknown,Republican,62986

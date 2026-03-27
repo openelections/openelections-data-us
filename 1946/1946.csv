@@ -1,0 +1,1531 @@
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+ALABAMA,1946,House,1,Frank W. Boykin,Democrat,12448
+ALABAMA,1946,House,2,George M. Grant,Democrat,17711
+ALABAMA,1946,House,3,George Andrews,Democrat,13397
+ALABAMA,1946,House,4,Sam Hobbs,Democrat,16299
+ALABAMA,1946,House,4,Roger S. Bingham,Republican,2207
+ALABAMA,1946,House,5,Albert Rains,Democrat,21560
+ALABAMA,1946,House,6,Pete Jarman,Democrat,13851
+ALABAMA,1946,House,7,Carter Manasco,Democrat,22853
+ALABAMA,1946,House,7,W. H. Woodward,Republican,8565
+ALABAMA,1946,House,8,John J. Sparkman,Democrat,17624
+ALABAMA,1946,House,8,Arthur South,Republican,1453
+ALABAMA,1946,House,9,Laurie C. Battle,Democrat,29940
+ALABAMA,1946,House,9,J. G. Bass,Republican,1880
+ALABAMA,1946,Senate,,John Sparkman,Democrat,163217
+ALASKA,1946,Delegate,,E. L. Bartlett,Democrat,11516
+ALASKA,1946,Delegate,,Almer J. Peterson,Republican,4868
+ARIZONA,1946,Senate,,Ernest W. McFarland,Democrat,80415
+ARIZONA,1946,Senate,,Ward S. Powers,Republican,35022
+ARIZONA,1946,Senate,,Morris Graham,Communist,802
+ARIZONA,1946,House,,John R. Murdock,Democrat,74948
+ARIZONA,1946,House,,Richard F. Harless,Democrat,71836
+ARIZONA,1946,House,,Denver C. Henson,Republican,37033
+ARIZONA,1946,House,,John H. Curnutte,Republican,36183
+ARIZONA,1946,House,,Karl M. Wilson,Communist,831
+ARIZONA,1946,House,,At large,Republican,37033
+ARIZONA,1946,House,,At large,Democrat,74948
+ARIZONA,1946,House,,At large,Communist,831
+ARIZONA,1946,Senate,,,Republican,35622
+ARIZONA,1946,Senate,,,Democrat,80415
+ARIZONA,1946,Senate,,,Communist,802
+ARKANSAS,1946,House,1,E. C. Gathings,Democrat,20250
+ARKANSAS,1946,House,2,Wilbur D. Mills,Democrat,22955
+ARKANSAS,1946,House,3,J. W. Trimble,Democrat,24950
+ARKANSAS,1946,House,4,Fadjo Cravens,Democrat,13844
+ARKANSAS,1946,House,4,Brooks Hays,Democrat,21777
+ARKANSAS,1946,House,5,James R. Harris,Republican,2581
+ARKANSAS,1946,House,5,Earl C. Sowder,Independent Republican,865
+ARKANSAS,1946,House,6,W. F. Norrell,Democrat,23862
+ARKANSAS,1946,House,6,M. O. Evans,Independent,4305
+ARKANSAS,1946,House,7,Oren Harris,Democrat,15584
+Alabama,1946,House,,,,171882
+Arizona,1946,House,,,,173438
+Arizona,1946,Senate,,,,156292
+Arizona,1946,Senate,,,,86115
+Arkansas,1946,House,,,,223523
+Arkansas,1946,Senate,,,,156292
+Arkansas,1946,Senate,,,,86115
+CALIFORNIA,1946,House,22,John Phillips,Republican,59935
+CALIFORNIA,1946,House,22,Ray Atkinson,Democrat,36649
+CALIFORNIA,1946,House,22,,Scattering,11
+CALIFORNIA,1946,House,23,Charles K. Fletcher,Republican,69413
+CALIFORNIA,1946,House,23,Ed. V. Izac,Democrat,53898
+CALIFORNIA,1946,Senate,,William F. Knowland,Write-in,425273
+CALIFORNIA,1946,Senate,,Will Rogers Jr.,Write-in,90723
+CALIFORNIA,1946,Senate,,Douglas Corrigan,Write-in,2464
+CALIFORNIA,1946,Senate,,George H. McLain,Write-in,17883
+CALIFORNIA,1946,Senate,,Hartley F. Peart,Write-in,1353
+CALIFORNIA,1946,Senate,,Vic Meyers,Write-in,1115
+CALIFORNIA,1946,Senate,,Ellis E. Patterson,Write-in,3889
+CALIFORNIA,1946,Senate,,George C. Highley,Write-in,1268
+CALIFORNIA,1946,Senate,,Aubrey D. Lewis,Write-in,519
+CALIFORNIA,1946,Senate,,Frank F. Merriam,Write-in,507
+CALIFORNIA,1946,Senate,,James Moran,Write-in,918
+CALIFORNIA,1946,Senate,,Ben Rinaldo,Write-in,765
+CALIFORNIA,1946,Senate,,Moody Staten,Write-in,494
+CALIFORNIA,1946,Senate,,Scattering,Write-in,25019
+COLORADO,1946,House,1,John A. Carroll,Democrat,60513
+COLORADO,1946,House,1,Dean M. Gillespie,Republican,55724
+COLORADO,1946,House,1,Edgar P. Sherman,Socialist,691
+COLORADO,1946,House,2,William S. Hill,Republican,54768
+COLORADO,1946,House,2,Frank A. Safranek,Democrat,27393
+COLORADO,1946,House,2,Benjamin E. O'Brien,Independent,710
+COLORADO,1946,House,2,William E. Randall,Socialist,460
+COLORADO,1946,House,3,J. Edgar Chenoweth,Republican,45043
+COLORADO,1946,House,3,Walter W. Johnson,Democrat,37496
+COLORADO,1946,House,4,Robert F. Rockwell,Republican,28894
+COLORADO,1946,House,4,Thomas Matthews,Democrat,20290
+California,1946,House,1,Clarence F. Lea,Democrat Republican,77653
+California,1946,House,10,Alfred J. Elliott,Democrat Republican,51843
+California,1946,House,11,Ernest K. Bramblett,Republican,41902
+California,1946,House,11,George E. Outland,Democrat,36996
+California,1946,House,12,Richard M. Nixon,Republican,65586
+California,1946,House,12,H. Jerry Voorhis,Democrat,49994
+California,1946,House,12,John Henry Hoeppel,Prohibition,1476
+California,1946,House,13,Norris Poulson,Republican,48071
+California,1946,House,13,Ned R. Healy,Democrat,44712
+California,1946,House,14,Helen Gahagan Douglas,Democrat,53537
+California,1946,House,14,Frederick M. Roberts,Republican,44914
+California,1946,House,15,Gordon L. McDonough,Republican Democrat,106020
+California,1946,House,16,Donald L. Jackson,Republican,78264
+California,1946,House,16,Harold Harby,Democrat,45951
+California,1946,House,16,Ellis E. Patterson,Write-in,20945
+California,1946,House,17,Cecil R. King,Democrat Republican,110654
+California,1946,House,18,Willis W. Bradley,Republican,67363
+California,1946,House,18,Clyde Doyle,Democrat,60218
+California,1946,House,19,Chet Holifield,Democrat Republican,50666
+California,1946,House,19,Marshall J. Morrill,Write-in,1248
+California,1946,House,2,Clair Engle,Democrat Republican,57895
+California,1946,House,20,Carl Hinshaw,Republican,98283
+California,1946,House,20,Everett G. Burkhatter,Democrat,67317
+California,1946,House,21,Harry R. Sheppard,Democrat,37229
+California,1946,House,21,Lowell E. Lathrop,Republican,33395
+California,1946,House,3,Leroy Johnson,Republican Democrat,116792
+California,1946,House,4,Franck R. Havenner,Democrat,60655
+California,1946,House,4,Truman R. Young,Republican,54115
+California,1946,House,5,Richard J. Welch,Republican Democrat,94293
+California,1946,House,6,George P. Miller,Democrat Republican,118548
+California,1946,House,7,John J. Allen Jr.,Republican,61508
+California,1946,House,7,Patrick W. McDonough,Democrat,47988
+California,1946,House,8,Jack Z. Anderson,Republican Democrat,113325
+California,1946,House,9,Bertrand W. Gearhart,Republican,50171
+California,1946,House,9,Hubert Phillips,Democrat,43244
+California,1946,Senate,,William F. Knowland,Republican,1428067
+California,1946,Senate,,Will Rogers Jr.,Democrat,1167161
+California,1946,Senate,,Douglas Corrigan,Prohibition,42583
+California,1946,Senate,,Herbert Steiner,Write-in,456
+California,1946,House,,,,2334262
+California,1946,Senate,,,,156292
+California,1946,Senate,,,,86115
+Colorado,1946,House,,,,312469
+Colorado,1946,Senate,,,,156292
+Colorado,1946,Senate,,,,86115
+Connecticut,1946,House,1,William J. Miller,Republican,93006
+Connecticut,1946,House,1,Herman P. Kopplemann,Democrat,82231
+Connecticut,1946,House,2,Horace Seely-Brown,Republican,50828
+Connecticut,1946,House,2,Chase Going Woodhouse,Democrat,48376
+Connecticut,1946,House,3,Ellsworth B. Foote,Republican,76408
+Connecticut,1946,House,3,James P. Geelan,Democrat,53404
+Connecticut,1946,House,3,John Davis Lodge,Republican,93513
+Connecticut,1946,House,4,Henry A. Mucci,Democrat,57913
+Connecticut,1946,House,4,Stanley W. Mayhew,Socialist,9427
+Connecticut,1946,House,4,William W. Sullivan,Independent Voters,2834
+Connecticut,1946,House,5,James T. Patterson,Republican,51790
+Connecticut,1946,House,5,Thomas Paterson,Democrat,39788
+Connecticut,1946,House,5,John C. Cluney,Socialist,5854
+Connecticut,1946,House,5,John C. Cluney,Taxpayers' Good Government,130
+Connecticut,1946,Senate,,Raymond E. Baldwin,Republican,378707
+Connecticut,1946,Senate,,Wilbur L. Cross,Democrat,278188
+Connecticut,1946,Senate,,Frederic C. Smedley,Socialist,22164
+Connecticut,1946,Senate,,Raymond E. Baldwin,Republican,381328
+Connecticut,1946,Senate,,Joseph M. Tone,Democrat,276424
+Connecticut,1946,Senate,,Frederic C. Smedley,Socialist,22013
+Connecticut,1946,Senate,,John W. Aiken,Socialist Labor,3156
+Connecticut,1946,House,,Antoni N. Sadlak,Republican,377972
+Connecticut,1946,House,,Joseph F. Ryter,Democrat,277872
+Connecticut,1946,House,,Raymond C. Smith,Socialist,22521
+Connecticut,1946,House,,Michael A. Russo,Communist,1401
+Connecticut,1946,House,,,,524401
+DELAWARE,1946,Senate,,John J. Williams,Republican,62603
+DELAWARE,1946,Senate,,James M. Tunnell,Democrat,50910
+DELAWARE,1946,House,,J. Caleb Boggs,Republican,63516
+DELAWARE,1946,House,,Philip A. Traynor,Democrat,49105
+Delaware,1946,House,,,,71102
+Delaware,1946,Senate,,,,156292
+Delaware,1946,Senate,,,,86115
+FLORIDA,1946,House,1,J. Hardin Peterson,Democrat,31145
+FLORIDA,1946,House,2,Emory H. Price,Democrat,26093
+FLORIDA,1946,House,3,Robert L. F. Sikes,Democrat,18455
+FLORIDA,1946,House,4,George A. Smathers,Democrat,37002
+FLORIDA,1946,House,4,Norman N. Curtis,Republican,14458
+FLORIDA,1946,House,5,Joe Hendricks,Democrat,24695
+FLORIDA,1946,House,5,W. J. Steed Jr.,Republican,15591
+FLORIDA,1946,House,6,Dwight L. Rogers,Democrat,13733
+FLORIDA,1946,House,6,Joseph F. Mee,Republican,5591
+FLORIDA,1946,Senate,,Spessard L. Holland,Democrat,156232
+FLORIDA,1946,Senate,,J. Harry Schad,Republican,42408
+Florida,1946,House,,,,195578
+Florida,1946,Senate,,,,156292
+Florida,1946,Senate,,,,86115
+GEORGIA,1946,House,1,Prince H. Preston Jr.,Democrat,20937
+GEORGIA,1946,House,1,H. W. Sheppard,Independent,27
+GEORGIA,1946,House,10,Paul Brown,Democrat,16398
+GEORGIA,1946,House,2,E. E. Cox,Democrat,10805
+GEORGIA,1946,House,3,Stephen Pace,Democrat,8961
+GEORGIA,1946,House,4,A. Sidney Camp,Democrat,8476
+GEORGIA,1946,House,5,James C. Davis,Democrat,31444
+GEORGIA,1946,House,5,Hugh Douglas Mankin,Independent,19527
+GEORGIA,1946,House,5,Henry A. Alexander,Independent,24
+GEORGIA,1946,House,6,Carl Vinson,Democrat,13566
+GEORGIA,1946,House,7,Henderson Lanham,Democrat,7573
+GEORGIA,1946,House,8,W. M. (Don) Wheeler,Democrat,8986
+GEORGIA,1946,House,9,John S. Wood,Democrat,14815
+Georgia,1946,House,,,,193783
+HAWAII,1946,Delegate,,Joseph R. Farrington,Republican,45765
+HAWAII,1946,Delegate,,William Bortwick,Democrat,37209
+IDAHO,1946,House,1,Abe McGregor Goff,Republican,37326
+IDAHO,1946,House,1,Compton I. White,Democrat,36509
+IDAHO,1946,House,2,John Sanborn,Republican,63692
+IDAHO,1946,House,2,Pete Leguineche,Democrat,41231
+IDAHO,1946,Senate,,Henry C. Dworshak,Republican,105523
+IDAHO,1946,Senate,,George E. Donart,Democrat,74629
+ILLINOIS,1946,Representatives,1,,Republican,28545
+ILLINOIS,1946,Representatives,1,,Democrat,38040
+ILLINOIS,1946,House,1,William L. Dawson,Democrat,38040
+ILLINOIS,1946,House,1,William E. King,Republican,28945
+ILLINOIS,1946,Representatives,10,,Republican,201010
+ILLINOIS,1946,Representatives,10,,Democrat,109712
+ILLINOIS,1946,Representatives,10,,Write-in,3
+ILLINOIS,1946,House,10,Ralph E. Church,Republican,201010
+ILLINOIS,1946,House,10,Harold H. Kolze,Democrat,109712
+ILLINOIS,1946,House,10,,Write-in,2
+ILLINOIS,1946,Representatives,11,,Republican,123164
+ILLINOIS,1946,Representatives,11,,Democrat,40195
+ILLINOIS,1946,Representatives,11,,Write-in,2
+ILLINOIS,1946,House,11,Chauncey W. Reed,Republican,120640
+ILLINOIS,1946,House,11,Louis William Oswald,Democrat,40355
+ILLINOIS,1946,House,11,,Write-in,2
+ILLINOIS,1946,Representatives,12,,Republican,73431
+ILLINOIS,1946,Representatives,12,,Democrat,32816
+ILLINOIS,1946,House,12,Noah M. Mason,Republican,73431
+ILLINOIS,1946,House,12,Richard G. Stengel,Democrat,32816
+ILLINOIS,1946,Representatives,13,,Republican,48238
+ILLINOIS,1946,Representatives,13,,Democrat,13767
+ILLINOIS,1946,House,13,Leo A. Allen,Republican,48238
+ILLINOIS,1946,House,13,Michael M. Kinney,Democrat,13767
+ILLINOIS,1946,Representatives,14,,Republican,46735
+ILLINOIS,1946,Representatives,14,,Democrat,25167
+ILLINOIS,1946,House,14,Anton J. Johnson,Republican,45729
+ILLINOIS,1946,House,14,Carl E. Wright Jr.,Democrat,27772
+ILLINOIS,1946,Representatives,15,,Republican,40895
+ILLINOIS,1946,Representatives,15,,Democrat,37067
+ILLINOIS,1946,House,15,Robert B. Chiperfield,Republican,49895
+ILLINOIS,1946,House,15,Henry D. Sullivan,Democrat,27667
+ILLINOIS,1946,House,15,Everett M. Dirksen,Republican,64534
+ILLINOIS,1946,Representatives,16,,Republican,34534
+ILLINOIS,1946,Representatives,16,,Democrat,31091
+ILLINOIS,1946,House,16,Hans A. Spadling,Democrat,31091
+ILLINOIS,1946,House,16,,Write-in,1
+ILLINOIS,1946,Representatives,17,,Republican,52399
+ILLINOIS,1946,Representatives,17,,Democrat,43483
+ILLINOIS,1946,Representatives,17,,Write-in,1
+ILLINOIS,1946,House,17,Leslie C. Arends,Republican,45960
+ILLINOIS,1946,House,17,Carl Vrooman,Democrat,18517
+ILLINOIS,1946,Representatives,18,,Republican,56537
+ILLINOIS,1946,Representatives,18,,Democrat,30305
+ILLINOIS,1946,House,18,Edward H. Jenison,Republican,56537
+ILLINOIS,1946,House,18,C. E. (Mayor) Spang,Democrat,30305
+ILLINOIS,1946,House,18,Rolla C. McMillen,Republican,64063
+ILLINOIS,1946,Representatives,19,,Republican,64903
+ILLINOIS,1946,Representatives,19,,Democrat,38488
+ILLINOIS,1946,Representatives,19,,Write-in,2
+ILLINOIS,1946,House,19,Olive Remington Goldman,Democrat,38485
+ILLINOIS,1946,House,19,,Write-in,2
+ILLINOIS,1946,Representatives,2,,Republican,156697
+ILLINOIS,1946,Representatives,2,,Democrat,148995
+ILLINOIS,1946,House,2,Richard B. Vail,Republican,156697
+ILLINOIS,1946,House,2,Gordon A. Mowat,Democrat,148995
+ILLINOIS,1946,Representatives,20,,Republican,51542
+ILLINOIS,1946,Representatives,20,,Democrat,48783
+ILLINOIS,1946,House,20,Sid Simpson,Republican,34925
+ILLINOIS,1946,House,20,Don Irving,Democrat,24509
+ILLINOIS,1946,Representatives,21,,Republican,58609
+ILLINOIS,1946,Representatives,21,,Democrat,42293
+ILLINOIS,1946,House,21,Evan Howell,Republican,55608
+ILLINOIS,1946,House,21,Roscoe Bonjean,Democrat,35299
+ILLINOIS,1946,Representatives,22,,Republican,67495
+ILLINOIS,1946,Representatives,22,,Democrat,69992
+ILLINOIS,1946,House,22,Melvin Price,Democrat,60663
+ILLINOIS,1946,House,22,Calvin D. Johnson,Republican,67669
+ILLINOIS,1946,Representatives,23,,Republican,42445
+ILLINOIS,1946,Representatives,23,,Democrat,42227
+ILLINOIS,1946,House,23,Charles W. Vursell,Republican,51445
+ILLINOIS,1946,House,23,Homer Kasserman,Democrat,42230
+ILLINOIS,1946,Representatives,24,,Republican,37069
+ILLINOIS,1946,Representatives,24,,Democrat,26493
+ILLINOIS,1946,House,24,Ray Clippinger,Republican,37907
+ILLINOIS,1946,House,24,Edward Hines,Democrat,29483
+ILLINOIS,1946,Representatives,25,,Republican,53831
+ILLINOIS,1946,Representatives,25,,Democrat,36217
+ILLINOIS,1946,House,25,C. W. (Runt) Bishop,Republican,53839
+ILLINOIS,1946,House,25,Sherman S. Carr,Democrat,36217
+ILLINOIS,1946,Representatives,3,,Republican,169543
+ILLINOIS,1946,Representatives,3,,Democrat,126638
+ILLINOIS,1946,House,3,Fred E. Busbey,Republican,139543
+ILLINOIS,1946,House,3,Edward A. Kelly,Democrat,126685
+ILLINOIS,1946,Representatives,4,,Republican,78320
+ILLINOIS,1946,Representatives,4,,Democrat,68141
+ILLINOIS,1946,House,4,Martin Gorski,Democrat,68113
+ILLINOIS,1946,House,4,John T. Parsons,Republican,28251
+ILLINOIS,1946,Representatives,5,,Republican,18284
+ILLINOIS,1946,Representatives,5,,Democrat,51478
+ILLINOIS,1946,House,5,Adolph J. Sabath,Democrat,34904
+ILLINOIS,1946,House,5,Michael A. Francisco,Republican,13859
+ILLINOIS,1946,Representatives,6,,Republican,158702
+ILLINOIS,1946,Representatives,6,,Democrat,171778
+ILLINOIS,1946,House,6,Thomas J. O'Brien,Democrat,171778
+ILLINOIS,1946,House,6,Harold C. Woodward,Republican,158702
+ILLINOIS,1946,Representatives,7,,Republican,232961
+ILLINOIS,1946,Representatives,7,,Democrat,206903
+ILLINOIS,1946,House,7,Thomas L. Owens,Democrat,252981
+ILLINOIS,1946,House,7,William W. Link,Democrat,206963
+ILLINOIS,1946,Representatives,8,,Republican,111284
+ILLINOIS,1946,Representatives,8,,Democrat,78334
+ILLINOIS,1946,House,8,Thomas S. Gordon,Democrat,38317
+ILLINOIS,1946,House,8,Scott John Vitell,Republican,11266
+ILLINOIS,1946,House,8,Robert J. Twyman,Republican,54615
+ILLINOIS,1946,Representatives,9,,Republican,34615
+ILLINOIS,1946,Representatives,9,,Democrat,61798
+ILLINOIS,1946,Representatives,9,,Write-in,1
+ILLINOIS,1946,House,9,Alexander J. Resa,Democrat,51788
+ILLINOIS,1946,House,9,,Write-in,1
+ILLINOIS,1946,At Large,,Republican,1506717,
+ILLINOIS,1946,At Large,,Democrat,1539348,
+ILLINOIS,1946,At Large,,Prohibition,12017,
+ILLINOIS,1946,At Large,,Write-in,7,
+ILLINOIS,1946,House,,William G. Stratton,Republican,1906777
+ILLINOIS,1946,House,,Emily Taft Douglas,Democrat,1539248
+ILLINOIS,1946,House,,Elizabeth Stephens Carr,Prohibition,12917
+ILLINOIS,1946,House,,,Write-in,7
+INDIANA,1946,House,1,Ray J. Madden,Democrat,51809
+INDIANA,1946,House,1,Charles W. Gannon,Republican,46677
+INDIANA,1946,House,1,Hubert F. Jackson,Prohibition,833
+INDIANA,1946,House,1,Harvey F. Taylor,Socialist-Labor,475
+INDIANA,1946,House,10,Raymond S. Springer,Republican,70969
+INDIANA,1946,House,10,Frank C. Toner,Democrat,44807
+INDIANA,1946,House,10,Carl W. Thompson,Prohibition,3913
+INDIANA,1946,House,11,Louis Ludlow,Democrat,79040
+INDIANA,1946,House,11,Albert J. Beveridge,Republican,74745
+INDIANA,1946,House,11,Marion Gatlin,Prohibition,868
+INDIANA,1946,House,2,Charles A. Halleck,Republican,66423
+INDIANA,1946,House,2,Margaret A. Allis,Democrat,40847
+INDIANA,1946,House,2,H. W. Long,Prohibition,1047
+INDIANA,1946,House,3,Robert A. Grant,Republican,75230
+INDIANA,1946,House,3,John S. Gonas,Democrat,57425
+INDIANA,1946,House,3,William Osech,Prohibition,1064
+INDIANA,1946,House,4,George W. Gillie,Republican,59790
+INDIANA,1946,House,4,Walter E. Frederick,Democrat,39766
+INDIANA,1946,House,4,George W. Houston,Prohibition,1111
+INDIANA,1946,House,5,Forest A. Harness,Republican,79752
+INDIANA,1946,House,5,William W. Welch,Democrat,61394
+INDIANA,1946,House,5,A. W. Snyder,Prohibition,2820
+INDIANA,1946,House,6,Noble J. Johnson,Republican,65926
+INDIANA,1946,House,6,Thomas A. Sider,Democrat,47972
+INDIANA,1946,House,6,John R. Sheets,Prohibition,1035
+INDIANA,1946,House,7,Gerald W. Landis,Republican,63607
+INDIANA,1946,House,7,James E. Noland,Democrat,59968
+INDIANA,1946,House,7,Robert Gemmer,Prohibition,2086
+INDIANA,1946,House,8,E. A. Mitchell,Republican,66059
+INDIANA,1946,House,8,Winfield K. Denton,Democrat,60385
+INDIANA,1946,House,8,C. Dana Malpass,Prohibition,1185
+INDIANA,1946,House,9,Earl Wilson,Republican,58384
+INDIANA,1946,House,9,Oliver O. Dixon,Democrat,45321
+INDIANA,1946,House,9,Garnet Jewell,Prohibition,945
+INDIANA,1946,Senate,,William E. Jenner,Republican,739809
+INDIANA,1946,Senate,,M. Clifford Townsend,Democrat,584288
+INDIANA,1946,Senate,,Elmer D. Riggs,Prohibition,21008
+INDIANA,1946,Senate,,John Marion Morris,Socialist-Labor,1523
+INDIANA,1946,Senate,,Elmer G. Johnson,Communist,806
+IOWA,1946,Representative,1,Thomas E. Martin,Republican,52488
+IOWA,1946,Representative,1,Clair A. Williams,Democrat,32849
+IOWA,1946,Representative,2,Henry O. Talle,Republican,60111
+IOWA,1946,Representative,2,Richard V. Bernhart,Democrat,41544
+IOWA,1946,Representative,3,John W. Gwynne,Republican,48346
+IOWA,1946,Representative,3,Dan J. P. Ryan,Democrat,29061
+IOWA,1946,Representative,4,Karl M. LeCompte,Republican,43753
+IOWA,1946,Representative,4,A. E. Augustine,Democrat,31203
+IOWA,1946,Representative,5,Paul Cunningham,Republican,41679
+IOWA,1946,Representative,5,James L. Doutney,Democrat,28490
+IOWA,1946,Representative,6,James I. Dolliver,Republican,40640
+IOWA,1946,Representative,6,Oscar E. Johnson,Democrat,23422
+IOWA,1946,Representative,7,Ben F. Jensen,Republican,40152
+IOWA,1946,Representative,7,Philip A. Allen,Democrat,23567
+IOWA,1946,Representative,8,Charles B. Hoeven,Republican,37868
+IOWA,1946,Representative,8,George A. Heikens,Democrat,17303
+Idaho,1946,House,,,,165478
+Idaho,1946,Senate,,,,156292
+Idaho,1946,Senate,,,,86115
+Illinois,1946,House,,,,2524460
+Illinois,1946,Senate,,,,156292
+Illinois,1946,Senate,,,,86115
+Indiana,1946,House,,,,1165022
+Indiana,1946,Senate,,,,156292
+Indiana,1946,Senate,,,,86115
+Iowa,1946,House,,,,588469
+Iowa,1946,Senate,,,,156292
+Iowa,1946,Senate,,,,86115
+KANSAS,1946,Representative,1,Albert M. Cole,Republican,63076
+KANSAS,1946,Representative,1,James W. Lowry,Democrat,35045
+KANSAS,1946,Representative,2,Errett P. Scrivner,Republican,36363
+KANSAS,1946,Representative,2,Murray H. Hodges,Democrat,39484
+KANSAS,1946,Representative,3,Herbert A. Meyer,Republican,44624
+KANSAS,1946,Representative,3,Jo E. Gaitskill,Democrat,38573
+KANSAS,1946,Representative,4,Edward H. Rees,Republican,68658
+KANSAS,1946,Representative,4,William P. Warren,Democrat,53617
+KANSAS,1946,Representative,5,Clifford R. Hope,Republican,54578
+KANSAS,1946,Representative,5,Arthur L. Sparks,Democrat,32538
+KANSAS,1946,Representative,6,Wint Smith,Republican,44343
+KANSAS,1946,Representative,6,G. E. Bengtson,Democrat,28911
+KANSAS,1946,Representative,6,C. Floyd Hester,Prohibition,3045
+KENTUCKY,1946,House,1,Noble J. Gregory,Democrat,32121
+KENTUCKY,1946,House,1,William E. Porter,Republican,16064
+KENTUCKY,1946,House,1,Joseph S. Freeland,Socialist,320
+KENTUCKY,1946,House,2,Earle C. Clements,Democrat,38020
+KENTUCKY,1946,House,2,Thomas W. Hines,Republican,29124
+KENTUCKY,1946,House,3,Thurston Ballard Morton,Republican,61859
+KENTUCKY,1946,House,3,Emmet O'Neal,Democrat,41599
+KENTUCKY,1946,House,4,Frank L. Chelf,Democrat,33316
+KENTUCKY,1946,House,4,Don Victor Drye Sr.,Republican,29104
+KENTUCKY,1946,House,5,Brent Spence,Democrat,26444
+KENTUCKY,1946,House,5,Marion W. Moore,Republican,25240
+KENTUCKY,1946,House,6,Virgil Chapman,Democrat,43176
+KENTUCKY,1946,House,6,W. D. Rogers,Republican,35368
+KENTUCKY,1946,House,7,W. Howes Meade,Republican,30070
+KENTUCKY,1946,House,7,Andrew J. May,Democrat,20596
+KENTUCKY,1946,House,8,Joe B. Bates,Democrat,33408
+KENTUCKY,1946,House,8,Ray Schmauch,Republican,30127
+KENTUCKY,1946,House,9,John M. Robsion,Republican,54396
+KENTUCKY,1946,Senate,,John Sherman Cooper,Republican,327652
+KENTUCKY,1946,Senate,,John Young Brown,Democrat,285829
+KENTUCKY,1946,Senate,,W. A. Sandefur,Socialist,1638
+Kansas,1946,House,,,,504002
+Kansas,1946,Senate,,,,156292
+Kansas,1946,Senate,,,,86115
+Kentucky,1946,House,,,,488399
+Kentucky,1946,Senate,,,,156292
+Kentucky,1946,Senate,,,,86115
+LOUISIANA,1946,House,1,F. Edward Hébert,Democrat,29329
+LOUISIANA,1946,House,1,Dennison Suarez,Republican,2614
+LOUISIANA,1946,House,2,Hale Boggs,Democrat,29457
+LOUISIANA,1946,House,2,Harold M. Herbst,Republican,3037
+LOUISIANA,1946,House,3,James Domengeaux,Democrat,4595
+LOUISIANA,1946,House,4,Overton Brooks,Democrat,8499
+LOUISIANA,1946,House,5,Otto E. Passman,Democrat,6049
+LOUISIANA,1946,House,6,James H. Morrison,Democrat,8781
+LOUISIANA,1946,House,7,Henry D. Larcade Jr.,Democrat,5907
+LOUISIANA,1946,House,8,A. Leonard Allen,Democrat,7740
+Louisiana,1946,House,,,,168287
+Louisiana,1946,Senate,,,,156292
+Louisiana,1946,Senate,,,,86115
+MAINE,1946,House,1,Robert Hale,Republican,38975
+MAINE,1946,House,1,John C. Fitzgerald,Democrat,26378
+MAINE,1946,House,2,Margaret Chase Smith,Republican,39791
+MAINE,1946,House,2,Edward J. Beauchamp,Democrat,25739
+MAINE,1946,House,3,Frank Fellows,Republican,31622
+MAINE,1946,House,3,John M. Coghill,Democrat,11743
+MAINE,1946,Senate,,Owen Brewster,Republican,111215
+MAINE,1946,Senate,,Peter M. MacDonald,Democrat,63799
+MARYLAND,1946,House,1,Edward T. Miller,Republican,27364
+MARYLAND,1946,House,1,Dudley G. Roe,Democrat,26360
+MARYLAND,1946,House,2,Hugh A. Meade,Democrat,29800
+MARYLAND,1946,House,2,David G. Harry,Republican,62211
+MARYLAND,1946,House,3,Thomas D'Alesandro Jr.,Democrat,24347
+MARYLAND,1946,House,3,Edward N. Kowzan,Republican,13761
+MARYLAND,1946,House,4,George H. Fallon,Democrat,31453
+MARYLAND,1946,House,4,Paul Robertson,Republican,23499
+MARYLAND,1946,House,5,Lansdale G. Sasscer,Democrat,40929
+MARYLAND,1946,House,5,Edwin A. Glenn,Republican,23409
+MARYLAND,1946,House,6,J. Glenn Beall,Republican,55667
+MARYLAND,1946,House,6,Arch McDonald,Democrat,40198
+MARYLAND,1946,Senate,,Herbert R. O'Conor,Democrat,237232
+MARYLAND,1946,Senate,,David John Markey,Republican,235000
+MASSACHUSETTS,1946,House,1,John W. Heselton,Republican,59222
+MASSACHUSETTS,1946,House,1,John J. Falvey,Democrat,40549
+MASSACHUSETTS,1946,House,1,Chester M. Dolf,Prohibition,2278
+MASSACHUSETTS,1946,House,2,Charles R. Clason,Republican,59754
+MASSACHUSETTS,1946,House,2,Foster Furcolo,Democrat,56459
+MASSACHUSETTS,1946,House,2,Philip J. Philbin,Democrat,69038
+MASSACHUSETTS,1946,House,3,Carroll H. Balcom,Republican,42033
+MASSACHUSETTS,1946,House,4,Harold D. Donohue,Democrat,59847
+MASSACHUSETTS,1946,House,4,Pehr G. Holmes,Republican,58603
+MASSACHUSETTS,1946,House,4,Oliver M. Fraser,Prohibition,2415
+MASSACHUSETTS,1946,House,5,Edith Nourse Rogers,Republican,98488
+MASSACHUSETTS,1946,House,5,Oliver S. Allen,Democrat,38575
+MASSACHUSETTS,1946,House,5,Harriet Sears,Prohibition,486
+MASSACHUSETTS,1946,House,6,George J. Bates,Republican,79700
+MASSACHUSETTS,1946,House,6,Richard B. O'Keefe,Democrat,33823
+MASSACHUSETTS,1946,Senate,,Henry Cabot Lodge Jr.,Republican,989736
+MASSACHUSETTS,1946,Senate,,David I. Walsh,Democrat,960200
+MASSACHUSETTS,1946,Senate,,Henning A. Blomen,Socialist-Labor,9221
+MASSACHUSETTS,1946,Senate,,Mark R. Shaw,Prohibition,2898
+MICHIGAN,1946,House,1,George G. Sadowski,Democrat,57753
+MICHIGAN,1946,House,1,John B. Sosnowski,Republican,26203
+MICHIGAN,1946,House,1,Charles L. Dawson,Prohibition,583
+MICHIGAN,1946,House,10,Roy O. Woodruff,Republican,44853
+MICHIGAN,1946,House,10,Herman N. Butler,Democrat,17737
+MICHIGAN,1946,House,10,Floyd Barlow,Prohibition,447
+MICHIGAN,1946,House,11,Fred Bradley,Republican,41436
+MICHIGAN,1946,House,11,Cecil W. Bailey,Democrat,21340
+MICHIGAN,1946,House,11,Charles Swanson,Prohibition,134
+MICHIGAN,1946,House,12,John J. Bennett,Republican,40717
+MICHIGAN,1946,House,12,Frank E. Hook,Democrat,33799
+MICHIGAN,1946,House,12,August Larson,Prohibition,309
+MICHIGAN,1946,House,13,Howard A. Coffin,Republican,50539
+MICHIGAN,1946,House,13,George D. O'Brien,Democrat,44883
+MICHIGAN,1946,House,13,O. Lon Chaney,Prohibition,330
+MICHIGAN,1946,House,14,Harold F. Youngblood,Republican,69968
+MICHIGAN,1946,House,14,Louis C. Rabaut,Democrat,60808
+MICHIGAN,1946,House,14,A. L. Leach,Prohibition,450
+MICHIGAN,1946,House,15,John D. Dingell,Democrat,59111
+MICHIGAN,1946,House,15,Harry Henderson,Republican,54296
+MICHIGAN,1946,House,15,Selden D. Kelley,Prohibition,425
+MICHIGAN,1946,House,16,Albert A. Riddering,Republican,52376
+MICHIGAN,1946,House,16,John Lesinski,Democrat,57773
+MICHIGAN,1946,House,16,C. A. Johnson,Prohibition,653
+MICHIGAN,1946,House,16,William Allan,Communist,471
+MICHIGAN,1946,House,17,George A. Dondero,Republican,102336
+MICHIGAN,1946,House,17,John W. L. Hicks,Democrat,54928
+MICHIGAN,1946,House,17,Don Taylor,Prohibition,827
+MICHIGAN,1946,House,2,Earl C. Michener,Republican,66486
+MICHIGAN,1946,House,2,William R. Kelley,Democrat,26141
+MICHIGAN,1946,House,2,Clarence DeCan,Prohibition,659
+MICHIGAN,1946,House,2,Robert Cummins,Communist,142
+MICHIGAN,1946,House,3,Paul W. Shafer,Republican,59823
+MICHIGAN,1946,House,3,Herschel W. Carney,Democrat,25914
+MICHIGAN,1946,House,3,D. D. Gibbons,Prohibition,1050
+MICHIGAN,1946,House,4,Clare E. Hoffman,Republican,58798
+MICHIGAN,1946,House,4,Harvey Hope Jarvis,Democrat,21514
+MICHIGAN,1946,House,4,Ralph C. March,Prohibition,849
+MICHIGAN,1946,House,5,Bartel J. Jonkman,Republican,63093
+MICHIGAN,1946,House,5,Earle W. Reynolds,Democrat,25022
+MICHIGAN,1946,House,6,William W. Blackney,Republican,69203
+MICHIGAN,1946,House,6,Arthur Elliott,Democrat,20684
+MICHIGAN,1946,House,6,William H. Morford,Prohibition,794
+MICHIGAN,1946,House,7,Jesse P. Wolcott,Republican,64404
+MICHIGAN,1946,House,7,Earl J. Tallman,Democrat,21708
+MICHIGAN,1946,House,7,Harry White,Prohibition,634
+MICHIGAN,1946,House,8,Fred L. Crawford,Republican,58725
+MICHIGAN,1946,House,8,J. Charles McHahood,Democrat,21377
+MICHIGAN,1946,House,8,H. T. Green,Prohibition,820
+MICHIGAN,1946,House,9,Albert J. Engel,Republican,49017
+MICHIGAN,1946,House,9,J. Willard Krause,Democrat,18828
+MICHIGAN,1946,House,9,Walker M. Jordan,Prohibition,460
+MICHIGAN,1946,Senate,,Arthur H. Vandenberg,Republican,1085570
+MICHIGAN,1946,Senate,,James H. Lee,Democrat,517923
+MICHIGAN,1946,Senate,,Lawrence A. Ruble,Prohibition,8196
+MICHIGAN,1946,Senate,,Theos A. Grove,Socialist Labor,3572
+MICHIGAN,1946,Senate,,Hugo Beiswenger,Communist,2546
+MINNESOTA,1946,House,1,August H. Andresen,Republican,65906
+MINNESOTA,1946,House,1,Karl F. Rolvaag,Democratic-Farmer-Labor,30439
+MINNESOTA,1946,House,2,Joseph P. O'Hara,Republican,69487
+MINNESOTA,1946,House,2,L. J. Kilbride,Democratic-Farmer-Labor,21947
+MINNESOTA,1946,House,3,George MacKinnon,Republican,57397
+MINNESOTA,1946,House,3,Roy W. Wier,Democratic-Farmer-Labor,52793
+MINNESOTA,1946,House,3,Warren Pool,by petition,1325
+MINNESOTA,1946,House,4,Edward J. Devitt,Republican,45667
+MINNESOTA,1946,House,4,Frank T. Starkey,Democratic-Farmer-Labor,41897
+MINNESOTA,1946,House,4,Dorothy Schultz,by petition,1138
+MINNESOTA,1946,House,5,Walter H. Judd,Republican,66827
+MINNESOTA,1946,House,5,Douglas Hall,Democratic-Farmer-Labor,47777
+MINNESOTA,1946,House,6,Harold Knutson,Republican,55401
+MINNESOTA,1946,House,6,A. Warren Anderson,Democratic-Farmer-Labor,41147
+MINNESOTA,1946,House,7,H. Carl Andersen,Republican,57869
+MINNESOTA,1946,House,7,Donald M. Lawson,Democratic-Farmer-Labor,30667
+MINNESOTA,1946,House,8,John A. Blatnik,Democratic-Farmer-Labor,62876
+MINNESOTA,1946,House,8,William A. Pittenger,Republican,46189
+MINNESOTA,1946,House,9,Harold C. Hagen,Republican,50031
+MINNESOTA,1946,House,9,Verner Nelson,Democratic-Farmer-Labor,28211
+MINNESOTA,1946,Senate,,Edward J. Thye,Republican,517775
+MINNESOTA,1946,Senate,,Theodore Jorgenson,Democratic-Farmer-Labor,349520
+MINNESOTA,1946,Senate,,Grace Carlson,Revolutionary Workers Party,11421
+MINNESOTA,1946,Senate,,Henrik Shipstead,write-in,15
+MISSISSIPPI,1946,House,1,John E. Rankin,Democrat,5429
+MISSISSIPPI,1946,House,2,Jamie L. Whitten,Democrat,6491
+MISSISSIPPI,1946,House,3,William M. Whittington,Democrat,4185
+MISSISSIPPI,1946,House,4,Thomas G. Abernethy,Democrat,10017
+MISSISSIPPI,1946,House,5,Arthur Winstead,Democrat,7122
+MISSISSIPPI,1946,House,6,William M. Colmer,Democrat,6448
+MISSISSIPPI,1946,House,7,John Bell Williams,Democrat,10345
+MISSISSIPPI,1946,Senate,,Theodore G. Bilbo,Democrat,46747
+MISSOURI,1946,House,1,Wat Arnold,Republican,37584
+MISSOURI,1946,House,1,Walter G. Stillwell,Democrat,37105
+MISSOURI,1946,House,10,Orville Zimmerman,Democrat,37236
+MISSOURI,1946,House,10,Walter K. Dillon,Republican,24164
+MISSOURI,1946,House,11,Claude I. Bakewell,Republican,41202
+MISSOURI,1946,House,11,John B. Sullivan,Democrat,39879
+MISSOURI,1946,House,11,Foster,Prohibition,139
+MISSOURI,1946,House,11,Anastasoff,Socialist-Labor,55
+MISSOURI,1946,House,12,Walter C. Ploeser,Republican,93136
+MISSOURI,1946,House,12,Henry W. Simpson,Democrat,66878
+MISSOURI,1946,House,12,Genck,Socialist-Labor,100
+MISSOURI,1946,House,13,Frank M. Karsten,Democrat,41229
+MISSOURI,1946,House,13,Alfred L. Grattendick,Republican,34062
+MISSOURI,1946,House,13,Kochendorfer,Socialist-Labor,46
+MISSOURI,1946,House,2,Max Schwabe,Republican,44292
+MISSOURI,1946,House,2,Will L. Nelson Jr.,Democrat,42437
+MISSOURI,1946,House,3,William C. Cole,Republican,38528
+MISSOURI,1946,House,3,William Orr (Tom) Sawyers,Democrat,34730
+MISSOURI,1946,House,4,C. Jasper Bell,Democrat,41843
+MISSOURI,1946,House,4,Vernon D. Tatum,Republican,34066
+MISSOURI,1946,House,4,Hodges,Socialist,81
+MISSOURI,1946,House,5,Albert L. Reeves Jr.,Republican,42065
+MISSOURI,1946,House,5,Enos A. Axtell,Democrat,36324
+MISSOURI,1946,House,5,Demarce,Socialist,44
+MISSOURI,1946,House,6,Marion T. Bennett,Republican,54034
+MISSOURI,1946,House,6,Tom B. Hembree,Democrat,38113
+MISSOURI,1946,House,7,Dewey Short,Republican,50588
+MISSOURI,1946,House,7,Don Ervin,Democrat,26712
+MISSOURI,1946,House,8,Parke M. Banta,Republican,42076
+MISSOURI,1946,House,8,A. S. J. Carnahan,Democrat,40241
+MISSOURI,1946,House,9,Clarence Cannon,Democrat,35253
+MISSOURI,1946,House,9,William Barton,Republican,30199
+MISSOURI,1946,Senate,,James P. Kem,Republican,572556
+MISSOURI,1946,Senate,,Frank P. Briggs,Democrat,511544
+MISSOURI,1946,Senate,,Jackson,Prohibition,979
+MISSOURI,1946,Senate,,Rinck,Socialist,887
+MISSOURI,1946,Senate,,Baeff,Socialist-Labor,275
+MONTANA,1946,House,1,Mike Mansfield,Democrat,47418
+MONTANA,1946,House,1,Walter R. (Barney) Rankin,Republican,34958
+MONTANA,1946,House,1,Wesley A. D'Ewart,Republican,28307
+MONTANA,1946,House,2,John J. Holmes,Democrat,48564
+MONTANA,1946,House,2,Edgar M. Spriggs,Socialist,841
+MONTANA,1946,Senate,,Zales N. Ecton,Republican,101901
+MONTANA,1946,Senate,,Leif Erickson,Democrat,86476
+MONTANA,1946,Senate,,Floyd P. Jones,Socialist,2189
+Maine,1946,House,,,,210526
+Maryland,1946,House,,,,447544
+Maryland,1946,Senate,,,,156292
+Maryland,1946,Senate,,,,86115
+Massachusetts,1946,Senate,,Thomas Lane,Democrat,59871
+Massachusetts,1946,Senate,,Ernest Bentley,Republican,37250
+Massachusetts,1946,Senate,,Freeman W. Follett,Prohibition,433
+Massachusetts,1946,Senate,,Angier L. Goodwin,Republican,76305
+Massachusetts,1946,Senate,,Anthony M. Roche,Democrat,43827
+Massachusetts,1946,Senate,,Charles L. Gifford,Republican,69831
+Massachusetts,1946,Senate,,William McAuliffe,Democrat,43367
+Massachusetts,1946,Senate,,Grace Farnsworth Luder,Prohibition,1601
+Massachusetts,1946,Senate,,Christian A. Herter,Republican,90697
+Massachusetts,1946,Senate,,Paul L. McCarthy,Democrat,51421
+Massachusetts,1946,Senate,,John F. Kennedy,Democrat,69093
+Massachusetts,1946,Senate,,Lester W. Bowen,Republican,26007
+Massachusetts,1946,Senate,,Philip Geer,Prohibition,1036
+Massachusetts,1946,Senate,,John W. McCormack,Democrat,92622
+Massachusetts,1946,Senate,,Richard B. Wigglesworth,Republican,87839
+Massachusetts,1946,Senate,,James E. O'Toole Jr.,Democrat,42274
+Massachusetts,1946,Senate,,Joseph W. Martin Jr.,Republican,71566
+Massachusetts,1946,Senate,,Martha Sharp,Democrat,40999
+Massachusetts,1946,House,,,,1456412
+Michigan,1946,Representative,1,,Republican,29293
+Michigan,1946,Representative,1,,Democrat,57753
+Michigan,1946,Representative,10,,Republican,41382
+Michigan,1946,Representative,10,,Democrat,17772
+Michigan,1946,Representative,10,,Scattering,3
+Michigan,1946,Representative,11,,Republican,41436
+Michigan,1946,Representative,11,,Democrat,21340
+Michigan,1946,Representative,11,,Prohibition,134
+Michigan,1946,Representative,11,,Scattering,1
+Michigan,1946,Representative,12,,Republican,40717
+Michigan,1946,Representative,12,,Democrat,33562
+Michigan,1946,Representative,12,,Prohibition,309
+Michigan,1946,Representative,12,,Scattering,2
+Michigan,1946,Representative,13,,Republican,76259
+Michigan,1946,Representative,13,,Democrat,43438
+Michigan,1946,Representative,14,,Republican,69568
+Michigan,1946,Representative,14,,Democrat,60808
+Michigan,1946,Representative,14,,Prohibition,450
+Michigan,1946,Representative,15,,Republican,64206
+Michigan,1946,Representative,15,,Democrat,55111
+Michigan,1946,Representative,15,,Prohibition,425
+Michigan,1946,Representative,16,,Republican,72870
+Michigan,1946,Representative,16,,Democrat,59773
+Michigan,1946,Representative,16,,Communist,471
+Michigan,1946,Representative,16,,Prohibition,638
+Michigan,1946,Representative,17,,Republican,102356
+Michigan,1946,Representative,17,,Democrat,54628
+Michigan,1946,Representative,17,,Prohibition,827
+Michigan,1946,Representative,2,,Republican,66486
+Michigan,1946,Representative,2,,Democrat,26141
+Michigan,1946,Representative,2,,Communist,142
+Michigan,1946,Representative,2,,Prohibition,659
+Michigan,1946,Representative,2,,Scattering,1
+Michigan,1946,Representative,3,,Republican,59828
+Michigan,1946,Representative,3,,Democrat,23314
+Michigan,1946,Representative,3,,Prohibition,1100
+Michigan,1946,Representative,4,,Republican,52763
+Michigan,1946,Representative,4,,Democrat,25948
+Michigan,1946,Representative,5,,Republican,63093
+Michigan,1946,Representative,5,,Democrat,25022
+Michigan,1946,Representative,6,,Republican,64503
+Michigan,1946,Representative,6,,Democrat,24938
+Michigan,1946,Representative,6,,Prohibition,794
+Michigan,1946,Representative,7,,Republican,66443
+Michigan,1946,Representative,7,,Democrat,30503
+Michigan,1946,Representative,7,,Prohibition,634
+Michigan,1946,Representative,8,,Republican,58725
+Michigan,1946,Representative,8,,Democrat,31375
+Michigan,1946,Representative,8,,Prohibition,820
+Michigan,1946,Representative,9,,Republican,49017
+Michigan,1946,Representative,9,,Democrat,18328
+Michigan,1946,Representative,9,,Prohibition,460
+Michigan,1946,Senate,,,Republican,1085570
+Michigan,1946,Senate,,,Democrat,517923
+Michigan,1946,Senate,,,Communist,2546
+Michigan,1946,Senate,,,Prohibition,8109
+Michigan,1946,Senate,,,Socialist-Labor,4572
+Michigan,1946,House,,,,1587007
+Minnesota,1946,House,,,,876145
+Mississippi,1946,House,,,,68091
+Missouri,1946,House,,,,1129068
+Missouri,1946,Senate,,,,156292
+Missouri,1946,Senate,,,,86115
+Montana,1946,House,,,,191992
+NEBRASKA,1946,House,1,Carl T. Curtis,Republican,73602
+NEBRASKA,1946,House,1,William H. Meier,Democrat,37280
+NEBRASKA,1946,House,2,Howard H. Buffett,Republican,53398
+NEBRASKA,1946,House,2,Frank A. Jelen,Democrat,38125
+NEBRASKA,1946,House,3,Karl Stefan,Republican,64016
+NEBRASKA,1946,House,3,Dave M. Marcum,Democrat,26161
+NEBRASKA,1946,House,3,Paul Burke,Independent,4516
+NEBRASKA,1946,House,4,A. L. Miller,Republican,57708
+NEBRASKA,1946,House,4,Stanley D. Long,Democrat,23234
+NEBRASKA,1946,Senate,,Hugh Butler,Republican,271208
+NEBRASKA,1946,Senate,,John E. Mekota,Democrat,111750
+NEVADA,1946,Senate,,George W. Malone,Republican,27801
+NEVADA,1946,Senate,,Berkeley L. Bunker,Democrat,22553
+NEVADA,1946,Representative,,Charles H. Russell,Republican,28859
+NEVADA,1946,Representative,,Malcolm (Mac) McLachin,Democrat,20187
+NEW,,,,,,
+NEW HAMPSHIRE,1946,Representative,1,Chester E. Merrow,Republican,53909
+NEW HAMPSHIRE,1946,Representative,1,Josaphat T. Benoit,Democrat,36316
+NEW HAMPSHIRE,1946,Representative,2,Norris Cotton,Republican,45963
+NEW HAMPSHIRE,1946,Representative,2,Patrick J. Hinchey,Democrat,24904
+NEW JERSEY,1946,House,1,Charles A. Wolverton,Republican,82919
+NEW JERSEY,1946,House,1,George F. Neutze,Democrat,47631
+NEW JERSEY,1946,House,10,Fred A. Hartley Jr.,Republican,44619
+NEW JERSEY,1946,House,10,Peter W. Rodino Jr.,Democrat,38889
+NEW JERSEY,1946,House,10,Louise K. Leach,National Prohibition,1140
+NEW JERSEY,1946,House,10,Morton D. Bluestone,Socialist,380
+NEW JERSEY,1946,House,11,Frank C. Osmers Jr.,Republican,48195
+NEW JERSEY,1946,House,11,Robert F. J. McCarthy,Democrat,28545
+NEW JERSEY,1946,House,11,Gertrude L. Rizer,Socialist,1198
+NEW JERSEY,1946,House,11,William E. Bohannon,Socialist Workers,299
+NEW JERSEY,1946,House,11,Wesley U. Morris,National Prohibition,141
+NEW JERSEY,1946,House,12,Robert W. Kean,Republican,55732
+NEW JERSEY,1946,House,12,Raymond C. Connell,Democrat,30389
+NEW JERSEY,1946,House,12,Alice Bergen,Socialist,1377
+NEW JERSEY,1946,House,12,William H. Parnell,National Prohibition,170
+NEW JERSEY,1946,House,13,Mary T. Norton,Democrat,69445
+NEW JERSEY,1946,House,13,John A. Jones,Republican,30270
+NEW JERSEY,1946,House,13,Arlene Phillips,Socialist Workers,1637
+NEW JERSEY,1946,House,13,Sol Potogol,Communist,307
+NEW JERSEY,1946,House,13,William S. Dowd,$250 State Bonds,115
+NEW JERSEY,1946,House,14,Edward J. Hart,Democrat,65979
+NEW JERSEY,1946,House,14,Edward P. Nicolay,Republican,38908
+NEW JERSEY,1946,House,14,Joseph Fischer,Communist,399
+NEW JERSEY,1946,House,2,T. Millet Hand,Republican,54511
+NEW JERSEY,1946,House,2,Edward T. Keeley,Democrat,26740
+NEW JERSEY,1946,House,3,James C. Auchincloss,Republican,70302
+NEW JERSEY,1946,House,3,John W. Zimmerman,Democrat,36177
+NEW JERSEY,1946,House,3,W. Vincent Grogan,Veterans Alliance Independence,1580
+NEW JERSEY,1946,House,4,Frank A. Mathews Jr.,Republican,50221
+NEW JERSEY,1946,House,4,Charles R. Howell,Democrat,45225
+NEW JERSEY,1946,House,5,Charles A. Eaton,Republican,69338
+NEW JERSEY,1946,House,5,John J. George,Democrat,45593
+NEW JERSEY,1946,House,5,Charles R. Ely,National Prohibition,159
+NEW JERSEY,1946,House,6,Clifford P. Case,Republican,69393
+NEW JERSEY,1946,House,6,Andrew H. Steffan,Democrat,33575
+NEW JERSEY,1946,House,6,Margaret Cameron Lowe,National Prohibition,1623
+NEW JERSEY,1946,House,6,Robert Ensel,Communist,863
+NEW JERSEY,1946,House,7,J. Parnell Thomas,Republican,65426
+NEW JERSEY,1946,House,7,Robert B. Meyner,Democrat,29418
+NEW JERSEY,1946,House,8,Gordon Canfield,Republican,57616
+NEW JERSEY,1946,House,8,John V. Breslin,Democrat,23407
+NEW JERSEY,1946,House,8,Peter J. Flach,No Foreign Loans,399
+NEW JERSEY,1946,House,8,Nathan Liss,Communist,395
+NEW JERSEY,1946,House,8,Henry D. Lum,Socialist-Labor,304
+NEW JERSEY,1946,House,9,Harry L. Towe,Republican,74870
+NEW JERSEY,1946,House,9,John M. Mehler,Democrat,33553
+NEW JERSEY,1946,Senate,,H. Alexander Smith,Republican,799808
+NEW JERSEY,1946,Senate,,George E. Brunner,Democrat,548458
+NEW JERSEY,1946,Senate,,John C. Butterworth,Socialist-Labor,7675
+NEW JERSEY,1946,Senate,,George Breitman,Socialist Workers,4976
+NEW JERSEY,1946,Senate,,Arthur Riley,Socialist,2226
+NEW JERSEY,1946,Senate,,George W. Ridout,National Prohibition,1711
+NEW JERSEY,1946,Senate,,Frederick W. Collins,Anti-Medical Trust Federation,1676
+NEW JERSEY,1946,Senate,,Mark M. Jones,Independent American,625
+NEW MEXICO,1946,Senate,,Dennis Chavez,Democrat,68650
+NEW MEXICO,1946,Senate,,Patrick J. Hurley,Republican,64632
+NEW MEXICO,1946,House,,Georgia L. Lusk,Democrat,66420
+NEW MEXICO,1946,House,,Antonio M. Fernandez,Democrat,65242
+NEW MEXICO,1946,House,,Earl Douglas,Republican,60519
+NEW MEXICO,1946,House,,Herman G. Baca,Republican,58938
+NEW YORK,1946,Representative,1,,Republican,83877
+NEW YORK,1946,Representative,1,,Democratic,22835
+NEW YORK,1946,Representative,1,,American Labor,11792
+NEW YORK,1946,House,1,W. Kingsland Macy,Republican,83877
+NEW YORK,1946,House,1,Eugene T. O'Neill,Democrat,22855
+NEW YORK,1946,House,1,Eugene T. O'Neill,American Labor,1792
+NEW YORK,1946,Representative,10,,Republican,31602
+NEW YORK,1946,Representative,10,,Democratic,39803
+NEW YORK,1946,Representative,10,,American Labor,17791
+NEW YORK,1946,Representative,10,,Liberal,8344
+NEW YORK,1946,House,10,Samuel H. Schachter,Republican,27289
+NEW YORK,1946,House,10,Anthony Seidmeca,American Labor,16359
+NEW YORK,1946,House,10,Andrew L. Somers,Democrat,39857
+NEW YORK,1946,House,10,Andrew L. Somers,American Labor,17791
+NEW YORK,1946,Representative,11,,Republican,48270
+NEW YORK,1946,Representative,11,,Democratic,40977
+NEW YORK,1946,Representative,11,,American Labor,18232
+NEW YORK,1946,Representative,11,,Liberal,9786
+NEW YORK,1946,House,11,Victor Wicklum,Republican,33642
+NEW YORK,1946,House,11,August Claessens,Liberal,8314
+NEW YORK,1946,House,11,James J. Heffernan,Democrat,40977
+NEW YORK,1946,House,11,James J. Heffernan,American Labor,18332
+NEW YORK,1946,House,11,James J. Heffernan,Liberal,9780
+NEW YORK,1946,Representative,12,,Republican,22754
+NEW YORK,1946,Representative,12,,Democratic,36202
+NEW YORK,1946,Representative,12,,American Labor,17295
+NEW YORK,1946,House,12,Alfred C. McKenzie,Republican,45270
+NEW YORK,1946,House,12,John J. Rooney,Democrat,36399
+NEW YORK,1946,House,12,Vincent J. Longhi,Republican,23785
+NEW YORK,1946,House,12,Vincent J. Longhi,American Labor,7267
+NEW YORK,1946,Representative,13,,Republican,44674
+NEW YORK,1946,Representative,13,,Democratic,37341
+NEW YORK,1946,Representative,13,,American Labor,14165
+NEW YORK,1946,House,13,Donald L. O'Toole,Democrat,37311
+NEW YORK,1946,House,13,Donald L. O'Toole,American Labor,14065
+NEW YORK,1946,Representative,14,,Republican,35450
+NEW YORK,1946,Representative,14,,Democratic,44254
+NEW YORK,1946,Representative,14,,American Labor,25038
+NEW YORK,1946,Representative,14,,Liberal,12044
+NEW YORK,1946,House,14,Charles H. Weston,Republican,44674
+NEW YORK,1946,House,14,Leo F. Rayfiel,Democrat,44254
+NEW YORK,1946,House,14,Leo F. Rayfiel,American Labor,23038
+NEW YORK,1946,House,14,Leo F. Rayfiel,Liberal,12044
+NEW YORK,1946,Representative,15,,Republican,27087
+NEW YORK,1946,Representative,15,,Democratic,41583
+NEW YORK,1946,Representative,15,,American Labor,25235
+NEW YORK,1946,Representative,15,,Liberal,12208
+NEW YORK,1946,Representative,15,,Other,1052
+NEW YORK,1946,House,15,Robert H. Thayer,Republican,29450
+NEW YORK,1946,House,15,Emanuel Celler,Democrat,41083
+NEW YORK,1946,House,15,Emanuel Celler,American Labor,25252
+NEW YORK,1946,House,15,Emanuel Celler,Liberal,12208
+NEW YORK,1946,House,15,Lauri E. Lusi,Republican,21094
+NEW YORK,1946,House,15,Max Schachtman,Workers,165
+NEW YORK,1946,Representative,16,,Republican,40187
+NEW YORK,1946,Representative,16,,Democratic,25771
+NEW YORK,1946,Representative,16,,American Labor,15812
+NEW YORK,1946,Representative,16,,Liberal,571
+NEW YORK,1946,Representative,16,Ellsworth B. Buck,Republican,49187
+NEW YORK,1946,Representative,16,,Veterans' Victory,571
+NEW YORK,1946,Representative,16,John Barry,Democrat,25771
+NEW YORK,1946,Representative,16,,American Labor,5812
+NEW YORK,1946,Representative,17,,Republican,66962
+NEW YORK,1946,Representative,17,,Democratic,36216
+NEW YORK,1946,Representative,17,,American Labor,9827
+NEW YORK,1946,Representative,17,Frederic R. Coudert Jr.,Republican,66063
+NEW YORK,1946,Representative,17,Myron Sulzberger Jr.,Democrat,39216
+NEW YORK,1946,Representative,17,Joseph Clark Baldwin,American Labor,9527
+NEW YORK,1946,Representative,18,,Republican,52490
+NEW YORK,1946,Representative,18,,Democratic,27447
+NEW YORK,1946,Representative,18,,American Labor,18485
+NEW YORK,1946,Representative,18,Vito Marcantonio,Democrat,27341
+NEW YORK,1946,Representative,18,,American Labor,14888
+NEW YORK,1946,Representative,19,,Republican,39440
+NEW YORK,1946,Representative,19,,Democratic,34802
+NEW YORK,1946,Representative,19,,American Labor,18680
+NEW YORK,1946,Representative,19,,Liberal,14180
+NEW YORK,1946,Representative,19,Frederick V.P. Bryan,Republican,35093
+NEW YORK,1946,Representative,19,Arthur G. Klein,Democrat,34807
+NEW YORK,1946,Representative,19,,American Labor,13630
+NEW YORK,1946,Representative,2,,Republican,123874
+NEW YORK,1946,Representative,2,,Democratic,30026
+NEW YORK,1946,Representative,2,,American Labor,14161
+NEW YORK,1946,House,2,Leonard W. Hall,Republican,123873
+NEW YORK,1946,House,2,Josephine U. Mayes,Democrat,30026
+NEW YORK,1946,House,2,Josephine U. Mayes,American Labor,4191
+NEW YORK,1946,Representative,20,,Republican,36450
+NEW YORK,1946,Representative,20,,Democratic,43019
+NEW YORK,1946,Representative,20,,American Labor,14189
+NEW YORK,1946,Representative,20,,Liberal,9761
+NEW YORK,1946,Representative,20,William I. Lehrfeld,Republican,19410
+NEW YORK,1946,Representative,20,Sol Bloom,Democrat,43019
+NEW YORK,1946,Representative,20,,American Labor,14189
+NEW YORK,1946,Representative,21,,Republican,40214
+NEW YORK,1946,Representative,21,,Democratic,22741
+NEW YORK,1946,Representative,21,,American Labor,19932
+NEW YORK,1946,Representative,21,Jules V. Justin,Republican,36450
+NEW YORK,1946,Representative,21,Jacob K. Javits,Republican,37136
+NEW YORK,1946,Representative,21,,Liberal,9761
+NEW YORK,1946,Representative,21,Daniel Flynn,Democrat,40652
+NEW YORK,1946,Representative,21,Eugene F. Connolly,American Labor,14359
+NEW YORK,1946,Representative,22,,Republican,70534
+NEW YORK,1946,Representative,22,,Democratic,52016
+NEW YORK,1946,Representative,22,,American Labor,25259
+NEW YORK,1946,Representative,22,,Liberal,12803
+NEW YORK,1946,Representative,22,Adam C. Powell,Democrat,22641
+NEW YORK,1946,Representative,22,,American Labor,9932
+NEW YORK,1946,Representative,23,,Republican,40203
+NEW YORK,1946,Representative,23,,Democratic,32916
+NEW YORK,1946,Representative,23,,American Labor,23431
+NEW YORK,1946,Representative,23,,Liberal,13897
+NEW YORK,1946,Representative,23,Grant Reynolds,Republican,19514
+NEW YORK,1946,Representative,23,Walter A. Lynch,Democrat,52616
+NEW YORK,1946,Representative,23,Peter Wynne,Liberal,30751
+NEW YORK,1946,Representative,23,David A. Schlesinger,American Labor,26229
+NEW YORK,1946,Representative,23,William Macks,Liberal,12803
+NEW YORK,1946,Representative,24,,Republican,46823
+NEW YORK,1946,Representative,24,,Democratic,47142
+NEW YORK,1946,Representative,24,,American Labor,33253
+NEW YORK,1946,Representative,24,,Liberal,15814
+NEW YORK,1946,Representative,24,,Other,9791
+NEW YORK,1946,Representative,24,Benjamin J. Rabin,Democrat,39316
+NEW YORK,1946,Representative,24,Roy Soden,American Labor,24249
+NEW YORK,1946,Representative,24,David Seifer,Republican,16931
+NEW YORK,1946,Representative,24,Bernie Benedick,Liberal,8504
+NEW YORK,1946,Representative,25,,Republican,58091
+NEW YORK,1946,Representative,25,,Democratic,40067
+NEW YORK,1946,Representative,25,,American Labor,17379
+NEW YORK,1946,Representative,25,,Liberal,7190
+NEW YORK,1946,Representative,25,Charles A. Buckley,Democrat,47142
+NEW YORK,1946,Representative,25,Charles Garside,Republican,49853
+NEW YORK,1946,Representative,25,Edward V. Morand,American Labor,25353
+NEW YORK,1946,Representative,25,Ira J. Palestine,Liberal,15814
+NEW YORK,1946,Representative,25,John A. Dewey,J. Veterans,9791
+NEW YORK,1946,Representative,26,,Republican,84835
+NEW YORK,1946,Representative,26,,Democratic,33532
+NEW YORK,1946,Representative,26,,American Labor,14943
+NEW YORK,1946,Representative,26,David M. Potts,Republican,58061
+NEW YORK,1946,Representative,26,Peter A. Quinn,Democrat,49067
+NEW YORK,1946,Representative,26,Gerald O'Reilly,American Labor,17379
+NEW YORK,1946,Representative,26,Augustus Batten,Liberal,7140
+NEW YORK,1946,Representative,27,,Republican,82535
+NEW YORK,1946,Representative,27,,Democratic,20242
+NEW YORK,1946,Representative,27,,American Labor,13794
+NEW YORK,1946,Representative,27,Ralph W. Gwinn,Republican,84882
+NEW YORK,1946,Representative,27,Francis X. Nulty,Democrat,34269
+NEW YORK,1946,Representative,27,,American Labor,4081
+NEW YORK,1946,Representative,28,,Republican,60709
+NEW YORK,1946,Representative,28,,Democratic,39466
+NEW YORK,1946,Representative,28,,American Labor,3549
+NEW YORK,1946,Representative,28,,Other,738
+NEW YORK,1946,Representative,28,Ralph A. Gamble,Republican,83533
+NEW YORK,1946,Representative,28,Morris Karnes,Democrat,23242
+NEW YORK,1946,Representative,28,,American Labor,3994
+NEW YORK,1946,Representative,29,,Republican,89400
+NEW YORK,1946,Representative,29,,Democratic,23194
+NEW YORK,1946,Representative,29,,American Labor,3167
+NEW YORK,1946,Representative,29,Katherine St. George,Republican,60769
+NEW YORK,1946,Representative,29,James K. Welsh,Democrat,39456
+NEW YORK,1946,Representative,29,,Veterans-Farmer,708
+NEW YORK,1946,Representative,29,Bryce Oliver,American Labor,3549
+NEW YORK,1946,Representative,3,,Republican,98725
+NEW YORK,1946,Representative,3,,Democratic,32932
+NEW YORK,1946,Representative,3,,American Labor,6493
+NEW YORK,1946,Representative,3,,Liberal,4196
+NEW YORK,1946,House,3,Henry J. Latham,Republican,98722
+NEW YORK,1946,House,3,Aloysius J. Maickel,Democrat,32062
+NEW YORK,1946,House,3,Herbert Shingler,American Labor,6768
+NEW YORK,1946,House,3,William L. Munger,Liberal,4100
+NEW YORK,1946,Representative,30,,Republican,66395
+NEW YORK,1946,Representative,30,,Democratic,42519
+NEW YORK,1946,Representative,30,,American Labor,13258
+NEW YORK,1946,Representative,30,Jay LeFevre,Republican,80469
+NEW YORK,1946,Representative,30,John F. Killgrew,Democrat,32193
+NEW YORK,1946,Representative,30,,American Labor,3047
+NEW YORK,1946,Representative,31,,Republican,64325
+NEW YORK,1946,Representative,31,,Democratic,72923
+NEW YORK,1946,Representative,31,,American Labor,6510
+NEW YORK,1946,Representative,31,Bernard W. Kearney,Republican,66395
+NEW YORK,1946,Representative,31,Carroll A. Gardner,Democrat,42519
+NEW YORK,1946,Representative,31,,American Labor,3258
+NEW YORK,1946,Representative,32,,Republican,84732
+NEW YORK,1946,Representative,32,,Democratic,32026
+NEW YORK,1946,Representative,32,,American Labor,6627
+NEW YORK,1946,Representative,32,William T. Byrne,Democrat,72523
+NEW YORK,1946,Representative,32,,American Labor,6519
+NEW YORK,1946,Representative,32,William K. Sanford,Republican,64325
+NEW YORK,1946,Representative,33,,Republican,64217
+NEW YORK,1946,Representative,33,,Democratic,22368
+NEW YORK,1946,Representative,33,,American Labor,1284
+NEW YORK,1946,Representative,33,Dean P. Taylor,Republican,89778
+NEW YORK,1946,Representative,33,David J. Fitzgerald,Democrat,36069
+NEW YORK,1946,Representative,33,,American Labor,2597
+NEW YORK,1946,Representative,34,,Republican,58040
+NEW YORK,1946,Representative,34,,Democratic,45414
+NEW YORK,1946,Representative,34,,American Labor,3440
+NEW YORK,1946,Representative,34,Clarence E. Kilburn,Republican,64217
+NEW YORK,1946,Representative,34,William G. Houk,Democrat,22368
+NEW YORK,1946,Representative,34,Carl H. Bogardus,American Labor,1384
+NEW YORK,1946,Representative,34,Hadwen C. Fuller,Republican,58040
+NEW YORK,1946,Representative,35,,Republican,78046
+NEW YORK,1946,Representative,35,,Democratic,33838
+NEW YORK,1946,Representative,35,,American Labor,11842
+NEW YORK,1946,Representative,35,Frank A. Emma,Democrat,45414
+NEW YORK,1946,Representative,35,American Labor,,3440
+NEW YORK,1946,Representative,35,R. Walter Riehlman,Republican,70372
+NEW YORK,1946,Representative,36,Lawson Barnes,Democrat,40820
+NEW YORK,1946,Representative,36,American Labor,,3542
+NEW YORK,1946,Representative,36,Edwin Arthur Hall,Republican,59920
+NEW YORK,1946,Representative,37,Charles R. Wilson,Democrat,22055
+NEW YORK,1946,Representative,37,American Labor,,1632
+NEW YORK,1946,Representative,38,John Taber,Republican,63382
+NEW YORK,1946,Representative,38,George T. Franklin,Democrat,24376
+NEW YORK,1946,Representative,39,W. Sterling Cole,Republican,61339
+NEW YORK,1946,Representative,39,William H. Holt Jr.,Democrat,21693
+NEW YORK,1946,Representative,39,American Labor,,1512
+NEW YORK,1946,Representative,4,,Republican,57176
+NEW YORK,1946,Representative,4,,Democratic,38462
+NEW YORK,1946,Representative,4,,American Labor,7439
+NEW YORK,1946,Representative,4,,Liberal,4486
+NEW YORK,1946,House,4,Gregory McMahon,Republican,57176
+NEW YORK,1946,House,4,Emily B. Barry,Democrat,38227
+NEW YORK,1946,House,4,George H. Rooney,American Labor,7439
+NEW YORK,1946,House,4,Nash Starr,Liberal,4436
+NEW YORK,1946,Representative,40,Kenneth B. Keating,Republican,84852
+NEW YORK,1946,Representative,40,George F. Rogers,Democrat,47783
+NEW YORK,1946,Representative,40,American Labor,,7536
+NEW YORK,1946,Representative,40,James W. Wadsworth,Republican,65975
+NEW YORK,1946,Representative,41,Charles J. Reap,Democrat,24063
+NEW YORK,1946,Representative,41,American Labor,,2269
+NEW YORK,1946,Representative,42,Walter G. Andrews,Republican,71862
+NEW YORK,1946,Representative,42,William R. Laiton,Democrat,38128
+NEW YORK,1946,Representative,42,American Labor,,4900
+NEW YORK,1946,Representative,42,Edward J. Elsaesser,Republican,71758
+NEW YORK,1946,Representative,43,Charles P. McCabe,Democrat,38108
+NEW YORK,1946,Representative,43,George J. Young,American Labor,4853
+NEW YORK,1946,Representative,43,John C. Butler,Republican,67495
+NEW YORK,1946,Representative,44,James B. Downey,Democrat,44500
+NEW YORK,1946,Representative,44,American Labor,,5208
+NEW YORK,1946,Representative,44,Daniel A. Reed,Republican,53327
+NEW YORK,1946,Representative,45,Joseph E. Proudman,Democrat,18603
+NEW YORK,1946,Representative,45,American Labor,,1602
+NEW YORK,1946,Representative,45,Carl William Lundberg,Veterans' Victory,2208
+NEW YORK,1946,Representative,5,,Republican,66794
+NEW YORK,1946,Representative,5,,Democratic,48255
+NEW YORK,1946,Representative,5,,American Labor,10827
+NEW YORK,1946,House,5,Robert Troy Ross,Republican,66754
+NEW YORK,1946,House,5,James A. Phillips,Democrat,48265
+NEW YORK,1946,House,5,James A. Phillips,American Labor,10827
+NEW YORK,1946,Representative,6,,Republican,50438
+NEW YORK,1946,Representative,6,,Democratic,40728
+NEW YORK,1946,Representative,6,,American Labor,17552
+NEW YORK,1946,Representative,6,,Liberal,12820
+NEW YORK,1946,House,6,Robert Nodar Jr.,Republican,59438
+NEW YORK,1946,House,6,James J. Delaney,Democrat,40758
+NEW YORK,1946,House,6,James J. Delaney,American Labor,7556
+NEW YORK,1946,House,6,James J. Delaney,Liberal,2630
+NEW YORK,1946,Representative,7,,Republican,26105
+NEW YORK,1946,Representative,7,,Democratic,35769
+NEW YORK,1946,Representative,7,,American Labor,11104
+NEW YORK,1946,Representative,7,,Liberal,4276
+NEW YORK,1946,House,7,John J. Delaney,Democrat,33769
+NEW YORK,1946,House,7,John J. Delaney,American Labor,11104
+NEW YORK,1946,House,7,John J. Delaney,Liberal,4576
+NEW YORK,1946,Representative,8,,Republican,29831
+NEW YORK,1946,Representative,8,,Democratic,27760
+NEW YORK,1946,Representative,8,,American Labor,17116
+NEW YORK,1946,House,8,Roy M. D. Richardson,Republican,36510
+NEW YORK,1946,House,8,Joseph L. Pfeifer,Democrat,27760
+NEW YORK,1946,House,8,Joseph L. Pfeifer,American Labor,7116
+NEW YORK,1946,Representative,9,,Republican,27235
+NEW YORK,1946,Representative,9,,Democratic,35403
+NEW YORK,1946,Representative,9,,American Labor,18450
+NEW YORK,1946,Representative,9,,Liberal,8993
+NEW YORK,1946,House,9,Paul W. Williams,Republican,29851
+NEW YORK,1946,House,9,Eugene J. Keogh,Democrat,35404
+NEW YORK,1946,House,9,Eugene J. Keogh,Liberal,5900
+NEW YORK,1946,Senate,,Irving M. Ives,Republican,2559365
+NEW YORK,1946,Senate,,Herbert H. Lehman,Democrat,1688887
+NEW YORK,1946,Senate,,Herbert H. Lehman,American Labor,433846
+NEW YORK,1946,Senate,,Herbert H. Lehman,Liberal,183379
+NORTH CAROLINA,1946,Representatives,1,Herbert C. Bonner,Democrat,9993
+NORTH CAROLINA,1946,Representatives,1,Zeno Ratcliff,Republican,1208
+NORTH CAROLINA,1946,Representatives,10,Hamilton C. Jones,Democrat,24614
+NORTH CAROLINA,1946,Representatives,10,P. C. Burkholder,Republican,21096
+NORTH CAROLINA,1946,Representatives,11,Alfred L. Bulwinkle,Democrat,28544
+NORTH CAROLINA,1946,Representatives,11,C. Y. Nanney Jr.,Republican,18143
+NORTH CAROLINA,1946,Representatives,12,Monroe M. Redden,Democrat,43690
+NORTH CAROLINA,1946,Representatives,12,Guy Weaver,Republican,28531
+NORTH CAROLINA,1946,Representatives,2,John H. Kerr,Democrat,9425
+NORTH CAROLINA,1946,Representatives,3,Graham A. Barden,Democrat,14798
+NORTH CAROLINA,1946,Representatives,3,H. B. Kornegay,Republican,7385
+NORTH CAROLINA,1946,Representatives,4,Harold D. Cooley,Democrat,22977
+NORTH CAROLINA,1946,Representatives,4,Ben L. Spence,Republican,12065
+NORTH CAROLINA,1946,Representatives,5,John H. Folger,Democrat,26316
+NORTH CAROLINA,1946,Representatives,5,S. Evan Hall,Republican,15521
+NORTH CAROLINA,1946,Representatives,6,Carl T. Durham,Democrat,18564
+NORTH CAROLINA,1946,Representatives,6,A. McDonald,Republican,10721
+NORTH CAROLINA,1946,Representatives,7,J. Bayard Clark,Democrat,15423
+NORTH CAROLINA,1946,Representatives,7,H. Edmund Rogers,Republican,8445
+NORTH CAROLINA,1946,Representatives,8,C. B. Deane,Democrat,29920
+NORTH CAROLINA,1946,Representatives,8,Joseph H. Whicker Sr.,Republican,25305
+NORTH CAROLINA,1946,Representatives,9,Robert L. Doughton,Democrat,36007
+NORTH CAROLINA,1946,Representatives,9,Clyde R. Greene,Republican,29585
+NORTH DAKOTA,1946,Senate,,William Langer,Republican,88210
+NORTH DAKOTA,1946,Senate,,Arthur E. Thompson,Independent,38804
+NORTH DAKOTA,1946,Senate,,Abner B. Larson,Democrat,38368
+NORTH DAKOTA,1946,House,,William Lemke,Republican,103205
+NORTH DAKOTA,1946,House,,Charles R. Robertson,Republican,102087
+NORTH DAKOTA,1946,House,,James M. Hanley,Democrat,41189
+NORTH DAKOTA,1946,House,,Edwin Cooper,Democrat,29865
+Nebraska,1946,House,,,,348599
+Nevada,1946,House,,,,41224
+Nevada,1946,Senate,,,,156292
+Nevada,1946,Senate,,,,86115
+New Hampshire,1946,House,,,,156210
+New Hampshire,1946,Senate,,,,156292
+New Hampshire,1946,Senate,,,,86115
+New Jersey,1946,House,,,,1181992
+New Mexico,1946,House,,,,147379
+New York,1946,House,,,,4712440
+New York,1946,Senate,,,,156292
+New York,1946,Senate,,,,86115
+North Carolina,1946,House,,,,216570
+North Carolina,1946,Senate,,,,156292
+North Carolina,1946,Senate,,,,86115
+North Dakota,1946,House,,,,156151
+North Dakota,1946,Senate,,,,156292
+North Dakota,1946,Senate,,,,86115
+OHIO,1946,House,1,Charles H. Elston,Republican,72900
+OHIO,1946,House,1,G. Andrews Espy,Democrat,40504
+OHIO,1946,House,10,Thomas A. Jenkins,Republican,35406
+OHIO,1946,House,10,H. A. McCown,Democrat,17719
+OHIO,1946,House,11,Walter E. Brehm,Republican,31576
+OHIO,1946,House,11,Lester S. Reid,Democrat,20543
+OHIO,1946,House,12,John M. Vorys,Republican,74691
+OHIO,1946,House,12,Arthur P. Lamneck,Democrat,45729
+OHIO,1946,House,13,Alvin F. Weichel,Republican,49725
+OHIO,1946,House,13,Frank W. Thomas,Democrat,19237
+OHIO,1946,House,13,Walter B. Huber,Democrat,88178
+OHIO,1946,House,14,Fred W. Danner,Republican,77674
+OHIO,1946,House,14,Harry Hurtt Jr.,Independent,1676
+OHIO,1946,House,15,P. W. Griffiths,Republican,36564
+OHIO,1946,House,15,Robert T. Secrest,Democrat,32159
+OHIO,1946,House,16,Henderson H. Carson,Republican,65639
+OHIO,1946,House,16,William R. Thom,Democrat,51934
+OHIO,1946,House,17,J. Harry McGregor,Republican,57167
+OHIO,1946,House,17,Wesley W. Purdy,Democrat,30406
+OHIO,1946,House,18,Earl R. Lewis,Republican,55140
+OHIO,1946,House,18,Eugene A. Blum,Democrat,38606
+OHIO,1946,House,19,Michael J. Kirwan,Democrat,88872
+OHIO,1946,House,19,Norman W. Adams,Republican,59607
+OHIO,1946,House,2,William E. Hess,Republican,67067
+OHIO,1946,House,2,Francis G. Davis,Democrat,39112
+OHIO,1946,House,20,Michael A. Feighan,Democrat,49670
+OHIO,1946,House,20,Walter E. Obert,Republican,24776
+OHIO,1946,House,21,Robert Crosser,Democrat,49111
+OHIO,1946,House,21,James S. Hudec,Republican,27657
+OHIO,1946,House,21,Frances P. Bolton,Republican,174823
+OHIO,1946,House,22,Earl Heffley,Democrat,69050
+OHIO,1946,House,22,Matthew DeMore,Independent,9029
+OHIO,1946,House,3,Raymond H. Burke,Republican,71171
+OHIO,1946,House,3,Edward J. Gardner,Democrat,65749
+OHIO,1946,House,4,Robert F. Jones,Republican,46718
+OHIO,1946,House,4,Merel J. Bragg,Democrat,32160
+OHIO,1946,House,5,Cliff Clevenger,Republican,30623
+OHIO,1946,House,5,Willard Thomas,Democrat,20163
+OHIO,1946,House,6,Edward O. McCowen,Republican,39992
+OHIO,1946,House,6,Franklin E. Smith,Democrat,33013
+OHIO,1946,House,7,Clarence J. Brown,Republican,63390
+OHIO,1946,House,7,Carl H. Ehl,Democrat,29824
+OHIO,1946,House,8,Frederick C. Smith,Republican,40755
+OHIO,1946,House,8,John T. Siemon,Democrat,22945
+OHIO,1946,House,9,Homer A. Ramey,Republican,59394
+OHIO,1946,House,9,Michael V. DiSalle,Democrat,50037
+OHIO,1946,House,,George H. Bender,Republican,1281864
+OHIO,1946,House,,William M. Boyd,Democrat,871660
+OHIO,1946,Senate,,Kingsley A. Taft,Republican,1193852
+OHIO,1946,Senate,,Henry F. Webber,Democrat,929584
+OHIO,1946,Senate,,John W. Bricker,Republican,1275774
+OHIO,1946,Senate,,James W. Huffman,Democrat,947610
+OHIO,1946,Senate,,William Farkas,Socialist Labor,18885
+OKLAHOMA,1946,Representative,1,George B. Schwabe,Republican,61205
+OKLAHOMA,1946,Representative,1,Oras A. Shaw,Democrat,51041
+OKLAHOMA,1946,Representative,2,William G. Stigler,Democrat,32559
+OKLAHOMA,1946,Representative,2,Ford P. Snider,Republican,19029
+OKLAHOMA,1946,Representative,3,Carl Albert,Democrat,38499
+OKLAHOMA,1946,Representative,3,Eleanor L. Watson,Republican,6835
+OKLAHOMA,1946,Representative,4,Glen D. Johnson,Democrat,36559
+OKLAHOMA,1946,Representative,4,Pliney S. Frye,Republican,20239
+OKLAHOMA,1946,Representative,5,A. S. Mike Monroney,Democrat,47173
+OKLAHOMA,1946,Representative,5,Lambert P. Kern,Republican,43208
+OKLAHOMA,1946,Representative,6,Toby Morris,Democrat,30408
+OKLAHOMA,1946,Representative,6,Joe Hart Jr.,Republican,15912
+OKLAHOMA,1946,Representative,7,Preston E. Peden,Democrat,26585
+OKLAHOMA,1946,Representative,7,J. Warren White,Republican,7204
+OKLAHOMA,1946,Representative,8,Ross Rizley,Republican,30240
+OKLAHOMA,1946,Representative,8,Tom Hieronymus,Democrat,24954
+OREGON,1946,Representative,1,Walter Norblad,Republican,67535
+OREGON,1946,Representative,1,Lyman Ross,Democrat,26278
+OREGON,1946,Representative,2,Lowell Stockman,Republican,32541
+OREGON,1946,Representative,2,Lester Humphreys,Democrat,15744
+OREGON,1946,Representative,3,Homer D. Angell,Republican,74061
+OREGON,1946,Representative,3,Lew Wallace,Democrat,56425
+OREGON,1946,Representative,4,Harris Ellsworth,Republican,42868
+OREGON,1946,Representative,4,Louis Aubrey Wood,Democrat,19118
+Ohio,1946,House,,,,2121487
+Ohio,1946,Senate,,,,156292
+Ohio,1946,Senate,,,,86115
+Oklahoma,1946,House,,,,522458
+Oklahoma,1946,Senate,,,,156292
+Oklahoma,1946,Senate,,,,86115
+Oregon,1946,House,,,,411287
+Oregon,1946,Senate,,,,156292
+Oregon,1946,Senate,,,,86115
+Pennsylvania,1946,Representative,1,James Gallagher,Republican,79680
+Pennsylvania,1946,Representative,1,William A. Barrett,Democratic,72393
+Pennsylvania,1946,Representative,10,James P. Scoblick,Republican,47704
+Pennsylvania,1946,Representative,10,Frank X. Murray,Democratic,45843
+Pennsylvania,1946,Representative,11,Mitchell Jenkins,Republican,58413
+Pennsylvania,1946,Representative,11,Daniel J. Flood,Democratic,56570
+Pennsylvania,1946,Representative,12,Ivor D. Fenton,Republican,62151
+Pennsylvania,1946,Representative,12,Ralph M. Bashore,Democratic,36954
+Pennsylvania,1946,Representative,13,Frederick A. Muhlenberg,Republican,53402
+Pennsylvania,1946,Representative,13,Daniel K. Hoch,Democratic,28073
+Pennsylvania,1946,Representative,13,Raymond S. Hofses,Socialist,2717
+Pennsylvania,1946,Representative,14,Wilson D. Gillette,Republican,43142
+Pennsylvania,1946,Representative,14,James S. Fields,Democratic,20842
+Pennsylvania,1946,Representative,15,Robert F. Rich,Republican,44264
+Pennsylvania,1946,Representative,15,Richard F. Hartzell,Democratic,20376
+Pennsylvania,1946,Representative,16,Samuel K. McConnell Jr.,Republican,76314
+Pennsylvania,1946,Representative,16,William L. Batt Jr.,Democratic,28302
+Pennsylvania,1946,Representative,17,Richard M. Simpson,Republican,37194
+Pennsylvania,1946,Representative,17,Lowell H. Alexander,Democratic,18972
+Pennsylvania,1946,Representative,18,John C. Kunkel,Republican,77349
+Pennsylvania,1946,Representative,18,William B. Freeland,Democratic,34708
+Pennsylvania,1946,Representative,19,Leon H. Gavin,Republican,41500
+Pennsylvania,1946,Representative,19,Lloyd N. Huff,Democratic,18109
+Pennsylvania,1946,Representative,19,R. S. Byers,Prohibition,1207
+Pennsylvania,1946,Representative,2,Robert N. McGarvey,Republican,71124
+Pennsylvania,1946,Representative,2,William T. Granahan,Democratic,66674
+Pennsylvania,1946,Representative,20,Francis R. Walter,Democrat,39771
+Pennsylvania,1946,Representative,20,Norman A. Peil,Republican,36008
+Pennsylvania,1946,Representative,21,Chester H. Gross,Republican,45559
+Pennsylvania,1946,Representative,21,John W. Brehm,Democratic,42118
+Pennsylvania,1946,Representative,22,James E. Van Zandt,Republican,42217
+Pennsylvania,1946,Representative,22,John A. Shartle,Democratic,21853
+Pennsylvania,1946,Representative,23,William J. Crow,Republican,34104
+Pennsylvania,1946,Representative,23,John W. Rankin,Democrat,30493
+Pennsylvania,1946,Representative,24,Thomas E. Morgan,Democratic,39740
+Pennsylvania,1946,Representative,24,Roy A. Purviance,Republican,30231
+Pennsylvania,1946,Representative,25,Louis Graham,Republican,52932
+Pennsylvania,1946,Representative,25,Samuel G. Neff,Democratic,37723
+Pennsylvania,1946,Representative,26,Harve Tibbott,Republican,49573
+Pennsylvania,1946,Representative,26,Thomas A. Owens,Democratic,41224
+Pennsylvania,1946,House,27,Augustine B. Kelley,Democrat,46137
+Pennsylvania,1946,House,27,Roy C. McKenna,Republican,41030
+Pennsylvania,1946,House,28,Carroll D. Kearns,Republican,56835
+Pennsylvania,1946,House,28,Charles W. Webb,Democrat,32166
+Pennsylvania,1946,House,29,John McDowell,Republican,53329
+Pennsylvania,1946,House,29,Harry J. Davenport,Democrat,48091
+Pennsylvania,1946,Representative,3,Hardie Scott,Republican,83618
+Pennsylvania,1946,Representative,3,Albert S. Townsend,Democratic,50962
+Pennsylvania,1946,House,30,Robert J. Corbett,Republican,57827
+Pennsylvania,1946,House,30,James W. Knox,Democrat,38362
+Pennsylvania,1946,House,31,James G. Fulton,Republican,76119
+Pennsylvania,1946,House,31,Herbert N. Schultz,Democrat,40410
+Pennsylvania,1946,House,32,Herman P. Eberharter,Democrat,62993
+Pennsylvania,1946,House,32,Ignatius J. Pillart,Republican,37247
+Pennsylvania,1946,House,33,Frank Buchanan,Democrat,51656
+Pennsylvania,1946,House,33,John Robert Brown Jr.,Republican,37555
+Pennsylvania,1946,Representative,4,Franklin J. Maloney,Republican,55239
+Pennsylvania,1946,Representative,4,John Edward Sheridan,Democratic,49025
+Pennsylvania,1946,Representative,4,John K. Price,U. Citizen,5688
+Pennsylvania,1946,Representative,5,George W. Sarbacher Jr.,Republican,77046
+Pennsylvania,1946,Representative,5,William J. Green Jr.,Democratic,66986
+Pennsylvania,1946,Representative,6,Hugh D. Scott Jr.,Republican,82671
+Pennsylvania,1946,Representative,6,Herbert J. McGlinchey,Democratic,58557
+Pennsylvania,1946,Representative,7,E. Wallace Chadwick,Republican,76021
+Pennsylvania,1946,Representative,7,Vernon A. O'Rourke,Democratic,38253
+Pennsylvania,1946,Representative,8,Charles L. Gerlach,Republican,49196
+Pennsylvania,1946,Representative,8,Harry Chaplin,Democratic,34260
+Pennsylvania,1946,Representative,9,Paul B. Dague,Republican,44311
+Pennsylvania,1946,Representative,9,Edgar Campbell,Democratic,24175
+Pennsylvania,1946,Senate,,Edward Martin,Republican,1833458
+Pennsylvania,1946,Senate,,Francis J. Myers,Democrat,1243338
+Pennsylvania,1946,Senate,,,Socialist-Labor,11613
+Pennsylvania,1946,Senate,,,Prohibition,17451
+Pennsylvania,1946,Senate,,Edward Martin,Republican,1853458
+Pennsylvania,1946,Senate,,Joseph F. Guffey,Democratic,1245338
+Pennsylvania,1946,Senate,,Dale H. Learn,Prohibition,17473
+Pennsylvania,1946,Senate,,Frank Knotek,Socialist-Labor,11613
+Pennsylvania,1946,House,,,,2825458
+Pennsylvania,1946,Senate,,,,156292
+Pennsylvania,1946,Senate,,,,86115
+RHODE ISLAND,1946,House,1,Aime J. Forand,Democrat,74324
+RHODE ISLAND,1946,House,1,Raymond A. Mailloux,Republican,55900
+RHODE ISLAND,1946,House,1,Charles R. Napier,Constitutional Government,890
+RHODE ISLAND,1946,House,2,John E. Fogarty,Democrat,74393
+RHODE ISLAND,1946,House,2,John J. Kelly Jr.,Republican,66887
+RHODE ISLAND,1946,Senate,,J. Howard McGrath,Democrat,150748
+RHODE ISLAND,1946,Senate,,W. Gurnee Dyer,Republican,122780
+Rhode Island,1946,House,,,,195754
+SOUTH CAROLINA,1946,House,1,L. Mendel Rivers,Democrat,5354
+SOUTH CAROLINA,1946,House,2,John J. Riley,Democrat,4795
+SOUTH CAROLINA,1946,House,3,W. J. B. Dorn,Democrat,3527
+SOUTH CAROLINA,1946,House,4,Joseph R. Bryson,Democrat,3363
+SOUTH CAROLINA,1946,House,5,James P. Richards,Democrat,3337
+SOUTH CAROLINA,1946,House,6,John L. McMillan,Democrat,5670
+SOUTH CAROLINA,1946,House,6,James R. Prioleau,Progressive,141
+SOUTH CAROLINA,1946,House,6,Leroy Dimery,Independent,41
+SOUTH DAKOTA,1946,Representative,1,Karl E. Mundt,Republican,76721
+SOUTH DAKOTA,1946,Representative,1,Merton B. Tice,Democrat,48065
+SOUTH DAKOTA,1946,Representative,2,Francis Case,Republican,28011
+SOUTH DAKOTA,1946,Representative,2,John P. Reinhard,Democrat,10008
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+STATE,YEAR,RACE_TYPE,CONGRESSIONAL_DISTRICT,CANDIDATE_NAME,CANDIDATE_PARTY,VOTES
+South Carolina,1946,House,,,,102164
+South Carolina,1946,Senate,,,,156292
+South Carolina,1946,Senate,,,,86115
+South Dakota,1946,House,,,,167954
+South Dakota,1946,Senate,,,,156292
+South Dakota,1946,Senate,,,,86115
+TENNESSEE,1946,Representative,1,Dayton E. Phillips,Republican,24144
+TENNESSEE,1946,Representative,10,Clifford Davis,Democrat,37069
+TENNESSEE,1946,Representative,2,John Jennings Jr.,Republican,28752
+TENNESSEE,1946,Representative,2,James Douglas Wyrick,Independent,3485
+TENNESSEE,1946,Representative,3,Estes Kefauver,Democrat,26779
+TENNESSEE,1946,Representative,3,George Creswell,Independent,2725
+TENNESSEE,1946,Representative,4,Albert Gore,Democrat,7624
+TENNESSEE,1946,Representative,4,H. T. McLean,Republican,3673
+TENNESSEE,1946,Representative,5,Joe L. Evins,Democrat,11646
+TENNESSEE,1946,Representative,6,J. Percy Priest,Democrat,7178
+TENNESSEE,1946,Representative,6,Will T. Perry,Republican,2135
+TENNESSEE,1946,Representative,7,Wirt Courtney,Democrat,11658
+TENNESSEE,1946,Representative,8,Tom Murray,Democrat,11861
+TENNESSEE,1946,Representative,9,Jere Cooper,Democrat,12685
+TENNESSEE,1946,Senate,,Kenneth McKellar,Democrat,145654
+TENNESSEE,1946,Senate,,William B. Ladd,Republican,57238
+TENNESSEE,1946,Senate,,John R. Neal,Independent,11516
+TENNESSEE,1946,Senate,,Herman H. Ross,Independent,4303
+TEXAS,1946,House,1,Wright Patman,Democrat,11929
+TEXAS,1946,House,10,Lyndon B. Johnson,Democrat,16947
+TEXAS,1946,House,11,W. R. Poage,Democrat,9178
+TEXAS,1946,House,12,Wingate D. Lucas,Democrat,15266
+TEXAS,1946,House,12,Elton M. Hyder,Republican,2146
+TEXAS,1946,House,13,Ed Gossett,Democrat,17714
+TEXAS,1946,House,14,John E. Lyle,Democrat,30004
+TEXAS,1946,House,15,Milton H. West,Democrat,14623
+TEXAS,1946,House,16,R. Ewing Thomason,Democrat,8114
+TEXAS,1946,House,17,Omar Burleson,Democrat,14874
+TEXAS,1946,House,18,Eugene Worley,Democrat,11869
+TEXAS,1946,House,18,Frank T. O'Brien,Republican,4180
+TEXAS,1946,House,19,George H. Mahon,Democrat,15821
+TEXAS,1946,House,19,Mohler D. Temple,Republican,965
+TEXAS,1946,House,2,J. M. Combs,Democrat,19909
+TEXAS,1946,House,2,Don Parker,Republican,793
+TEXAS,1946,House,20,Paul J. Kilday,Democrat,10543
+TEXAS,1946,House,21,O. C. Fisher,Democrat,15701
+TEXAS,1946,House,3,Lindley Beckworth,Democrat,10686
+TEXAS,1946,House,4,Sam Rayburn,Democrat,11957
+TEXAS,1946,House,4,Floyd Harry,Republican,899
+TEXAS,1946,House,5,J. Frank Wilson,Democrat,12267
+TEXAS,1946,House,5,Lewis W. Stayart,Republican,3921
+TEXAS,1946,House,6,Olin E. Teague,Democrat,9221
+TEXAS,1946,House,7,Tom Pickett,Democrat,14810
+TEXAS,1946,House,8,Albert Thomas,Democrat,42163
+TEXAS,1946,House,8,Richard E. Burns,Republican,4253
+TEXAS,1946,House,9,Joseph J. Mansfield,Democrat,16712
+TEXAS,1946,Senate,,Tom Connally,Democrat,336931
+TEXAS,1946,Senate,,Murray C. Sells,Republican,43750
+Tennessee,1946,House,,,,447164
+Texas,1946,House,,,,745564
+This appears to be just a title page for the 1946 Congressional Election statistics document. It contains no actual election result data to format into CSV. The document was compiled by William Graf under John Andrews' direction and was corrected as of February 1, 1947, but contains no vote tallies or candidate information on this cover page.,,,,
+UTAH,1946,House,1,Walter K. Granger,Democrat,44888
+UTAH,1946,House,1,David J. Wilson,Republican,44784
+UTAH,1946,House,2,William A. Dawson,Republican,56402
+UTAH,1946,House,2,J. W. Robinson,Democrat,50598
+UTAH,1946,Senate,,Arthur V. Watkins,Republican,101142
+UTAH,1946,Senate,,Abe Murdock,Democrat,96257
+Utah,1946,House,,,,203784
+Utah,1946,Senate,,,,156292
+Utah,1946,Senate,,,,86115
+VERMONT,1946,Senate,,Ralph E. Flanders,Republican,54729
+VERMONT,1946,Senate,,Charles P. McDevitt,Democrat,18594
+VERMONT,1946,Senate,,Scattering,,17
+VERMONT,1946,House,,Charles A. Plumley,Republican,46985
+VERMONT,1946,House,,Matthew J. Caldbeck,Democrat,26056
+VERMONT,1946,House,,Scattering,,25
+VIRGINIA,1946,House,1,Schuyler Otis Bland,Democrat,13863
+VIRGINIA,1946,House,1,Walter Johnson,Republican,4628
+VIRGINIA,1946,House,2,Porter Hardy Jr.,Democrat,19267
+VIRGINIA,1946,House,2,Sidney H. Kelsey,Republican,10078
+VIRGINIA,1946,House,3,J. Vaughan Gary,Democrat,21937
+VIRGINIA,1946,House,3,Earle Lutz,Republican,7974
+VIRGINIA,1946,House,4,Patrick H. Drewry,Democrat,13636
+VIRGINIA,1946,House,4,Andrew S. Condrey,Prohibition,2012
+VIRGINIA,1946,House,5,Thomas B. Stanley,Democrat,17741
+VIRGINIA,1946,House,5,William C. Creasy,Republican,6519
+VIRGINIA,1946,House,6,J. Lindsay Almond Jr.,Democrat,20693
+VIRGINIA,1946,House,6,Frank R. Angell,Republican,10641
+VIRGINIA,1946,House,6,Ruby Mae Wilkes,Socialist,272
+VIRGINIA,1946,House,7,Burr P. Harrison,Democrat,19535
+VIRGINIA,1946,House,7,Karl Jenkins,Republican,11813
+VIRGINIA,1946,House,8,Howard W. Smith,Democrat,21252
+VIRGINIA,1946,House,8,Lawrence Michael,Republican,12930
+VIRGINIA,1946,House,9,John W. Flannagan Jr.,Democrat,20610
+VIRGINIA,1946,House,9,S. H. Sutherland,Republican,17152
+VIRGINIA,1946,House,9,John Albert Goodpasture Jr.,Independent,2026
+VIRGINIA,1946,Senate,,A. Willis Robertson,Democrat,169680
+VIRGINIA,1946,Senate,,Robert Woods,Republican,72253
+VIRGINIA,1946,Senate,,Lawrence S. Wilkes,Socialist,7024
+VIRGINIA,1946,Senate,,Scattering,,5
+VIRGINIA,1946,Senate,,Harry Flood Byrd,Democrat,163960
+VIRGINIA,1946,Senate,,Lester S. Parsons,Republican,77005
+VIRGINIA,1946,Senate,,Howard H. Carwile,Independent,5189
+VIRGINIA,1946,Senate,,Alice Burke,Communist,3318
+VIRGINIA,1946,Senate,,Thomas E. Boorle,Prohibition,1764
+VIRGINIA,1946,Senate,,Clarke T. Robb,Socialist,1592
+VIRGINIA,1946,Senate,,Scattering,,35
+Vermont,1946,Senate,,,,156292
+Vermont,1946,Senate,,,,86115
+WASHINGTON,1946,House,1,Homer R. Jones,Republican,113289
+WASHINGTON,1946,House,1,Hugh De Lacy,Democrat,64155
+WASHINGTON,1946,House,2,Henry M. Jackson,Democrat,54089
+WASHINGTON,1946,House,2,Payson Peterson,Republican,47838
+WASHINGTON,1946,House,3,Fred Norman,Republican,47875
+WASHINGTON,1946,House,3,Charles R. Savage,Democrat,40980
+WASHINGTON,1946,House,4,Hal Holmes,Republican,51476
+WASHINGTON,1946,House,4,Carl S. Lee,Democrat,24062
+WASHINGTON,1946,House,5,Walt Horan,Republican,58535
+WASHINGTON,1946,House,5,John T. Little,Democrat,34879
+WASHINGTON,1946,House,5,Knute Hill,Independent Progressive,2028
+WASHINGTON,1946,House,6,Thor C. Tollefson,Republican,56702
+WASHINGTON,1946,House,6,John M. Coffee,Democrat,48431
+WASHINGTON,1946,Senate,,Harry P. Cain,Republican,358847
+WASHINGTON,1946,Senate,,Hugh B. Mitchell,Democrat,298683
+WASHINGTON,1946,Senate,,Harry Morton,Socialist Labor,2297
+WASHINGTON,1946,Senate,,Charles R. Swett,Socialist Workers,515
+WEST VIRGINIA,1946,House,1,Francis J. Love,Republican,45691
+WEST VIRGINIA,1946,House,1,Matthew M. Neely,Democrat,40370
+WEST VIRGINIA,1946,House,2,Melvin C. Snyder,Republican,41224
+WEST VIRGINIA,1946,House,2,Jennings Randolph,Democrat,39041
+WEST VIRGINIA,1946,House,3,Edward G. Rohrbough,Republican,42386
+WEST VIRGINIA,1946,House,3,Cleveland M. Bailey,Democrat,39872
+WEST VIRGINIA,1946,House,4,Hubert S. Ellis,Republican,54932
+WEST VIRGINIA,1946,House,4,M. G. Burnside,Democrat,49408
+WEST VIRGINIA,1946,House,5,John Kee,Democrat,43124
+WEST VIRGINIA,1946,House,5,Hartley Sanders,Republican,32754
+WEST VIRGINIA,1946,House,6,E. H. Hedrick,Democrat,57461
+WEST VIRGINIA,1946,House,6,Harold H. Neff,Republican,51064
+WEST VIRGINIA,1946,Senate,,Harley M. Kilgore,Democrat,273151
+WEST VIRGINIA,1946,Senate,,Thomas Sweeney,Republican,269617
+WISCONSIN,1946,House,1,Lawrence H. Smith,Republican,58344
+WISCONSIN,1946,House,1,John R. Redstrom,Democrat,44188
+WISCONSIN,1946,House,1,Lars P. Christensen,Socialist,734
+WISCONSIN,1946,House,10,Alvin E. O'Konski,Republican,40263
+WISCONSIN,1946,House,10,Henry J. Berquist,Democrat,32238
+WISCONSIN,1946,House,10,Eugene R. Princeton,Independent,2973
+WISCONSIN,1946,House,10,Adolph F. Kreie,Socialist,529
+WISCONSIN,1946,House,2,Robert K. Henry,Republican,68794
+WISCONSIN,1946,House,2,William V. Rice,Democrat,39657
+WISCONSIN,1946,House,2,Aver T. Wallace,Socialist,931
+WISCONSIN,1946,House,3,William H. Stevenson,Republican,65177
+WISCONSIN,1946,House,3,Walter L. Alexander,Socialist,2633
+WISCONSIN,1946,House,4,John C. Brophy,Republican,49144
+WISCONSIN,1946,House,4,Edmund V. Bobrowicz,Democrat,44398
+WISCONSIN,1946,House,4,Thad F. Wasielewski,Independent,38502
+WISCONSIN,1946,House,4,George H. Helberg,Socialist,2470
+WISCONSIN,1946,House,5,Charles J. Kersten,Republican,76364
+WISCONSIN,1946,House,5,Andrew J. Biemiller,Democrat,59764
+WISCONSIN,1946,House,5,Frank P. Zeidler,Socialist,5027
+WISCONSIN,1946,House,6,Frank B. Keefe,Republican,58414
+WISCONSIN,1946,House,6,Edwin W. Webster,Democrat,31560
+WISCONSIN,1946,House,6,Rudolph Penn,Socialist,991
+WISCONSIN,1946,House,7,Reid F. Murray,Republican,60396
+WISCONSIN,1946,House,7,Elmer E. Fraley,Democrat,23481
+WISCONSIN,1946,House,7,John A. Pearson Jr.,Socialist,505
+WISCONSIN,1946,House,8,John W. Byrnes,Republican,67840
+WISCONSIN,1946,House,8,Martin J. Young,Democrat,37013
+WISCONSIN,1946,House,9,Merlin Hull,Republican,70527
+WISCONSIN,1946,House,9,Adolph Maassen,Socialist,695
+WISCONSIN,1946,Senate,,Joseph R. McCarthy,Republican,629430
+WISCONSIN,1946,Senate,,Howard J. McMurray,Democrat,378772
+WISCONSIN,1946,Senate,,Edwin W. Knappe,Socialist,11750
+WISCONSIN,1946,Senate,,Georgia Cozzini,Independent Socialist-Labor,1552
+WYOMING,1946,Senate,,Joseph C. O'Mahoney,Democrat,45843
+WYOMING,1946,Senate,,Harry B. Henderson Jr.,Republican,35714
+WYOMING,1946,Representative,,Frank A. Barrett,Republican,44482
+WYOMING,1946,Representative,,John J. McIntyre,Democrat,34956
+Washington,1946,Senate,,,,173715
+Washington,1946,Senate,,,,60422
+Washington,1946,Senate,,,,34823
+Washington,1946,Senate,,,,18403794
+Washington,1946,Senate,,,,14228
+Washington,1946,Senate,,,,261787
+Washington,1946,Senate,,,,312499
+Washington,1946,Senate,,,,8498
+Washington,1946,Senate,,,,74962
+Washington,1946,Senate,,,,41720
+Washington,1946,Senate,,,,980
+Washington,1946,Senate,,,,148992
+Washington,1946,Senate,,,,118010
+Washington,1946,Senate,,,,3230
+Washington,1946,Senate,,,,47752
+Washington,1946,Senate,,,,38177
+Washington,1946,Senate,,,,29401
+Washington,1946,Senate,,,,34410
+Washington,1946,Senate,,,,32745
+Washington,1946,Senate,,,,156292
+Washington,1946,Senate,,,,86115
+Wisconsin,1946,Senate,,,,156292
+Wisconsin,1946,Senate,,,,86115
+Wyoming,1946,Senate,,,,156292
+Wyoming,1946,Senate,,,,86115
